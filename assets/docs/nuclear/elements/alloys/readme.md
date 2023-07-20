@@ -91,3 +91,58 @@ Part 3:
 - Monel: Nickel, copper  
 - Tungsten Carbide: Tungsten, carbon  
 - Mu-metal: Nickel, iron, copper, molybdenum  
+
+Part 4:  
+- Molybdenum-rhenium (Mo-Re): Molybdenum, rhenium 
+- Inconel 600: Nickel, chromium, iron  
+- Waspaloy: Nickel, cobalt, chromium, molybdenum, aluminum, titanium  
+- Rene 95: Nickel, cobalt, chromium, molybdenum, aluminum, titanium  
+- Incoloy 800: Nickel, iron, chromium  
+- Incoloy 825: Nickel, iron, chromium, molybdenum, copper  
+- Nimonics: Nickel, chromium, cobalt, titanium, aluminum  
+- Titanium 6Al-2Sn-4Zr-6Mo (Ti 6-2-4-6): Titanium, aluminum, tin, zirconium, molybdenum  
+- Super Invar: Iron, nickel, cobalt  
+- Tantalum-hafnium-carbide (Ta-Hf-C): Tantalum, hafnium, carbon  
+- Staballoy: Tungsten, rhenium, hafnium, carbon  
+- Tungsten-Niobium-Titanium (W-Nb-Ti): Tungsten, niobium, titanium  
+- Ferrium C61: Iron, carbon, cobalt, chrome, nickel, molybdenum  
+- Magnelium: Magnesium, aluminum  
+- A206 Aluminum Alloy: Aluminum, copper, magnesium  
+- Aluminum Lithium Alloy: Aluminum, lithium  
+- Manganese Brass: Copper, zinc, manganese  
+- Jethete M152: Nickel, chromium, molybdenum, vanadium  
+- Staballoy: Tungsten, rhenium, hafnium, carbon  
+- Magnesium Rare Earth Alloy: Magnesium, rare earth elements  
+- Cubic Zirconia: Zirconium dioxide, various stabilizers  
+- Tungsten Copper (WCu): Tungsten, copper  
+- Tantalum Carbide (TaC): Tantalum, carbon  
+- Bismuth Telluride: Bismuth, tellurium  
+- Gallium Arsenide: Gallium, arsenic  
+
+Part 5:
+- CuNiBe (Copper Nickel Beryllium): Copper, nickel, beryllium  
+- Cupronickel (CuNi): Copper, nickel  
+- Nicrosil (NiCrSi): Nickel, chromium, silicon  
+- Nisil (NiSi): Nickel, silicon  
+- Kovar (Fe-Ni-Co): Iron, nickel, cobalt  
+- Niobium Titanium (Nb-Ti): Niobium, titanium  
+- Samarium Cobalt (SmCo): Samarium, cobalt  
+- Raney Nickel: Nickel, aluminum  
+- Cupronickel-silane (CuNiSi): Copper, nickel, silicon  
+- Molybdenum Titanium (Mo-Ti): Molybdenum, titanium  
+- Metal Matrix Composites (MMC): Matrix metal with ceramic or carbon fibers   
+- Carbides of Tungsten, Titanium, or Zirconium: Various combinations of tungsten, titanium, or zirconium with carbon  
+- Lead Tin Calcium Alloy (PbSnCa): Lead, tin, calcium  
+- Tungsten Rhenium (W-Re): Tungsten, rhenium  
+- Iron Cobalt Vanadium (Fe-Co-V): Iron, cobalt, vanadium   
+- Scandium Aluminum Alloy (Sc-Al): Scandium, aluminum  
+- Zirconium Hafnium (Zr-Hf): Zirconium, hafnium   
+- Cupronickel-zinc (CuNiZn): Copper, nickel, zinc  
+- Titanium Beta-C (Ti Beta-C): Titanium, beta-stabilizing elements   
+- Vanadium Aluminum (V-Al): Vanadium, aluminum   
+- Titanium Boride (TiB): Titanium, boron   
+- Titanium Carbonitride (TiCN): Titanium, carbon, nitrogen   
+- Aluminum Nitride (AlN): Aluminum, nitrogen    
+- Yttria-Stabilized Zirconia (YSZ): Zirconium dioxide, yttrium oxide   
+- Aluminum Scandium Alloy (Al-Sc): Aluminum, scandium   
+  
