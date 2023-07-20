@@ -32,3 +32,38 @@ The alloy list with enumerous amounts of alloys used most precisely in the react
 - Nitinol (Nickel-Titanium)
 - Lead-Lithium Alloy: Lead-lithium (Pb-Li)
 - Inconel   
+
+Part 2:  
+- Wood's metal (lead, tin, cadmium)
+- Chromium hydride (hydrogen)
+- Nichrome (nickel, chromium)
+- Ferrochrome (iron, chromium)
+- Elgiloy (cobalt, chromium, nickel, iron, molybdenum, manganese, carbon)
+- Megallium (cobalt, chromium, molybdenum)
+- Stellite (chromium, tungsten, carbon)
+- Talonite (tungsten, molybdenum, carbon)
+- Aluminium bronze (aluminium)
+- Arsenical bronze (arsenic, tin)
+- Bell metal (tin)
+- Florentine bronze (aluminium or tin)
+- Glucydur (beryllium, iron)
+- Guanín (gold, silver)
+- Gunmetal (tin, zinc)
+- Phosphor bronze (tin and phosphorus)
+- Ormolu (zinc)
+- Silicon bronze (tin, arsenic, silicon)
+- Speculum metal (tin)
+- White bronze (tin, zinc)
+- Constantan (nickel, copper)
+- Copper hydride (hydrogen)
+- Copper–tungsten (tungsten)
+- Corinthian bronze (gold, silver)
+- Cunife (nickel, iron)
+- Aluminum-copper-tungsten alloy
+- Plutonium alloys containing Al and the combined alloy of Pb, Sn, Ge, and Si[1][6]
+
+There are many more alloys available, but this list should provide a good starting point.
+
+Citations:
+[1](https://en.wikipedia.org/wiki/List_of_named_alloys) [2](https://en.wikipedia.org/wiki/List_of_copper_alloys) [3](https://www.mttm.com/tungsten-alloys) [4](https://www.americanelements.com/aluminum-copper-tungsten-alloy) [5](https://www.thomasnet.com/articles/metals-metal-products/types-of-tungsten-alloys-properties-and-uses/) [6](https://www.tandfonline.com/doi/full/10.1080/00295450.2021.1913035)  
+
