@@ -23,7 +23,7 @@ Key features of REECS:
 - Fail-safe: In the event of a malfunction or extreme conditions, REECS will dampen the reaction, preventing catastrophic failure.
 - High neutron capture cross-section: REECS capture excess neutrons, reducing the risk of radiation leakage.
 
-2. Implosion-Based Energy Generator:
+2. [Implosion-Based Energy Generator:](/assets/docs/nuclear/knowledges/nuclear-rockets/atomic-engine/RAIEN/Implosion-based-energy-generator.md)  
 The conventional method of utilizing nuclear fission in rocket engines has been through controlled nuclear decay, generating heat that drives a conventional turbine or a rocket nozzle. The RAIEN introduces a revolutionary implosion-based energy generation system, overcoming the limitations of traditional fission approaches.
 
 Working principle:
