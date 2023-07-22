@@ -4,7 +4,7 @@
 
   - [Nuclear Engine](/assets/docs/nuclear/knowledges/nuclear-rockets/nuclear-engine/readme.md)  
   - [Atomic Engine](/assets/docs/nuclear/knowledges/nuclear-rockets/atomic-engine/readme.md)   
-  - [REECS](/assets/docs/nuclear/knowledges/nuclear-rockets/atomic-engine/scripts/engine-with-REECS.py)   
+  - [REECS](/assets/docs/nuclear/knowledges/nuclear-rockets/REECS/readme.md)   
   - Scripts
 
 
