@@ -94,6 +94,8 @@ One collection of knowledge
   - [Open Exoplanet Catalog](https://github.com/emeraldTable/exoplanets)  
 --------------
 # [Universe Equations](/assets/docs/universe/equations/README.md)   
+- Nuclear Physics
+  - [The Nuclear Binding Energy Equation](/assets/docs/universe/equations/nuclear-physics/Nuclear-Binding-Energy-Equation/readme.md)
 - Heat / Energy   
   - [Heat](/assets/docs/universe/equations/Heat-Energy/Heat/readme.md)   
   - [Energy](/assets/docs/universe/equations/Heat-Energy/Energy/readme.md)   
@@ -168,7 +170,7 @@ One collection of knowledge
 --------------
 # Ways to run  
   - Online mode:
-    - Acessing: [Portal](https://emeraldtable.github.io/portal/){:target="_blank"}  
+    - Acessing: [Portal](https://emeraldtable.github.io/portal/)   
   - Offline mode Using:  
   
         python3 -m http.server  
