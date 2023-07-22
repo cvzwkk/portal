@@ -16,7 +16,7 @@ The heart of the RAIEN engine is its reactor core, a cylindrical structure with 
 **2. Rare Earth Element Cavity Stabilizers (REECS):**
 REECS are special components made of engineered rare earth elements with unique properties. They play a critical role in stabilizing the nuclear reactions within the reactor core. The REECS act as resonators, precisely controlling the nuclear processes and preventing any runaway chain reactions. Their self-regulating capabilities allow for automatic adjustment of the nuclear reaction rate based on temperature and pressure changes.
 
-**3. Implosion System:**
+[**3. Implosion System:**](/assets/docs/nuclear/knowledges/nuclear-rockets/atomic-engine/RAIEN/Implosion-based-energy-generator.md)  
 The RAIEN engine features an innovative implosion-based energy generation system. This system induces controlled nuclear implosions within the reactor core. The implosion compresses the fuel, leading to increased energy density and enhanced efficiency of the nuclear reaction. Superconducting electromagnets surrounding the reactor core generate powerful magnetic fields, enabling the implosion process.
 
 **4. Magnetic Field Generators:**
