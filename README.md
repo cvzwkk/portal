@@ -68,7 +68,7 @@ One collection of knowledge
   - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)   
 
    - Webtools:   
-    - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive){:target="_blank"}   
+    - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
      
 --------------
 - [NucleoSynthesis](/assets/docs/nucleosynthesis/readme.md)  
@@ -80,12 +80,15 @@ One collection of knowledge
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)  
   - [BlackHoles](/assets/docs/universe/space/blackholes/readme.md)  
   - [Singularity of Mass Atoms](/assets/docs/universe/space/blackholes/singularity_mass-atoms.md)  
-  - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
-  - [Electron Capture](/assets/docs/universe/space/knowledges/electron_capture.md)    
   - [Neutron Stars](/assets/docs/universe/space/neutron-stars/readme.md)  
   - [Red Dwarfs](/assets/docs/universe/space/red-dwarf/readme.md)  
   - [Kepler-62](/assets/docs/universe/space/Kepler-62/readme.md)  
 
+- Knowledges:  
+  - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
+  - [Electron Capture](/assets/docs/universe/space/knowledges/electron_capture.md)    
+  - [Hydro Signature Detection Method 'HDM'](/assets/docs/universe/space/knowledges/Hydro-Signature-Detection-Method.md)  
+  
 - [Galaxies:](/assets/docs/universe/space/galaxies/readme.md)  
   - [Andromeda](/assets/docs/universe/space/galaxies/andromeda/readme.md)     
   - [NGC4993](/assets/docs/universe/space/galaxies/NGC4993/readme.md)     
