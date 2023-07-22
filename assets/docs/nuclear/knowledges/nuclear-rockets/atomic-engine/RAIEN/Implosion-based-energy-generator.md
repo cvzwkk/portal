@@ -30,3 +30,8 @@ The RAIEN engine boasts multi-mode propulsion capabilities, allowing it to adapt
 
 Conclusion:
 The implosion-based energy generator in the RAIEN atomic engine represents a paradigm shift in nuclear propulsion technology. By harnessing controlled plasma compression, magnetic resonance stabilization, energy amplification cascades, and in-situ tritium production, the RAIEN engine achieves unprecedented levels of efficiency, safety, and reliability. The incorporation of AI-driven control systems and advanced radiation shielding further solidifies its position as the next-generation propulsion system for ambitious space exploration missions. With RAIEN, humanity takes a giant leap towards conquering the cosmos and unlocking the mysteries of the universe.
+
+
+------------------
+
+![img](/assets/docs/nuclear/knowledges/nuclear-rockets/atomic-engine/RAIEN/implosion-based-energy-generator.png)   
