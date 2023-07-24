@@ -39,3 +39,18 @@ Aapproximate values for the right ascension (RA) and declination (Dec) of the Su
   - During the winter solstice (around December 21), the Sun's RA is approximately 18 hours, and its Dec is around -23.5 degrees. This position marks the shortest day of the year in the Northern Hemisphere and the longest day in the Southern Hemisphere.
 
 Please note that these values are approximate and may vary slightly depending on the specific year and date. For precise and up-to-date information, you can refer to astronomical resources and planetarium software or websites that provide real-time celestial coordinates.
+
+# Earth-Sun Relationship  
+
+1. Mass of the Sun (massa_sol):
+The mass of the Sun is approximately 1.989 × 10^30 kilograms. This is an enormous amount of mass, and it plays a crucial role in the dynamics of our solar system. The Sun's immense gravity keeps all the planets, including Earth, in their orbits around it.
+
+2. Average Distance between the Earth and the Sun (distancia_media):
+The average distance from the Earth to the Sun, also known as the astronomical unit (AU), is approximately 147,098,074.2 kilometers. This distance is used as a standard unit for measuring distances within our solar system. It serves as a crucial reference point for understanding the scale and positioning of planets and other celestial bodies in relation to the Sun.
+
+3. Orbital Period of the Earth (periodo_orbital):
+The orbital period of the Earth is the time it takes for our planet to complete one full orbit around the Sun. It is approximately 365.256 days. This period is the basis for our calendar year, and it governs the changing seasons on Earth as the planet's position relative to the Sun shifts throughout the year.
+
+Together, these three pieces of information help us understand some fundamental aspects of the Earth-Sun system and the larger solar system. The mass of the Sun influences the gravitational forces that hold all the planets, moons, and other objects in their orbits. The average distance between the Earth and the Sun determines the amount of sunlight and energy the Earth receives, which has a significant impact on our planet's climate and weather. Finally, the Earth's orbital period is essential for the passage of time and the cyclical patterns we observe in nature.
+
+It's worth noting that these values are based on our best scientific measurements as of my last update in September 2021. Scientists continually refine their measurements and models, so slight adjustments to these values may occur as new data becomes available.
