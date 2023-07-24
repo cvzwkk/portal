@@ -29,9 +29,12 @@ One collection of knowledge
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
     - [ETOPO1 Ice-Surface](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/)     
   
-- Moon:
-  - [Moon](/assets/docs/moon/readme.md)    
-
+- Moon:  
+  - [Moon](/assets/docs/moon/readme.md)
+   
+- Sun:  
+  - [Sun](/assets/docs/moon/readme.md)
+  
 --------------
 
 - Nuclear:
