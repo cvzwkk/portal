@@ -1,5 +1,11 @@
-[Home](./README.md)  
+[Home](/README.md) / [Sun](/assets/docs/sun/readme.md) / [Moon](/assets/docs/moon/readme.md)  
+
 -------------------------------
+
+![img](/assets/docs/earth/imgs/earth-cover.gif)  
+
+-------------------------------  
+
 # Formation - Proto Earth  
  The formation of the proto-Earth, or the early Earth,  
   is a topic of scientific study and speculation based on geological evidence, astronomical observations, and theoretical models.    
@@ -46,7 +52,11 @@
       the general framework described above provides a basis for our current understanding of how our planet came to be.
    
 -------------------      
-   
+
+![img](/assets/docs/earth/imgs/earth-entire.gif)
+
+-------------------    
+
 # Central Axis Gravity
 - A gravidade em torno do eixo da Terra é responsável por manter o planeta em sua órbita em torno do Sol
     e pela atração dos objetos em sua superfície. A Terra gira em torno de seu eixo,
