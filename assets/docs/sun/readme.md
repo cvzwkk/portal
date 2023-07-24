@@ -54,3 +54,5 @@ The orbital period of the Earth is the time it takes for our planet to complete 
 Together, these three pieces of information help us understand some fundamental aspects of the Earth-Sun system and the larger solar system. The mass of the Sun influences the gravitational forces that hold all the planets, moons, and other objects in their orbits. The average distance between the Earth and the Sun determines the amount of sunlight and energy the Earth receives, which has a significant impact on our planet's climate and weather. Finally, the Earth's orbital period is essential for the passage of time and the cyclical patterns we observe in nature.
 
 It's worth noting that these values are based on our best scientific measurements as of my last update in September 2021. Scientists continually refine their measurements and models, so slight adjustments to these values may occur as new data becomes available.
+
+![img](/assets/docs/sun/imgs/earth_sun_3d_plot.png)
