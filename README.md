@@ -33,7 +33,7 @@ One collection of knowledge
   - [Moon](/assets/docs/moon/readme.md)
    
 - Sun:  
-  - [Sun](/assets/docs/moon/readme.md)
+  - [Sun](/assets/docs/sun/readme.md)
   
 --------------
 
