@@ -3,7 +3,9 @@
 -------------------
  - 1.  Sun Data
  - 2.  Sun Spatial Data
--------------------
+-------------------  
+
+![img](/assets/docs/sun/imgs/sun-cover.gif)
 
 The Sun is the star at the center of our solar system. It is a nearly perfect sphere of hot, glowing gases, primarily hydrogen and helium, held together by its own gravitational force. Here are some key facts about the Sun:
 
@@ -21,7 +23,9 @@ The Sun is the star at the center of our solar system. It is a nearly perfect sp
 
 7. Future Evolution: The Sun is currently in the main sequence phase, where it is primarily fusing hydrogen to helium. In about 5 billion years, it will enter the red giant phase, expanding and engulfing the inner planets, including Earth. Ultimately, the Sun will exhaust its nuclear fuel and become a white dwarf, a dense remnant of its former self.
 
-The Sun is a fascinating celestial object and a central figure in our solar system, providing light, heat, and energy that sustain life on Earth. Studying the Sun is crucial for understanding stellar physics, space weather, and the broader field of astronomy.
+The Sun is a fascinating celestial object and a central figure in our solar system, providing light, heat, and energy that sustain life on Earth. Studying the Sun is crucial for understanding stellar physics, space weather, and the broader field of astronomic
+
+![img](/assets/docs/sun/imgs/sun-entire.gif)  
 
 # Spatial Data  
 Aapproximate values for the right ascension (RA) and declination (Dec) of the Sun as observed from the Earth.   
