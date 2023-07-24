@@ -1,3 +1,11 @@
+[HOME](/README.md) / [Sun](/assets/docs/sun/readme.md) / [Earth](/assets/docs/earth/readme.md)   
+
+------------------    
+
+![img](/assets/docs/moon/imgs/moon-cover.gif)   
+
+------------------  
+
 # The Moon
  is Earth's natural satellite, orbiting around our planet at an average distance of about 384,400 kilometers (238,900 miles).     
   It is the fifth-largest moon in the Solar System and has a diameter of approximately 3,474 kilometers (2,159 miles),     
@@ -34,7 +42,11 @@
           The gravitational interaction between the Moon, Earth, and the Sun causes the rise and fall of the ocean tides,    
            as well as some minor deformations of Earth's crust.    
   
-  -----------------   
+-----------------   
+
+![imgs](/assets/docs/moon/imgs/moon-entire.gif)   
+
+-----------------
   
 The Moon has fascinated humans for centuries and continues to be a subject of scientific research and exploration.    
  Human missions, like the Apollo program, have allowed astronauts to visit the Moon's surface and gather valuable data and samples,     
