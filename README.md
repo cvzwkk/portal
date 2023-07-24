@@ -22,7 +22,8 @@ One collection of knowledge
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
    
 -  Elements:
-    - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)  
+    - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
+    - [Water](/assets/docs/earth/elements/water/readme.md)   
    
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
