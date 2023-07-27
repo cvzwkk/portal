@@ -54,6 +54,8 @@ One collection of knowledge
    
 - Chemical Weapons:    
    - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
+   - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
+
    
 --------------
 - [Light](/assets/docs/universe/light/readme.md)  
