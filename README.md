@@ -51,8 +51,10 @@ One collection of knowledge
 
 - Synthesis of Nuclear Elements:  
    - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)    
-
-
+   
+- Chemical Weapons:    
+   - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
+   
 --------------
 - [Light](/assets/docs/universe/light/readme.md)  
    - [Synthesis](/assets/docs/universe/light/synthesis/readme.md)  
