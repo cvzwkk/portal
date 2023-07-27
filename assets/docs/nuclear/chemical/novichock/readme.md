@@ -1,4 +1,4 @@
-[HOME](/README.md] / [Chemical](/assets/docs/nuclear/chemical/readme.md)  
+[HOME](/README.md) / [Chemical](/assets/docs/nuclear/chemical/readme.md)  
 
 ------------------  
 
@@ -16,3 +16,20 @@
 
 
  ![img](/assets/docs/nuclear/chemical/novichock/img/A234.png)
+
+ ------------------  
+
+# The chemical formula of A-234
+ a Novichok nerve agent, is C8H18FN2O2P.   
+  The amount of each element present in the formula is as follows:    
+   
+- Carbon (C): 8 atoms   
+- Hydrogen (H): 18 atoms     
+- Fluorine (F): 1 atom    
+- Nitrogen (N): 2 atoms   
+- Oxygen (O): 2 atoms    
+- Phosphorus (P): 1 atom
+
+ ------------------  
+
+ 
