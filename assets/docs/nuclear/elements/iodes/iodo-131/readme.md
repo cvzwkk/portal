@@ -31,6 +31,17 @@ is typically produced in nuclear reactors through a process called neutron activ
     After the irradiation process, the iodine-131 is extracted from the target material.  
     This is typically done by dissolving the element in a mildly alkaline solution    
 
+------------------
+
+# Decay of Iodine-131
+![img](/assets/docs/nuclear/elements/iodes/iodo-131/img/Iodine-131-decay-scheme-simplified.svg.png)  
+
+[Wikipedia](https://en.m.wikipedia.org/wiki/Iodine-131)  
+
+------------------
+
+# Bohr Diagram of commom iodine:  
+![img](/assets/docs/nuclear/elements/iodes/iodo-131/img/images.jpeg)  
 
 ------------------   
 
