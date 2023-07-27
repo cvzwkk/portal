@@ -33,3 +33,13 @@ Here's a breakdown of the elements and their corresponding number of atoms in on
 - Sulfur (S) - 1 atom   
     
 Keep in mind that VX is an extremely hazardous chemical    
+
+
+------------------  
+
+The chemical equation for VX, a nerve agent, is as follows:   
+
+C11H26NO2PS (VX) + H2O → C11H26NO2P (VX hydrolysis product) + H2S   
+
+In this equation,   
+VX reacts with water to form a hydrolysis product and hydrogen sulfide (H2S)     
