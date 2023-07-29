@@ -60,6 +60,7 @@ One collection of knowledge
    - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
    - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
 
+- [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
    
 --------------
 - [Light](/assets/docs/universe/light/readme.md)  
