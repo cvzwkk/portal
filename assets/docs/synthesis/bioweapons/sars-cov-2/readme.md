@@ -24,4 +24,24 @@ Some of the main proteins found in the virus include:
 
 4. Nucleocapsid (N) Protein: It encapsulates the viral RNA and is essential for viral replication and assembly.
 
-These proteins are crucial for the virus's ability to infect host cells and replicate, contributing to the development of the COVID-19 disease. Scientists and researchers have been studying these proteins to better understand the virus and develop potential treatments and vaccines. Keep in mind that research may have progressed further since my last update in September 2021, so it's essential to refer to up-to-date scientific sources for the latest information.
+These proteins are crucial for the virus's ability to infect host cells and replicate, contributing to the development of the COVID-19 disease. Scientists and researchers have been studying these proteins to better understand the virus and develop potential treatments and vaccines. 
+
+The changes in a virus like SARS-CoV-2 that could lead to an increase in its virulence, transmissibility, or resistance to treatments are generally related to mutations in its structural proteins or key proteins involved in its replication cycle. Some of the relevant proteins of SARS-CoV-2 include:
+
+1. Spike Protein (S): The spike protein is essential for the virus's entry into human cells. Mutations in this protein may enable the virus to more effectively bind to cellular receptors, making it more transmissible or allowing it to infect different types of cells.
+
+2. Membrane Protein (M): The M protein is involved in forming the viral particle's structure. Changes in this protein can affect the stability of the virus and its ability to infect host cells.
+
+3. Nucleocapsid Protein (N): The N protein is crucial for viral genome replication and its packaging into new viral particles. Mutations in this protein can impact viral replication and the production of new viruses.
+
+4. Replicative enzymes: SARS-CoV-2 has several enzymes involved in genome replication, such as RNA polymerase and the main protease (Mpro). Changes in these enzymes can affect viral replication efficiency and the virus's response to antiviral treatments.
+
+Methods to improve the power of virus:
+
+Eflux Bombs / Bombas de Efluxo > Escherichia Virus
+
+As bombas de efluxo são proteínas transmembranares que estão envolvidas na resistência a medicamentos em microrganismos, como bactérias. Como mencionei anteriormente, a sequência de aminoácidos de proteínas de bombas de efluxo pode variar dependendo do microrganismo específico.
+
+Existem várias famílias de bombas de efluxo identificadas em bactérias, cada uma com suas próprias sequências de aminoácidos e funções específicas. Algumas das famílias de bombas de efluxo bem estudadas incluem a família AcrAB-TolC em Escherichia coli e outras enterobactérias, a família MexAB-OprM em Pseudomonas aeruginosa e a família NorA em Staphylococcus aureus, entre outras.
+
+Para obter informações precisas sobre as sequências de aminoácidos de proteínas de bombas de efluxo específicas, você pode pesquisar em bancos de dados científicos, como o NCBI (National Center for Biotechnology Information) ou o UniProt, onde são disponibilizadas informações sobre sequências de proteínas de diferentes microrganismos e suas funções. Lembre-se de que essas informações podem ser complexas e destinam-se principalmente a pesquisadores e especialistas em biologia molecular e microbiologia.
