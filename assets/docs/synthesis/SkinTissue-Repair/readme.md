@@ -1,4 +1,4 @@
-[HOME](/README.md)
+[HOME](/README.md) / [Synthesis](/assets/docs/synthesis/readme.md) 
 
 -----------------------
 
