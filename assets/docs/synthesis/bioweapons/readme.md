@@ -5,7 +5,7 @@
 --------------------  
 
 Weapons List:  
-  - Anthrax
+  - [Anthrax](/assets/docs/synthesis/bioweapons/anthrax/readme.md)
   - 
 
 --------------------   
