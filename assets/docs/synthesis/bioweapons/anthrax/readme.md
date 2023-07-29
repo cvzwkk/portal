@@ -32,3 +32,36 @@ Lethal Factor (LF) is one of the three components of the anthrax toxin produced 
 5. Research and Treatment: Due to its importance in the pathogenesis of anthrax, Lethal Factor has been a target for research aimed at developing treatments and vaccines for anthrax. Understanding LF's structure and function has been crucial in designing potential therapeutic interventions to counteract the toxic effects of anthrax.
 
 Overall, Lethal Factor is a critical component of the anthrax toxin, and understanding its role and mechanisms of action is essential for combating anthrax and developing effective medical countermeasures.
+
+------------------   
+
+# PA Anthrax
+
+Protective Antigen (PA) is a critical component of the anthrax toxin, which is produced by the bacterium Bacillus anthracis. The anthrax toxin is a virulence factor responsible for the pathogenesis of anthrax, a potentially deadly infectious disease.
+
+PA is a protein that functions as the binding and translocation subunit of the anthrax toxin. It forms a complex with the other two components of the toxin, Edema Factor (EF) and Lethal Factor (LF), to create the lethal toxin and edema toxin, respectively.
+
+The process of anthrax toxin action involves the following steps:
+
+1. Binding: PA binds to specific receptors on the surface of target cells, such as macrophages.
+
+2. Endocytosis: Once bound to the receptor, PA is internalized into the target cell through receptor-mediated endocytosis.
+
+3. Proteolytic Cleavage: Within the endosome, PA is cleaved by cellular proteases, resulting in the formation of a heptameric ring structure known as the PA63 prepore.
+
+4. Translocation: The PA63 prepore undergoes a conformational change that allows it to insert into the endosomal membrane and form a pore.
+
+5. Translocation of EF and LF: The protective antigen pore serves as a channel through which Edema Factor (EF) and Lethal Factor (LF) are translocated into the cytosol of the target cell.
+
+6. Cellular Damage: Once in the cytosol, EF and LF exert their toxic effects. Edema Factor (EF) causes an increase in cellular cyclic AMP (cAMP) levels, leading to edema and fluid accumulation. Lethal Factor (LF) is a metalloprotease that cleaves and inactivates specific host proteins, disrupting cellular signaling pathways and eventually leading to cell death.
+
+The ability of the anthrax toxin to enter cells and exert its toxic effects makes it a potent bioweapon. Researchers and public health authorities continuously monitor for the potential use of anthrax as a bioterrorism agent, and countermeasures, such as vaccines and treatments, are available to mitigate the effects of anthrax exposure.
+
+- Aminoacids Sequence of PA Anthrax:  
+The amino acid sequence of anthrax can refer to the amino acid sequence of the anthrax toxin components, including Protective Antigen (PA), Lethal Factor (LF), and Edema Factor (EF). Since you specifically asked for the amino acid sequence of anthrax, I'll provide the sequence of the Protective Antigen (PA) component, as it is the common component of the anthrax toxin that combines with other factors to form the lethal toxin.
+
+The amino acid sequence of Protective Antigen (PA) in anthrax is as follows:
+
+    MAKKTIFKATIILISFLFSFISVFDAATSSGLNEKNQIKLNEKVTKKENNQLSNNIQADDNNTELELNENISKIIFQSEEKVKSLKDTFSSNSDKNNKNNKNNKTSDTTEKENNSTIDNNNNVNNNNNNNNNNNNNNNNNNNNNNAQIKLLIKQLENINNSSILVNNIINTLTPENNLTTTNISVVNSEYSIEIKNTTTQNFYANSAATITKVNEKMLYNIRNNNKTQEKNNNFQAFNENIKQYGNRTVVNSSNKQFNKLLAKVLFVNNNKNKVNNKLPIDYINYYNVQNKNVKSLTLENNQNNIAKILNNNIKLYENQNNINNLIDYYNNIPLNNVVQLNNNVVVKANNNIKNIINNLNFYNKNIVKYVKTSNNNQTLYIDKNYNNNNNKLYNNILQELDKINVTNNYNNINIIKYTNNNSNFNISKYLTNNNNINKNKISNLNQNNINNINNISNLQNNNNISNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+----------------  
