@@ -67,7 +67,8 @@ One collection of knowledge
    - [Synthesis](/assets/docs/universe/light/synthesis/readme.md)  
    - [Equations](/assets/docs/universe/light/equations/readme.md)  
 -------------
-- [Synthesis](/assets/docs/synthesis/readme.md)  
+- [Synthesis](/assets/docs/synthesis/readme.md)
+- [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
     - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)   
