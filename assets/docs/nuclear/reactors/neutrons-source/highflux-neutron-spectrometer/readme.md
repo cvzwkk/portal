@@ -139,5 +139,60 @@ The materials used for crystal growth in a monochromator for neutron scattering 
 
 The choice of crystal material depends on factors such as the energy range of neutrons to be selected, the desired wavelength band, the application of the monochromator, and the availability of high-quality crystals. Neutron monochromators are essential components in neutron scattering experiments, allowing researchers to select specific wavelengths of neutrons for studying the atomic and molecular structure of materials.
 
+
+In addition to the previously mentioned materials, there are several other materials that can be used to create monochromators for neutron scattering experiments. These materials offer various properties and advantages depending on the specific application and wavelength range of neutrons. Here are some more materials that can be utilized for neutron monochromators:
+
+1. **Sapphire (Al2O3):** Sapphire monochromators are used for thermal and cold neutrons. Sapphire has strong Bragg reflections for thermal neutrons and is resistant to high temperatures and chemical corrosion.
+
+2. **Calcium Fluoride (CaF2):** Calcium fluoride monochromators are used for thermal neutrons and have good properties for certain diffraction experiments.
+
+3. **Zinc Selenide (ZnSe):** Zinc selenide monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain applications.
+
+4. **Mica:** Mica monochromators are used for thermal neutrons and have excellent properties for thermal neutron diffraction.
+
+5. **Yttrium Aluminum Garnet (Y3Al5O12 or YAG):** YAG monochromators are used for cold neutrons and have specific Bragg reflections suitable for certain neutron scattering studies.
+
+6. **Pyrolytic Boron Nitride (pBN):** Pyrolytic boron nitride monochromators are used for thermal neutrons and have good properties for thermal neutron diffraction.
+
+7. **Lithium Tetraborate (Li2B4O7 or LBO):** LBO monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain experiments.
+
+8. **Lithium Tantalate (LiTaO3):** LiTaO3 monochromators are used for cold neutrons and have specific Bragg reflections suitable for certain applications.
+
+1. **Lithium Fluoroborate (LiBF4):** LiBF4 monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain diffraction studies.
+
+2. **Yttrium Aluminum Perovskite (YAlO3 or YAP):** YAP monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+3. **Potassium Dihydrogen Phosphate (KH2PO4 or KDP):** KDP monochromators are used for thermal neutrons and have good properties for certain diffraction studies.
+
+4. **Lead Fluoroborate (PbB2O4 or PBO):** PBO monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain applications.
+
+5. **Calcium Molybdate (CaMoO4):** CaMoO4 monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+6. **Calcium Tungstate (CaWO4):** CaWO4 monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain applications.
+
+7. **Potassium Dideuterium Phosphate (KD2PO4 or DKDP):** DKDP monochromators are used for thermal neutrons and have good properties for certain neutron diffraction studies.
+
+8. **Copper (Cu):** Copper monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+9. **Nickel (Ni):** Nickel monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain diffraction studies.
+
+1. **Potassium Bromide (KBr):** KBr monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+2. **Barium Fluoride (BaF2):** BaF2 monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain diffraction studies.
+
+3. **Lead Tungstate (PbWO4):** PbWO4 monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+4. **Potassium Chloride (KCl):** KCl monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain neutron diffraction studies.
+
+5. **Cadmium Sulfide (CdS):** CdS monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+6. **Potassium Sulfate (K2SO4):** K2SO4 monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain diffraction studies.
+
+7. **Lead Bromide (PbBr2):** PbBr2 monochromators are used for thermal neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
+8. **Potassium Iodide (KI):** KI monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain neutron diffraction studies.
+
+9. **Calcium Carbonate (CaCO3):** CaCO3 monochromators are used for thermal and cold neutrons and have specific Bragg reflections suitable for certain neutron scattering experiments.
+
 ------------------------
 
