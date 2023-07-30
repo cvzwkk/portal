@@ -79,3 +79,45 @@ To improve the beryllium reflector and neutron reflection, the following theoret
 
 -------------------------
 
+# Reducing The Absorption of Neutrons:  
+To reduce the absorption of neutrons in an alloy, you can alter its composition to include elements with lower neutron absorption cross-sections. The neutron absorption cross-section is a measure of how likely an element is to absorb neutrons.
+
+Here are some approaches to achieve reduced neutron absorption:
+
+1. **Use Low-Cross-Section Elements:** Replace elements with high neutron absorption cross-sections with elements that have lower values. For example, reducing the content of elements like boron, cadmium, or gadolinium, which have high absorption cross-sections, and replacing them with elements like iron or nickel, which have lower absorption cross-sections.
+
+2. **Moderate Neutron Moderation:** In some cases, you may want to include elements with moderate neutron moderation properties. These elements can slow down fast neutrons, making them more susceptible to capture in the surrounding material, and reduce their absorption in sensitive regions.
+
+3. **Reflector Materials:** Introducing reflector materials with low neutron absorption properties can redirect neutrons back into the active region, promoting more favorable nuclear reactions and reducing their loss through absorption.
+
+4. **Neutron Poisoning:** In some applications, introducing materials that act as "neutron poisons" can help decrease the number of free neutrons available for absorption. These materials capture neutrons and become less reactive, effectively reducing the overall neutron population.
+
+5. **Neutron Scattering:** Optimize the alloy's composition to include elements that scatter neutrons in a controlled manner, allowing more opportunities for productive reactions and minimizing absorption.
+
+It's crucial to emphasize that altering the composition of an alloy for nuclear applications should only be done by trained professionals and under strict regulatory oversight. Changing the composition of materials in nuclear reactors or other nuclear systems can have significant safety and performance implications, and such modifications should follow established procedures and safety guidelines.
+
+------------------
+
+- Low-Cross Section Elements to include in alloys:  
+Here is a list of some elements with relatively low neutron absorption cross-sections:
+
+1. **Iron (Fe):** Iron has a relatively low neutron absorption cross-section and is commonly used in structural materials for nuclear reactors.
+
+2. **Nickel (Ni):** Nickel also has a relatively low neutron absorption cross-section and is used in various alloys for nuclear applications.
+
+3. **Chromium (Cr):** Chromium is another element with low neutron absorption and is found in stainless steel alloys used in nuclear systems.
+
+4. **Manganese (Mn):** Manganese has a lower neutron absorption cross-section and can be found in certain nuclear materials.
+
+5. **Molybdenum (Mo):** Molybdenum has a moderate neutron absorption cross-section and is used in certain nuclear applications where its properties are beneficial.
+
+6. **Zirconium (Zr):** Zirconium is used as a cladding material in nuclear reactors due to its low neutron absorption and good corrosion resistance.
+
+7. **Tungsten (W):** Tungsten has a relatively low neutron absorption cross-section and is sometimes used in specific nuclear applications.
+
+8. **Vanadium (V):** Vanadium has a low neutron absorption cross-section and can be found in some nuclear materials.
+
+Remember that the neutron absorption cross-section can vary depending on the isotope and energy of the neutrons involved.
+
+--------------------
+
