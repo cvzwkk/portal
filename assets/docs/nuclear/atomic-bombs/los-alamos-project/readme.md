@@ -282,7 +282,7 @@ Pu-239 + n → fission products + 2-3 neutrons + energy
 
 This reaction released a large amount of energy, which was converted to heat and pressure by the surrounding explosives, creating the explosion.
 
-# Element Trinite:  
+# Element Trinitite:  
 Trinitite, also known as Alamogordo glass, is a unique mineral that was created by the first nuclear explosion in Alamogordo, New Mexico, in 1945. It is formed from a combination of soil, sand, and other materials that were melted and fused together by the intense heat and pressure of the nuclear explosion. Here are the key elements that make up Trinitite:
 
 1. Silicon (Si) - Silicon is the most abundant element in Trinitite, making up over 36% of its composition. It is found in the form of silica (SiO₂), which is a major constituent of sand and soil.
@@ -331,3 +331,59 @@ Trinitite contains trace amounts of several elements, including:
 25. Uranium (U)
 
 These elements are found in trace amounts, typically less than 0.1% of the overall composition of Trinitite.
+
+------------------
+
+- Information of Compostion of each Element:
+
+Here is some information about the composition and properties of the trace elements found in Trinitite:
+
+1. Copper (Cu) - Traces of copper are found in Trinitite. Copper is a soft, malleable, and ductile metal that has excellent electrical conductivity. It is commonly used in electrical wiring, plumbing, and as a construction material.
+
+2. Zinc (Zn) - Traces of zinc are found in Trinitite. Zinc is a bluish-white metal that is brittle at room temperature and has a low melting point. It is commonly used to coat iron and steel to protect them from corrosion.
+
+3. Lead (Pb) - Traces of lead are found in Trinitite. Lead is a soft, heavy metal that is toxic to humans and animals. It has a low melting point and is commonly used in batteries, ammunition, and as a radiation shield.
+
+4. Barium (Ba) - Traces of barium are found in Trinitite. Barium is a soft, silvery-white metal that is highly reactive and is commonly used in oil and gas drilling, as well as in the production of fireworks and glass.
+
+5. Strontium (Sr) - Traces of strontium are found in Trinitite. Strontium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of ferrite magnets, as well as in the study of bone formation and osteoporosis.
+
+6. Yttrium (Y) - Traces of yttrium are found in Trinitite. Yttrium is a rare, silvery-white metal that is highly reactive and is commonly used in the production of superconductors, as well as in the study of cancer treatments.
+
+7. Zirconium (Zr) - Traces of zirconium are found in Trinitite. Zirconium is a strong, silvery-white metal that is highly resistant to corrosion. It is commonly used in the production of nuclear reactors, as well as in the production of high-quality alloys.
+
+8. Cerium (Ce) - Traces of cerium are found in Trinitite. Cerium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of catalytic converters for automobiles, as well as in the production of glass and ceramics.
+
+9. Lanthanum (La) - Traces of lanthanum are found in Trinitite. Lanthanum is a soft, silvery-white metal that is highly reactive and is commonly used in the production of hybrid car batteries, as well as in the production of high-quality steel.
+
+10. Praseodymium (Pr) - Traces of praseodymium are found in Trinitite. Praseodymium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power magnets, as well as in the study of solar cells.
+
+11. Neodymium (Nd) - Traces of neodymium are found in Trinitite. Neodymium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power magnets, as well as in the production of electronic components.
+
+12. Samarium (Sm) - Traces of samarium are found in Trinitite. Samarium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power magnets, as well as in the study of bone cancer treatments.
+
+13. Europium (Eu) - Traces of europium are found in Trinitite. Europium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of red and blue phosphors for television and computer screens, as well as in the study of cancer treatments.
+
+14. Gadolinium (Gd) - Traces of gadolinium are found in Trinitite. Gadolinium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of medical imaging agents, as well as in the production of high-power magnets.
+
+15. Terbium (Tb) - Traces of terbium are found in Trinitite. Terbium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of green phosphors for television and computer screens, as well as in the study of cancer treatments.
+
+16. Dysprosium (Dy) - Traces of dysprosium are found in Trinitite. Dysprosium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power magnets, as well as in the study of cancer treatments.
+
+17. Holmium (Ho) - Traces of holmium are found in Trinitite. Holmium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of superconductors, as well as in the study of cancer treatments.
+
+18. Erbium (Er) - Traces of erbium are found in Trinitite. Erbium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of fiber optic cables, as well as in the study of cancer treatments.
+
+19. Thulium (Tm) - Traces of thulium are found in Trinitite. Thulium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power magnets, as well as in the study of cancer treatments.
+
+20. Ytterbium (Yb) - Traces of ytterbium are found in Trinitite. Ytterbium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of high-power lasers, as well as in the study of cancer treatments.
+
+21. Lutetium (Lu) - Traces of lutetium are found in Trinitite. Lutetium is a soft, silvery-white metal that is highly reactive and is commonly used in the production of medical imaging agents, as well as in the study of cancer treatments.
+
+22. Hafnium (Hf) - Traces of hafnium are found in Trinitite. Hafnium is a strong, silvery-white metal that is highly resistant to corrosion. It is commonly used in the production of nuclear reactors, as well as in the production of high-quality alloys.
+
+23. Tantalum (Ta) - Traces of tantalum are found in Trinitite. Tantalum is a strong, dense metal that is highly resistant to corrosion. It is commonly used in the production of electronic components, as well as in the production of surgical implants.
+
+24. Thorium (Th) - Traces of thorium are found in Trinitite. Thorium is a radioactive element that is commonly used in nuclear reactors as a fuel source.
+
+25. Uranium (U) - Traces of uranium are found in Trinitite. Uranium is a highly radioactive element that is commonly used in nuclear reactors as a fuel source.
