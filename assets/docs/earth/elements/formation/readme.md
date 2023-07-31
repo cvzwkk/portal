@@ -4,7 +4,10 @@
 
 - Elements List:
   - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
-    - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md)  
+    - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md)
+
+  - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)
+  - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)  
 
 
 --------------------
