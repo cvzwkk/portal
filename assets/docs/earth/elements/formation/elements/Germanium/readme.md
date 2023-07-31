@@ -1,9 +1,9 @@
-[HOME](/README.md)  
+[HOME](/README.md)  / [Elements Formation](/assets/docs/earth/elements/formation/readme.md)  
 
 ---------------------
 
 - Isotopes:
-  - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md))
+  - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md)
   - 
 
 ---------------------
