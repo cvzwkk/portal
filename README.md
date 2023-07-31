@@ -67,8 +67,13 @@ One collection of knowledge
    - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
    - [NoviChock](/assets/docs/nuclear/chemical/novichock/readme.md)
 
-- [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
-   
+- Weapons:  
+   - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
+  - Atomic Bombs:
+   - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
+
+
+
 --------------
 - [Light](/assets/docs/universe/light/readme.md)  
    - [Synthesis](/assets/docs/universe/light/synthesis/readme.md)  
