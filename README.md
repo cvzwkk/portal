@@ -71,6 +71,8 @@ One collection of knowledge
    - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
   - Atomic Bombs:
    - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
+   - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
+   - 
 
 
 
