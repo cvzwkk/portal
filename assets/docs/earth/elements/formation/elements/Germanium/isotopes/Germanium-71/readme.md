@@ -1,4 +1,4 @@
-[HOME](/README.md)
+[HOME](/README.md) / [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md) / [Elements Formation](/assets/docs/earth/elements/formation/readme.md)  
 
 ---------------------
 
