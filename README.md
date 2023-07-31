@@ -65,6 +65,7 @@ One collection of knowledge
 - Chemical Weapons:    
    - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
    - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
+   - [NoviChock](/assets/docs/nuclear/chemical/novichock/readme.md)
 
 - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
    
