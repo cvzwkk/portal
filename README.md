@@ -15,6 +15,10 @@ One collection of knowledge
 -------------
 
 # Knowledges about the universe    
+- Knowledges:
+  - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)  
+
+
 - Earth:
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
   - [Earth](/assets/docs/earth/readme.md)  
@@ -23,7 +27,9 @@ One collection of knowledge
    
 -  Elements:
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
-    - [Water](/assets/docs/earth/elements/water/readme.md)   
+      - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)  
+
+     - [Water](/assets/docs/earth/elements/water/readme.md)   
    
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
