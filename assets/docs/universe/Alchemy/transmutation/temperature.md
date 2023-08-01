@@ -1,4 +1,4 @@
-[HOME](/README.md) 
+[HOME](/README.md) / [Alchemy](/assets/docs/universe/Alchemy/readme.md)
 
 ---------------------
 
