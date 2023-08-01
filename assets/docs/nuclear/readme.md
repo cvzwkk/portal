@@ -10,13 +10,20 @@
    - [Cylinder Shape](/assets/docs/nuclear/knowledges/implosive-methods/cylinder-shape.md)   
 
 - Synthesis of Nuclear Elements:  
-   - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)    
+   - [U92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)    
    
 - [Nuclear Elements:](/assets/docs/universe/equations/Heat-Energy/Nuclear/elements/readme.md)   
-   
+- [Byproducts of Fission](/assets/docs/nuclear/fission/byproduct/readme.md)
+- [Byproducts Nuclear](/assets/docs/nuclear/knowledges/byproducts/readme.md)
+
+- Nuclear Weapons:
+  - Atomic Bombs:
+    - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
+    - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
+
 ---------------------
 
-# "Nuclear"  
+# Nuclear
   - Refers to anything related to nuclear energy or nuclear weapons.  
     - Nuclear energy:  
       is generated through nuclear reactions, usually in the form of nuclear fission or fusion.  
