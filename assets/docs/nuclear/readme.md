@@ -20,7 +20,7 @@
 - [Byproducts Nuclear](/assets/docs/nuclear/knowledges/byproducts/readme.md)
 
 - Nuclear Weapons:
-  - Atomic Bombs:
+  - [Atomic Bombs](/assets/docs/nuclear/atomic-bombs/readme.md):   
     - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
     - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
 
