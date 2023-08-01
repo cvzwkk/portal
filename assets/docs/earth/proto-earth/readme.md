@@ -1,4 +1,14 @@
-# proto-Earth
+[HOME](/README.md) / [Earth](/assets/docs/earth/readme.md)
+
+-------------------------
+
+![img](/assets/docs/earth/proto-earth/imgs/protoearth.jpeg)
+[External Source of image, Reditt](https://www.reddit.com/r/FlatEarthIsReal/comments/14z6fli/protoearth_was_spherical/)
+
+-------------------------
+
+
+# Proto Earth
    typically refers to the early stage of Earth's formation before it reached its current size and structure.    
     During this phase, the proto-Earth was still in the process of accretion and differentiation.       
      Here's a more detailed explanation:   
