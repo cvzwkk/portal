@@ -2,6 +2,11 @@
 
 -------------------
 
+- Documents:
+  - [Oxidation Kynetic of Plutonium in Air](/assets/docs/nuclear/atomic-bombs/los-alamos-project/538053.pdf)  
+-------------------
+
+
 # Los Alamos Project:   
 
 The Los Alamos Project, also known as the Manhattan Project, was a top-secret research and development program during World War II that aimed to produce the first nuclear weapons. The project was led by the United States with significant contributions from the United Kingdom and Canada. The program started in 1942 and ended in 1945 with the testing of the first atomic bomb in Alamogordo, New Mexico.
