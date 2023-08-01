@@ -4,6 +4,8 @@
 
 - Documents:
   - [Oxidation Kynetic of Plutonium in Air](/assets/docs/nuclear/atomic-bombs/los-alamos-project/538053.pdf)  
+[External Source of PDF](https://digital.library.unt.edu/ark:/67531/metadc691987/m1/1/)
+
 -------------------
 
 
