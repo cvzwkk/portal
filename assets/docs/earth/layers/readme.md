@@ -1,4 +1,4 @@
-[HOME](/README.md)  
+[HOME](/README.md)  / [Earth](/assets/docs/earth/readme.md)  
 
 --------------------
 
@@ -17,3 +17,10 @@ The Earth is composed of several layers, each with distinct characteristics and 
 4. **Inner Core**: The innermost layer of the Earth is the inner core. It is a solid ball of iron and nickel with a radius of about 1,220 kilometers (760 miles). Despite being incredibly hot (temperatures can reach up to several thousand degrees Celsius), immense pressure keeps the iron-nickel alloy in a solid state.
 
 This layered structure of the Earth is known as the Earth's structure or internal structure. It plays a crucial role in various geophysical processes, including plate tectonics, volcanic activity, and the generation of the magnetic field. Understanding the different layers helps scientists and geologists study the Earth's behavior and its dynamic processes.
+
+# Layers
+- Deeply:  
+![img](/assets/addons/python/dev/earth/imgs/earth_layers-deep.png)
+
+- Radius:
+![img](/assets/addons/python/dev/earth/imgs/earth_layers.png)  
