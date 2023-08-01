@@ -1,3 +1,7 @@
+[HOME](/README.md)  /  [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)   
+
+---------------------------
+
 # Nuclear fusion   
   - is a process in which two atomic nuclei combine to form a heavier nucleus, releasing a significant amount of energy in the process.    
      This process is the fundamental source of energy in stars, including our Sun.  
