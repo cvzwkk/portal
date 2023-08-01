@@ -8,7 +8,7 @@ One collection of knowledge
       - energy molecules  
       - fission process  
       - Formation of Materia / Elements  
-# [Alchemy](/portal/assets/docs/universe/Alchemy/readme.md)  
+# [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
    - [Uranium+Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)  
 
