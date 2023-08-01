@@ -65,8 +65,25 @@ def create_cluster():
         radius_unit = input("Choose the unit of measurement for the radius (1 for m, 2 for cm, 3 for mm): ")
         radius_option = int(radius_unit)
         radius = float(input("Enter the radius: "))
-        thickness = float(input("Enter the thickness of the sphere (in meters): "))
-        sphere_density = float(input("Enter the density of the alloy (in kg/m^3): "))
+
+        # Ask the user to choose the unit of thickness
+        thickness_unit = input("Choose the unit of measurement for the thickness (1 for m, 2 for cm, 3 for mm): ")
+        thickness_option = int(thickness_unit)
+        thickness_input = input("Enter the thickness of the sphere: ")
+        thickness = float(thickness_input)
+        if thickness_option == 2:
+            thickness /= 100.0
+        elif thickness_option == 3:
+            thickness /= 1000.0
+
+        # Ask the user to choose between kg and g for the alloy density
+        density_unit = input("Choose the alloy density unit (1 for kg/m^3, 2 for g/m^3): ")
+        density_option = int(density_unit)
+        density_input = input("Enter the alloy density: ")
+        density = float(density_input)
+        if density_option == 2:
+            density /= 1000.0  # Convert g/m^3 to kg/m^3
+        
         mass_unit = input("Choose the Element mass unit (1 for t, 2 for kg, 3 for g, 4 for mg): ")
         mass_option = int(mass_unit)
         mass = float(input("Enter the Element mass: "))
@@ -87,9 +104,9 @@ def create_cluster():
         
         density, pressure, dP_dr = calculate_properties(radius, mass, element)
 
-        sphere_weight = calculate_sphere_weight(radius, thickness, sphere_density)
+        sphere_weight = calculate_sphere_weight(radius, thickness, density)
 
-        layer = {"Radius": radius, "Thickness": thickness,  "Sphere Density": sphere_density, "Sphere Weight": sphere_weight,  "Mass": mass, "Density": density, "Pressure": pressure, "dP/dr": dP_dr, "Element": element}
+        layer = {"Radius": radius, "Thickness": thickness,  "Sphere Density": density, "Sphere Weight": sphere_weight,  "Mass": mass, "Density": density, "Pressure": pressure, "dP/dr": dP_dr, "Element": element}
         cluster.append(layer)
     
     return cluster
