@@ -1,4 +1,8 @@
-# The Earth's core,    
+[HOME](/README.md)  
+
+--------------------------
+
+# The Earth's core    
 - is divided into two main regions: the inner core and the outer core.   
   
  - 1. Inner Core:   
