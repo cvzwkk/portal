@@ -2,6 +2,11 @@
 
 --------------------
 
+- Events:
+  - [Seismic Wave](/assets/docs/earth/layers/seismic/readme.md)  
+
+--------------------
+
 ![img](/assets/docs/earth/layers/img/earthlayers.jpg)
 [External Source of Image](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XAUuHatBKrrkF5pfENM8vQHaEc%26pid%3DApi&sp=1690897235T17bf26309c3e400842dbce610950445ca56107e99636fa09767be78c7f97b610)
 --------------------
