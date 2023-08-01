@@ -2,6 +2,15 @@
 
 ----------------------
 
+- Paper that Describe the Generation proposal of Repulsive Force-Field:
+
+A method is proposed in this paper to generate a repulsive gravitational force field, which can strongly repel material particles and photons of any frequency. By repelling particles and photons, including in the infrared range, this force field can work as a perfect thermal insulation. It can also work as a friction reducer with the atmosphere, for example, between an aeronave and the atmosphere. A spacecraft with this force field around it cannot be affected by any external temperature and, in this way, it can even penetrate (and to exit) the Sun, for example, without be damaged or to cause the death of the crew. The generation of this force field is based on the reversion and intensification of gravity by electromagnetic means
+
+Date: 2015
+External Paper Link: [Link](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.681.1931)  
+
+------------------------
+
 # Repulsive Force-Field  
 
 While the specific methods for generating a repulsive force field as described in the paper are not mentioned, I can provide some general approaches that could potentially be used to generate such a force field:
