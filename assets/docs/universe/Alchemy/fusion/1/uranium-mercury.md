@@ -1,3 +1,11 @@
+[HOME](/README.md)
+
+-------------------
+
+# Uranium Amalgam
+
+- Uranium + Mercury
+
 In the fusion of substances,    
  as in the case of the elements uranium and mercury,     
   the temperature remains constant during the process.   
