@@ -3,7 +3,7 @@
 --------------------
 
 ![img](/assets/docs/earth/layers/img/earthlayers.jpg)
-
+[External Source of Image](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.XAUuHatBKrrkF5pfENM8vQHaEc%26pid%3DApi&sp=1690897235T17bf26309c3e400842dbce610950445ca56107e99636fa09767be78c7f97b610)
 --------------------
 
 The Earth is composed of several layers, each with distinct characteristics and compositions. These layers are typically divided into the following major zones:
@@ -24,3 +24,54 @@ This layered structure of the Earth is known as the Earth's structure or interna
 
 - Radius:
 ![img](/assets/addons/python/dev/earth/imgs/earth_layers.png)  
+
+--------------------
+
+
+# The Earth's outermost layer   
+
+known as the lithosphere, is divided into several large and small plates that move, interact, and sometimes collide with each other.
+These plates are rigid and brittle, and they float on top of the hotter and more ductile asthenosphere layer beneath them.
+
+There are three types of plate boundaries where different tectonic activities occur:
+
+1. Divergent Plate Boundaries: These are locations where two plates move away from each other, creating new crust and seafloor in the process. Divergent boundaries occur primarily on the ocean floor and are associated with mid-ocean ridges, where new oceanic crust is generated.
+
+2. Convergent Plate Boundaries: These are locations where two plates move towards each other, resulting in the subduction of one plate beneath the other or the collision of two plates. Convergent boundaries are marked by deep ocean trenches, volcanic arcs, and mountain ranges, and they are associated with earthquakes, volcanic eruptions, and the formation of continental crust.
+
+3. Transform Plate Boundaries: These are locations where two plates slide past each other horizontally. Transform boundaries are associated with large transform faults and are marked by earthquakes.
+
+The movement of the tectonic plates is driven by the transfer of heat from the Earth's interior to the surface.
+This transfer of heat causes convection currents in the mantle, which move the plates over time. Additionally, the gravitational forces of the Sun and the Moon influence the movements of the plates through the tidal effects they produce on the Earth.
+
+The study of plate tectonics is important for understanding many geological processes and phenomena, including the formation of mountains, earthquakes, volcanic eruptions, oceanic and continental crust, and the distribution of natural resources.
+
+-----------------
+
+# Detail's about each step of plate tectonics:
+
+1. **Divergent Plate Boundaries:**
+   - At divergent plate boundaries, tectonic plates move away from each other. This movement is facilitated by the upwelling of hot mantle material at mid-ocean ridges.
+   - As the plates separate, magma from the mantle rises to fill the gap, solidifies, and forms new oceanic crust. This process is known as seafloor spreading.
+   - Divergent boundaries are primarily found on the ocean floor, and they play a crucial role in the continuous creation of new oceanic crust.
+   - The most well-known divergent boundary is the Mid-Atlantic Ridge, which runs along the floor of the Atlantic Ocean. This boundary is responsible for the ongoing separation of North America and Eurasia.
+
+2. **Convergent Plate Boundaries:**
+   - Convergent plate boundaries occur when two tectonic plates move towards each other. There are three types of convergence: oceanic-oceanic, oceanic-continental, and continental-continental convergence.
+   - In oceanic-oceanic convergence, the denser plate subducts beneath the other, forming deep ocean trenches and volcanic arcs. As the subducting plate sinks into the mantle, it generates magma that rises to the surface, leading to volcanic activity.
+   - In oceanic-continental convergence, the denser oceanic plate subducts beneath the less dense continental plate. This creates a subduction zone, leading to volcanic arcs and mountain ranges.
+   - In continental-continental convergence, both plates are relatively buoyant, so subduction does not occur. Instead, the collision of the two plates results in intense folding, faulting, and the uplift of large mountain ranges. The Himalayas are a prime example of continental-continental convergence.
+
+3. **Transform Plate Boundaries:**
+   - At transform plate boundaries, two tectonic plates slide horizontally past each other. Unlike divergent and convergent boundaries, no crust is created or destroyed at transform faults.
+   - The movement along transform boundaries is not smooth and continuous; instead, it is characterized by sudden releases of energy in the form of earthquakes. These earthquakes are a result of the stress and friction that builds up as the plates grind against each other.
+   - The San Andreas Fault in California is a famous example of a transform plate boundary, where the Pacific Plate and the North American Plate slide past each other.
+
+4. **Driving Forces of Plate Tectonics:**
+   - The primary driving force behind plate tectonics is mantle convection. Heat from the Earth's interior causes the mantle material to become buoyant and rise, while cooler material sinks. This creates convection currents in the mantle, which drag and move the tectonic plates at the surface over geological time scales.
+   - Additionally, the gravitational forces of the Sun and the Moon contribute to the movement of the plates through tidal effects. Though these forces are much weaker than mantle convection, they still play a role in the overall dynamics of plate movement.
+
+The study of plate tectonics has revolutionized our understanding of the Earth's geology and continues to be a dynamic field of research. It provides insights into various geological processes, natural hazards, and the distribution of valuable resources on our planet. Understanding plate tectonics is essential for predicting and mitigating the impact of earthquakes, volcanic eruptions, and other geological events that influence the Earth's surface and the environment.
+
+------------------------
+
