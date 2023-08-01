@@ -24,3 +24,13 @@ While the specific methods for generating a repulsive force field as described i
 4. Exotic Material Properties: Another potential method could involve the use of materials with exotic properties that interact with electromagnetic fields in a way that generates a repulsive force. This could require the development of new materials or the utilization of known materials in unique configurations.
 
 It is important to note that the specific details and feasibility of these methods would require extensive research and experimentation. The paper you mentioned might provide more specific insights into the proposed method for generating a repulsive force field and the experimental evidence supporting it.
+
+-------------------------
+
+- Repulsive Force Field Described by Einstein's Theory:
+
+The Laser Interferometer Gravitational-Wave Observatory (LIGO) detection of gravitational waves that take away 5 per cent of the total mass of two merging black holes points out on the importance of considering varying gravitational mass of a system in the framework of the Einstein general theory of relativity. We calculate the acceleration of a particle in the non-stationary field of a quasi-spherical system composed of a large number of objects emitting gravitational waves. It is shown that reduction of the gravitational mass of the system due to emitting gravitational waves leads to a repulsive gravitational force that diminishes with time but never disappears. This repulsive force may be related to the observed expansion of the Universe.Comment: 6 pages, 2 figures, accepted in MNRA
+Paper External from 2016: [link](https://arxiv.org/abs/1608.01541)  
+
+---------------------------
+
