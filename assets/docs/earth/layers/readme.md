@@ -112,3 +112,18 @@ The driving forces behind the movement of tectonic plates are primarily attribut
 5. **Slab Suction:** As mentioned in the paper you previously described, slabs in the lower mantle are supported by viscous mantle forces and can drive plates through "slab suction." This force is related to the ability of the sinking slab to induce flow in the surrounding mantle, which exerts a shear traction on the base of the plate.
 
 It is essential to note that the driving forces behind tectonic plate movement are interconnected and often work together to influence plate motion. The relative contributions of these forces can vary depending on the specific tectonic setting and geological context. The study of plate tectonics is a complex and ongoing field of research, and further advancements in understanding these driving forces continue to be made through various scientific investigations and models.
+
+----------------------
+
+# Subduction Zone   
+
+The rupture closest to the Earth's core occurs in the subduction zone, which is a region where one tectonic plate is pushed beneath another plate and dives into the asthenosphere (a hotter and less rigid layer of the mantle) towards the core of the planet.
+
+In the subduction zone, an oceanic plate usually descends beneath a continental plate or another denser oceanic plate. As the subducting plate descends into deeper layers of the mantle, it is gradually absorbed and recycled by mantle convection in a process called subduction.
+
+This region is one of the most geologically active areas on Earth, where significant seismic activity, volcanism, and mountain building occur. Subduction is a crucial mechanism in the movement of tectonic plates and plays a vital role in the recycling of lithospheric material and the operation of the plate tectonic cycle.
+
+It is worth noting that the region closest to the core is the innermost part of the mantle, known as the transition zone. This zone is located at a depth of about 410 to 660 kilometers below the Earth's surface. However, subduction occurs at greater depths, extending over hundreds of kilometers, reaching into the deeper mantle, but still at a significant distance from the Earth's central core.
+
+------------------------
+
