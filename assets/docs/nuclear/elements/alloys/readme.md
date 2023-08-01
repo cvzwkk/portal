@@ -318,3 +318,18 @@ Part 7, (Alloys w/Superconductor Elements):
 13. Iron-silicon (Fe-Si) alloys: Iron, silicon
 14. Manganese-bronze (Cu-Mn) alloys: Copper, manganese
 15. Zinc-aluminum-copper (Zn-Al-Cu) alloys: Zinc, aluminum, copper
+1. Nickel-titanium (Ni-Ti) alloys: Nickel, titanium
+2. Bronze-aluminum (Cu-Al) alloys: Copper, aluminum
+3. Monel (Ni-Cu) alloys: Nickel, copper
+4. Phosphor bronze (Cu-Sn-P) alloys: Copper, tin, phosphorus
+5. Cobalt-chromium (Co-Cr) alloys: Cobalt, chromium
+6. Incoloy (Ni-Cr-Fe) alloys: Nickel, chromium, iron
+7. Iron-nickel (Fe-Ni) alloys: Iron, nickel
+8. Titanium-niobium (Ti-Nb) alloys: Titanium, niobium
+9. Alloy 20 (Carpenter 20) (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum
+10. Brass with lead (Cu-Zn-Pb) alloys: Copper, zinc, lead
+11. Stainless steel with nitrogen (Fe-Cr-Ni-N) alloys: Iron, chromium, nickel, nitrogen
+12. Carbon steel (Fe-C) alloys: Iron, carbon
+13. Haynes (Ni-Co-Cr) alloys: Nickel, cobalt, chromium
+14. Inconel with molybdenum (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum
+15. Tool steel (Fe-Cr-V) alloys: Iron, chromium, vanadium
