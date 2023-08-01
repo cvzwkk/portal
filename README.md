@@ -16,7 +16,9 @@ One collection of knowledge
 
 # Knowledges about the universe    
 - Knowledges:
-  - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)  
+  - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
+  - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
+  
 
 
 - Earth:
@@ -27,11 +29,13 @@ One collection of knowledge
    
 -  Elements:
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
-      - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)  
+      - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
+      - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)  
+      - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
 
      - [Water](/assets/docs/earth/elements/water/readme.md)
      - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
-     - 
+     
    
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
