@@ -33,6 +33,8 @@ Some key points from the study include:
 
 Please note that without access to the full text of the paper, the specific results and detailed findings are not available. If you have access to the full paper or specific questions regarding the study, feel free to ask, and I'll do my best to assist you further.
 
-- PDF Showing the methods of Dissolution of Neptunium:
-- PDF: [Local Repo](
+- PDF Showing the methods of Dissolution of Neptunium in Oxide Residues:
+- PDF: [Local Repo](/assets/docs/earth/elements/formation/elements/neptunium/948120.pdf)  
 - [External Source](https://digital.library.unt.edu/ark:/67531/metadc900517/)   
+
+---------------------------    
