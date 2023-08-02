@@ -44,6 +44,11 @@ Please note that without access to the full text of the paper, the specific resu
 1° - Critical role of water content in the formation and reactivity of uranium, neptunium, and plutonium iodates under hydrothermal conditions: implications for the oxidative dissolution of spent nuclear fuel.    
 [External URL](https://pubs.acs.org/doi/10.1021/ic070170d)   
 
+Original Paper:   
+The reactions of 237NpO2 with excess iodate under acidic hydrothermal conditions result in the isolation of the neptunium(IV), neptunium(V), and neptunium(VI) iodates, Np(IO3)4, Np(IO3)4.nH2O.nHIO3, NpO2(IO3), NpO2(IO3)2(H2O), and NpO2(IO3)2.H2O, depending on both the pH and the amount of water present in the reactions. Reactions with less water and lower pH favor reduced products. Although the initial redox processes involved in the reactions between 237NpO2 or 242PuO2 and iodate are similar, the low solubility of Pu(IO3)4 dominates product formation in plutonium iodate reactions to a much greater extent than does Np(IO3)4 in the neptunium iodate system. UO2 reacts with iodate under these conditions to yield uranium(VI) iodates solely. The isotypic structures of the actinide(IV) iodates, An(IO3)4 (An=Np, Pu), are reported and consist of one-dimensional chains of dodecahedral An(IV) cations bridged by iodate anions. The structure of Np(IO3)4.nH2O.nHIO3 is constructed from NpO9 tricapped-trigonal prisms that are bridged by iodate into a polar three-dimensional framework structure. Second-harmonic-generation measurements on a polycrystalline sample of the Th analogue of Np(IO3)4.nH2O.nHIO3 reveal a response of approximately 12x that of alpha-SiO2. Single-crystal magnetic susceptibility measurements of Np(IO3)4 show magnetically isolated Np(IV) ions.
+
+----------------------------
+
 Detailing the paper:  
 It seems that the text you provided is a technical description of a scientific study involving the reactions of neptunium, plutonium, and uranium oxides with iodate under specific conditions. The study discusses the formation of various iodate compounds, including neptunium(IV), neptunium(V), and neptunium(VI) iodates, and how the reaction outcomes are influenced by factors such as pH and the amount of water present.
 
