@@ -16,6 +16,7 @@ One collection of knowledge
 
 # Knowledges about the universe    
 - Knowledges:
+  - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)   
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
   
