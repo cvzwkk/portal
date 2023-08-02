@@ -7,7 +7,8 @@
     - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md)
 
   - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)
-  - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)  
+  - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
+  - [Neptunium](/assets/docs/earth/elements/formation/elements/neptunium/readme.md)  
 
 
 --------------------
