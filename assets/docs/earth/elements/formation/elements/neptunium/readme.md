@@ -38,3 +38,31 @@ Please note that without access to the full text of the paper, the specific resu
 - [External Source](https://digital.library.unt.edu/ark:/67531/metadc900517/)   
 
 ---------------------------    
+
+# Public Paper's about Neptunium:  
+
+1° - Critical role of water content in the formation and reactivity of uranium, neptunium, and plutonium iodates under hydrothermal conditions: implications for the oxidative dissolution of spent nuclear fuel.    
+[External URL](https://pubs.acs.org/doi/10.1021/ic070170d)   
+
+Detailing the paper:  
+It seems that the text you provided is a technical description of a scientific study involving the reactions of neptunium, plutonium, and uranium oxides with iodate under specific conditions. The study discusses the formation of various iodate compounds, including neptunium(IV), neptunium(V), and neptunium(VI) iodates, and how the reaction outcomes are influenced by factors such as pH and the amount of water present.
+
+In summary:
+
+1. Neptunium(IV), neptunium(V), and neptunium(VI) iodates (Np(IO3)4, Np(IO3)4.nH2O.nHIO3, NpO2(IO3), NpO2(IO3)2(H2O), and NpO2(IO3)2.H2O) are formed depending on pH and water content during the reaction with iodate.
+
+2. Similar redox processes are involved in the reactions of neptunium dioxide (237NpO2) and plutonium dioxide (242PuO2) with iodate. However, the low solubility of plutonium iodate (Pu(IO3)4) leads to a greater dominance of product formation in plutonium iodate reactions compared to neptunium iodate reactions.
+
+3. Uranium dioxide (UO2) reacts with iodate to yield uranium(VI) iodates exclusively.
+
+4. The structures of actinide(IV) iodates, An(IO3)4 (An=Np, Pu), are reported and consist of one-dimensional chains of dodecahedral An(IV) cations bridged by iodate anions.
+
+5. The structure of Np(IO3)4.nH2O.nHIO3 involves NpO9 tricapped-trigonal prisms bridged by iodate, forming a polar three-dimensional framework structure.
+
+6. The Th analogue of Np(IO3)4.nH2O.nHIO3 shows a significant second-harmonic-generation response.
+
+7. Single-crystal magnetic susceptibility measurements of Np(IO3)4 reveal magnetically isolated Np(IV) ions.
+
+Overall, this text provides a detailed insight into the chemistry and structural properties of the iodate compounds formed in the reactions of certain actinide oxides under specific hydrothermal conditions. It is important to note that this is a technical description targeted towards researchers and scientists in the field of chemistry and materials science.
+
+----------------------------
