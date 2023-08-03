@@ -155,3 +155,60 @@ where:
 * **Other models:** There are a number of other models that have been proposed to describe the kinetics of the oxidation of neptunium in air. These models vary in their complexity and accuracy, and the best model to use depends on the specific conditions of the oxidation process.
 
 These are just a few of the equations that have been used to describe the kinetics of the oxidation of neptunium in air. The actual rate of oxidation will depend on a number of factors, including the oxidation state of neptunium, the temperature, and the presence of other gases. However, the equations above can be used to get a general idea of how the rate of oxidation changes with these factors.
+
+----------------------------------
+
+# Neptunium Hydride:   
+
+Since neptunium hydride has not been synthesized yet, its properties are currently unknown. But, based on the properties of other elements in the same group, it is likely that neptunium hydride would have the following properties:
+
+* **Melting point:** Very low
+* **Boiling point:** Very low
+* **Density:** Very low
+* **Color:** Colorless gas
+* **Solubility:** Insoluble in water
+* **Chemical properties:** Neptunium hydride is expected to be a strong reducing agent and a powerful radioactive emitter.
+* **Toxicity:** Neptunium hydride is expected to be highly toxic.
+
+It is important to note that these are just estimates, and the actual properties of neptunium hydride may be different. More research is needed to fully understand the properties of this compound.
+
+Neptunium hydride is a hypothetical compound with the chemical formula NpH3. It is a highly radioactive compound and has not yet been synthesized.
+
+Neptunium is a synthetic element with the atomic number 93. It is the heaviest naturally occurring element and is found in very small quantities in the Earth's crust. It is mined for its use as a fuel in nuclear power plants and nuclear weapons.
+
+Neptunium hydride is expected to be a very strong reducing agent and a powerful radioactive emitter. It is also expected to be highly unstable.
+
+The synthesis of neptunium hydride would require the reaction of neptunium metal with hydrogen gas. However, neptunium metal is very unstable and difficult to synthesize. As a result, it is unlikely that neptunium hydride will ever be synthesized.
+
+Here are some safety precautions that should be taken if neptunium hydride were to be synthesized:
+
+* **Handling:** Neptunium hydride should only be handled by trained professionals. It should be stored in a sealed container in a cool, dry place.
+* **Exposure:** Exposure to neptunium hydride can be harmful to health. It can cause damage to the lungs, kidneys, and liver.
+* **Clean up:** If neptunium hydride is spilled, it should be cleaned up immediately with a solution of sodium thiosulfate.
+
+It is important to be aware of the risks associated with neptunium hydride and to take appropriate safety precautions if it were to be synthesized.
+
+-----------------   
+
+* **Molar mass:** 247.08 g/mol
+* **Melting point:** Very low
+* **Boiling point:** Very low
+* **Density:** Very low
+* **Color:** Colorless gas
+* **Solubility:** Insoluble in water
+* **Chemical properties:** Neptunium hydride is expected to be a strong reducing agent and a powerful radioactive emitter.
+* **Toxicity:** Neptunium hydride is expected to be highly toxic.
+
+It is important to note that these are just estimates, and the actual properties of neptunium hydride may be different. More research is needed to fully understand the properties of this compound.
+
+Neptunium hydride has not been synthesized yet, so its properties are currently unknown. However, based on the properties of other elements in the same group, it is likely that neptunium hydride would have the properties listed above.
+
+The molar mass of neptunium hydride is calculated by adding the molar masses of neptunium and hydrogen. The molar mass of neptunium is 237.04 g/mol, and the molar mass of hydrogen is 1.008 g/mol. So, the molar mass of neptunium hydride is 247.08 g/mol.
+
+The melting point and boiling point of neptunium hydride are expected to be very low because it is a gas. The color of neptunium hydride is expected to be colorless because it is a gas. The solubility of neptunium hydride in water is expected to be insoluble because it is a gas.
+
+The chemical properties of neptunium hydride are expected to be similar to the chemical properties of other actinide hydrides. Actinide hydrides are strong reducing agents and powerful radioactive emitters. So, neptunium hydride is expected to be a strong reducing agent and a powerful radioactive emitter.
+
+The toxicity of neptunium hydride is expected to be high because it is a radioactive compound. Radioactive compounds can cause damage to the cells in the body, which can lead to cancer and other health problems.
+
+Overall, neptunium hydride is a highly unstable and hazardous compound. It is important to be aware of the risks associated with neptunium hydride and to take appropriate safety precautions if it were to be synthesized.
