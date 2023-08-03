@@ -4,7 +4,8 @@
 
 # Yttrium   
 
-is a chemical element with the symbol Y and atomic number 39. It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth element". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element.
+is a chemical element with the symbol Y and atomic number 39. It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth element".     
+Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element.
 
 Yttrium has a number of important properties, including:
 
@@ -51,9 +52,10 @@ Here are some additional information about yttrium hydride:
 
 ------------------------
 
-# Yttrium hydride (YH5)   
+# Yttrium Hydride (YH5)   
 
-is a binary compound of yttrium and hydrogen. It is a dark gray, hygroscopic solid with a melting point of 1,165°C and a boiling point of 1,770°C. YH5 is a strong reducing agent and is used in a variety of applications, including:
+is a binary compound of yttrium and hydrogen. It is a dark gray, hygroscopic solid with a melting point of 1,165°C and a boiling point of 1,770°C.  
+YH5 is a strong reducing agent and is used in a variety of applications, including:
 
 Nuclear fuel: YH5 is a potential fuel for nuclear reactors. It has a high melting point and boiling point, which makes it well-suited for use in high-temperature environments. YH5 is also a good neutron absorber, which makes it useful for controlling the reaction in a nuclear reactor.
 High-temperature superconductors: YH5 is a component of some high-temperature superconductors. These materials have the ability to conduct electricity with no resistance at very high temperatures. YH5 helps to improve the superconducting properties of these materials.
@@ -63,8 +65,8 @@ YH5 is a relatively safe compound, but it can be harmful if inhaled or ingested.
 
 Here are some additional information about yttrium hydride:
 
-The chemical formula for yttrium hydride is YH5.
-The molar mass of yttrium hydride is 177.72 g/mol.
-The density of yttrium hydride is 5.5 g/cm3.
-The solubility of yttrium hydride in water is 0.01 g/L.
-I hope this helps! Let me know if you have any other questions.
+The chemical formula for yttrium hydride is YH5.    
+The molar mass of yttrium hydride is 177.72 g/mol.     
+The density of yttrium hydride is 5.5 g/cm3.     
+The solubility of yttrium hydride in water is 0.01 g/L.    
+I hope this helps! Let me know if you have any other questions.    
