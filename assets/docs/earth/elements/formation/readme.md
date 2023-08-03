@@ -3,6 +3,7 @@
 --------------------
 
 - Elements List:
+  - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
   - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
     - [Germanium-71](/assets/docs/earth/elements/formation/elements/Germanium/isotopes/Germanium-71/readme.md)
 
