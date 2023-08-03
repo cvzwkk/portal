@@ -34,6 +34,8 @@ Here are some additional information about yttrium:
 
 I hope this helps! Let me know if you have any other questions. 
 
+# Yttrium Hydride (YH5)   
+
 Yttrium hydride (YH5) is a binary compound of yttrium and hydrogen. It is a dark gray, hygroscopic solid with a melting point of 1,165°C and a boiling point of 1,770°C. YH5 is a strong reducing agent and is used in a variety of applications, including:
 
 * **Nuclear fuel:** YH5 is a potential fuel for nuclear reactors. It has a high melting point and boiling point, which makes it well-suited for use in high-temperature environments. YH5 is also a good neutron absorber, which makes it useful for controlling the reaction in a nuclear reactor.
@@ -50,23 +52,4 @@ Here are some additional information about yttrium hydride:
 * The density of yttrium hydride is 5.5 g/cm3.
 * The solubility of yttrium hydride in water is 0.01 g/L
 
-------------------------
-
-# Yttrium Hydride (YH5)   
-
-is a binary compound of yttrium and hydrogen. It is a dark gray, hygroscopic solid with a melting point of 1,165°C and a boiling point of 1,770°C.  
-YH5 is a strong reducing agent and is used in a variety of applications, including:
-
-Nuclear fuel: YH5 is a potential fuel for nuclear reactors. It has a high melting point and boiling point, which makes it well-suited for use in high-temperature environments. YH5 is also a good neutron absorber, which makes it useful for controlling the reaction in a nuclear reactor.
-High-temperature superconductors: YH5 is a component of some high-temperature superconductors. These materials have the ability to conduct electricity with no resistance at very high temperatures. YH5 helps to improve the superconducting properties of these materials.
-Magnetic materials: YH5 is a magnetic material. It can be used to make permanent magnets and to control the magnetic properties of other materials.
-Gas sensors: YH5 can be used to make gas sensors. These sensors can be used to detect the presence of certain gases, such as hydrogen, carbon monoxide, and methane.
-YH5 is a relatively safe compound, but it can be harmful if inhaled or ingested. It is also a fire hazard and should be handled with care.
-
-Here are some additional information about yttrium hydride:
-
-The chemical formula for yttrium hydride is YH5.    
-The molar mass of yttrium hydride is 177.72 g/mol.     
-The density of yttrium hydride is 5.5 g/cm3.     
-The solubility of yttrium hydride in water is 0.01 g/L.    
-I hope this helps! Let me know if you have any other questions.    
+------------------------    
