@@ -225,3 +225,32 @@ The effect of subduction, where one tectonic plate is forced beneath another pla
 The combined effect of these processes results in the subduction of the oceanic lithosphere into the mantle, leading to various geological phenomena, such as earthquakes, volcanic arcs, mountain building, and the recycling of Earth's crustal material. Subduction is a fundamental process in plate tectonics, shaping the Earth's surface and influencing its geological evolution over millions of years.
 
 ---------------------
+
+Famous Subduction Zone, Called by: Ring Of Fire:    
+
+----------------------    
+
+![Image of Ring of Fire map](/assets/docs/earth/layers/img/unnamed.jpg)   
+External Source: national geographic
+
+----------------------    
+
+The Ring of Fire is a horseshoe-shaped belt of volcanoes and earthquakes that encircles the Pacific Ocean. It is home to over 75% of the world's active volcanoes and is responsible for about 90% of the world's earthquakes.
+
+The Ring of Fire is caused by the subduction of oceanic plates beneath continental plates. As the oceanic plate sinks, it melts and the magma rises to the surface, forming volcanoes. The earthquakes are caused by the friction between the plates as they move past each other.
+
+The Ring of Fire is a geologically active region and is prone to natural disasters such as volcanic eruptions, earthquakes, and tsunamis. However, it is also a region of great beauty and diversity, with lush forests, towering mountains, and stunning coastlines.
+
+Some of the most active volcanoes in the Ring of Fire include Mount Fuji in Japan, Mount Rainier in the United States, and Mount Pinatubo in the Philippines. Some of the most destructive earthquakes in history have also occurred in the Ring of Fire, including the 2011 Tohoku earthquake in Japan and the 2004 Indian Ocean earthquake and tsunami.
+
+The Ring of Fire is a fascinating and dynamic region of the Earth, and it is a reminder of the power of nature.
+
+Here are some additional facts about the Ring of Fire:
+
+* It is about 40,000 kilometers (25,000 miles) long.
+* It runs through 14 countries, including the United States, Japan, Indonesia, and Chile.
+* It is home to over 100 active volcanoes.
+* It is responsible for about 70% of the world's volcanic eruptions.
+* It is also responsible for about 90% of the world's earthquakes.
+
+The Ring of Fire is a beautiful and dangerous place, and it is a reminder of the power of nature.
