@@ -9,7 +9,9 @@
   - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)
   - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
   - [Neptunium](/assets/docs/earth/elements/formation/elements/neptunium/readme.md)
-  - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)   
+  - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)
+  - [Halfinium / Hydride](/assets/docs/earth/elements/formation/elements/Halfinium/readme.md)
+  - [Zirconium / Hydride](/assets/docs/earth/elements/formation/elements/Zirconium/readme.md)  
 
 
 --------------------
