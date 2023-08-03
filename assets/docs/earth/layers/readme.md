@@ -35,6 +35,9 @@ This layered structure of the Earth is known as the Earth's structure or interna
 
 # The Earth's outermost layer   
 
+![img](/assets/docs/earth/layers/img/F2nq5qcXoAIEY4z.jpeg)   
+ImageExternal Source: [Forbes](https://www.forbes.com/sites/davidbressan/2022/06/09/new-map-shows-earths-tectonic-plates-in-unprecedented-detail/)  
+
 known as the lithosphere, is divided into several large and small plates that move, interact, and sometimes collide with each other.
 These plates are rigid and brittle, and they float on top of the hotter and more ductile asthenosphere layer beneath them.
 
@@ -53,7 +56,7 @@ The study of plate tectonics is important for understanding many geological proc
 
 -----------------
 
-# Detail's about each step of plate tectonics:
+# Detail's about each step of plate tectonics:   
 
 1. **Divergent Plate Boundaries:**
    - At divergent plate boundaries, tectonic plates move away from each other. This movement is facilitated by the upwelling of hot mantle material at mid-ocean ridges.
@@ -230,8 +233,9 @@ Famous Subduction Zone, Called by: Ring Of Fire:
 
 ----------------------    
 
-![Image of Ring of Fire map](/assets/docs/earth/layers/img/unnamed.jpg)   
-External Source: national geographic
+Ring of Fire Map:   
+![img](/assets/docs/earth/layers/img/F2ndLMdWkAEMOiT.jpeg)   
+ImageExternal Source:  MapsOfWorld
 
 ----------------------    
 
@@ -254,3 +258,10 @@ Here are some additional facts about the Ring of Fire:
 * It is also responsible for about 90% of the world's earthquakes.
 
 The Ring of Fire is a beautiful and dangerous place, and it is a reminder of the power of nature.
+
+-----------------------
+
+![Image of Ring of Fire map](/assets/docs/earth/layers/img/unnamed.jpg)   
+External Source: national geographic
+
+-----------------------   
