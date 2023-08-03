@@ -688,3 +688,108 @@ The Maxwell relations are a set of equations that relate the partial derivatives
 
 ------------------------   
 
+* **The Clausius-Clapeyron equation:**
+
+The Clausius-Clapeyron equation is a relationship between the equilibrium pressure and temperature of a phase change. The Clausius-Clapeyron equation can be expressed by the following equation:
+
+```
+dP / dT = ΔH / RT^2
+```
+
+where:
+
+* ΔH is the enthalpy of the phase change
+* R is the gas constant
+* T is the temperature
+
+The Clausius-Clapeyron equation can be used to calculate the equilibrium pressure of hydrogen gas over yttrium hydride as a function of temperature.
+
+* **The van't Hoff equation:**
+
+The van't Hoff equation is a relationship between the equilibrium constant and temperature of a chemical reaction. The van't Hoff equation can be expressed by the following equation:
+
+```
+dlnK / dT = ΔH / RT^2
+```
+
+where:
+
+* ΔH is the enthalpy of the reaction
+* R is the gas constant
+* T is the temperature
+
+The van't Hoff equation can be used to calculate the equilibrium constant of the hydriding reaction as a function of temperature.
+
+* **The Arrhenius equation:**
+
+The Arrhenius equation is a relationship between the rate constant and temperature of a chemical reaction. The Arrhenius equation can be expressed by the following equation:
+
+```
+k = A * exp(-E_a / RT)
+```
+
+where:
+
+* k is the rate constant
+* A is the pre-exponential factor
+* E_a is the activation energy
+* R is the gas constant
+* T is the temperature
+
+The Arrhenius equation can be used to calculate the rate constant of the hydriding reaction as a function of temperature.
+
+-----------------    
+
+* **The Sabatier-Senderens equation:**
+
+The Sabatier-Senderens equation is a relationship between the rate of reaction and the partial pressure of hydrogen gas. The Sabatier-Senderens equation can be expressed by the following equation:
+
+```
+r = k * P_H2^n
+```
+
+where:
+
+* r is the rate of reaction
+* k is the rate constant
+* P_H2 is the partial pressure of hydrogen gas
+* n is an empirical constant
+
+The Sabatier-Senderens equation can be used to calculate the rate of the hydriding reaction as a function of the partial pressure of hydrogen gas.
+
+* **The Sieverts' law:**
+
+Sieverts' law is a relationship between the equilibrium pressure of hydrogen gas over a metal hydride and the concentration of hydrogen atoms in the metal. Sieverts' law can be expressed by the following equation:
+
+```
+P_H2 = K * [H]^m
+```
+
+where:
+
+* P_H2 is the equilibrium pressure of hydrogen gas
+* K is the Sieverts' constant
+* [H] is the concentration of hydrogen atoms in the metal
+* m is an empirical constant
+
+Sieverts' law can be used to calculate the equilibrium pressure of hydrogen gas over yttrium hydride as a function of the concentration of hydrogen atoms in the metal.
+
+* **The Maxwell-Boltzmann distribution:**
+
+The Maxwell-Boltzmann distribution is a probability distribution that describes the distribution of velocities of molecules in a gas. The Maxwell-Boltzmann distribution can be expressed by the following equation:
+
+```
+f(v) = 4 * pi * v^2 * exp(-mv^2 / 2kT)
+```
+
+where:
+
+* f(v) is the Maxwell-Boltzmann distribution
+* v is the velocity of a molecule
+* m is the mass of a molecule
+* k is the Boltzmann constant
+* T is the temperature
+
+The Maxwell-Boltzmann distribution can be used to calculate the distribution of velocities of hydrogen atoms in a gas.
+
+-----------------------        
