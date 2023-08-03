@@ -149,6 +149,21 @@ The time required for the cooling step will vary depending on the temperature of
 
 ------------------------------     
 
+# Possibles Mixtures to Increase the g/Mol of YH5:   
+The molar mass of YH5 is 108.96 g/mol. There are a few possible mixtures that could be used to improve the molar mass of YH5.
+
+One possibility would be to mix YH5 with a heavier metal hydride, such as zirconium hydride (ZrH4) or hafnium hydride (HfH4). This would increase the average molar mass of the mixture. For example, a mixture of YH5 and ZrH4 would have a molar mass of 120.32 g/mol.
+
+Another possibility would be to mix YH5 with a non-metal hydride, such as borane (BH3) or aluminum hydride (AlH3). This would also increase the average molar mass of the mixture. For example, a mixture of YH5 and BH3 would have a molar mass of 112.22 g/mol.
+
+The specific mixture that would be most effective in improving the molar mass of YH5 would depend on the specific application. For example, if the mixture was being used as a fuel, then a heavier metal hydride, such as ZrH4 or HfH4, would be a better choice. If the mixture was being used as a catalyst, then a non-metal hydride, such as BH3 or AlH3, would be a better choice.
+
+It is important to note that the molar mass of a mixture is not simply the average of the molar masses of the individual components. The molar mass of a mixture is also affected by the way in which the components are mixed. For example, if YH5 and ZrH4 were mixed in a 1:1 ratio, then the molar mass of the mixture would be 120.32 g/mol. However, if YH5 and ZrH4 were mixed in a 1:100 ratio, then the molar mass of the mixture would be closer to 108.96 g/mol.
+
+The best way to determine the molar mass of a mixture is to measure it experimentally.
+
+------------------------------   
+
 - Equations to Produce Yttrium Hydride YH5:
 
 Sure, here are all the equations necessary to produce yttrium hydride (YH5):
