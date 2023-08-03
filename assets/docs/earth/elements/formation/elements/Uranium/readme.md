@@ -5,7 +5,7 @@
 # Uranium:
 
 * Uranium is a chemical element with the symbol **U** and atomic number 92. It is a silvery-white, dense, ductile, and strongly radioactive metal.
-![Image of Uranium chemical element](https://www.britannica.com/science/uranium)   
+
 * Uranium is the heaviest naturally occurring element and is found in very small quantities in the Earth's crust. It is mined for its use as a fuel in nuclear power plants and nuclear weapons.
 * Uranium is a very reactive element and can react with a variety of other elements. It is also a strong emitter of radiation, which can be harmful to human health.
 * Uranium has a long half-life, meaning that it takes a very long time for it to decay. This makes it a suitable fuel for nuclear power plants, as the radioactivity will last for many years.
