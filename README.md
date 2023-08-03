@@ -35,6 +35,8 @@ One collection of knowledge
       - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
       - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)  
       - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
+      - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)
+      - [Halfinium / Hydride](/assets/docs/earth/elements/formation/elements/Halfinium/readme.md)   
 
      - [Water](/assets/docs/earth/elements/water/readme.md)
      - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
@@ -92,9 +94,11 @@ One collection of knowledge
 -------------
 - [Synthesis](/assets/docs/synthesis/readme.md)
 - [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
+
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
-    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)   
+    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
+    - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)   
 
 - [Formulas](/assets/docs/synthesis/substances/readme.md)  
    - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
