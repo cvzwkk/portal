@@ -22,7 +22,8 @@ One collection of knowledge
   
 - Theories:
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
-  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)  
+  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
+  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)    
 
 - Earth:
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
@@ -40,8 +41,13 @@ One collection of knowledge
 
      - [Water](/assets/docs/earth/elements/water/readme.md)
      - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
+
+- [Substances](/assets/docs/synthesis/substances/readme.md)  
+   - Substances Types / Elements Formation:  
+    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
+    - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
+    - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)     
      
-   
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
     - [ETOPO1 Ice-Surface](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/)     
@@ -94,11 +100,6 @@ One collection of knowledge
 -------------
 - [Synthesis](/assets/docs/synthesis/readme.md)
 - [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
-
-- [Substances](/assets/docs/synthesis/substances/readme.md)  
-   - Substances Types / Elements Formation:  
-    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
-    - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)   
 
 - [Formulas](/assets/docs/synthesis/substances/readme.md)  
    - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
