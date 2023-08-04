@@ -4,6 +4,7 @@
 
 - Substances:
   - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
+  - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)   
   
 
 ----------------------    
