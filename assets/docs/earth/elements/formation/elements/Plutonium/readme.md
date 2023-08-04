@@ -86,3 +86,22 @@ Here are some additional properties of plutonium hydride:
 Plutonium hydride is a potential fuel for nuclear fusion reactors. It is also a potential source of hydrogen for fuel cells. However, plutonium hydride is also a very dangerous material and should only be handled by trained professionals.
 
 I hope this helps! Let me know if you have other questions or requests.
+
+-------------------------    
+
+7 kg of plutonium-239 have **1.25 x 10^24** atoms.
+
+The mass of a single plutonium-239 atom is 239.05215 u, and 7 kg is equal to 7000 g. Therefore, the number of atoms in 7 kg of plutonium-239 is 7000 g / 239.05215 u * 6.02214076 x 10^23 atoms/u = 1.25 x 10^24 atoms.
+
+Here is the calculation:
+
+```
+mass of plutonium-239 * Avogadro's number = number of atoms
+7000 g * 6.02214076 x 10^23 atoms/u = 1.25 x 10^24 atoms
+```
+
+Plutonium-239 is a radioactive element with a half-life of 24,100 years. This means that half of the atoms in a sample of plutonium-239 will decay into other elements after 24,100 years. After 48,200 years, only a quarter of the atoms will remain, and so on.
+
+The number of atoms in 7 kg of plutonium-239 will decrease over time as the atoms decay. However, the number will still be significant for many years to come.    
+
+---------------------------    
