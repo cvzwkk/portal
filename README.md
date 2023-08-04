@@ -33,6 +33,8 @@ One collection of knowledge
    
 -  Elements:
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
+      - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
+      - [Plutonium](/assets/docs/earth/elements/formation/elements/Plutonium/readme.md)   
       - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
       - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)  
       - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
