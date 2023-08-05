@@ -64,3 +64,23 @@ Despite these challenges, Li2MgH3 is a promising material with the potential to 
 
 --------------------------------       
 
+# Lithium aluminum hydride (LiAlH4),    
+also known as LAH, is a strong reducing agent. It is a white, solid compound that is soluble in diethyl ether and THF. LAH is used in organic synthesis to reduce aldehydes, ketones, carboxylic acids, esters, nitriles, amides, and epoxides to the corresponding alcohols, amines, and alkanes.
+
+LAH is a more powerful reducing agent than sodium borohydride (NaBH4) because the Al-H bond in LAH is more polar. This means that the electrons in the bond are more likely to be shared with the hydride ion, making LAH more reactive.
+
+LAH is also more stable than NaBH4 at high temperatures. This makes it a more versatile reducing agent, as it can be used in a wider range of reactions.
+
+However, LAH is also more hazardous than NaBH4. It is pyrophoric, meaning that it can ignite spontaneously in air. It is also corrosive to skin and eyes.
+
+As a result, LAH should be handled with care. It should be stored in a cool, dry place and away from heat and light. It should also be used in a well-ventilated area.
+
+Here are some of the applications of LiAlH4:
+
+* **Organic synthesis:** LAH is used in organic synthesis to reduce aldehydes, ketones, carboxylic acids, esters, nitriles, amides, and epoxides to the corresponding alcohols, amines, and alkanes.
+* **Hydrogen storage:** LAH can be used to store hydrogen. When LAH is reacted with water, it releases hydrogen gas. This makes it a potential candidate for hydrogen fuel cells.
+* **Metal refining:** LAH can be used to refine metals. It can be used to remove impurities from metals, such as iron and copper.
+
+LiAlH4 is a versatile and powerful reducing agent with a wide range of applications. However, it is also hazardous and should be handled with care.   
+
+----------------------    
