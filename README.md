@@ -53,7 +53,8 @@ One collection of knowledge
    - Substances Types / Elements Formation:  
     - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
     - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
-    - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)     
+    - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
+    - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
      
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
