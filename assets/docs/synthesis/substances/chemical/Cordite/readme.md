@@ -97,6 +97,43 @@ The extrusion process for cordite is a versatile process that can be used to pro
 
 -------------------------     
 
+The amount of each element or ingredient during the manufacture of cordite is determined by a variety of factors, including the desired properties of the cordite, the manufacturing process, and the availability of raw materials.
+
+The following are some of the factors that are considered when determining the amount of each element or ingredient in cordite:
+
+* **The desired properties of the cordite:** The properties of the cordite, such as its burning rate, flame velocity, and specific impulse, are determined by the amount of each element or ingredient in the cordite. For example, a higher proportion of nitroglycerin will result in a cordite with a faster burning rate.
+* **The manufacturing process:** The manufacturing process also affects the amount of each element or ingredient in cordite. For example, a different amount of nitrocellulose may be required if the cordite is being extruded or cast.
+* **The availability of raw materials:** The availability of raw materials also affects the amount of each element or ingredient in cordite. For example, if nitroglycerin is not available, it may be necessary to use a different propellant.
+
+The amount of each element or ingredient in cordite is typically determined by trial and error. A variety of different compositions are tested until the desired properties are achieved.
+
+It is important to note that the amount of each element or ingredient in cordite is critical. If the amount of an element or ingredient is too high or too low, the cordite may not function properly. For example, if the amount of nitroglycerin is too high, the cordite may detonate too quickly. If the amount of nitroglycerin is too low, the cordite may not have enough power.
+
+The determination of the amount of each element or ingredient in cordite is a complex process that requires a thorough understanding of the properties of the cordite and the manufacturing process. It is important to consult with a qualified engineer or scientist when determining the amount of each element or ingredient in cordite.  
+
+-------------------------
+
+# 500G Of Cordite:   
+
+The amount of each element or ingredient in a 500g cordite charge will vary depending on the desired properties of the cordite and the manufacturing process. However, some general guidelines can be provided.
+
+* **Nitrocellulose:** Nitrocellulose is the main ingredient in cordite, and it typically makes up around 50% of the charge.
+* **Nitroglycerin:** Nitroglycerin is a high-energy propellant that increases the burning rate of cordite. It typically makes up around 30% of the charge.
+* **Stearates:** Stearates are stabilizers that help to prevent cordite from prematurely detonating. They typically make up around 10% of the charge.
+* **Petrolatum:** Petrolatum is a waxy substance that helps to lubricate the cordite and prevent it from sticking to the walls of the cartridge. It typically makes up around 5% of the charge.
+* **Dextrin:** Dextrin is a starch-based compound that helps to bind the ingredients of cordite together. It typically makes up around 5% of the charge.
+* **Camphor:** Camphor is a fragrant compound that helps to prevent the cordite from absorbing moisture. It typically makes up around 1% of the charge.
+* **Copolymers:** Copolymers are polymers that help to improve the flexibility and water resistance of cordite. They typically make up around 1-5% of the charge.
+* **Plasticizers:** Plasticizers are compounds that help to make cordite more flexible and easier to handle. They typically make up around 1-5% of the charge.
+* **Colorants:** Colorants are added to cordite to make it easier to identify. They typically make up around 0.1-0.5% of the charge.
+* **Other ingredients:** Other ingredients, such as stabilizers, plasticizers, and colorants, may also be added to cordite to improve its properties. The amount of these ingredients will vary depending on the specific type of cordite being manufactured.
+
+It is important to note that the amount of each element or ingredient in a 500g cordite charge is critical. If the amount of an element or ingredient is too high or too low, the cordite may not function properly. For example, if the amount of nitroglycerin is too high, the cordite may detonate too quickly. If the amount of nitroglycerin is too low, the cordite may not have enough power.
+
+The determination of the amount of each element or ingredient in a 500g cordite charge is a complex process that requires a thorough understanding of the properties of the cordite and the manufacturing process. It is important to consult with a qualified engineer or scientist when determining the amount of each element or ingredient in a 500g cordite charge.
+
+-------------------------    
+
 # Variables of Manufacture:   
 
 The extrusion process for cordite is a complex process that involves a number of variables. Some of the most important variables include:
