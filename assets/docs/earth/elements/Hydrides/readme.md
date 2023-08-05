@@ -62,6 +62,20 @@ However, Li2MgH3 is still under development, and there are some challenges that 
 
 Despite these challenges, Li2MgH3 is a promising material with the potential to revolutionize the way we use hydrogen. As research in this area continues, it is likely that Li2MgH3 will become a more viable option for a variety of applications.  
 
+----------------------   
+
+Here are some key points to consider:
+
+1. Li2MgH3: This compound consists of lithium (Li+) and magnesium (Mg2+) cations, along with hydride (H-) anions. Li2MgH3 is a complex ionic hydride and has been studied for its potential as a hydrogen storage material. Its strength and stability depend on the specific conditions and applications.
+
+2. Ionic Character: The strength of an ionic hydride is influenced by the degree of ionic character in the compound. Ionic character is determined by the electronegativity difference between the metal cation and hydride anion. Higher ionic character generally leads to stronger ionic bonds.
+
+3. Bond Strength: The strength of the ionic bond between the metal cation and hydride anion also affects the overall strength of the compound. Factors such as the size and charge of the metal cation and the size of the hydride anion can influence the bond strength.
+
+4. Crystal Structure: The crystal structure of an ionic hydride can also impact its strength. Different crystal structures can result in variations in the stability and reactivity of the compound.
+
+In summary, it is not accurate to make a blanket statement that all ionic hydrides are stronger than Li2MgH3. The strength of an ionic hydride depends on various factors, including the specific metal cation, hydride anion, ionic character, bond strength, and crystal structure. Further research and analysis would be needed to determine the relative strength of specific ionic hydrides, including Li2MgH3, under different conditions and applications.  
+
 --------------------------------       
 
 # Lithium aluminum hydride (LiAlH4),    
