@@ -4,6 +4,7 @@
 
 - Substances:
   - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
+  - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)   
   - [Cordite](/assets/docs/synthesis/substances/chemical/Cordite/readme.md)    
   - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)  
   - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
