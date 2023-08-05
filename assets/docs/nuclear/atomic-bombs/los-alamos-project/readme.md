@@ -394,3 +394,34 @@ Here is some information about the composition and properties of the trace eleme
 24. Thorium (Th) - Traces of thorium are found in Trinitite. Thorium is a radioactive element that is commonly used in nuclear reactors as a fuel source.
 
 25. Uranium (U) - Traces of uranium are found in Trinitite. Uranium is a highly radioactive element that is commonly used in nuclear reactors as a fuel source.
+
+-------------------------   
+
+information about the construction of the cluster at Los Alamos during the Manhattan Project:
+
+- The cluster at Los Alamos, known as the V-Site, consisted of a cluster of wooden buildings.
+- It was built in January 1944 as a high-security area located away from the main laboratory for safety and security reasons.
+- The V-Site was where the atomic bombs were assembled.
+- The buildings at the V-Site were described as garage-like wooden structures.
+- The construction of the cluster was part of the emergency wartime measures taken during the Manhattan Project.
+- The Los Alamos site required the construction of a whole new city to accommodate scientists and military personnel involved in the project.
+- Major improvements were made to the living conditions, utilities, housing, and community facilities at Los Alamos after the war.
+
+-------------------------
+
+# Public Sources:   
+
+Here are some documents about the Los Alamos project:
+
+- "Manhattan Project: Library - OSTI.GOV": A collection of documents and photographs related to the project.
+- "Home | Research Library - Los Alamos National Laboratory": Los Alamos Research Online, which includes published journal and conference papers.
+- "Reports | Research Library": Reports from Los Alamos National Laboratory, the Department of Energy, and other organizations.
+- "Los Alamos Technical Reports and Publications - FAS Project on Government Secrecy": Information on unclassified reports on nuclear science and technology.
+- "The Manhattan Project | Historical Documents - Atomic Archive": Historical documents chronicling the establishment of the secret program.
+- "Los Alamos Docs (LANL) - Gamma Explorer": Online access to a subset of the DVD collection's documents through the Project on Government Secrecy.
+- "History of Los Alamos National Laboratory - LibGuides": Tens of millions of documents, films, books, and other materials related to the development, testing, and production of nuclear technology.
+- "Los Alamos Historical Document Retrieval and Assessment (LAHDRA) Project": A project conducted by the Centers for Disease Control and Prevention (CDC) to review available documents related to Los Alamos National Laboratory.
+- "Final Report of the Los Alamos Historical Document Retrieval and Assessment (LAHDRA) Project - gov.cdc.wwwn": A report published in memory of Thomas Widner, the Project Director and Principal Author for the LAHDRA project.
+- "LANL Materials Illuminate Manhattan Project at Los Alamos - Atomic Heritage Foundation": Materials and films documenting pivotal moments and people involved in the making of the atomic bomb.
+
+--------------------------
