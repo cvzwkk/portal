@@ -32,7 +32,7 @@ One collection of knowledge
   - [Core/Nucleous](/assets/docs/earth/core/readme.md)   
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
    
--  Elements:
+-  Elements:  
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
       - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
       - [Plutonium](/assets/docs/earth/elements/formation/elements/Plutonium/readme.md)   
@@ -44,6 +44,7 @@ One collection of knowledge
 
      - [Water](/assets/docs/earth/elements/water/readme.md)
      - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
+     - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)   
 
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
