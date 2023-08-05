@@ -44,7 +44,10 @@ One collection of knowledge
 
      - [Water](/assets/docs/earth/elements/water/readme.md)
      - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
-     - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)   
+     - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)
+
+   - Crystals:
+    - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)    
 
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
