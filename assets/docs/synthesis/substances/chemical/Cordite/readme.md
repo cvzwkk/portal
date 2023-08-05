@@ -30,3 +30,18 @@ Cordite was invented by Sir Frederick Abel in 1889. It was first used by the Bri
 
 ---------------------    
 
+- Manufacture:
+  -Process of Extrusion
+
+The manufacture of Cordite from its component materials was essentially that of combining a fairly stiff paste (nitrocellulose) with an oily liquid (nitroglycerine) and converting the resultant material into the appropriate form.
+In the early days of RNCF the mixing was done with the aid of a solvent, acetone. The mixing was carried out in an “incorporator house” where the components were thoroughly mixed and then passed to “press houses” for extrusion into rods of various diameters depending upon the size of   
+
+shell the material was destined for. The presses were hydraulically operated and were fitted with interchangeable heads for the different sizes of Cordite.
+The extruded Cordite was then laid in slatted drying trays through which warm air could be passed to drive off the acetone solvent. Finally     
+the rods or cords were “gauged” or cut to length and carefully aligned, wrapped and packed in boxes and dispatched to the filling factories. RNCF was only concerned with the manufacture of propellant and never involved in the shell filling process.
+In later years the manufacture was altered slightly by producing the nitrocellulose in the form of a slurry which could be pumped to the incorporator houses and which removed the need for any additional solvent to aid mixing.
+
+- [External Source](http://www.greenacre.info/RNCF/page10.html)
+    
+----------------------     
+
