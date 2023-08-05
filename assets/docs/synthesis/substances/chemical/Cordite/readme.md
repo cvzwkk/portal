@@ -45,3 +45,329 @@ In later years the manufacture was altered slightly by producing the nitrocellul
     
 ----------------------     
 
+Cordite is a type of smokeless propellant that was invented in the late 19th century. It is made from a mixture of nitrocellulose, nitroglycerin, and stabilizers. Cordite can be extruded into a variety of shapes, including rods, tubes, and cartridges.
+
+The extrusion process for cordite is similar to the extrusion process for other materials. The first step is to prepare the ingredients. The nitrocellulose and nitroglycerin are mixed together in a specific ratio. The stabilizers are then added, and the mixture is heated until it is melted.
+
+The molten mixture is then fed into an extruder. The extruder is a machine that has a barrel and a screw. The barrel is heated, and the screw rotates. The screw forces the molten mixture through a die. The die is a metal block that has a specific cross-sectional shape. The extruded cordite takes on the shape of the die.
+
+The extruded cordite is then cooled. This can be done by air cooling or by water cooling. The cooled cordite can then be cut to the desired length.
+
+The extrusion process for cordite is a relatively simple process. However, it is important to follow safety guidelines when extruding cordite. Cordite is a flammable material, and it can be dangerous if it is not handled properly.
+
+Here are some safety guidelines for extruding cordite:
+
+* Always wear safety glasses and gloves when extruding cordite.
+* Do not extrude cordite in an area where there is a fire hazard.
+* Keep the extruder clean and free of debris.
+* Do not extrude cordite if it is not the correct temperature.
+* Do not extrude cordite if it is not the correct consistency.
+
+-------------------------     
+
+* **Ingredients:** Cordite is made from a mixture of nitrocellulose, nitroglycerin, and stabilizers. The specific proportions of these ingredients vary depending on the type of cordite being manufactured.
+* **Preparation:** The nitrocellulose and nitroglycerin are mixed together in a specific ratio. The stabilizers are then added, and the mixture is heated until it is melted. The mixture is then cooled to a temperature that is still liquid but not too hot.
+* **Extrusion:** The molten mixture is then fed into an extruder. The extruder is a machine that has a barrel and a screw. The barrel is heated, and the screw rotates. The screw forces the molten mixture through a die. The die is a metal block that has a specific cross-sectional shape. The extruded cordite takes on the shape of the die.
+* **Cooling:** The extruded cordite is then cooled. This can be done by air cooling or by water cooling. The cooled cordite can then be cut to the desired length.
+* **Sizing:** The cooled cordite may then be sized to the desired dimensions. This can be done by cutting, trimming, or grinding.
+* **Packaging:** The cordite is then packaged in containers that are suitable for its intended use.
+
+The extrusion process for cordite is a relatively simple process. However, it is important to follow safety guidelines when extruding cordite. Cordite is a flammable material, and it can be dangerous if it is not handled properly.
+
+Here are some safety guidelines for extruding cordite:
+
+* Always wear safety glasses and gloves when extruding cordite.
+* Do not extrude cordite in an area where there is a fire hazard.
+* Keep the extruder clean and free of debris.
+* Do not extrude cordite if it is not the correct temperature.
+* Do not extrude cordite if it is not the correct consistency.
+
+By following these safety guidelines, you can help to ensure that the extrusion process for cordite is safe and efficient.
+
+Here are some additional details about the extrusion process for cordite:
+
+* The barrel of the extruder is typically heated to a temperature of between 200 and 300 degrees Celsius.
+* The screw of the extruder rotates at a speed of between 100 and 200 revolutions per minute.
+* The die of the extruder is typically made of steel or brass.
+* The cross-sectional shape of the die can be varied to produce different shapes of cordite.
+* The extruded cordite is typically cooled by air cooling.
+* The cooled cordite is typically cut to the desired length using a saw or a cutting machine.
+
+The extrusion process for cordite is a versatile process that can be used to produce a variety of shapes and sizes of cordite. The process is relatively simple and efficient, and it can be used to produce cordite that is consistent in quality.   
+
+-------------------------     
+
+# Variables of Manufacture:   
+
+The extrusion process for cordite is a complex process that involves a number of variables. Some of the most important variables include:
+
+* **The temperature of the barrel:** The temperature of the barrel determines the viscosity of the molten mixture. A higher temperature will result in a lower viscosity, which will make it easier to extrude the cordite.
+* **The speed of the screw:** The speed of the screw determines the amount of pressure that is applied to the molten mixture. A higher speed will result in a higher pressure, which will make it easier to extrude the cordite.
+* **The cross-sectional shape of the die:** The cross-sectional shape of the die determines the shape of the extruded cordite.
+* **The length of the die:** The length of the die determines the length of the extruded cordite.
+* **The cooling rate:** The cooling rate determines the final properties of the extruded cordite. A slower cooling rate will result in a cordite that is more brittle, while a faster cooling rate will result in a cordite that is more flexible.
+
+The following equation can be used to calculate the extrusion pressure for cordite:
+
+```
+P = K * ln (R) + C
+```
+
+where:
+
+* P is the extrusion pressure (MPa)
+* K is a constant that depends on the material being extruded
+* ln (R) is the natural logarithm of the extrusion ratio
+* R is the extrusion ratio, which is the ratio of the initial cross-sectional area of the molten mixture to the final cross-sectional area of the extruded cordite
+* C is a constant that depends on the die geometry
+
+The extrusion pressure is a critical factor in the extrusion process. If the extrusion pressure is too low, the molten mixture will not be able to flow through the die. If the extrusion pressure is too high, the molten mixture will be squeezed out of the die too quickly, which can result in defects in the extruded cordite.
+
+The extrusion process for cordite is a complex process that involves a number of variables. By understanding these variables, you can help to ensure that the extrusion process is carried out safely and efficiently.
+
+--------------------------    
+
+# Equations of Manufacture:
+
+* **Equation for calculating the extrusion pressure:**
+
+```
+P = K * ln (R) + C
+```
+
+where:
+
+* P is the extrusion pressure (MPa)
+* K is a constant that depends on the material being extruded
+* ln (R) is the natural logarithm of the extrusion ratio
+* R is the extrusion ratio, which is the ratio of the initial cross-sectional area of the molten mixture to the final cross-sectional area of the extruded cordite
+* C is a constant that depends on the die geometry
+
+* **Equation for calculating the viscosity of the molten mixture:**
+
+```
+µ = K * T ^ n
+```
+
+where:
+
+* µ is the viscosity of the molten mixture (Pa * s)
+* K is a constant that depends on the material being extruded
+* T is the temperature of the molten mixture (°C)
+* n is an exponent that depends on the material being extruded
+
+* **Equation for calculating the rate of cooling of the extruded cordite:**
+
+```
+Q = k * A * ΔT
+```
+
+where:
+
+* Q is the rate of cooling (W)
+* k is a constant that depends on the material being extruded
+* A is the surface area of the extruded cordite (m^2)
+* ΔT is the difference between the temperature of the extruded cordite and the ambient temperature (°C)
+
+These are just a few of the equations that are used in the manufacture of cordite. By understanding these equations, you can help to ensure that the manufacturing process is carried out safely and efficiently.
+
+It is important to note that these equations are just approximations. The actual values of the variables may vary depending on the specific manufacturing process. It is always best to consult with a qualified engineer or scientist when designing or operating a cordite manufacturing process.   
+
+------------------------   
+
+* **Equation for calculating the energy required to extrude the cordite:**
+
+```
+E = P * V
+```
+
+where:
+
+* E is the energy required to extrude the cordite (J)
+* P is the extrusion pressure (MPa)
+* V is the volume of the extruded cordite (m^3)
+
+* **Equation for calculating the tensile strength of the extruded cordite:**
+
+```
+σ = F / A
+```
+
+where:
+
+* σ is the tensile strength of the extruded cordite (MPa)
+* F is the tensile force (N)
+* A is the cross-sectional area of the extruded cordite (m^2)
+
+* **Equation for calculating the modulus of elasticity of the extruded cordite:**
+
+```
+E = σ / ε
+```
+
+where:
+
+* E is the modulus of elasticity of the extruded cordite (MPa)
+* σ is the tensile strength of the extruded cordite (MPa)
+* ε is the strain (unitless)
+
+--------------------------         
+
+* **Equation for calculating the burning rate of the cordite:**
+
+```
+r = k * (T - Tc)^n
+```
+
+where:
+
+* r is the burning rate of the cordite (mm/s)
+* k is a constant that depends on the material being extruded
+* T is the temperature of the cordite (°C)
+* Tc is the critical temperature of the cordite (°C)
+* n is an exponent that depends on the material being extruded
+
+* **Equation for calculating the heat of combustion of the cordite:**
+
+```
+Qc = mc * ΔHc
+```
+
+where:
+
+* Qc is the heat of combustion of the cordite (J/g)
+* mc is the mass of the cordite (g)
+* ΔHc is the change in enthalpy of combustion (J/mol)
+
+* **Equation for calculating the specific impulse of the cordite:**
+
+```
+Isp = g * Qc / m * V
+```
+
+where:
+
+* Isp is the specific impulse of the cordite (s)
+* g is the acceleration due to gravity (m/s^2)
+* Qc is the heat of combustion of the cordite (J/g)
+* m is the mass of the cordite (g)
+* V is the velocity of the cordite (m/s)
+
+--------------------------      
+
+* **Equation for calculating the density of the cordite:**
+
+```
+ρ = m / V
+```
+
+where:
+
+* ρ is the density of the cordite (kg/m^3)
+* m is the mass of the cordite (kg)
+* V is the volume of the cordite (m^3)
+
+* **Equation for calculating the specific heat capacity of the cordite:**
+
+```
+Cp = d * Q / ΔT
+```
+
+where:
+
+* Cp is the specific heat capacity of the cordite (J/kg/°C)
+* d is the density of the cordite (kg/m^3)
+* Q is the heat of combustion of the cordite (J/g)
+* ΔT is the change in temperature (°C)
+
+* **Equation for calculating the thermal conductivity of the cordite:**
+
+```
+k = λ * L / ΔT
+```
+
+where:
+
+* k is the thermal conductivity of the cordite (W/m/°C)
+* λ is the thermal conductivity of the cordite (W/m/°C)
+* L is the length of the cordite (m)
+* ΔT is the change in temperature (°C)
+
+----------------------------        
+
+* **Equation for calculating the burning time of the cordite:**
+
+```
+t = L / r
+```
+
+where:
+
+* t is the burning time of the cordite (s)
+* L is the length of the cordite (m)
+* r is the burning rate of the cordite (mm/s)
+
+* **Equation for calculating the flame velocity of the cordite:**
+
+```
+v = r / ρ
+```
+
+where:
+
+* v is the flame velocity of the cordite (m/s)
+* r is the burning rate of the cordite (mm/s)
+* ρ is the density of the cordite (kg/m^3)
+
+* **Equation for calculating the pressure rise of the cordite:**
+
+```
+ΔP = ρ * v^2
+```
+
+where:
+
+* ΔP is the pressure rise of the cordite (Pa)
+* ρ is the density of the cordite (kg/m^3)
+* v is the flame velocity of the cordite (m/s)
+
+----------------------------      
+
+* **Equation for calculating the energy release rate of the cordite:**
+
+```
+Ė = Qc * r
+```
+
+where:
+
+* Ė is the energy release rate of the cordite (J/s)
+* Qc is the heat of combustion of the cordite (J/g)
+* r is the burning rate of the cordite (mm/s)
+
+* **Equation for calculating the thrust of the cordite:**
+
+```
+F = ΔP * A
+```
+
+where:
+
+* F is the thrust of the cordite (N)
+* ΔP is the pressure rise of the cordite (Pa)
+* A is the cross-sectional area of the cordite (m^2)
+
+* **Equation for calculating the specific impulse of the cordite:**
+
+```
+Isp = Ė / F
+```
+
+where:
+
+* Isp is the specific impulse of the cordite (s)
+* Ė is the energy release rate of the cordite (J/s)
+* F is the thrust of the cordite (N)
+
+-----------------------       
+
