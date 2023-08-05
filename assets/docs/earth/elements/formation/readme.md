@@ -13,7 +13,9 @@
   - [Neptunium](/assets/docs/earth/elements/formation/elements/neptunium/readme.md)
   - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)
   - [Halfinium / Hydride](/assets/docs/earth/elements/formation/elements/Halfinium/readme.md)
-  - [Zirconium / Hydride](/assets/docs/earth/elements/formation/elements/Zirconium/readme.md)  
+  - [Zirconium / Hydride](/assets/docs/earth/elements/formation/elements/Zirconium/readme.md)
+  - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)
+  - [Nitrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
 
 
 --------------------
