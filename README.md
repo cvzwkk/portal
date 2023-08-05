@@ -54,7 +54,8 @@ One collection of knowledge
    - Substances Types / Elements Formation:  
     - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
     - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
-    - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)   
+    - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)
+    - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)       
     - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
     - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
      
