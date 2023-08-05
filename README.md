@@ -238,3 +238,13 @@ One collection of knowledge
   
      This is required because the portal contain CORS requests from files inside root dir  
       then this command executed inside root dir of portal, fix the CORS requests.  
+
+------------------
+
+# Drive Backup Link:   
+[Click to Doenload](https://drive.google.com/file/d/1xt7b1S9X7ghcsZgS5tWfZtt3Zw5JCYUZ/view?usp=drive_link)   
+
+--------------------
+
+Portal Maded By: c2v2zw4k or cvzwk
+two identity of same person.
