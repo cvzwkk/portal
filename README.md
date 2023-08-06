@@ -33,7 +33,9 @@ One collection of knowledge
   - [Core/Nucleous](/assets/docs/earth/core/readme.md)   
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
    
--  Elements:  
+-  Elements:
+    - [Isotopes](/assets/docs/earth/elements/Isotopes/customformulas/readme.md)
+    
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
       - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
       - [Plutonium](/assets/docs/earth/elements/formation/elements/Plutonium/readme.md)   
