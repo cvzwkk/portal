@@ -28,3 +28,17 @@ Isotopes are a fascinating and important part of the natural world. They have a 
 ------------------------      
 
 # Heavy Isotopes
+
+There are several isotopes heavier than LK99. Here are a few examples:
+
+* **Oganesson-294** (Og-294) is the heaviest known isotope, with a mass number of 294. It was first synthesized in 2002 by a team of Russian and American scientists.
+     
+* **Copernicium-285** (Cn-285) is the second heaviest known isotope, with a mass number of 285. It was first synthesized in 2009 by a team of German and Russian scientists.
+      
+* **Flerovium-289** (Fl-289) is the third heaviest known isotope, with a mass number of 289. It was first synthesized in 2010 by a team of Russian scientists.
+       
+* **Nihonium-286** (Nh-286) is the fourth heaviest known isotope, with a mass number of 286. It was first synthesized in 2014 by a team of Japanese scientists.
+         
+* **Moscovium-291** (Mc-291) is the fifth heaviest known isotope, with a mass number of 291. It was first synthesized in 2016 by a team of Russian scientists.
+         
+----------------------------------
