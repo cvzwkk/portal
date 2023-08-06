@@ -55,7 +55,8 @@ One collection of knowledge
     - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
     - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
     - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)
-    - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)       
+    - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)
+    - [LK99](/assets/docs/synthesis/substances/chemical/LK99/readme.md)    
     - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
     - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
      
