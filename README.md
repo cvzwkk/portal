@@ -25,7 +25,8 @@ One collection of knowledge
 - Theories:
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
   - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
-  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)    
+  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)
+  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)     
 
 - Earth:
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
