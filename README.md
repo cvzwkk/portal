@@ -34,7 +34,8 @@ One collection of knowledge
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
    
 -  Elements:
-    - [Isotopes](/assets/docs/earth/elements/Isotopes/readme.md)    
+    - [Isotopes](/assets/docs/earth/elements/Isotopes/readme.md)
+    - [Materials](/assets/docs/earth/elements/materials/readme.md)    
     
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
       - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
