@@ -220,9 +220,35 @@ Sure, here is a list of elements that can produce hydrogen gas, followed by thei
 
 ------------------------------------------
 
+# Composition Of Each Element described before:   
 
 
+Sure, here is a table of the composition of all the elements that can produce hydrogen gas:
 
+| Element | Symbol | Atomic number | Atomic mass (g/mol) | Composition |
+|---|---|---|---|---|
+| Hydrogen | H | 1 | 1.0079 | 1 proton, 1 electron |
+| Lithium | Li | 3 | 6.941 | 3 protons, 3 electrons, 4 neutrons |
+| Sodium | Na | 11 | 22.990 | 11 protons, 11 electrons, 12 neutrons |
+| Potassium | K | 19 | 39.098 | 19 protons, 19 electrons, 20 neutrons |
+| Rubidium | Rb | 37 | 85.4678 | 37 protons, 37 electrons, 48 neutrons |
+| Cesium | Cs | 55 | 132.9054 | 55 protons, 55 electrons, 78 neutrons |
+| Francium | Fr | 87 | 223.02 | 87 protons, 87 electrons, 136 neutrons |
+| Beryllium | Be | 4 | 9.0122 | 4 protons, 4 electrons, 5 neutrons |
+| Magnesium | Mg | 12 | 24.305 | 12 protons, 12 electrons, 12 neutrons |
+| Calcium | Ca | 20 | 40.078 | 20 protons, 20 electrons, 20 neutrons |
+| Strontium | Sr | 38 | 87.62 | 38 protons, 38 electrons, 50 neutrons |
+| Barium | Ba | 56 | 137.327 | 56 protons, 56 electrons, 82 neutrons |
+| Radium | Ra | 88 | 226.0254 | 88 protons, 88 electrons, 138 neutrons |
+| Zinc | Zn | 30 | 65.38 | 30 protons, 30 electrons, 30 neutrons |
+| Iron | Fe | 26 | 55.845 | 26 protons, 26 electrons, 30 neutrons |
+| Tin | Sn | 50 | 118.71 | 50 protons, 50 electrons, 68 neutrons |
+| Hydrogen gas | H2 | - | 2.0158 | 2 hydrogen atoms |
+| Methane | CH4 | - | 16.042 | 1 carbon atom, 4 hydrogen atoms |
+| Propane | C3H8 | - | 44.096 | 3 carbon atoms, 8 hydrogen atoms |
+| Butane | C4H10 | - | 58.123 | 4 carbon atoms, 10 hydrogen atoms |
+
+-------------------------------------------
 
 
 
