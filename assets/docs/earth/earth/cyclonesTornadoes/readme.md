@@ -1,5 +1,10 @@
 [HOME](README.md) / [EARTH](/assets/docs/earth/readme.md)  
 
+-----------------------
+      
+- Bonus:
+  - [Seed Clouds](/assets/docs/earth/earth/seedCloud/readme.md)   
+       
 -----------------------    
 
 # Tornadoes and cyclones   
