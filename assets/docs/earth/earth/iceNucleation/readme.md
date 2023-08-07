@@ -179,8 +179,27 @@ Here are some common elements found in ice nucleation agents, along with their a
 42. Hydrogen peroxide (H2O2) - Atomic Mass: 34.01 g/mol
     Hydrogen peroxide is known to promote ice nucleation in supercooled water.
 
+--------------------------     
 
+- Nucleation Agents:
 
+Sure, here are some more nucleation agents with their molecular weights in grams per mole (g/mol):
+
+| Nucleation Agent | Molecular Weight (g/mol) |
+|---|---|
+| Silicon dioxide | 60.08 |
+| Alumina | 101.96 |
+| Mullite | 312.20 |
+| Boron nitride | 60.80 |
+| Graphite | 12.01 |
+| Carbon black | 158.88 |
+| Silica aerogel | 200.00 |
+| Metal nanoparticles | Varies |
+| Polymer nanoparticles | Varies |
+
+This is still not an exhaustive list, but it gives a good overview of the different types of nucleation agents that are available for different materials. As I mentioned before, the effectiveness of a particular nucleation agent may vary depending on the material being nucleated. It is important to consult with a materials scientist or engineer to determine the best nucleation agent for a particular application.
+
+----------------------------
 
 
 
