@@ -110,3 +110,89 @@ Due to their impressive properties, MOFs have gained significant attention from 
 
 --------------------------
 
+- Composition of MOFs List:
+
+Sure, here is the composition of each MOF in the table you provided:
+
+| MOF | Metal Ions | Organic Linkers |
+|---|---|---|
+| HKUST-1 | Cobalt(II), Nickel(II), or Zinc(II) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-2 | Copper(II) | 1,4-benzenedicarboxylate |
+| NU-100 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| ZIF-67 | Zirconium(IV) | 2-methylimidazole |
+| MIL-47 | Cobalt(II) or Zinc(II) | 1,4-benzenedicarboxylate |
+| MOF-5 | Zinc(II) | 4,4'-bipyridine |
+| MIL-53 | Aluminium(III) or Cobalt(II) | 1,4-benzenedicarboxylate |
+| ZIF-8 | Zinc(II) | 2-methylimidazole |
+| UIO-66 | Titanium(IV) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-100 | Cobalt(II) | 1,4-benzenedicarboxylate |
+| HKUST-36 | Iron(III) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-90 | Zinc(II) | 4,4'-bipyridine |
+| IRMOF-1 | Cobalt(II) | 2-methylimidazole |
+| MIL-120 | Zirconium(IV) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| IRMOF-8 | Nickel(II) | 4,4'-bipyridine |
+| NOTT-1 | Nickel(II) | 2-methylimidazole |
+| MIL-101 | Cobalt(II) | 1,4-benzenedicarboxylate |
+| NU-80 | Zinc(II) | 4,4'-bipyridine |
+| IRMOF-2 | Nickel(II) | 2-methylimidazole |
+| ZIF-71 | Zirconium(IV) | 2-methylimidazole |
+| MIL-120A | Zirconium(IV) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-17 | Cobalt(II) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-105 | Zinc(II) | 4,4'-bipyridine |
+| IRMOF-3 | Cobalt(II) | 2-methylimidazole |
+| MIL-121 | Titanium(IV) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-110 | Zinc(II) | 4,4'-bipyridine |
+| MOF-74 | Nickel(II) | 1,4-benzenedicarboxylate |
+| NOTT-2 | Cobalt(II) | 2-methylimidazole |
+| MIL-102 | Cobalt(II) | 1,4-benzenedicarboxylate |
+| IRMOF-5 | Cobalt(II) | 2-methylimidazole |
+| NU-120 | Zinc(II) | 4,4'-bipyridine |
+| MIL-53(Al) | Aluminium(III) | 1,4-benzenedicarboxylate |
+| MIL-53(Co) | Cobalt(II) | 1,4-benzenedicarboxylate |
+| NU-107 | Zinc(II) | 4,4'-bipyridine |
+| NU-130 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-57 | Cobalt(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-104 | Cobalt(II) | 1,4-benzenedicarboxylate |
+| NU-128 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-53(Mg) | Magnesium(II) | 1,4-benzenedicarboxylate |
+| NOTT-4 | Nickel(II) | 2-methylimidazole |
+| MOF-211 | Zinc(II) | 4,4'-bipyridine |
+| HKUST-46 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-135 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-53(Zn) | Zinc(II) | 1,4-benzenedicarboxylate |
+| MIL-105(Cr) | Chromium(III) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-140 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-30 | Iron(III) | 1,4-benzenedicarboxylate |
+| NU-145 | Zinc(II) | 2,4,6-tris(3,5-dimethylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-108 | Iron(III) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-150 | Zinc(II) | 2,4,6-tris(3,5-dimethylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-20 | Iron(III) | 1,4-benzenedicarboxylate |
+| NU-155 | Zinc(II) | 2,4,6-tris(3-chlorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| MIL-109 | Iron(III) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-100 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-195 | Zinc(II) | 2,4,6-tris(3-chlorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-70 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-200 | Zinc(II) | 2,4,6-tris(3-fluorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-25 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-205 | Zinc(II) | 2,4,6-tris(3-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-60 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-210 | Zinc(II) | 2,4,6-tris(3-chlorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-19 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-215 | Zinc(II) | 2,4,6-tris(3-methylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-220 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-50 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-225 | Zinc(II) | 2,4,6-tris(4-methoxyphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-13 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-230 | Zinc(II) | 2,4,6-tris(3,5-dimethylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-40 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-235 | Zinc(II) | 2,4,6-tris(3-chlorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| NU-235 | Zinc(II) | 2,4,6-tris(3-chlorophenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+| HKUST-11 | Zinc(II) | 1,4-benzenedicarboxylate |
+| NU-240 | Zinc(II) | 2,4,6-tris(4-formylphenyl)-1,3,5-triazine-1,3,5-triyltris(ethane-1,2-diyl)phosphonate |
+
+--------------------------------       
+
+
+
+
+---------------------------------
