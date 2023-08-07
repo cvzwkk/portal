@@ -38,6 +38,23 @@ Here is a table that summarizes the differences between tornadoes and cyclones:
 
 -------------------------
 
+- Explosive Cyclogenesis:
+
+There is no scientific evidence to support the supposition that explosive cyclogenesis can be created artificially. However, there have been some studies that suggest that it may be possible to create artificial cyclones using cloud seeding. Cloud seeding is a process that involves injecting chemicals into the atmosphere in order to modify the cloud's physical properties. This can lead to the formation of rain or snow, or it can even lead to the creation of a cyclone.
+
+However, it is important to note that cloud seeding is a very complex process, and it is not always successful. Additionally, there are some concerns about the environmental impact of cloud seeding. For these reasons, it is unlikely that artificial cyclones will ever be created on a large scale.
+
+There are a number of reasons why it is difficult to create artificial cyclones. First, cyclones are a complex phenomenon that involves a number of different factors, including the temperature and moisture of the atmosphere, the wind speed and direction, and the upper-level atmospheric pattern. It is difficult to control all of these factors in order to create a cyclone artificially.
+
+Second, cyclones are very large and powerful systems. It would require a significant amount of energy to create an artificial cyclone that is large enough to have a significant impact on weather and climate.
+
+Third, there are ethical concerns about creating artificial cyclones. Cyclones can cause significant damage and loss of life, and it is not clear who would be responsible for the consequences of creating an artificial cyclone.
+
+For all of these reasons, it is unlikely that artificial cyclones will ever be created on a large scale. However, research into cloud seeding is ongoing, and it is possible that we will one day be able to create artificial cyclones that are safe and effective.
+
+-------------------------   
+
+
 # Creation of Artificial Cyclone:   
 
 One supposition is that it might be possible to create a cyclone by seeding clouds with silver iodide or other chemicals. This would cause the clouds to produce more ice crystals, which would then fall to the ground as rain or snow. The loss of water vapor from the clouds would create a low-pressure area, which would draw in more air and create a cyclone.
