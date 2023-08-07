@@ -172,3 +172,39 @@ Here are some of the challenges that need to be addressed in the fabrication of 
 Despite these challenges, the fabrication of Pu-UiO-66 is a promising area of research. The material has a number of potential applications, and it is important to develop safe and efficient methods for its fabrication.
 
 ---------------------------------
+
+- Energy per Gram of Isotopes:
+
+The isotopes of plutonium that produce the most MeV per gram are:
+
+* Pu-244: 222.9 MeV per gram
+* Pu-242: 217.3 MeV per gram
+* Pu-241: 213.6 MeV per gram
+* Pu-239: 209.9 MeV per gram
+
+However, it is important to note that the actual energy release of these isotopes is likely to be lower than the theoretical maximum, due to the presence of other elements in the MOF.
+
+It is also worth noting that the energy release of an isotope is not the only factor that determines its suitability for use in a MOF. Other factors, such as stability, toxicity, and cost, also need to be considered.
+
+Overall, the use of plutonium isotopes in MOFs is a promising area of research. However, more research is needed to develop safe and efficient methods for their fabrication and to understand their potential applications.
+
+Here is a table of the energy release of different isotopes of plutonium:
+
+Isotope | Theoretical maximum energy release (MeV per gram)
+------- | --------
+Pu-244 | 222.9
+Pu-242 | 217.3
+Pu-241 | 213.6
+Pu-239 | 209.9
+Pu-238 | 207.1
+Pu-237 | 204.3
+Pu-236 | 201.6
+Pu-235 | 198.9
+Pu-234 | 196.1
+Pu-233 | 193.4
+
+As you can see, the energy release of the isotopes decreases as the atomic number decreases. This is because the binding energy of the nucleus decreases as the atomic number decreases. The binding energy is the energy required to break apart the nucleus of an atom. A higher binding energy means that the nucleus is more stable and less likely to fission.
+
+Therefore, the isotopes with the highest energy release are the ones with the highest atomic numbers. However, it is important to note that the actual energy release of an isotope is likely to be lower than the theoretical maximum, due to the presence of other elements in the MOF.
+
+---------------------------------    
