@@ -161,4 +161,74 @@ Stabilized Z-pinch | Uses a strong electrical current to create a magnetic field
  
 -------------------------------      
 
+- Elements producers of Hydrogen:
+
+Sure, here is a list of elements that can produce hydrogen gas, followed by their atomic mass in grams per mole:
+
+| Element | Atomic mass (g/mol) |
+|---|---|
+| Hydrogen | 1.0079 |
+| Lithium | 6.941 |
+| Sodium | 22.990 |
+| Potassium | 39.098 |
+| Rubidium | 85.4678 |
+| Cesium | 132.9054 |
+| Francium | 223.02 |
+| Beryllium | 9.0122 |
+| Magnesium | 24.305 |
+| Calcium | 40.078 |
+| Strontium | 87.62 |
+| Barium | 137.327 |
+| Radium | 226.0254 |
+| Zinc | 65.38 |
+| Iron | 55.845 |
+| Tin | 118.71 |
+| Hydrogen gas (H2) | 2.0158 |
+| Methane (CH4) | 16.042 |
+| Propane (C3H8) | 44.096 |
+| Butane (C4H10) | 58.123 |
+| Aluminium | 26.981538 |
+| Gallium | 69.723 |
+| Indium | 114.818 |
+| Thallium | 204.3833 |
+| Boron | 10.811 |
+| Carbon | 12.0107 |
+| Nitrogen | 14.0067 |
+| Oxygen | 15.9994 |
+| Fluorine | 18.998403 |
+| Neon | 20.180 |
+| Silicon | 28.0855 |
+| Phosphorus | 30.973762 |
+| Sulfur | 32.065 |
+| Chlorine | 35.453 |
+| Argon | 39.948 |
+| Potassium | 39.098 |
+| Silver | 107.8682 |
+| Gold | 196.96657 |
+| Mercury | 200.59 |
+| Platinum | 195.084 |
+| Radon | 222.0177 |
+| Polonium | 209.9871 |
+| Astatine | 210.0000 |
+| Francium | 223.02 |
+| Meitnerium | 278.976 |
+| Darmstadtium | 281.145 |
+| Roentgenium | 280.985 |
+| Copernicium | 285.104 |
+| Nihonium | 284.095 |
+| Flerovium | 289.101 |
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------   
 
