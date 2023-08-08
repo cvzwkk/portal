@@ -474,6 +474,76 @@ If you are looking for a way to relax and de-stress, meditation is a great optio
 * **Positive thinking:** Positive thinking is the act of focusing on the good things in life and in believing that good things will happen. Positive thinking is often used in therapy and in self-help books to help people improve their mood and their outlook on life. Some people believe that positive thinking can be used to send one force specific using the mind power.
 * **Gratitude:** Gratitude is the act of appreciating the good things in life. Gratitude is often used in therapy and in self-help books to help people improve their mood and their outlook on life. Some people believe that gratitude can be used to send one force specific using the mind power.
 
+--------------------------------      
+
+# Sound Waves Influency     
+
+Sure, here are some more details about how sound waves can move brain substances:
+
+* **Cerebrospinal fluid:** Cerebrospinal fluid (CSF) is a clear liquid that surrounds the brain and spinal cord. It helps to cushion the brain and spinal cord from injury, and it also helps to remove waste products from the brain. Sound waves can cause CSF to move around in the brain by creating vibrations in the skull. These vibrations can cause the CSF to flow more quickly and efficiently, which can help to improve blood flow to the brain and to remove waste products.
+* **Neurotransmitters:** Neurotransmitters are chemicals that allow neurons to communicate with each other. Sound waves can cause neurotransmitters to release in the brain by creating vibrations in the cell membranes of neurons. These vibrations can open up channels in the cell membranes, which allows neurotransmitters to flow out of the cells.
+* **Proteins:** Proteins are essential for many bodily functions, including brain function. Sound waves can cause proteins to move around in the brain by creating vibrations in the proteins themselves. These vibrations can cause the proteins to unfold and refold, which can change their shape and function.
+
+The exact mechanism by which sound waves move brain substances is still being researched. However, the research that has been done so far suggests that sound waves can have a number of beneficial effects on the brain, including:
+
+* Improving blood flow to the brain
+* Removing waste products from the brain
+* Increasing the release of neurotransmitters
+* Changing the shape and function of proteins
+
+These effects could potentially lead to a number of benefits for people with neurological conditions, such as:
+
+* Improved cognitive function
+* Reduced inflammation
+* Increased brain plasticity
+* Slowed or reversed neurodegeneration
+
+More research is needed to determine the full potential of sound waves for treating neurological conditions. However, the research that has been done so far is promising and suggests that sound waves could be a safe and effective treatment for a variety of neurological conditions.   
+
+---------------------------------    
+
+# Frequencies Influency   
+
+The frequency of sound waves can affect how they move brain substances.
+
+* **Low-frequency sound waves:** Low-frequency sound waves (below 20 Hz) can cause cerebrospinal fluid to move around in the brain. This can help to improve blood flow to the brain and to remove waste products. Low-frequency sound waves have also been shown to increase the release of neurotransmitters in the brain.
+* **Medium-frequency sound waves:** Medium-frequency sound waves (20-100 Hz) can cause proteins to move around in the brain. This can help to change the shape and function of proteins, which could potentially lead to a number of benefits for people with neurological conditions.
+* **High-frequency sound waves:** High-frequency sound waves (above 100 Hz) can cause neurotransmitters to release in the brain. High-frequency sound waves have also been shown to increase brain plasticity, which is the brain's ability to change and adapt.
+
+The exact frequencies that are most effective for moving brain substances and for improving brain function are still being researched. However, the research that has been done so far suggests that sound waves could be a safe and effective treatment for a variety of neurological conditions.     
+
+--------------------------------------      
+
+# Visual Influency    
+
+Visual elements can also affect how sound waves move brain substances.
+
+* **Color:** Different colors can have different effects on brain function. For example, blue light has been shown to improve cognitive function, while red light has been shown to increase alertness.
+* **Brightness:** Brightness can also affect brain function. For example, bright light has been shown to improve mood, while dim light has been shown to promote relaxation.
+* **Contrast:** Contrast is the difference in brightness between two objects. High contrast images have been shown to improve attention and focus.
+* **Movement:** Moving images have been shown to improve cognitive function and to reduce stress.
+
+The exact effects of visual elements on brain function are still being researched. However, the research that has been done so far suggests that visual elements could be used to create therapies that improve brain function and to treat neurological conditions.
+
+Some studies have shown that visual elements can affect how sound waves move brain substances. For example, one study found that participants who listened to music while looking at a blue light had better cognitive function than participants who listened to music while looking at a red light. Another study found that participants who listened to music while looking at a high-contrast image had better attention and focus than participants who listened to music while looking at a low-contrast image.
+
+More research is needed to determine the full effects of visual elements on how sound waves move brain substances. However, the research that has been done so far suggests that visual elements could be used to create therapies that improve brain function and to treat neurological conditions.    
+- Colors:
+
+  - Blue light:
+     Blue light has been shown to improve cognitive function, especially in older adults. It has also been shown to increase alertness and to improve mood.
+    
+  - Red light:
+     Red light has been shown to increase circulation and to promote relaxation. It has also been shown to reduce pain and to improve sleep.   
+     
+  - Green light:
+      Green light has been shown to improve focus and concentration. It has also been shown to reduce stress and to improve mood.
+
+
+  - Yellow light:    
+     Yellow light has been shown to improve memory and learning. It has also been shown to reduce anxiety and to improve
+    
+----------------------------------     
 
 
 
