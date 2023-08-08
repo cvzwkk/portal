@@ -22,3 +22,21 @@ The mystery of Heisenberg's role in the German atomic bomb project is likely to 
 
 --------------------    
 
+# Principles Of Heisenberg       
+
+There are two main principles of Heisenberg:
+
+* The uncertainty principle: It states that it is impossible to know both the position and momentum of a particle with perfect accuracy. The more accurately you know one quantity, the less accurately you can know the other.
+* The correspondence principle: It states that classical physics is a limiting case of quantum mechanics when the objects involved are large enough and the energies involved are low enough.
+
+The uncertainty principle is one of the most fundamental principles of quantum mechanics. It has a number of important implications, including:
+
+* It limits the accuracy of our measurements of physical quantities.
+* It implies that particles have wave-like properties.
+* It is essential for understanding the behavior of atoms and molecules.
+
+The correspondence principle is also an important principle of quantum mechanics. It helps to bridge the gap between classical physics and quantum mechanics. It implies that classical physics is a good approximation to quantum mechanics in the limit of large objects and low energies.
+
+Heisenberg's principles have had a profound impact on our understanding of the universe. They have helped us to understand the behavior of atoms and molecules, and they have also led to the development of new technologies, such as lasers and transistors.   
+
+----------------------------     
