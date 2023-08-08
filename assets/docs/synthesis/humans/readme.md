@@ -4,6 +4,8 @@
 
 - Categories:
   - Body
+    - Legs
+      - [Knee Joint](/assets/docs/synthesis/humans/body/legs/readme.md)     
   - Brain
     - [Mind](/assets/docs/synthesis/humans/mind/readme.md)      
       - Soul, Religion Suposeds
