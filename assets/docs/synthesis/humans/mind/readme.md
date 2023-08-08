@@ -45,7 +45,29 @@ Here is a table of the substances present in the brain:
 * **Genetic material:** The brain contains genetic material in the form of DNA. DNA is the blueprint for all living things, and it contains the instructions for building and maintaining cells.       
          
 The brain is a complex and delicate organ that requires a variety of substances to function properly. By understanding the composition of the brain, we can better understand how it works and how to protect it from damage.     
-       
+
+- Ephysis Cerebri:
+     
+The pineal gland, also known as the epiphysis cerebri, is a small, cone-shaped gland located in the center of the brain. It is about the size of a pea and is located between the two hemispheres of the brain. The pineal gland is often referred to as the "third eye" because of its location and its role in producing melatonin, a hormone that helps regulate sleep and wake cycles.      
+     
+The pineal gland is made up of two types of cells: pinealocytes and glial cells. Pinealocytes are the main cells in the pineal gland and are responsible for producing melatonin. Glial cells support and protect the pinealocytes.
+      
+The pineal gland is connected to the hypothalamus, a part of the brain that is responsible for regulating many bodily functions, including sleep, body temperature, and appetite. The hypothalamus sends signals to the pineal gland to tell it when to produce melatonin. Melatonin production is highest at night, which helps to promote sleep.     
+        
+The pineal gland also produces other hormones, including serotonin and norepinephrine. Serotonin is a neurotransmitter that helps to regulate mood, sleep, and appetite. Norepinephrine is a neurotransmitter that helps to regulate alertness, attention, and learning.     
+        
+The pineal gland is a fascinating organ that is still not fully understood. However, it is clear that the pineal gland plays an important role in regulating many bodily functions, including sleep, mood, and reproduction.    
+        
+Here are some interesting facts about the pineal gland:
+     
+* The pineal gland is thought to be a vestigial organ, meaning that it is no longer essential for survival. However, the pineal gland may still play a role in regulating sleep and other bodily functions.      
+* The pineal gland is sensitive to light, which is why it produces more melatonin at night. This helps to promote sleep.
+* The pineal gland is also sensitive to certain chemicals, such as LSD and psilocybin. These chemicals can cause hallucinations and other altered states of consciousness.
+* The pineal gland is sometimes called the "third eye" because of its location and its role in producing melatonin. However, there is no scientific evidence to support the claim that the pineal gland can actually see.     
+     
+The pineal gland is a fascinating organ that is still not fully understood. However, it is clear that the pineal gland plays an important role in regulating many bodily functions, including sleep, mood, and reproduction.     
+
+
 --------------------------------    
 
 # All Neurons Connected without Exeptions   
