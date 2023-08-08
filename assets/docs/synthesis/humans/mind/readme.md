@@ -36,6 +36,16 @@ Here is a table of the substances present in the brain:
 | Minerals | Essential for the structure and function of the brain. They make up about 1% of the brain's dry weight. Minerals help to build and repair cells, to transport nutrients and oxygen, and to regulate the body's functions. |
 | Neurotransmitters | Chemicals that allow neurons to communicate with each other. Some of the most important neurotransmitters in the brain include dopamine, serotonin, norepinephrine, GABA, and acetylcholine. |
 
+--------------------------------   
+
+- Structural Elements:     
+    
+* **Hormones:** Hormones are chemicals that are produced by glands in the body and that travel through the bloodstream to target organs. Hormones play a role in many bodily functions, including reproduction, growth, and metabolism.
+* **Enzymes:** Enzymes are proteins that speed up chemical reactions in the body. Enzymes are essential for many bodily functions, including digestion, metabolism, and immunity.
+* **Genetic material:** The brain contains genetic material in the form of DNA. DNA is the blueprint for all living things, and it contains the instructions for building and maintaining cells.       
+         
+The brain is a complex and delicate organ that requires a variety of substances to function properly. By understanding the composition of the brain, we can better understand how it works and how to protect it from damage.     
+       
 --------------------------------    
 
 # All Neurons Connected without Exeptions   
