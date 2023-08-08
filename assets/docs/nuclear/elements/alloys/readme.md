@@ -253,109 +253,99 @@ Part 7, (Alloys w/Superconductor Elements):
 | Cobalt-chromium-tungsten (Co-Cr-W) alloys: Cobalt, chromium, tungsten | 55.8 | 1300 °C | Vacuum arc remelting |
 | Copper-tungsten (Cu-W) alloys: Copper, tungsten | 58.7 | 2800 °C | Arc melting |
 | Tantalum-niobium (Ta-Nb) alloys: Tantalum, niobium. | 186.2 | 3500 °C | Arc melting |  
+| Nickel-titanium-copper (Ni-Ti-Cu) alloys: Nickel, titanium, copper | 58.7 | 1000 °C | Arc melting |
+| Copper-zinc-tin (Cu-Zn-Sn) alloys: Copper, zinc, tin | 58.7 | 1000 °C | Arc melting |
+| Aluminum-gallium-nitride (Al-GaN) alloys: Aluminum, gallium, nitrogen | 65.4 | 2000 °C | Arc melting |
+| Tungsten-carbide-cobalt (WC-Co) alloys: Tungsten, carbon, cobalt | 184.3 | 2800 °C | Arc melting |
+| Iron-nickel-cobalt (Fe-Ni-Co) alloys: Iron, nickel, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Copper-gold (Cu-Au) alloys: Copper, gold | 63.5 | 1000 °C | Arc melting |
+| Nickel-copper (Ni-Cu) alloys: Nickel, copper | 58.7 | 1000 °C | Arc melting |
+| Aluminum-titanium-vanadium (Al-Ti-V) alloys: Aluminum, titanium, vanadium | 58.7 | 1000 °C | Vacuum arc remelting |
+| Titanium-aluminum-vanadium (Ti-Al-V) alloys: Titanium, aluminum, vanadium | 47.9 | 1000 °C | Vacuum arc remelting |
+| Magnesium-zinc (Mg-Zn) alloys: Magnesium, zinc | 24.3 | 400 °C | Arc melting |
+| Manganese-molybdenum (Mn-Mo) alloys: Manganese, molybdenum | 71.8 | 2000 °C | Arc melting |
+| Nickel-cobalt-aluminum (Ni-Co-Al) alloys: Nickel, cobalt, aluminum | 58.7 | 1300 °C | Vacuum arc remelting |
+| Copper-nickel-zinc (Cu-Ni-Zn) alloys: Copper, nickel, zinc | 58.7 | 1000 °C | Arc melting |
+| Iron-nickel-aluminum (Fe-Ni-Al) alloys: Iron, nickel, aluminum | 58.7 | 1300 °C | Vacuum arc remelting |
+| Silver-copper (Ag-Cu) alloys: Silver, copper | 107.8 | 1000 °C | Arc melting |
+| Cobalt-chromium-molybdenum (Co-Cr-Mo) alloys: Cobalt, chromium, molybdenum | 55.8 | 1300 °C | Vacuum arc remelting |
+| Nickel-molybdenum (Ni-Mo) alloys: Nickel, molybdenum | 58.7 | 2800 °C | Arc melting |
+| Aluminum-nickel-cobalt (Al-Ni-Co) alloys: Aluminum, nickel, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Copper-tin (Cu-Sn) alloys: Copper, tin | 79.8 | 500 °C | Arc melting |
+| Titanium-nickel-copper (Ti-Ni-Cu) alloys: Titanium, nickel, copper | 47.9 | 1000 °C | Arc melting |
+| Brass (Cu-Zn) alloys: copper, zinc | 65.4 | 900 °C | Arc melting |
+| Inconel (Ni-Cr-Fe) alloys: Nickel, chromium, iron | 58.7 | 1300 °C | Vacuum arc remelting |
+| Gold-nickel (Au-Ni) alloys: Gold, nickel | 187.6 | 1000 °C | Arc melting |
+| Nickel-iron (Ni-Fe) alloys: Nickel, iron | 55.8 | 1000 °C | Arc melting |
+| Bronze (Cu-Sn-Pb) alloys: Copper, tin, lead | 79.8 | 500 °C | Arc melting |
+| Pewter (Sn-Cu-Sb) alloys: Tin, copper, antimony | 70.9 | 230 °C | Arc melting |
+| Cupronickel (Cu-Ni) alloys: Copper, nickel | 58.7 | 1100 °C | Arc melting |
+| Aluminum-silicon (Al-Si) alloys: Aluminum, silicon | 26.9 | 600 °C | Arc melting |
+| Steel (Fe-C) alloys: Iron, carbon | 55.8 | 1500 °C | Electric arc furnace |
+| Stainless steel (Fe-Cr-Ni) alloys: Iron, chromium, nickel | 55.8 | 1500 °C | Electric arc furnace |
+| Monel (Ni-Cu) alloys: Nickel, copper | 58.7 | 1100 °C | Vacuum arc remelting |
+| Hastelloy (Ni-Mo) alloys: Nickel, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Bronze-aluminum (Cu-Al) alloys: Copper, aluminum | 58.7 | 1000 °C | Arc melting |
+| Beryllium-copper (Be-Cu) alloys: Beryllium, copper | 6.9 | 800 °C | Arc melting |
+| Titanium-nickel (Ti-Ni) alloys: Titanium, nickel | 47.9 | 900 °C | Arc melting |
+| Invar (Fe-Ni) alloys: Iron, nickel | 55.8 | 1400 °C | Electric arc furnace |
+| Cobalt-chromium (Co-Cr) alloys: Cobalt, chromium | 55.8 | 1300 °C | Vacuum arc remelting |
+| Nickel-cobalt (Ni-Co) alloys: Nickel, cobalt | 55.8 | 1300 °C | Vacuum arc remelting |
+| Brass-lead (Cu-Zn-Pb) alloys: Copper, zinc, lead | 65.4 | 900 °C | Arc melting |
+| Aluminum-lithium (Al-Li) alloys: Aluminum, lithium | 26.9 | 400 °C | Arc melting |
+| Magnesium-aluminum (Mg-Al) alloys: Magnesium, aluminum | 24.3 | 400 °C | Arc melting |
+| Magnesium-zinc (Mg-Zn) alloys: Magnesium, zinc | 24.3 | 400 °C | Arc melting |
+| Nickel-silver (Ni-Ag) alloys: Nickel, silver | 107.8 | 1000 °C | Arc melting |
+| Nickel-titanium (Ni-Ti) alloys: Nickel, titanium | 47.9 | 1000 °C | Arc melting |
+| Copper-nickel-tin (Cu-Ni-Sn) alloys: Copper, nickel, tin | 79.8 | 1000 °C | Arc melting |
+| Nickel-copper-zinc (Ni-Cu-Zn) alloys: Nickel, copper, zinc | 58.7 | 1000 °C | Arc melting |
+| Zinc-aluminum (Zn-Al) alloys: Zinc, aluminum | 65.4 | 600 °C | Arc melting |
+| Mokume-gane (Cu-Ni-Zn) alloys: Copper, nickel, zinc | 58.7 | 1000 °C | Arc melting |
+| Iron-chromium-aluminum (Fe-Cr-Al) alloys: Iron, chromium, aluminum | 55.8 | 1300 °C | Vacuum arc remelting |
+| Brass-aluminum (Cu-Zn-Al) alloys: Copper, zinc, aluminum | 65.4 | 1000 °C | Arc melting |
+| Copper-tungsten (Cu-W) alloys: Copper, tungsten | 58.7 | 2800 °C | Arc melting |
+| Phosphor bronze (Cu-Sn) alloys with phosphorus | 79.8 | 500 °C | Arc melting |
+| Aluminum-magnesium-silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon | 26.9 | 600 °C | Arc melting |
+| Lead-antimony (Pb-Sb) alloys: Lead, antimony | 92.6 | 270 °C | Arc melting |
+| Bronze-nickel (Cu-Ni) alloys: Copper, nickel | 58.7 | 1100 °C | Arc melting |
+| Nickel-copper-molybdenum (Ni-Cu-Mo) alloys: Nickel, copper, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Aluminum-zinc-magnesium (Al-Zn-Mg) alloys: Aluminum, zinc, magnesium | 24.3 | 400 °C | Arc melting |
+| Copper-nickel-silicon (Cu-Ni-Si) alloys: Copper, nickel, silicon | 79.8 | 1000 °C | Arc melting |
+| Stainless steel with molybdenum (Fe-Cr-Ni-Mo) alloys: Iron, chromium, nickel, molybdenum | 55.8 | 1500 °C | Electric arc furnace |
+| Tin-lead-silver (Sn-Pb-Ag) alloys: Tin, lead, silver | 73.2 | 232 °C | Arc melting |
+| Aluminum-copper-magnesium (Al-Cu-Mg) alloys: Aluminum, copper, magnesium | 24.3 | 400 °C | Arc melting |
+| Nickel-molybdenum-chromium (Ni-Mo-Cr) alloys: Nickel, molybdenum, chromium | 58.7 | 1200 °C | Vacuum arc remelting |
+| Titanium-vanadium (Ti-V) alloys: Titanium, vanadium | 47.9 | 1200 °C | Arc melting |
+| Copper-silver (Cu-Ag) alloys: Copper, silver | 107.8 | 800 °C | Arc melting |
+| Zinc-nickel (Zn-Ni) alloys: Zinc, nickel | 65.4 | 600 °C | Arc melting |
+| Bismuth-tin (Bi-Sn) alloys: Bismuth, tin | 97.5 | 271 °C | Arc melting |
+| Stainless steel with titanium (Fe-Cr-Ni-Ti) alloys: Iron, chromium, nickel, titanium | 55.8 | 1500 °C | Electric arc furnace |
+| Aluminum-nickel-cobalt (Al-Ni-Co) alloys: Aluminum, nickel, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Gold-copper (Au-Cu) alloys: Gold, copper | 197.4 | 1000 °C | Arc melting |
+| Copper-tin (Cu-Sn) alloys: Copper, tin | 79.8 | 500 °C | Arc melting |
+| Silver-copper-zinc (Ag-Cu-Zn) alloys: Silver, copper, zinc | 121.7 | 1000 °C | Arc melting |
+| Titanium-aluminum-vanadium (Ti-Al-V) alloys: Titanium, aluminum, vanadium | 47.9 | 900 °C | Arc melting |
+| Tungsten-carbide (WC) alloys: Tungsten, carbon | 184.3 | 2800 °C | Arc melting |
+| Aluminum-titanium (Al-Ti) alloys: Aluminum, titanium | 26.9 | 900 °C | Arc melting |
+| Brass (Cu-Zn) alloys: Copper, zinc | 65.4 | 900 °C | Arc melting |
+| Chromium-nickel-iron (Cr-Ni-Fe) alloys: Chromium, nickel, iron | 55.8 | 1500 °C | Electric arc furnace |
+| Inconel (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Nickel-titanium (Ni-Ti) alloys: Nickel, titanium | 47.9 | 900 °C | Arc melting |
+| Bronze-aluminum (Cu-Al) alloys: Copper, aluminum | 58.7 | 1000 °C | Arc melting |
+| Monel (Ni-Cu) alloys: Nickel, copper | 58.7 | 1100 °C | Vacuum arc remelting |
+| Phosphor bronze (Cu-Sn-P) alloys: Copper, tin, phosphorus | 79.8 | 500 °C | Arc melting |
+| Cobalt-chromium (Co-Cr) alloys: Cobalt, chromium | 55.8 | 1300 °C | Vacuum arc remelting |
+| Incoloy (Ni-Cr-Fe) alloys: Nickel, chromium, iron | 55.8 | 1500 °C | Electric arc furnace |
+| Iron-nickel (Fe-Ni) alloys: Iron, nickel | 55.8 | 1500 °C | Electric arc furnace |
+| Titanium-niobium (Ti-Nb) alloys: Titanium, niobium | 47.9 | 1200 °C | Arc melting |
+| Alloy 20 (Carpenter 20) (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Brass with lead (Cu-Zn-Pb) alloys: Copper, zinc, lead | 65.4 | 900 °C | Arc melting |
+| Stainless steel with nitrogen (Fe-Cr-Ni-N) alloys: Iron, chromium, nickel, nitrogen | 55.8 | 1500 °C | Electric arc furnace |
+| Carbon steel (Fe-C) alloys: Iron, carbon | 55.8 | 1500 °C | Electric arc furnace |
+| Haynes (Ni-Co-Cr) alloys: Nickel, cobalt, chromium | 58.7 | 1200 °C | Vacuum arc remelting |
+| Inconel with molybdenum (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Tool steel (Fe-Cr-V) alloys: Iron, chromium, vanadium | 55.8 | 1500 °C | Electric arc furnace |
 
-1. Nickel-titanium-copper (Ni-Ti-Cu) alloys: Nickel, titanium, copper
-2. Copper-zinc-tin (Cu-Zn-Sn) alloys: Copper, zinc, tin
-3. Aluminum-gallium-nitride (Al-GaN) alloys: Aluminum, gallium, nitrogen
-4. Tungsten-carbide-cobalt (WC-Co) alloys: Tungsten, carbon, cobalt
-5. Iron-nickel-cobalt (Fe-Ni-Co) alloys: Iron, nickel, cobalt
-6. Copper-gold (Cu-Au) alloys: Copper, gold
-7. Nickel-copper (Ni-Cu) alloys: Nickel, copper
-8. Aluminum-titanium-vanadium (Al-Ti-V) alloys: Aluminum, titanium, vanadium
-9. Titanium-aluminum-vanadium (Ti-Al-V) alloys: Titanium, aluminum, vanadium
-10. Magnesium-zinc (Mg-Zn) alloys: Magnesium, zinc
-11. Manganese-molybdenum (Mn-Mo) alloys: Manganese, molybdenum
-12. Nickel-cobalt-aluminum (Ni-Co-Al) alloys: Nickel, cobalt, aluminum
-13. Copper-nickel-zinc (Cu-Ni-Zn) alloys: Copper, nickel, zinc
-14. Iron-nickel-aluminum (Fe-Ni-Al) alloys: Iron, nickel, aluminum
-15. Silver-copper (Ag-Cu) alloys: Silver, copper
-1. Cobalt-chromium-molybdenum (Co-Cr-Mo) alloys: Cobalt, chromium, molybdenum
-2. Nickel-molybdenum (Ni-Mo) alloys: Nickel, molybdenum
-3. Aluminum-nickel-cobalt (Al-Ni-Co) alloys: Aluminum, nickel, cobalt
-4. Copper-tin (Cu-Sn) alloys: Copper, tin
-5. Titanium-nickel-copper (Ti-Ni-Cu) alloys: Titanium, nickel, copper
-6. Brass (Cu-Zn) alloys: copper, zinc
-7. Inconel (Ni-Cr-Fe) alloys: Nickel, chromium, iron
-8. Gold-nickel (Au-Ni) alloys: Gold, nickel
-9. Nickel-iron (Ni-Fe) alloys: Nickel, iron
-10. Zinc-magnesium (Zn-Mg) alloys: Zinc, magnesium
-11. Silver-tin (Ag-Sn) alloys: Silver, tin
-12. Lead-tin (Pb-Sn) alloys: Lead, tin
-13. Platinum-gold (Pt-Au) alloys: Platinum, gold
-14. Chromium-cobalt-nickel (Cr-Co-Ni) alloys: Chromium, cobalt, nickel
-15. Titanium-zirconium (Ti-Zr) alloys: Titanium, zirconium
-1. Bronze (Cu-Sn-Pb) alloys: Copper, tin, lead
-2. Pewter (Sn-Cu-Sb) alloys: Tin, copper, antimony
-3. Cupronickel (Cu-Ni) alloys: Copper, nickel
-4. Aluminum-silicon (Al-Si) alloys: Aluminum, silicon
-5. Steel (Fe-C) alloys: Iron, carbon
-6. Stainless steel (Fe-Cr-Ni) alloys: Iron, chromium, nickel
-7. Monel (Ni-Cu) alloys: Nickel, copper
-8. Hastelloy (Ni-Mo) alloys: Nickel, molybdenum
-9. Bronze-aluminum (Cu-Al) alloys: Copper, aluminum
-10. Beryllium-copper (Be-Cu) alloys: Beryllium, copper
-11. Titanium-nickel (Ti-Ni) alloys: Titanium, nickel
-12. Invar (Fe-Ni) alloys: Iron, nickel
-13. Cobalt-chromium (Co-Cr) alloys: Cobalt, chromium
-14. Nickel-cobalt (Ni-Co) alloys: Nickel, cobalt
-15. Brass-lead (Cu-Zn-Pb) alloys: Copper, zinc, lead
-1. Aluminum-lithium (Al-Li) alloys: Aluminum, lithium
-2. Magnesium-aluminum (Mg-Al) alloys: Magnesium, aluminum
-3. Magnesium-zinc (Mg-Zn) alloys: Magnesium, zinc
-4. Nickel-silver (Ni-Ag) alloys: Nickel, silver
-5. Nickel-titanium (Ni-Ti) alloys: Nickel, titanium
-6. Copper-nickel-tin (Cu-Ni-Sn) alloys: Copper, nickel, tin
-7. Nickel-copper-zinc (Ni-Cu-Zn) alloys: Nickel, copper, zinc
-8. Zinc-aluminum (Zn-Al) alloys: Zinc, aluminum
-9. Mokume-gane (Cu-Ni-Zn) alloys: Copper, nickel, zinc
-10. Iron-chromium-aluminum (Fe-Cr-Al) alloys: Iron, chromium, aluminum
-11. Brass-aluminum (Cu-Zn-Al) alloys: Copper, zinc, aluminum
-12. Copper-tungsten (Cu-W) alloys: Copper, tungsten
-13. Phosphor bronze (Cu-Sn) alloys with phosphorus
-14. Cobalt-nickel-chromium-tungsten (Co-Ni-Cr-W) alloys: Cobalt, nickel, chromium, tungsten
-15. Duranickel (Ni-Co-Fe-Mo) alloys: Nickel, cobalt, iron, molybdenum
-1. Aluminum-magnesium-silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon
-2. Lead-antimony (Pb-Sb) alloys: Lead, antimony
-3. Bronze-nickel (Cu-Ni) alloys: Copper, nickel
-4. Nickel-copper-molybdenum (Ni-Cu-Mo) alloys: Nickel, copper, molybdenum
-5. Aluminum-zinc-magnesium (Al-Zn-Mg) alloys: Aluminum, zinc, magnesium
-6. Copper-nickel-silicon (Cu-Ni-Si) alloys: Copper, nickel, silicon
-7. Stainless steel with molybdenum (Fe-Cr-Ni-Mo) alloys: Iron, chromium, nickel, molybdenum
-8. Tin-lead-silver (Sn-Pb-Ag) alloys: Tin, lead, silver
-9. Aluminum-copper-magnesium (Al-Cu-Mg) alloys: Aluminum, copper, magnesium
-10. Nickel-molybdenum-chromium (Ni-Mo-Cr) alloys: Nickel, molybdenum, chromium
-11. Titanium-vanadium (Ti-V) alloys: Titanium, vanadium
-12. Copper-silver (Cu-Ag) alloys: Copper, silver
-13. Zinc-nickel (Zn-Ni) alloys: Zinc, nickel
-14. Bismuth-tin (Bi-Sn) alloys: Bismuth, tin
-15. Stainless steel with titanium (Fe-Cr-Ni-Ti) alloys: Iron, chromium, nickel, titanium
-1. Aluminum-nickel-cobalt (Al-Ni-Co) alloys: Aluminum, nickel, cobalt
-2. Gold-copper (Au-Cu) alloys: Gold, copper
-3. Copper-tin (Cu-Sn) alloys: Copper, tin
-4. Silver-copper-zinc (Ag-Cu-Zn) alloys: Silver, copper, zinc
-5. Titanium-aluminum-vanadium (Ti-Al-V) alloys: Titanium, aluminum, vanadium
-6. Tungsten-carbide (WC) alloys: Tungsten, carbon
-7. Aluminum-titanium (Al-Ti) alloys: Aluminum, titanium
-8. Brass (Cu-Zn) alloys: Copper, zinc
-9. Chromium-nickel-iron (Cr-Ni-Fe) alloys: Chromium, nickel, iron
-10. Inconel (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum
-11. Cupronickel (Cu-Ni) alloys: Copper, nickel
-12. Hastelloy (Ni-Mo-Cr) alloys: Nickel, molybdenum, chromium
-13. Iron-silicon (Fe-Si) alloys: Iron, silicon
-14. Manganese-bronze (Cu-Mn) alloys: Copper, manganese
-15. Zinc-aluminum-copper (Zn-Al-Cu) alloys: Zinc, aluminum, copper
-1. Nickel-titanium (Ni-Ti) alloys: Nickel, titanium
-2. Bronze-aluminum (Cu-Al) alloys: Copper, aluminum
-3. Monel (Ni-Cu) alloys: Nickel, copper
-4. Phosphor bronze (Cu-Sn-P) alloys: Copper, tin, phosphorus
-5. Cobalt-chromium (Co-Cr) alloys: Cobalt, chromium
-6. Incoloy (Ni-Cr-Fe) alloys: Nickel, chromium, iron
-7. Iron-nickel (Fe-Ni) alloys: Iron, nickel
-8. Titanium-niobium (Ti-Nb) alloys: Titanium, niobium
-9. Alloy 20 (Carpenter 20) (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum
-10. Brass with lead (Cu-Zn-Pb) alloys: Copper, zinc, lead
-11. Stainless steel with nitrogen (Fe-Cr-Ni-N) alloys: Iron, chromium, nickel, nitrogen
-12. Carbon steel (Fe-C) alloys: Iron, carbon
-13. Haynes (Ni-Co-Cr) alloys: Nickel, cobalt, chromium
-14. Inconel with molybdenum (Ni-Cr-Mo) alloys: Nickel, chromium, molybdenum
-15. Tool steel (Fe-Cr-V) alloys: Iron, chromium, vanadium
+---------------------------------          
+
+
