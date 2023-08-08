@@ -70,166 +70,190 @@ Part 2:
 | Plutonium alloys containing Al and the combined alloy of Pb, Sn, Ge, and Si | 238.0 | 600 °C | Arc melting |
 
 Part 3:  
-- Invar (Nilo 36): Iron, nickel  
-- Nitinol (Nickel Titanium Naval Ordnance Laboratory): Nickel, titanium  
-- Haynes 230: Nickel, chromium, tungsten, molybdenum  
-- Inconel 625: Nickel, chromium, molybdenum  
-- Inconel 718: Nickel, chromium, niobium  
-- Hastelloy C-276: Nickel, chromium, molybdenum  
-- Hastelloy X: Nickel, chromium, molybdenum, iron  
--  MP35N: Cobalt, nickel, chromium, molybdenum  
-- L605 (Haynes 25): Cobalt, chromium, tungsten, nickel  
-- Titanium 6Al-4V (Grade 5): Titanium, aluminum, vanadium  
-- Rene 41: Nickel, cobalt, chromium, molybdenum  
-- Alloy 22: Nickel, chromium, molybdenum, tungsten  
-- Alloy 690: Nickel, chromium, iron  
-- Zircaloy-2: Zirconium, tin  
-- Zircaloy-4: Zirconium, tin  
-- Beryllium Copper (C17200): Copper, beryllium
-- NITRONIC 60: Iron, chromium, nickel, silicon, manganese  
-- MUMETAL: Nickel, iron, copper, molybdenum  
-- HASTELLOY G-30: Nickel, chromium, iron, molybdenum  
-- Maraging Steel: Iron, nickel, cobalt, molybdenum, titanium  
-- Monel: Nickel, copper  
-- Tungsten Carbide: Tungsten, carbon  
-- Mu-metal: Nickel, iron, copper, molybdenum  
+
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Invar (Nilo 36): Iron, nickel | 55.8 | 392 °C | Arc melting |
+| Nitinol (Nickel Titanium Naval Ordnance Laboratory): Nickel, titanium | 58.7 | 500 °C | Arc melting |
+| Haynes 230: Nickel, chromium, tungsten, molybdenum | 58.7 | 900 °C | Vacuum arc remelting |
+| Inconel 625: Nickel, chromium, molybdenum | 58.7 | 800 °C | Vacuum arc remelting |
+| Inconel 718: Nickel, chromium, niobium | 58.7 | 1000 °C | Vacuum arc remelting |
+| Hastelloy C-276: Nickel, chromium, molybdenum | 58.7 | 1000 °C | Vacuum arc remelting |
+| Hastelloy X: Nickel, chromium, molybdenum, iron | 58.7 | 1100 °C | Vacuum arc remelting |
+|  MP35N: Cobalt, nickel, chromium, molybdenum | 58.9 | 1100 °C | Vacuum arc remelting |
+| L605 (Haynes 25): Cobalt, chromium, tungsten, nickel | 58.9 | 1200 °C | Vacuum arc remelting |
+| Titanium 6Al-4V (Grade 5): Titanium, aluminum, vanadium | 47.9 | 900 °C | Vacuum arc remelting |
+| Rene 41: Nickel, cobalt, chromium, molybdenum | 58.7 | 1300 °C | Vacuum arc remelting |
+| Alloy 22: Nickel, chromium, molybdenum, tungsten | 58.7 | 1100 °C | Vacuum arc remelting |
+| Alloy 690: Nickel, chromium, iron | 55.8 | 1000 °C | Vacuum arc remelting |
+| Zircaloy-2: Zirconium, tin | 91.2 | 1000 °C | Vacuum arc remelting |
+| Zircaloy-4: Zirconium, tin | 91.2 | 800 °C | Vacuum arc remelting |
+| Beryllium Copper (C17200): Copper, beryllium | 9.01 | 800 °C | Arc melting |
+| NITRONIC 60: Iron, chromium, nickel, silicon, manganese | 55.8 | 1100 °C | Arc melting |
+| MUMETAL: Nickel, iron, copper, molybdenum | 58.7 | 700 °C | Arc melting |
+| HASTELLOY G-30: Nickel, chromium, iron, molybdenum | 58.7 | 1000 °C | Vacuum arc remelting |
+| Maraging Steel: Iron, nickel, cobalt, molybdenum, titanium | 55.8 | 1000 °C | Vacuum arc remelting |
+| Monel: Nickel, copper | 58.7 | 900 °C | Vacuum arc remelting |
+| Tungsten Carbide: Tungsten, carbon | 184.3 | 2800 °C | Arc melting |
+| Mu-metal: Nickel, iron, copper, molybdenum | 58.7 | 700 °C | Arc melting |
 
 Part 4:  
-- Molybdenum-rhenium (Mo-Re): Molybdenum, rhenium 
-- Inconel 600: Nickel, chromium, iron  
-- Waspaloy: Nickel, cobalt, chromium, molybdenum, aluminum, titanium  
-- Rene 95: Nickel, cobalt, chromium, molybdenum, aluminum, titanium  
-- Incoloy 800: Nickel, iron, chromium  
-- Incoloy 825: Nickel, iron, chromium, molybdenum, copper  
-- Nimonics: Nickel, chromium, cobalt, titanium, aluminum  
-- Titanium 6Al-2Sn-4Zr-6Mo (Ti 6-2-4-6): Titanium, aluminum, tin, zirconium, molybdenum  
-- Super Invar: Iron, nickel, cobalt  
-- Tantalum-hafnium-carbide (Ta-Hf-C): Tantalum, hafnium, carbon  
-- Staballoy: Tungsten, rhenium, hafnium, carbon  
-- Tungsten-Niobium-Titanium (W-Nb-Ti): Tungsten, niobium, titanium  
-- Ferrium C61: Iron, carbon, cobalt, chrome, nickel, molybdenum  
-- Magnelium: Magnesium, aluminum  
-- A206 Aluminum Alloy: Aluminum, copper, magnesium  
-- Aluminum Lithium Alloy: Aluminum, lithium  
-- Manganese Brass: Copper, zinc, manganese  
-- Jethete M152: Nickel, chromium, molybdenum, vanadium  
-- Staballoy: Tungsten, rhenium, hafnium, carbon  
-- Magnesium Rare Earth Alloy: Magnesium, rare earth elements  
-- Cubic Zirconia: Zirconium dioxide, various stabilizers  
-- Tungsten Copper (WCu): Tungsten, copper  
-- Tantalum Carbide (TaC): Tantalum, carbon  
-- Bismuth Telluride: Bismuth, tellurium  
-- Gallium Arsenide: Gallium, arsenic  
+
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Molybdenum-rhenium (Mo-Re): Molybdenum, rhenium | 186.2 | 2500 °C | Arc melting |
+| Inconel 600: Nickel, chromium, iron | 55.8 | 1000 °C | Vacuum arc remelting |
+| Waspaloy: Nickel, cobalt, chromium, molybdenum, aluminum, titanium | 58.9 | 1200 °C | Vacuum arc remelting |
+| Rene 95: Nickel, cobalt, chromium, molybdenum, aluminum, titanium | 58.7 | 1300 °C | Vacuum arc remelting |
+| Incoloy 800: Nickel, iron, chromium | 55.8 | 900 °C | Vacuum arc remelting |
+| Incoloy 825: Nickel, iron, chromium, molybdenum, copper | 58.7 | 1100 °C | Vacuum arc remelting |
+| Nimonics: Nickel, chromium, cobalt, titanium, aluminum | 58.7 | 600 °C | Arc melting |
+| Titanium 6Al-2Sn-4Zr-6Mo (Ti 6-2-4-6): Titanium, aluminum, tin, zirconium, molybdenum | 47.9 | 1000 °C | Vacuum arc remelting |
+| Super Invar: Iron, nickel, cobalt | 58.9 | 425 °C | Arc melting |
+| Tantalum-hafnium-carbide (Ta-Hf-C): Tantalum, hafnium, carbon | 166.1 | 3000 °C | Arc melting |
+| Staballoy: Tungsten, rhenium, hafnium, carbon | 191.4 | 2800 °C | Arc melting |
+| Tungsten-Niobium-Titanium (W-Nb-Ti): Tungsten, niobium, titanium | 184.3 | 3500 °C | Arc melting |
+| Ferrium C61: Iron, carbon, cobalt, chrome, nickel, molybdenum | 55.8 | 1100 °C | Arc melting |
+| Magnelium: Magnesium, aluminum | 24.3 | 600 °C | Arc melting |
+| A206 Aluminum Alloy: Aluminum, copper, magnesium | 26.9 | 500 °C | Arc melting |
+| Aluminum Lithium Alloy: Aluminum, lithium | 26.9 | 500 °C | Arc melting |
+| Manganese Brass: Copper, zinc, manganese | 65.4 | 700 °C | Arc melting |
+| Jethete M152: Nickel, chromium, molybdenum, vanadium | 58.7 | 1200 °C | Vacuum arc remelting |
+| Staballoy: Tungsten, rhenium, hafnium, carbon | 191.4 | 2800 °C | Arc melting |
+| Magnesium Rare Earth Alloy: Magnesium, rare earth elements | 24.3 | 600 °C | Arc melting |
+| Cubic Zirconia: Zirconium dioxide, various stabilizers | 151.9 | 2400 °C | Arc melting |
+| Tungsten Copper (WCu): Tungsten, copper | 184.3 | 2800 °C | Arc melting |
+| Tantalum Carbide (TaC): Tantalum, carbon | 166.1 | 3000 °C | Arc melting |
+| Bismuth Telluride: Bismuth, tellurium | 207.2 | 700 °C | Arc melting |
+| Gallium Arsenide: Gallium, arsenic | 70.9 | 1200 °C | Vacuum arc remelting |
 
 Part 5:
-- CuNiBe (Copper Nickel Beryllium): Copper, nickel, beryllium  
-- Cupronickel (CuNi): Copper, nickel  
-- Nicrosil (NiCrSi): Nickel, chromium, silicon  
-- Nisil (NiSi): Nickel, silicon  
-- Kovar (Fe-Ni-Co): Iron, nickel, cobalt  
-- Niobium Titanium (Nb-Ti): Niobium, titanium  
-- Samarium Cobalt (SmCo): Samarium, cobalt  
-- Raney Nickel: Nickel, aluminum  
-- Cupronickel-silane (CuNiSi): Copper, nickel, silicon  
-- Molybdenum Titanium (Mo-Ti): Molybdenum, titanium  
-- Metal Matrix Composites (MMC): Matrix metal with ceramic or carbon fibers   
-- Carbides of Tungsten, Titanium, or Zirconium: Various combinations of tungsten, titanium, or zirconium with carbon  
-- Lead Tin Calcium Alloy (PbSnCa): Lead, tin, calcium  
-- Tungsten Rhenium (W-Re): Tungsten, rhenium  
-- Iron Cobalt Vanadium (Fe-Co-V): Iron, cobalt, vanadium   
-- Scandium Aluminum Alloy (Sc-Al): Scandium, aluminum  
-- Zirconium Hafnium (Zr-Hf): Zirconium, hafnium   
-- Cupronickel-zinc (CuNiZn): Copper, nickel, zinc  
-- Titanium Beta-C (Ti Beta-C): Titanium, beta-stabilizing elements   
-- Vanadium Aluminum (V-Al): Vanadium, aluminum   
-- Titanium Boride (TiB): Titanium, boron   
-- Titanium Carbonitride (TiCN): Titanium, carbon, nitrogen   
-- Aluminum Nitride (AlN): Aluminum, nitrogen    
-- Yttria-Stabilized Zirconia (YSZ): Zirconium dioxide, yttrium oxide   
-- Aluminum Scandium Alloy (Al-Sc): Aluminum, scandium
 
-Part 6:  
-- Tungsten-Hafnium-Carbon (WHC): Tungsten, hafnium, carbon
-- Graphene-enhanced alloys: Various alloy combinations with graphene added for strength and heat resistance
-- Vanadium Carbide (VC): Vanadium, carbon
-- Molybdenum-Lanthanum (Mo-La): Molybdenum, lanthanum
-- Haynes International HAYNES® 242® alloy: Nickel, chromium, tungsten, molybdenum, iron, cobalt
-- Cermet alloys: Ceramic metal combinations for high-temperature and abrasive environments
-- Hafnium Carbide (HfC): Hafnium, carbon
-- Titanium-Chromium (Ti-Cr) alloys: Titanium, chromium
-- Niobium-Zirconium (Nb-Zr) alloys: Niobium, zirconium
-- Magnesium-Lithium alloys: Magnesium, lithium
-- Silicon Carbide (SiC) reinforced alloys: Various alloy combinations with silicon carbide added for increased strength and heat resistance
-- Copper-nickel-tin alloys: Copper, nickel, tin
-- Aluminum-Scandium-Titanium (Al-Sc-Ti) alloys: Aluminum, scandium, titanium
-- Niobium-Titanium-Aluminum (Nb-Ti-Al) alloys: Niobium, titanium, aluminum
-- Tungsten Carbide-Cobalt (WC-Co): Tungsten carbide, cobalt
-- Tungsten-Molybdenum-Nickel (W-Mo-Ni) alloys: Tungsten, molybdenum, nickel
-- Stainless steel alloys: Various alloys with added chromium and nickel for corrosion resistance and high-temperature stability.
-- Inconel 725: Nickel, chromium, titanium, molybdenum
-- Haynes International HAYNES® 282® alloy: Nickel, chromium, molybdenum, tungsten, iron, cobalt
-- Titanium Aluminide (TiAl): Titanium, aluminum
-- Titanium Boron Nitride (TiBN): Titanium, boron, nitrogen
-- Titanium Carbide (TiC): Titanium, carbon
-- Tungsten Carbide-Nickel (WC-Ni): Tungsten carbide, nickel
-- Platinum-Tungsten (Pt-W) alloys: Platinum, tungsten
-- Molybdenum-Copper (Mo-Cu) alloys: Molybdenum, copper
-- Nickel-Silver (NiAg) alloys: Nickel, silver
-- Cobalt-Silver (CoAg) alloys: Cobalt, silver
-- Aluminum-Lithium (Al-Li) alloys: Aluminum, lithium
-- Beryllium-Nickel (BeNi) alloys: Beryllium, nickel
-- Lead-Calcium-Tin (PbCaSn) alloys: Lead, calcium, tin
-- Niobium-aluminum (Nb-Al) alloys: Niobium, aluminum
-- Titanium-Molybdenum-Zirconium (Ti-Mo-Zr) alloys: Titanium, molybdenum, zirconium
-- Cobalt-Chromium-Tungsten-Nickel (Co-Cr-W-Ni) alloys: Cobalt, chromium, tungsten, nickel
-- Magnesium-Rare earth alloy: Magnesium, rare earth elements
-- Iron-Silicon (Fe-Si) alloys: Iron, silicon
-- Aluminum-Magnesium-Silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon
-- Nickel-Iron (Ni-Fe) alloys: Nickel, iron
-- Bronze alloys: Copper-tin combinations with additional elements like aluminum, manganese, and phosphorus for increased strength and durability.
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| CuNiBe (Copper Nickel Beryllium): Copper, nickel, beryllium | 63.5 | 700 °C | Arc melting |
+| Cupronickel (CuNi): Copper, nickel | 58.7 | 900 °C | Vacuum arc remelting |
+| Nicrosil (NiCrSi): Nickel, chromium, silicon | 58.9 | 1100 °C | Vacuum arc remelting |
+| Nisil (NiSi): Nickel, silicon | 58.7 | 1200 °C | Vacuum arc remelting |
+| Kovar (Fe-Ni-Co): Iron, nickel, cobalt | 55.8 | 1100 °C | Arc melting |
+| Niobium Titanium (Nb-Ti): Niobium, titanium | 58.7 | 1500 °C | Vacuum arc remelting |
+| Samarium Cobalt (SmCo): Samarium, cobalt | 152.4 | 1000 °C | Arc melting |
+| Raney Nickel: Nickel, aluminum | 58.7 | 800 °C | Arc melting |
+| Cupronickel-silane (CuNiSi): Copper, nickel, silicon | 58.7 | 800 °C | Arc melting |
+| Molybdenum Titanium (Mo-Ti): Molybdenum, titanium | 186.2 | 2800 °C | Arc melting |
+| Metal Matrix Composites (MMC): Matrix metal with ceramic or carbon fibers | Varies | Varies | Varies |
+| Carbides of Tungsten, Titanium, or Zirconium: Various combinations of tungsten, titanium, or zirconium with carbon | Varies | Varies | Varies |
+| Lead Tin Calcium Alloy (PbSnCa): Lead, tin, calcium | 207.2 | 300 °C | Arc melting |
+| Tungsten Rhenium (W-Re): Tungsten, rhenium | 191.4 | 3000 °C | Arc melting |
+| Iron Cobalt Vanadium (Fe-Co-V): Iron, cobalt, vanadium | 55.8 | 1000 °C | Arc melting |
+| Scandium Aluminum Alloy (Sc-Al): Scandium, aluminum | 44.9 | 600 °C | Arc melting |
+| Zirconium Hafnium (Zr-Hf): Zirconium, hafnium | 91.2 | 1800 °C | Vacuum arc remelting |
+| Cupronickel-zinc (CuNiZn): Copper, nickel, zinc | 58.7 | 1000 °C | Arc melting |
+| Titanium Beta-C (Ti Beta-C): Titanium, beta-stabilizing elements | 47.9 | 1000 °C | Vacuum arc remelting |
+| Vanadium Aluminum (V-Al): Vanadium, aluminum | 50.9 | 900 °C | Arc melting |
+| Titanium Boride (TiB): Titanium, boron | 47.9 | 1800 °C | Arc melting |
+| Titanium Carbonitride (TiCN): Titanium, carbon, nitrogen | 47.9 | 1800 °C | Arc melting |
+| Aluminum Nitride (AlN): Aluminum, nitrogen | 26.9 | 2000 °C | Arc melting |
+| Yttria-Stabilized Zirconia (YSZ): Zirconium dioxide, yttrium oxide | 151.9 | 2000 °C | Vacuum arc remelting |
+| Aluminum Scandium Alloy (Al-Sc): Aluminum, scandium | 44.9 | 600 °C | Arc melting |
+
+Part 6:   
+
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Tungsten-Hafnium-Carbon (WHC): Tungsten, hafnium, carbon | 199.4 | 3500 °C | Arc melting |
+| Graphene-enhanced alloys: Various alloy combinations with graphene added for strength and heat resistance | Varies | Varies | Varies |
+| Vanadium Carbide (VC): Vanadium, carbon | 50.9 | 2800 °C | Arc melting |
+| Molybdenum-Lanthanum (Mo-La): Molybdenum, lanthanum | 186.2 | 2800 °C | Arc melting |
+| Haynes International HAYNES® 242® alloy: Nickel, chromium, tungsten, molybdenum, iron, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Cermet alloys: Ceramic metal combinations for high-temperature and abrasive environments | Varies | Varies | Varies |
+| Hafnium Carbide (HfC): Hafnium, carbon | 166.1 | 3200 °C | Arc melting |
+| Titanium-Chromium (Ti-Cr) alloys: Titanium, chromium | 47.9 | 1000 °C | Vacuum arc remelting |
+| Niobium-Zirconium (Nb-Zr) alloys: Niobium, zirconium | 91.2 | 1800 °C | Vacuum arc remelting |
+| Magnesium-Lithium alloys: Magnesium, lithium | 24.3 | 600 °C | Arc melting |
+| Silicon Carbide (SiC) reinforced alloys: Various alloy combinations with silicon carbide added for increased strength and heat resistance | Varies | Varies | Varies |
+| Copper-nickel-tin alloys: Copper, nickel, tin | 58.7 | 1000 °C | Arc melting |
+| Aluminum-Scandium-Titanium (Al-Sc-Ti) alloys: Aluminum, scandium, titanium | 44.9 | 600 °C | Arc melting |
+| Niobium-Titanium-Aluminum (Nb-Ti-Al) alloys: Niobium, titanium, aluminum | 58.7 | 1000 °C | Vacuum arc remelting |
+| Tungsten Carbide-Cobalt (WC-Co): Tungsten carbide, cobalt | 184.3 | 2800 °C | Arc melting |
+| Tungsten-Molybdenum-Nickel (W-Mo-Ni) alloys: Tungsten, molybdenum, nickel | 186.2 | 2800 °C | Arc melting |
+| Stainless steel alloys: Various alloys with added chromium and nickel for corrosion resistance and high-temperature stability. | Varies | Varies | Varies |
+| Inconel 725: Nickel, chromium, titanium, molybdenum | 58.7 | 1200 °C | Vacuum arc remelting |
+| Haynes International HAYNES® 282® alloy: Nickel, chromium, molybdenum, tungsten, iron, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Titanium Aluminide (TiAl): Titanium, aluminum | 47.9 | 1000 °C | Vacuum arc remelting |
+| Titanium Boron Nitride (TiBN): Titanium, boron, nitrogen | 47.9 | 2800 °C | Arc melting |
+| Titanium Carbide (TiC): Titanium, carbon | 47.9 | 2800 °C | Arc melting |
+| Tungsten Carbide-Nickel (WC-Ni): Tungsten carbide, nickel | 184.3 | 2800 °C | Arc melting |
+| Platinum-Tungsten (Pt-W) alloys: Platinum, tungsten | 209.5 | 2800 °C | Arc melting |
+| Molybdenum-Copper (Mo-Cu) alloys: Molybdenum, copper | 184.3 | 2800 °C | Arc melting |
+| Nickel-Silver (NiAg) alloys: Nickel, silver | 58.7 | 900 °C | Arc melting |
+| Cobalt-Silver (CoAg) alloys: Cobalt, silver | 119.5 | 1000 °C | Arc melting |
+| Aluminum-Lithium (Al-Li) alloys: Aluminum, lithium | 26.9 | 500 °C | Arc melting |
+| Beryllium-Nickel (BeNi) alloys: Beryllium, nickel | 77.1 | 800 °C | Arc melting |
+| Lead-Calcium-Tin (PbCaSn) alloys: Lead, calcium, tin | 207.2 | 300 °C | Arc melting |
+| Niobium-aluminum (Nb-Al) alloys: Niobium, aluminum | 58.7 | 1000 °C | Vacuum arc remelting |
+| Titanium-Molybdenum-Zirconium (Ti-Mo-Zr) alloys: Titanium, molybdenum, zirconium | 47.9 | 1000 °C | Vacuum arc remelting |
+| Cobalt-Chromium-Tungsten-Nickel (Co-Cr-W-Ni) alloys: Cobalt, chromium, tungsten, nickel | 58.7 | 1300 °C | Vacuum arc remelting |
+| Magnesium-Rare earth alloy: Magnesium, rare earth elements | 24.3 | 600 °C | Arc melting |
+| Iron-Silicon (Fe-Si) alloys: Iron, silicon | 55.8 | 800 °C | Arc melting |
+| Aluminum-Magnesium-Silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon | 26.9 | 600 °C | Arc melting |
+| Nickel-Iron (Ni-Fe) alloys: Nickel, iron | 58.7 | 1000 °C | Arc melting |
+| Bronze alloys: Copper-tin combinations with additional elements like aluminum, manganese, and phosphorus for increased strength and durability. | Varies | Varies | Varies |
 
 Part 7, (Alloys w/Superconductor Elements):  
 
-1. Yttrium barium copper oxide (YBCO): Yttrium, barium, copper, oxygen
-2. Magnesium diboride (MgB2): Magnesium, boron
-3. Lanthanum barium copper oxide (LBCO): Lanthanum, barium, copper, oxygen
-4. Iron-pnictide compounds: Various alloys with iron and pnictide (nitrogen, arsenic, antimony) elements
-5. Strontium ruthenate (Sr2RuO4): Strontium, ruthenium, oxygen
-6. Rare earth barium copper oxide (REBCO): Various rare earth elements, barium, copper, oxygen
-7. Ruthenium oxide (RuO2): Ruthenium, oxygen
-8. Tungsten carbide-graphene composites: Tungsten carbide with added graphene for heat resistance and electrical conductivity
-9. Iron-tungsten alloys: Iron, tungsten
-10. Niobium-tin (Nb3Sn): Niobium, tin
-1. Vanadium-gallium alloys: Vanadium, gallium
-2. Tantalum carbide (TaC): Tantalum, carbon
-3. Rhenium-tungsten alloys: Rhenium, tungsten
-4. Copper-nickel-tin (CuNiSn): Copper, nickel, tin
-5. Hafnium-carbon (HfC): Hafnium, carbon
-6. Aluminum-nitride (AlN): Aluminum, nitrogen
-7. Zirconium-nitride (ZrN): Zirconium, nitrogen
-8. Magnesium-aluminum (Mg-Al) alloys: Magnesium, aluminum
-9. Cobalt-chromium-molybdenum (Co-Cr-Mo) alloys: Cobalt, chromium, molybdenum
-10. Titanium-niobium-aluminum (Ti-Nb-Al) alloys: Titanium, niobium, aluminum
-11. Nickel-titanium (Ni-Ti) alloys: Nickel, titanium
-12. Silver-palladium (Ag-Pd) alloys: Silver, palladium
-13. Zinc-aluminum (Zn-Al) alloys: Zinc, aluminum
-14. Iron-aluminum-chromium (Fe-Al-Cr) alloys: Iron, aluminum, chromium
-15. Copper-indium-gallium-selenide (CIGS): Copper, indium, gallium, selenium
-1. Tungsten-rhenium alloys: Tungsten, rhenium
-2. Titanium-silicon (Ti-Si) alloys: Titanium, silicon
-3. Copper-indium (Cu-In) alloys: Copper, indium
-4. Nickel-chromium (Ni-Cr) alloys: Nickel, chromium
-5. Aluminum-magnesium-silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon
-6. Copper-titanium (Cu-Ti) alloys: Copper, titanium
-7. Molybdenum-niobium (Mo-Nb) alloys: Molybdenum, niobium
-8. Chromium-silicon (Cr-Si) alloys: Chromium, silicon
-9. Zirconium-tin (Zr-Sn) alloys: Zirconium, tin
-10. Platinum-iridium (Pt-Ir) alloys: Platinum, iridium
-11. Nickel-manganese (Ni-Mn) alloys: Nickel, manganese
-12. Iron-chromium-aluminum (Fe-Cr-Al) alloys: Iron, chromium, aluminum
-13. Cobalt-chromium-tungsten (Co-Cr-W) alloys: Cobalt, chromium, tungsten
-14. Copper-tungsten (Cu-W) alloys: Copper, tungsten
-15. Tantalum-niobium (Ta-Nb) alloys: Tantalum, niobium.
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Yttrium barium copper oxide (YBCO): Yttrium, barium, copper, oxygen | 178.9 | 900 °C | Arc melting |
+| Magnesium diboride (MgB2): Magnesium, boron | 26.9 | 400 °C | Arc melting |
+| Lanthanum barium copper oxide (LBCO): Lanthanum, barium, copper, oxygen | 186.2 | 800 °C | Arc melting |
+| Iron-pnictide compounds: Various alloys with iron and pnictide (nitrogen, arsenic, antimony) elements | Varies | Varies | Varies |
+| Strontium ruthenate (Sr2RuO4): Strontium, ruthenium, oxygen | 123.9 | 500 °C | Arc melting |
+| Rare earth barium copper oxide (REBCO): Various rare earth elements, barium, copper, oxygen | Varies | Varies | Varies |
+| Ruthenium oxide (RuO2): Ruthenium, oxygen | 123.9 | 700 °C | Arc melting |
+| Tungsten carbide-graphene composites: Tungsten carbide with added graphene for heat resistance and electrical conductivity | Varies | Varies | Varies |
+| Iron-tungsten alloys: Iron, tungsten | 55.8 | 1500 °C | Arc melting |
+| Niobium-tin (Nb3Sn): Niobium, tin | 103.9 | 1200 °C | Arc melting |
+| Vanadium-gallium alloys: Vanadium, gallium | 50.9 | 1000 °C | Arc melting |
+| Tantalum carbide (TaC): Tantalum, carbon | 166.1 | 3000 °C | Arc melting |
+| Rhenium-tungsten alloys: Rhenium, tungsten | 191.4 | 3500 °C | Arc melting |
+| Copper-nickel-tin (CuNiSn): Copper, nickel, tin | 58.7 | 1000 °C | Arc melting |
+| Hafnium-carbon (HfC): Hafnium, carbon | 166.1 | 3200 °C | Arc melting |
+| Aluminum-nitride (AlN): Aluminum, nitrogen | 26.9 | 2000 °C | Arc melting |
+| Zirconium-nitride (ZrN): Zirconium, nitrogen | 91.2 | 2300 °C | Arc melting |
+| Magnesium-aluminum (Mg-Al) alloys: Magnesium, aluminum | 24.3 | 600 °C | Arc melting |
+| Cobalt-chromium-molybdenum (Co-Cr-Mo) alloys: Cobalt, chromium, molybdenum | 55.8 | 1300 °C | Vacuum arc remelting |
+| Titanium-niobium-aluminum (Ti-Nb-Al) alloys: Titanium, niobium, aluminum | 58.7 | 1000 °C | Vacuum arc remelting |
+| Nickel-titanium (Ni-Ti) alloys: Nickel, titanium | 58.7 | 1000 °C | Arc melting |
+| Silver-palladium (Ag-Pd) alloys: Silver, palladium | 107.8 | 1200 °C | Arc melting |
+| Zinc-aluminum (Zn-Al) alloys: Zinc, aluminum | 65.4 | 600 °C | Arc melting |
+| Iron-aluminum-chromium (Fe-Al-Cr) alloys: Iron, aluminum, chromium | 55.8 | 1000 °C | Arc melting |
+| Copper-indium-gallium-selenide (CIGS): Copper, indium, gallium, selenium | 26.9 | 500 °C | Arc melting |
+| Tungsten-rhenium alloys: Tungsten, rhenium | 191.4 | 3500 °C | Arc melting |
+| Titanium-silicon (Ti-Si) alloys: Titanium, silicon | 47.9 | 1000 °C | Vacuum arc remelting |
+| Nickel-titanium-copper (Ni-Ti-Cu) alloys: Nickel, titanium, copper | 58.7 | 1000 °C | Arc melting |
+| Copper-zinc-tin (Cu-Zn-Sn) alloys: Copper, zinc, tin | 58.7 | 1000 °C | Arc melting |
+| Aluminum-gallium-nitride (Al-GaN) alloys: Aluminum, gallium, nitrogen | 65.4 | 2000 °C | Arc melting |
+| Tungsten-carbide-cobalt (WC-Co) alloys: Tungsten, carbon, cobalt | 184.3 | 2800 °C | Arc melting |
+| Iron-nickel-cobalt (Fe-Ni-Co) alloys: Iron, nickel, cobalt | 58.7 | 1300 °C | Vacuum arc remelting |
+| Copper-gold (Cu-Au) alloys: Copper, gold | 63.5 | 1000 °C | Arc melting |
+| Nickel-copper (Ni-Cu) alloys: Nickel, copper | 58.7 | 1000 °C | Arc melting |
+| Aluminum-titanium-vanadium (Al-Ti-V) alloys: Aluminum, titanium, vanadium | 58.7 | 1000 °C | Vacuum arc remelting |
+| Titanium-aluminum-vanadium (Ti-Al-V) alloys: Titanium, aluminum, vanadium | 47.9 | 1000 °C | Vacuum arc remelting |
+| Copper-indium (Cu-In) alloys: Copper, indium | 63.5 | 500 °C | Arc melting |
+| Nickel-chromium (Ni-Cr) alloys: Nickel, chromium | 55.8 | 1300 °C | Vacuum arc remelting |
+| Aluminum-magnesium-silicon (Al-Mg-Si) alloys: Aluminum, magnesium, silicon | 26.9 | 600 °C | Arc melting |
+| Copper-titanium (Cu-Ti) alloys: Copper, titanium | 58.7 | 1000 °C | Vacuum arc remelting |
+| Molybdenum-niobium (Mo-Nb) alloys: Molybdenum, niobium | 191.4 | 3500 °C | Arc melting |
+| Chromium-silicon (Cr-Si) alloys: Chromium, silicon | 55.8 | 1000 °C | Arc melting |
+| Zirconium-tin (Zr-Sn) alloys: Zirconium, tin | 91.2 | 1800 °C | Arc melting |
+| Platinum-iridium (Pt-Ir) alloys: Platinum, iridium | 209.5 | 2800 °C | Arc melting |
+| Nickel-manganese (Ni-Mn) alloys: Nickel, manganese | 55.8 | 1000 °C | Arc melting |
+| Iron-chromium-aluminum (Fe-Cr-Al) alloys: Iron, chromium, aluminum | 55.8 | 1000 °C | Arc melting |
+| Cobalt-chromium-tungsten (Co-Cr-W) alloys: Cobalt, chromium, tungsten | 55.8 | 1300 °C | Vacuum arc remelting |
+| Copper-tungsten (Cu-W) alloys: Copper, tungsten | 58.7 | 2800 °C | Arc melting |
+| Tantalum-niobium (Ta-Nb) alloys: Tantalum, niobium. | 186.2 | 3500 °C | Arc melting |  
+
 1. Nickel-titanium-copper (Ni-Ti-Cu) alloys: Nickel, titanium, copper
 2. Copper-zinc-tin (Cu-Zn-Sn) alloys: Copper, zinc, tin
 3. Aluminum-gallium-nitride (Al-GaN) alloys: Aluminum, gallium, nitrogen
