@@ -4,8 +4,9 @@
 
 - Categories:
   - Body
-  - [Mind](/assets/docs/synthesis/humans/mind/readme.md)    
-    - Soul, Religion Suposeds
+  - Brain
+    - [Mind](/assets/docs/synthesis/humans/mind/readme.md)      
+      - Soul, Religion Suposeds
 
 ------------------------------      
 
