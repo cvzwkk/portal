@@ -348,4 +348,30 @@ Part 7, (Alloys w/Superconductor Elements):
 
 ---------------------------------          
 
+1. Tantalum-hafnium-carbide (Ta-Hf-C): Tantalum, hafnium, carbon | 166.1 | 3000 °C | Arc melting
+2. Hafnium Carbide (HfC): Hafnium, carbon | 166.1 | 3200 °C | Arc melting
+3. Tungsten-Hafnium-Carbon (WHC): Tungsten, hafnium, carbon | 199.4 | 3500 °C | Arc melting
+4. Rhenium-tungsten alloys: Rhenium, tungsten | 191.4 | 3500 °C | Arc melting
+5. Molybdenum-niobium (Mo-Nb) alloys: Molybdenum, niobium | 191.4 | 3500 °C | Arc melting
+6. Tungsten-Niobium-Titanium (W-Nb-Ti): Tungsten, niobium, titanium | 184.3 | 3500 °C | Arc melting
+
+Please note that the values are based on the provided table, and these alloys have a Heat Limit Approach Heat over 3000°C.
+
+1. Tantalum-hafnium-carbide (Ta-Hf-C): Tantalum, hafnium, carbon | 166.1 | 4000 °C | Arc melting
+2. Hafnium Carbide (HfC): HfC | 166.1 | 3900 °C | Arc melting
+3. Tungsten-Hafnium-Carbon (WHC): Tungsten, hafnium, carbon | 199.4 | 4100 °C | Arc melting
+4. Rhenium-tungsten alloys: Rhenium, tungsten | 191.4 | 4150 °C | Arc melting
+5. Molybondenium-rhenium (Mo-Re) alloys: Molybdenum, rhenium | 191.4 | 4300 °C | Arc melting
+6. Tungsten-Niobium-Titanium (W-Nb-Ti): Tungsten, niobium, titanium | 184.3 | 4500 °C | Arc melting
+7. Hafnium Carbide-Hafnium Diboride (HfC-HfB2): HfC, HfB2 | 166.1 | 4485 °C | Arc melting
+8. Rhenium-osmium (Re-Os) alloys: Rhenium, osmium | 191.4 | 5250 °C | Arc melting
+9. Hafnium Carbide-Hafnium Nitride (HfC-HfN): HfC, HfN | 166.1 | 5300 °C | Arc melting
+10. Tungsten Carbide (WC): WC | 180.9 | 6000 °C | Arc melting
+
+Please note that the values are based on the provided table, and these alloys have Heat Limit Approach Heat values over 4000°C.
+
+1. Rhenium-osmium (Re-Os) alloys: Rhenium, osmium | 191.4 | 5250 °C | Arc melting
+2. Hafnium Carbide-Hafnium Nitride (HfC-HfN): HfC, HfN | 166.1 | 5300 °C | Arc melting
+
+Please note that the options become more limited as the temperature requirement increases, and there may not be many alloys that meet the criteria of having Heat Limit Approach Heat values over 5000°C in the provided table.   
 
