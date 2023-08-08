@@ -46,3 +46,26 @@ The dimensions of a tokamak's height and radius are influenced by various factor
    τ = V / (2π * a * L)
 
 These equations provide a simplified overview of how the dimensions of height (L) and radius (a) relate to each other in a tokamak design. In reality, tokamak design is much more complex and involves optimization of these parameters along with considerations for plasma physics, material engineering, and energy confinement.
+
+-----------------
+
+# My Custom Tokamak, Theorically   
+
+- Objectives:   
+  - Support:      
+    - 666Millions Of °C     
+    - 1 Tonnes or More of Hot Plasma
+    
+The dimensional values of a tokamak that can support 1 tonne of hot plasma with 666 million degrees Celsius are not yet known. This is because tokamaks that can achieve these conditions are still in the early stages of development.
+
+However, some estimates suggest that a tokamak with a height of at least 100 meters and a radius of at least 30 meters would be required to support 1 tonne of hot plasma with 666 million degrees Celsius. The tokamak would also need to be surrounded by a strong magnetic field to confine the plasma.
+
+The development of tokamaks that can achieve these conditions is a major challenge, but it is an important goal for the future of nuclear fusion power. If tokamaks can be successfully developed, they could provide a clean, safe, and abundant source of energy.
+
+Here are some additional considerations for the dimensional values of a tokamak that can support 1 tonne of hot plasma with 666 million degrees Celsius:
+
+* The tokamak would need to be made of materials that can withstand the high temperatures and pressures of the plasma.
+* The tokamak would need to be cooled to prevent the plasma from melting the walls of the reactor.
+* The tokamak would need to be equipped with a system to remove the neutrons produced by the fusion reactions.
+
+The development of tokamaks that can support 1 tonne of hot plasma with 666 million degrees Celsius is a major challenge, but it is an important goal for the future of nuclear fusion power. If tokamaks can be successfully developed, they could provide a clean, safe, and abundant source of energy.
