@@ -546,6 +546,8 @@ The alternative fission scenario using this mix of materials generates approxima
 
 # Fusion      
 
+# Hydrogen + Deuterium = 16,140 Joules    
+
 Fusion reactions release energy when lighter atomic nuclei combine to form heavier ones. The most common fusion reaction involves the isotopes of hydrogen, deuterium (D), and tritium (T). The energy released is given by Einstein's mass-energy equivalence principle (E=mc^2), where m is the mass difference between the initial and final nuclei.
 
 In your case, we're considering fusion of hydrogen and deuterium. The most common fusion reaction between these isotopes is:
@@ -580,4 +582,78 @@ The energy released per reaction is approximately 17.6 MeV. Let's calculate the 
 
 So, approximately 16,140 joules of energy are generated from the fusion of 345 kg of hydrogen and 251 kg of deuterium. Please note that the energy released from fusion reactions is considerably smaller than from fission reactions involving uranium and other heavy elements.    
 
-----------------------------       
+----------------------------     
+
+# Hydrogen + MOX, Mixed Fuel w/Plutonium = 150,900 Joules    
+
+Certainly, let's calculate the energy released from a fusion reaction involving 345 kg of hydrogen and 251 kg of MOX (Mixed Oxide fuel, typically a mixture of uranium and plutonium oxides). For simplicity, let's assume that all the plutonium isotopes in the MOX fuel undergo fusion with hydrogen. We'll consider a specific fusion reaction that involves plutonium-239 (Pu-239):
+
+Pu-239 + H → He-4 + 1 neutron (n)
+
+The energy released per reaction is approximately 17.3 MeV. Let's calculate the total energy released from the fusion of 345 kg of hydrogen and 251 kg of MOX:
+
+1. Calculate the number of plutonium-239 (Pu-239) atoms in 251 kg of MOX:
+   - Number of atoms = (251,000 g) / (molar mass of Pu-239) * Avogadro's number
+   - Number of atoms ≈ 1.251 x 10^27 plutonium-239 atoms
+
+2. Calculate the energy released from plutonium-239-hydrogen fusion:
+   - Total energy = (1.251 x 10^27 atoms) * (17.3 MeV/atom)
+   - Total energy ≈ 2.165 x 10^14 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 3.468 x 10^1 Joules
+
+3. Calculate the number of hydrogen (H) atoms in 345 kg of hydrogen:
+   - Number of atoms = (345,000 g) / (molar mass of hydrogen) * Avogadro's number
+   - Number of atoms ≈ 5.449 x 10^30 hydrogen atoms
+
+4. Calculate the energy released from hydrogen-plutonium-239 fusion (assuming all plutonium fuses with hydrogen):
+   - Total energy = (5.449 x 10^30 atoms) * (17.3 MeV/atom)
+   - Total energy ≈ 9.412 x 10^17 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.508 x 10^5 Joules
+
+5. Total energy released from both reactions:
+   - Total energy ≈ (3.468 x 10^1 Joules) + (1.508 x 10^5 Joules)
+   - Total energy ≈ 1.509 x 10^5 Joules
+
+So, approximately 150,900 joules of energy are generated from the fusion of 345 kg of hydrogen and 251 kg of MOX (assuming all plutonium-239 undergoes fusion). Please note that the energy released from fusion reactions involving hydrogen and MOX is still considerably smaller than that from fission reactions involving heavier elements.   
+
+------------------------------------       
+
+# Hydrogen + Uranium Hydroxide = 154,000 Joules     
+
+Certainly, let's calculate the energy released from a fusion reaction involving 345 kg of hydrogen and 251 kg of uranium hydroxide (Uranium oxide). For simplicity, we'll assume that all the uranium isotopes in the uranium hydroxide undergo fusion with hydrogen.
+
+The most common fusion reaction involving hydrogen and uranium is not as straightforward as fission reactions, and it typically involves isotopes of hydrogen like deuterium and tritium. However, if we assume fusion involving hydrogen and uranium isotopes (which is not a common scenario), we'll use a generic fusion energy value.
+
+For this calculation, we'll assume a generic energy release of 17.6 MeV per fusion reaction.
+
+Let's proceed with this assumption and calculate the total energy released:
+
+1. Calculate the number of uranium atoms in 251 kg of uranium hydroxide:
+   - Number of atoms = (251,000 g) / (molar mass of uranium) * Avogadro's number
+   - Number of atoms ≈ 2.101 x 10^27 uranium atoms
+
+2. Calculate the energy released from uranium-hydrogen fusion:
+   - Total energy = (2.101 x 10^27 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 3.700 x 10^14 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 5.932 x 10^1 Joules
+
+3. Calculate the number of hydrogen (H) atoms in 345 kg of hydrogen:
+   - Number of atoms = (345,000 g) / (molar mass of hydrogen) * Avogadro's number
+   - Number of atoms ≈ 5.449 x 10^30 hydrogen atoms
+
+4. Calculate the energy released from hydrogen-uranium fusion (assuming all uranium fuses with hydrogen):
+   - Total energy = (5.449 x 10^30 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 9.598 x 10^17 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.539 x 10^5 Joules
+
+5. Total energy released from both reactions:
+   - Total energy ≈ (5.932 x 10^1 Joules) + (1.539 x 10^5 Joules)
+   - Total energy ≈ 1.540 x 10^5 Joules
+
+So, approximately 154,000 joules of energy are generated from the fusion of 345 kg of hydrogen and 251 kg of uranium hydroxide (assuming all uranium isotopes undergo fusion). Please note that this calculation uses a simplified assumption, and actual fusion reactions involving hydrogen and uranium are much more complex and typically involve isotopes like deuterium and tritium.    
+
+------------------------------
