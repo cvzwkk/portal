@@ -117,6 +117,43 @@ By incorporating some of these activities into your daily routine, you can boost
          
 The brain is a complex and delicate organ that requires a variety of substances to function properly. By understanding the composition of the brain, we can better understand how it works and how to protect it from damage.     
 
+---------------------------------      
+
+ # Table Of Hormonoes / Substances   
+
+Sure, here is the table of brain hormones with their functions, including the ones I mentioned in my previous response, in table format:
+
+| Hormone | Function |
+|---|---|
+| Acetylcholine | Memory, learning, muscle movement, heart rate, and breathing |
+| Beta-endorphins | Natural pain relievers that are produced in the brain. They are also involved in the regulation of mood and stress. |
+| CCK (cholecystokinin) | Hormone that is involved in appetite regulation and digestion. |
+| GABA (gamma-aminobutyric acid) | Inhibitory neurotransmitter that plays a role in calming the brain and reducing anxiety. |
+| Hypocretin | Hormone that is involved in wakefulness and alertness. |
+| Melatonin | Hormone that is produced in the pineal gland and helps to regulate sleep-wake cycles. |
+| NPY (neuropeptide Y) | Hormone that is involved in appetite regulation and energy balance. |
+| Substance P | Neurotransmitter that is involved in pain perception and inflammation. |
+| Testosterone | Sex hormones in males, involved in reproduction, muscle growth, and mood. |
+| Thyroid hormones | Metabolism, growth, and development. |
+| Estrogen | Sex hormones in females, involved in reproduction, mood, and bone health. |
+| Progesterone | Sex hormones in females, involved in reproduction, mood, and bone health. |
+| Cortisol | Stress response, immune function, and metabolism. |
+| Growth hormone | Growth and development, metabolism, and immune function. |
+| Dopamine | Motivation, reward, and movement. It is also involved in the regulation of learning and memory. |
+| Serotonin | Mood, sleep, and appetite. It is also involved in the regulation of pain. |
+| Norepinephrine (noradrenaline) | Alertness, attention, learning, and stress response. |
+| Oxytocin | Bonding, love, trust, childbirth, and lactation. |
+| Vasopressin | Water balance, blood pressure, memory, and social behavior. |
+| BDNF (brain-derived neurotrophic factor) | Protein that promotes the growth and survival of neurons. It is thought to play a role in learning, memory, and mood. |
+| Neurotensin | Neurotransmitter that is involved in pain perception, appetite regulation, and reward. |
+| Orexin | Hormone that is involved in wakefulness and appetite regulation. |
+| Prolactin | Hormone that is involved in milk production and reproduction. |
+| Tachykinins | Group of peptides that are involved in pain perception, inflammation, and learning. |
+
+---------------------------------
+
+---------------------------------       
+   
 - Ephysis Cerebri:
      
 The pineal gland, also known as the epiphysis cerebri, is a small, cone-shaped gland located in the center of the brain. It is about the size of a pea and is located between the two hemispheres of the brain. The pineal gland is often referred to as the "third eye" because of its location and its role in producing melatonin, a hormone that helps regulate sleep and wake cycles.      
