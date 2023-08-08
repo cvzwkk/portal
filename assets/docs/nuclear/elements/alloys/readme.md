@@ -6,32 +6,36 @@ The alloy list with enumerous amounts of alloys used most precisely in the react
 
 ---------------------
 
-- [Uranium Amalgam (Uranium + Mercury)](/assets/docs/universe/chemy/Elements/alloy/about/uranium-amalgam.md)  
-- Hastelloy alloys
-- Copper-Chromium (CuCr) Alloy
-- Tungsten-Titanium (W-Ti) Alloy
-- Tungsten-Copper Alloy
-- Tungsten-Rhenium Alloy
-- Tungsten-Zirconium (W-Zr) Alloy
-- Tantalum-Lithium (Ta-Li) Alloy:
-- Nickel-Based Superalloys
-- Nickel-Titanium (Ni-Ti) Alloy
-- Cobalt-Chromium (Co-Cr) Alloy
-- Titanium-Aluminum (Ti-Al) Alloy
-- Platinum-Rhodium (Pt-Rh) Alloy
-- Tungsten-Rhenium-Iridium (W-Re-Ir) Alloy
-- Nickel-Chromium (Ni-Cr) Alloy
-- Lead-Lithium (Pb-Li) Eutectic Alloy
-- Silicon-Aluminum (Si-Al) Alloy
-- Titanium-Zirconium-Molybdenum (TZM) Alloy
-- Copper-Chromium-Zirconium (Cu-Cr-Zr) Alloy
-- Molybdenum-Tungsten (Mo-W) Alloy
-- Lithium-Lithium Aluminum Alloy (Li-LiAl): Li-LiAl alloy
-- Uranium Alloy-1/2/3
-- Zirconium alloys
-- Nitinol (Nickel-Titanium)
-- Lead-Lithium Alloy: Lead-lithium (Pb-Li)
-- Inconel   
+- [Uranium Amalgam (Uranium + Mercury)](/assets/docs/universe/chemy/Elements/alloy/about/uranium-amalgam.md)
+- 
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Uranium Amalgam (Uranium + Mercury) | 207.2 | 1400 °C | Arc melting |
+| Hastelloy alloys | 144.2 | 1200 °C | Vacuum arc remelting |
+| Copper-Chromium (CuCr) Alloy | 79.5 | 1100 °C | Arc melting |
+| Tungsten-Titanium (W-Ti) Alloy | 180.9 | 2900 °C | Arc melting |
+| Tungsten-Copper Alloy | 192.9 | 2800 °C | Arc melting |
+| Tungsten-Rhenium Alloy | 186.2 | 3400 °C | Arc melting |
+| Tungsten-Zirconium (W-Zr) Alloy | 176.9 | 2800 °C | Arc melting |
+| Tantalum-Lithium (Ta-Li) Alloy | 73.4 | 1800 °C | Arc melting |
+| Nickel-Based Superalloys | 58.7 | 1300 °C | Vacuum arc remelting |
+| Nickel-Titanium (Ni-Ti) Alloy | 58.7 | 1000 °C | Arc melting |
+| Cobalt-Chromium (Co-Cr) Alloy | 58.9 | 1300 °C | Vacuum arc remelting |
+| Titanium-Aluminum (Ti-Al) Alloy | 47.9 | 1000 °C | Arc melting |
+| Platinum-Rhodium (Pt-Rh) Alloy | 195.0 | 1800 °C | Arc melting |
+| Tungsten-Rhenium-Iridium (W-Re-Ir) Alloy | 368.9 | 4000 °C | Arc melting |
+| Nickel-Chromium (Ni-Cr) Alloy | 58.7 | 1200 °C | Vacuum arc remelting |
+| Lead-Lithium (Pb-Li) Eutectic Alloy | 207.2 | 400 °C | Arc melting |
+| Silicon-Aluminum (Si-Al) Alloy | 27.0 | 600 °C | Arc melting |
+| Titanium-Zirconium-Molybdenum (TZM) Alloy | 63.2 | 2300 °C | Arc melting |
+| Copper-Chromium-Zirconium (Cu-Cr-Zr) Alloy | 78.9 | 1100 °C | Arc melting |
+| Molybdenum-Tungsten (Mo-W) Alloy | 184.3 | 2800 °C | Arc melting |
+| Lithium-Lithium Aluminum Alloy (Li-LiAl): Li-LiAl alloy | 6.94 | 450 °C | Arc melting |
+| Uranium Alloy-1/2/3 | 238.0 | 1100 °C | Arc melting |
+| Zirconium alloys | 91.2 | 1800 °C | Vacuum arc remelting |
+| Nitinol (Nickel-Titanium) | 58.7 | 600 °C | Arc melting |
+| Lead-Lithium Alloy: Lead-lithium (Pb-Li) | 207.2 | 400 °C | Arc melting |
+| inconel | 58.7 | 1300 °C | Vacuum arc remelting |
 
 Part 2:  
 - Wood's metal (lead, tin, cadmium)
