@@ -546,6 +546,61 @@ The alternative fission scenario using this mix of materials generates approxima
 
 # Fusion      
 
+# Methane Gas - MOX w/Plutonium + Uranium Hydroxide + Uranium     
+   
+Certainly, let's calculate the energy released from a combination of fusion and fission reactions involving 7500 liters of methane gas, 11 kg of MOX plutonium, 21 kg of uranium hydroxide, and 31 kg of uranium. We'll consider both fusion reactions involving methane and fission reactions involving plutonium and uranium.
+
+1. Calculate the number of deuterium (D) atoms in 7500 liters of methane gas:
+   - Methane (CH4) consists of one carbon atom and four hydrogen atoms.
+   - Number of deuterium atoms ≈ (7500 L) * (4 hydrogen atoms/L) * Avogadro's number
+   - Number of deuterium atoms ≈ 4.141 x 10^27 deuterium atoms
+
+2. Calculate the energy released from deuterium-deuterium fusion (assuming all deuterium fuses):
+   - Total energy = (4.141 x 10^27 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 7.284 x 10^14 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.167 x 10^2 Joules
+
+3. Calculate the number of plutonium-239 (Pu-239) atoms in 11 kg of MOX plutonium:
+   - Number of atoms ≈ (11,000 g) / (molar mass of Pu-239) * Avogadro's number
+   - Number of atoms ≈ 5.521 x 10^24 plutonium-239 atoms
+
+4. Calculate the energy released from plutonium-239 fission:
+   - Total energy = (5.521 x 10^24 atoms) * (17.3 MeV/atom)
+   - Total energy ≈ 9.560 x 10^13 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.530 x 10^1 Joules
+
+5. Calculate the number of uranium atoms in 21 kg of uranium hydroxide:
+   - Number of atoms ≈ (21,000 g) / (molar mass of uranium) * Avogadro's number
+   - Number of atoms ≈ 1.758 x 10^26 uranium atoms
+
+6. Calculate the energy released from uranium-hydrogen fusion (assuming all uranium fuses with hydrogen):
+   - Total energy = (1.758 x 10^26 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 3.098 x 10^13 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 4.958 x 10^0 Joules
+
+7. Calculate the number of uranium atoms in 31 kg of uranium:
+   - Number of atoms ≈ (31,000 g) / (molar mass of uranium) * Avogadro's number
+   - Number of atoms ≈ 2.586 x 10^26 uranium atoms
+
+8. Calculate the energy released from uranium fission:
+   - Total energy = (2.586 x 10^26 atoms) * (average fission energy for uranium)
+   - Assume average fission energy ≈ 200 MeV (convert to Joules)
+   - Total energy ≈ 8.329 x 10^11 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.333 x 10^1 Joules
+
+9. Total energy released from all reactions:
+   - Total energy ≈ (1.167 x 10^2 Joules) + (1.530 x 10^1 Joules) + (4.958 x 10^0 Joules) + (1.333 x 10^1 Joules)
+   - Total energy ≈ 1.442 x 10^2 Joules
+
+So, approximately 144.2 joules of energy are generated from the combination of fusion and fission reactions involving 7500 liters of methane gas, 11 kg of MOX plutonium, 21 kg of uranium hydroxide, and 31 kg of uranium. Please note that this calculation uses simplified assumptions and does not account for various factors, such as reaction efficiencies and specific isotopic compositions.
+
+-------------------------------      
+
+
 # Hydrogen + Deuterium = 16,140 Joules    
 
 Fusion reactions release energy when lighter atomic nuclei combine to form heavier ones. The most common fusion reaction involves the isotopes of hydrogen, deuterium (D), and tritium (T). The energy released is given by Einstein's mass-energy equivalence principle (E=mc^2), where m is the mass difference between the initial and final nuclei.
