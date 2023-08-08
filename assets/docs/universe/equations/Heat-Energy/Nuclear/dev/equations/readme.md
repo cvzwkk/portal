@@ -4,7 +4,9 @@
 
 # My Custom Equations:   
 
-------------------------   
+------------------------     
+     
+# Fission   
 
 # 34.44 TeraJoules Of Energy     
 
@@ -541,3 +543,41 @@ Total energy released from all fissions:
 The alternative fission scenario using this mix of materials generates approximately 2.439 x 10^33 Joules (or 2.439 x 10^21 terajoules) of energy, surpassing the target of 500 trillion terajoules.  
 
 ---------------------------
+
+# Fusion      
+
+Fusion reactions release energy when lighter atomic nuclei combine to form heavier ones. The most common fusion reaction involves the isotopes of hydrogen, deuterium (D), and tritium (T). The energy released is given by Einstein's mass-energy equivalence principle (E=mc^2), where m is the mass difference between the initial and final nuclei.
+
+In your case, we're considering fusion of hydrogen and deuterium. The most common fusion reaction between these isotopes is:
+
+D + D → He-3 + 1 neutron (n)
+
+The energy released per reaction is approximately 17.6 MeV. Let's calculate the total energy released from the fusion of 345 kg of hydrogen and 251 kg of deuterium:
+
+1. Calculate the number of deuterium (D) atoms in 251 kg of deuterium:
+   - Number of atoms = (251,000 g) / (molar mass of deuterium) * Avogadro's number
+   - Number of atoms ≈ 2.509 x 10^28 deuterium atoms
+
+2. Calculate the energy released from deuterium-deuterium fusion:
+   - Total energy = (2.509 x 10^28 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 4.418 x 10^15 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 7.079 x 10^2 Joules
+
+3. Calculate the number of hydrogen (H) atoms in 345 kg of hydrogen:
+   - Number of atoms = (345,000 g) / (molar mass of hydrogen) * Avogadro's number
+   - Number of atoms ≈ 5.449 x 10^30 hydrogen atoms
+
+4. Calculate the energy released from hydrogen-deuterium fusion (assuming all hydrogen fuses with deuterium):
+   - Total energy = (5.449 x 10^30 atoms) * (17.6 MeV/atom)
+   - Total energy ≈ 9.602 x 10^16 MeV
+   - Convert to joules: 1 MeV ≈ 1.60218 x 10^-13 Joules
+   - Total energy ≈ 1.537 x 10^4 Joules
+
+5. Total energy released from both reactions:
+   - Total energy ≈ (7.079 x 10^2 Joules) + (1.537 x 10^4 Joules)
+   - Total energy ≈ 1.614 x 10^4 Joules
+
+So, approximately 16,140 joules of energy are generated from the fusion of 345 kg of hydrogen and 251 kg of deuterium. Please note that the energy released from fusion reactions is considerably smaller than from fission reactions involving uranium and other heavy elements.    
+
+----------------------------       
