@@ -2,7 +2,8 @@
 
 --------------------
 - [Reactors](/assets/docs/nuclear/reactors/readme.md)   
-- [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)   
+- [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)
+- [Custom Equations Of Energy](/assets/docs/universe/equations/Heat-Energy/Nuclear/dev/equations/readme.md)     
 - [Nuclear Oxygen](/assets/docs/nuclear/knowledges/nuclear-oxygen.md)  / [Nuclear Oxygen Tritium](/assets/docs/nuclear/knowledges/nuclear-oxygen-tritium.md)
 - [Nuclear Rockets](/assets/docs/nuclear/knowledges/nuclear-rockets/readme.md)
 - Implosive Methods:  
