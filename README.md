@@ -170,7 +170,8 @@ One collection of knowledge
   - [The Nuclear Binding Energy Equation](/assets/docs/universe/equations/nuclear-physics/Nuclear-Binding-Energy-Equation/readme.md)
 - Heat / Energy   
   - [Heat](/assets/docs/universe/equations/Heat-Energy/Heat/readme.md)   
-  - [Energy](/assets/docs/universe/equations/Heat-Energy/Energy/readme.md)   
+  - [Energy](/assets/docs/universe/equations/Heat-Energy/Energy/readme.md)
+  - [Custom Stuff Of Energy Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/dev/equations/readme.md)   
   - [Nuclear](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)   
 - [Theoretical Physics:](/assets/docs/universe/equations/Theoretical-Physics/readme.md)  
   - [Tolman Oppenheimer Volkoff](/assets/docs/universe/equations/Theoretical-Physics/Tolman-Oppenheimer-Volkoff.md)   
