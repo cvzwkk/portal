@@ -7,6 +7,11 @@
    
 ----------------  
 
+- [Human](/assets/docs/synthesis/humans/readme.md)
+  - [Mind/Brain](/assets/docs/synthesis/humans/mind/readme.md)    
+
+
+
 [Substances](/assets/docs/synthesis/substances/readme.md)  
 [Elements](/assets/docs/synthesis/elements/readme.md)   
 [Oxygen Synthesis:](/assets/docs/synthesis/oxygen/readme.md)   
