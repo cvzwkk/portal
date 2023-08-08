@@ -3,6 +3,8 @@
 ------------------------------   
 
 - Categories:
+  - Face
+    - [Eye](/assets/docs/synthesis/humans/body/face/eyes/readme.md)   
   - Body
     - Legs
       - [Knee Joint](/assets/docs/synthesis/humans/body/legs/readme.md)     
