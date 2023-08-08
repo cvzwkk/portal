@@ -152,6 +152,58 @@ Sure, here is the table of brain hormones with their functions, including the on
 
 ---------------------------------
 
+# Table Of Bran Enzymes   
+
+There are many enzymes found in the brain, each with its own specific function. Here is a table of some of the most important enzymes found in the brain, along with their functions:
+
+| Enzyme | Function |
+|---|---|
+| Acetylcholinesterase | Breaks down acetylcholine, a neurotransmitter that is involved in memory and learning.
+| Monoamine oxidase (MAO) | Breaks down monoamines, a group of neurotransmitters that include dopamine, serotonin, and norepinephrine.
+| Glutamate decarboxylase (GAD) | Converts glutamate, an excitatory neurotransmitter, into GABA, an inhibitory neurotransmitter.
+| Astrocytes | Produce lactate, which is used by neurons as a fuel source.
+| Microglia | Phagocytize dead neurons and other debris.
+| Ependymal cells | Produce cerebrospinal fluid, which bathes the brain and spinal cord.
+| Neurons | Transmit signals throughout the brain.
+| Glial cells | Support and protect neurons.
+
+here is a table of some of the enzymes found in glial cells in the brain, along with their functions:    
+   
+| Enzyme | Function |
+|---|---|
+| Astrocytes | Produce lactate, which is used by neurons as a fuel source.
+| Microglia | Phagocytize dead neurons and other debris.
+| Ependymal cells | Produce cerebrospinal fluid, which bathes the brain and spinal cord.
+| Astrocytes | Produce neurotrophic factors, which help to protect and support neurons.
+| Astrocytes | Regulate the blood-brain barrier, which protects the brain from harmful substances.
+| Astrocytes | Form scar tissue around damaged neurons, which helps to prevent further damage.
+| Astrocytes | Synthesize proteins and lipids that are essential for brain function.
+
+Glial cells are a diverse group of cells that support and protect neurons in the brain. They have a number of important functions, including:
+
+* Providing nutrients to neurons
+* Removing waste products from neurons
+* Repairing damaged neurons
+* Regulating the blood-brain barrier
+* Producing neurotransmitters
+* Synthesizing proteins and lipids
+
+Glial cells are essential for brain function and they play a role in a variety of neurological diseases, including Alzheimer's disease, Parkinson's disease, and multiple sclerosis.
+
+---------------------------------    
+
+- Proteins Of Enzymes:
+    
+Here is the table format of the last result of enzymes:
+
+| Enzyme | Function |
+|---|---|
+| GFAP (glial fibrillary acidic protein) | Structural protein that gives astrocytes their characteristic shape and structure.
+| GAP-43 (growth-associated protein 43) | Protein involved in the growth and development of neurons.
+| MBP (myelin basic protein) | Protein found in myelin, the sheath that surrounds nerve fibers.
+| TSPO (translocator protein 18 kDa) | Protein involved in the metabolism of cholesterol and fatty acids.
+| S100B | Protein involved in inflammation, immune response, and cell signaling.
+
 ---------------------------------       
    
 - Ephysis Cerebri:
