@@ -2,7 +2,7 @@
 
 ----------------------    
 
-# Colton   
+# Coltan     
 
  It is a mixture of two minerals: columbite and tantalite. Columbite is the source of niobium, and tantalite is the source of tantalum. Tantalum is a valuable metal that is used in a variety of applications, including:
 
@@ -20,4 +20,29 @@ Here are some additional information about coltan:
 * The mining of coltan is a dangerous and environmentally destructive process.
 * The demand for coltan is expected to grow in the coming years, as it is used in more and more electronic devices.
 
-I hope this helps!
+----------------------------     
+
+
+The molecular weight of tantalum, the main component of coltan, is 180.947 g/mol. This means that one mole of tantalum has a mass of 180.947 grams.
+
+Here are some other properties of tantalum as a gmol:
+
+* Atomic number: 73
+* Atomic mass: 180.947 u
+* Melting point: 3,017 K (2,740 °C; 5,232 °F)
+* Boiling point: 5,425 K (5,152 °C; 9,394 °F)
+* Density: 16.69 g/cm3
+* Electronegativity: 1.5
+* Oxidation states: +2, +3, +4, +5
+
+Tantalum is a very strong and durable metal with a high melting point. It is also resistant to corrosion and oxidation. These properties make tantalum ideal for a variety of applications, including capacitors, medical devices, and aerospace components.
+
+However, tantalum is also a relatively rare and expensive metal. This has led to the development of alternative materials for some applications, such as niobium for capacitors.
+
+------------------------------      
+
+
+
+
+
+
