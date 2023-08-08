@@ -38,38 +38,36 @@ The alloy list with enumerous amounts of alloys used most precisely in the react
 | inconel | 58.7 | 1300 °C | Vacuum arc remelting |
 
 Part 2:  
-- Wood's metal (lead, tin, cadmium)
-- Chromium hydride (hydrogen)
-- Nichrome (nickel, chromium)
-- Ferrochrome (iron, chromium)
-- Elgiloy (cobalt, chromium, nickel, iron, molybdenum, manganese, carbon)
-- Megallium (cobalt, chromium, molybdenum)
-- Stellite (chromium, tungsten, carbon)
-- Talonite (tungsten, molybdenum, carbon)
-- Aluminium bronze (aluminium)
-- Arsenical bronze (arsenic, tin)
-- Bell metal (tin)
-- Florentine bronze (aluminium or tin)
-- Glucydur (beryllium, iron)
-- Guanín (gold, silver)
-- Gunmetal (tin, zinc)
-- Phosphor bronze (tin and phosphorus)
-- Ormolu (zinc)
-- Silicon bronze (tin, arsenic, silicon)
-- Speculum metal (tin)
-- White bronze (tin, zinc)
-- Constantan (nickel, copper)
-- Copper hydride (hydrogen)
-- Copper–tungsten (tungsten)
-- Corinthian bronze (gold, silver)
-- Cunife (nickel, iron)
-- Aluminum-copper-tungsten alloy
-- Plutonium alloys containing Al and the combined alloy of Pb, Sn, Ge, and Si[1][6]
 
-There are many more alloys available, but this list should provide a good starting point.
-
-Citations:
-[1](https://en.wikipedia.org/wiki/List_of_named_alloys) [2](https://en.wikipedia.org/wiki/List_of_copper_alloys) [3](https://www.mttm.com/tungsten-alloys) [4](https://www.americanelements.com/aluminum-copper-tungsten-alloy) [5](https://www.thomasnet.com/articles/metals-metal-products/types-of-tungsten-alloys-properties-and-uses/) [6](https://www.tandfonline.com/doi/full/10.1080/00295450.2021.1913035)  
+| Alloy | Gmol | Heat Limit Approach Heat | Fabrication Heat |
+|---|---|---|---|
+| Wood's metal (lead, tin, cadmium) | 207.2 | 60 °C | Arc melting |
+| Chromium hydride (hydrogen) | 52.0 | 1900 °C | Arc melting |
+| Nichrome (nickel, chromium) | 58.7 | 1100 °C | Arc melting |
+| Ferrochrome (iron, chromium) | 55.8 | 1300 °C | Vacuum arc remelting |
+| Elgiloy (cobalt, chromium, nickel, iron, molybdenum, manganese, carbon) | 58.9 | 1300 °C | Vacuum arc remelting |
+| Megallium (cobalt, chromium, molybdenum) | 58.9 | 1300 °C | Vacuum arc remelting |
+| Stellite (chromium, tungsten, carbon) | 58.9 | 1400 °C | Vacuum arc remelting |
+| Talonite (tungsten, molybdenum, carbon) | 58.9 | 1500 °C | Vacuum arc remelting |
+| Aluminium bronze (aluminium) | 27.0 | 600 °C | Arc melting |
+| Arsenical bronze (arsenic, tin) | 72.6 | 600 °C | Arc melting |
+| Bell metal (tin) | 118.7 | 230 °C | Arc melting |
+| Florentine bronze (aluminium or tin) | 27.0 or 118.7 | 600 °C | Arc melting |
+| Glucydur (beryllium, iron) | 9.01 | 1200 °C | Arc melting |
+| Guanín (gold, silver) | 233.1 or 107.9 | 1000 °C | Arc melting |
+| Gunmetal (tin, zinc) | 118.7 or 65.4 | 400 °C | Arc melting |
+| Phosphor bronze (tin and phosphorus) | 118.7 | 350 °C | Arc melting |
+| Ormolu (zinc) | 65.4 | 400 °C | Arc melting |
+| Silicon bronze (tin, arsenic, silicon) | 72.6 | 600 °C | Arc melting |
+| Speculum metal (tin) | 118.7 | 230 °C | Arc melting |
+| White bronze (tin, zinc) | 118.7 or 65.4 | 400 °C | Arc melting |
+| Constantan (nickel, copper) | 58.7 | 450 °C | Arc melting |
+| Copper hydride (hydrogen) | 63.5 | 100 °C | Arc melting |
+| Copper–tungsten (tungsten) | 63.5 | 2800 °C | Arc melting |
+| Corinthian bronze (gold, silver) | 233.1 or 107.9 | 1000 °C | Arc melting |
+| Cunife (nickel, iron) | 58.7 | 1300 °C | Vacuum arc remelting |
+| Aluminum-copper-tungsten alloy | 27.0 | 600 °C | Arc melting |
+| Plutonium alloys containing Al and the combined alloy of Pb, Sn, Ge, and Si | 238.0 | 600 °C | Arc melting |
 
 Part 3:  
 - Invar (Nilo 36): Iron, nickel  
