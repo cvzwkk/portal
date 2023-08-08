@@ -188,7 +188,8 @@ Glial cells are a diverse group of cells that support and protect neurons in the
 * Producing neurotransmitters
 * Synthesizing proteins and lipids
 
-Glial cells are essential for brain function and they play a role in a variety of neurological diseases, including Alzheimer's disease, Parkinson's disease, and multiple sclerosis.      
+Glial cells are essential for brain function and they play a role in a variety of neurological diseases, including Alzheimer's disease, Parkinson's disease, and multiple sclerosis.        
+      
 ---------------------------------       
 
 - Lactates:
