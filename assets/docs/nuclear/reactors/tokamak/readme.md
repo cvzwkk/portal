@@ -69,3 +69,24 @@ Here are some additional considerations for the dimensional values of a tokamak 
 * The tokamak would need to be equipped with a system to remove the neutrons produced by the fusion reactions.
 
 The development of tokamaks that can support 1 tonne of hot plasma with 666 million degrees Celsius is a major challenge, but it is an important goal for the future of nuclear fusion power. If tokamaks can be successfully developed, they could provide a clean, safe, and abundant source of energy.
+
+-------------------------    
+
+- Thickness Walls:
+The thickness of the walls of a tokamak that can support 1 tonne of hot plasma with 666 million degrees Celsius is not yet known. This is because tokamaks that can achieve these conditions are still in the early stages of development.
+
+However, some estimates suggest that the walls of the tokamak would need to be at least 7.5 meter thick to withstand the heat and pressure of the plasma. The walls would also need to be made of a material that is resistant to radiation damage, such as tungsten or beryllium.
+
+The thickness of the walls of a tokamak is also affected by the design of the tokamak. For example, tokamaks with a higher magnetic field strength can have thinner walls because the magnetic field helps to confine the plasma.
+
+The development of tokamaks that can support 1 tonne of hot plasma with 666 million degrees Celsius is a major challenge, but it is an important goal for the future of nuclear fusion power. If tokamaks can be successfully developed, they could provide a clean, safe, and abundant source of energy.
+
+Here are some additional considerations for the thickness of the walls of a tokamak that can support 1 tonne of hot plasma with 666 million degrees Celsius:
+
+* The walls would need to be able to withstand the heat and pressure of the plasma without melting.
+* The walls would need to be resistant to radiation damage.
+* The walls would need to be made of a material that is compatible with the magnetic field.
+
+The thickness of the walls of a tokamak is a critical design consideration for tokamaks that are designed to achieve fusion conditions. The walls need to be thick enough to withstand the heat and pressure of the plasma, but they also need to be thin enough to allow the magnetic field to confine the plasma. The development of new materials and technologies that can meet these requirements is essential for the progress of fusion research.   
+
+------------------------
