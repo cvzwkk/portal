@@ -17,7 +17,9 @@
   - [Muon](/assets/docs/universe/subAtomic/particles/Muon/readme.md)
   - [Gluons](/assets/docs/universe/subAtomic/particles/Gluons/readme.md)     
   - [Positrons](/assets/docs/universe/subAtomic/particles/Positrons/readme.md)
-  - [Neutrons](/assets/docs/universe/subAtomic/particles/Neutrons/readme.md)        
+  - [Neutrons](/assets/docs/universe/subAtomic/particles/Neutrons/readme.md)
+  - [Tau](/assets/docs/universe/subAtomic/particles/Tau/readme.md)
+  - [Neutrino](/assets/docs/universe/subAtomic/particles/Neutrino/readme.md)      
 
 
 --------------------    
