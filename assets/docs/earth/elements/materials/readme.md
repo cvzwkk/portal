@@ -47,6 +47,12 @@ However, there are also some challenges to converting energy into matter:
 
 Despite these challenges, the conversion of energy into matter is a promising field of research with the potential to revolutionize the way we understand the universe and to create new technologies.
 
+* **My Thought's**
+When one human give one children, is one process that convert energy in mass.
+One biological specie is developed from one protein or lot of proteins inside of spern.
+giving mass and size with the time starting from closer null to 60kg and much more
+
+
 ------------------------------   
 
 # Materials That Can Reach in Extreme Temperatures    
@@ -69,17 +75,10 @@ Properties of Rhenium Diboride (ReB2):
 
 Overall, Rhenium Diboride stands out as a superior material to Tungsten Carbide in terms of its melting point, stability, and mechanical properties. However, it's important to consider that the choice of material depends on the specific application requirements, and other factors such as cost and availability may also influence material selection.   
 
-* **My Thought's**
-When one human give one children, is one process that convert energy in mass.
-One biological specie is developed from one protein or lot of proteins inside of spern.
-giving mass and size with the time starting from closer null to 60kg and much more
-
 --------------------------------    
 
 1. Hafnium Carbide (HfC): Hafnium Carbide is a compound with the chemical formula HfC, consisting of one atom of Hafnium and one atom of Carbon. It has an extremely high melting point of approximately 3900°C (4173.15 K), making it one of the most refractory ceramics known.
 
-2. Tantalum Hafnium Carbide (Ta4HfC5): Tantalum Hafnium Carbide is a technologi
-3.
 4. the chemical formula Ta4HfC5, composed of four atoms of Tantalum, one atom of Hafnium, and five atoms of Carbon. It has a remarkable melting point of about 4215°C (4488.15 K) and exceptional hardness, making it suitable for extreme temperature and high-stress environments.
 
 5. Osmium Diboride (OsB2): Osmium Diboride is a compound with the chemical formula OsB2, consisting of one atom of Osmium and two atoms of Boron. It has an impressive melting point of approximately 3925°C (4198.15 K) and excellent thermal stability.
