@@ -80,19 +80,19 @@ Please note that these calculations use rounded values and that this hypothetica
      
 Let's convert the energy from joules to megatons and then perform the calculation again.
 
-1 Megaton (MT) is approximately \(4.184 \times 10^{15}\) joules.
+1 Megaton (MT) is approximately $\(4.184 \times 10^{15}\)$ joules.
 
 First, let's calculate the energy produced in joules:
 
-$\[E_{\text{joules}}$ = $(1.6726219 \times 10^{-27}\$, $\text{kg})$ $\times (3 \times 10^8\$, $\text{m/s})^2 \times (111666777333222 \times 10^{15})\$]
+$\[E_{\text{joules}}$ = $(1.6726219 \times 10^{-27}\$, $\text{kg})$ $\times (3 \times 10^8\$, $\text{m/s})^2 \times (111666777333222 \times 10^{15})\]$
 
-$\[E_{\text{joules}}$ $\approx 1.00559 \times 10^{10} \$, $\text{Joules}\$]
+$\[E_{\text{joules}}$ $\approx 1.00559 \times 10^{10} \$, $\text{Joules}\]$
 
 Now, let's convert the energy from joules to megatons:
 
-$\[E_{\text{MT}}$ = $\frac{E_{\text{joules}}}{4.184 \times 10^{15}}\$]
+$\[E_{\text{MT}}$ = $\frac{E_{\text{joules}}}{4.184 \times 10^{15}}\]$
 
-$\[E_{\text{MT}}$ $\approx 2.40496 \times 10^{-6} \$, $\text{Megatons}\$]
+$\[E_{\text{MT}}$ $\approx 2.40496 \times 10^{-6} \$, $\text{Megatons}\]$
 
 The result is approximately $\(2.40496 \times 10^{-6}\)$ Megatons of energy produced. This value is extremely small on the scale of Megatons. However, it's important to remember that the original quantity of protons you mentioned (111666777333222 quintillions) is astronomically large, and the resulting energy is correspondingly small due to the small mass of a single proton.
 
