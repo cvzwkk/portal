@@ -86,6 +86,57 @@ Antiquarks, like quarks, are studied through experiments using particle accelera
 
 ----------------------    
 
+- Properties Of Anti Quarks:      
+    
+**Properties of Antiquarks**:
+
+1. **Mass**: Antiquarks have the same mass as their corresponding quarks. The masses of antiquarks mirror those of quarks in each flavor:
+   - Anti-up antiquark (u̅): Same mass as up quark (u)
+   - Anti-down antiquark (d̅): Same mass as down quark (d)
+   - Anti-charm antiquark (c̅): Same mass as charm quark (c)
+   - Anti-strange antiquark (s̅): Same mass as strange quark (s)
+   - Anti-top antiquark (t̅): Same mass as top quark (t)
+   - Anti-bottom antiquark (b̅): Same mass as bottom quark (b)
+
+2. **Electric Charge**: Antiquarks have opposite electric charges compared to their corresponding quarks. For example:
+   - Anti-up antiquark (u̅): -2/3 of elementary charge (e)
+   - Anti-down antiquark (d̅): +1/3 of elementary charge (e)
+   - Anti-charm antiquark (c̅): -2/3 of elementary charge (e)
+   - Anti-strange antiquark (s̅): +1/3 of elementary charge (e)
+   - Anti-top antiquark (t̅): -2/3 of elementary charge (e)
+   - Anti-bottom antiquark (b̅): +1/3 of elementary charge (e)
+
+3. **Color Charge**: Similar to quarks, antiquarks carry an "anticolor" charge that is the opposite of the color charge of quarks. This property ensures that composite particles made of quarks and antiquarks, such as mesons, are color-neutral.
+
+4. **Spin**: Antiquarks have half-integer spin values of 1/2, just like quarks. Spin is a fundamental property related to angular momentum.
+
+5. **Role in Composite Particles**: Antiquarks are essential components of composite particles like mesons. A meson is made up of a quark and an antiquark. The color combination of a quark and an antiquark results in a color-neutral state.
+
+6. **Annihilation**: When a quark and its corresponding antiquark meet, they can annihilate each other, releasing energy in the form of other particles. This process is observed in particle physics experiments.
+
+7. **Color Confinement**: Antiquarks, like quarks, are subject to color confinement. This means that they are always bound within color-neutral combinations and cannot exist as free, isolated particles.
+
+8. **Conservation Laws**: Antiquarks, like quarks, participate in the conservation of various quantum numbers, such as baryon number and lepton number.
+
+Antiquarks are studied in particle physics experiments to understand their interactions, behavior, and roles in the formation of composite particles. Their properties are closely linked to those of quarks and play a significant role in our understanding of the strong nuclear force and the nature of matter.
+
+----------------------       
+
+| Antiquark | Symbol | Mass (MeV/c^2) | Charge (e) | Color charge |
+|---|---|---|---|---|
+| Anti-up | u̅ | 2.3 (-2/3) | -2/3 | Red, green, blue |
+| Anti-down | d̅ | 4.8 (+1/3) | +1/3 | Red, green, blue |
+| Anti-charm | c̅ | 1.27 (-2/3) | -2/3 | Red, green, blue |
+| Anti-strange | s̅ | 95 (+1/3) | +1/3 | Red, green, blue |
+| Anti-top | t̅ | 173.2 (-2/3) | -2/3 | Red, green, blue |
+| Anti-bottom | b̅ | 4.18 (+1/3) | +1/3 | Red, green, blue |
+
+The properties of antiquarks are the opposite of the properties of quarks. For example, an anti-up quark has a charge of -2/3, while an up quark has a charge of +2/3. The mass of an antiquark is also the same as the mass of the corresponding quark.
+
+The only difference between a quark and an antiquark is their charge. This is because antimatter is the opposite of matter in every way, including its charge. When a quark and an antiquark meet, they annihilate each other, releasing a large amount of energy. This is what powers particle accelerators, such as the Large Hadron Collider.
+
+----------------------    
+
  - Here's a deeper exploration of quarks and some related theories:
 
 1. **Quark Model**: The quark model was proposed in the 1960s independently by Murray Gell-Mann and George Zweig. It introduced quarks as the building blocks of protons, neutrons, and other strongly interacting particles. Quarks come in six flavors: up (u), down (d), charm (c), strange (s), top (t), and bottom (b). They combine in various ways to form hadrons, which are composite particles made up of quarks.
