@@ -10,7 +10,8 @@
     - [W-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/WBoson/readme.md)
     - [Z-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/ZBoson/readme.md)     
   - [Fermions](/assets/docs/universe/subAtomic/particles/Fermions/readme.md)
-  - [Photons](/assets/docs/universe/subAtomic/particles/Photons/readme.md)      
+  - [Photons](/assets/docs/universe/subAtomic/particles/Photons/readme.md)
+  - [Leptons](/assets/docs/universe/subAtomic/particles/Leptons/readme.md)     
 
 
 --------------------    
