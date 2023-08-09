@@ -29,6 +29,10 @@ One collection of knowledge
   - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)
   - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)     
 
+  - My Stuff Of Thought's:
+    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)    
+
+
 - Earth:
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
   - [Earth](/assets/docs/earth/readme.md)  
