@@ -22,6 +22,44 @@ Here are some of the key properties of quarks:
 
 Quarks are a fundamental part of the universe, and they play an important role in the structure of matter. They are a fascinating and mysterious part of nature, and they continue to be studied by physicists around the world.
 
+----------------------   
+
+- Properties Of Quarks:
+**Properties of Quarks**:
+
+1. **Mass**: Quarks have masses that vary widely among the different flavors. The approximate masses of quarks (in MeV/c²) are as follows:
+   - Up quark (u): ~2.2 MeV/c²
+   - Down quark (d): ~4.7 MeV/c²
+   - Charm quark (c): ~1,280 MeV/c²
+   - Strange quark (s): ~95 MeV/c²
+   - Top quark (t): ~173,100 MeV/c² (heaviest)
+   - Bottom quark (b): ~4,180 MeV/c²
+
+2. **Electric Charge**: Quarks carry fractional electric charges that are either +2/3 or -1/3 of the elementary charge (e). For example:
+   - Up quark (u): +2/3 e
+   - Down quark (d): -1/3 e
+   - Charm quark (c): +2/3 e
+   - Strange quark (s): -1/3 e
+   - Top quark (t): +2/3 e
+   - Bottom quark (b): -1/3 e
+
+3. **Color Charge**: Quarks carry a "color" charge that is related to the strong nuclear force. Quarks come in three colors: red, green, and blue, while antiquarks carry corresponding anticolors: antired, antigreen, and antiblue.
+
+4. **Spin**: Quarks have half-integer spin values of 1/2, which is a fundamental property that contributes to their interactions and behavior.
+
+----------------------     
+
+| Quark | Symbol | Mass (MeV/c^2) | Charge (e) | Color charge |
+|---|---|---|---|---|
+| Up | u | 2.3 (+2/3) | 2/3 | Red, green, blue |
+| Down | d | 4.8 (-1/3) | -1/3 | Red, green, blue |
+| Charm | c | 1.27 (+2/3) | 2/3 | Red, green, blue |
+| Strange | s | 95 (-1/3) | -1/3 | Red, green, blue |
+| Top | t | 173.2 (+2/3) | 2/3 | Red, green, blue |
+| Bottom | b | 4.18 (-1/3) | -1/3 | Red, green, blue |
+
+The mass of a quark is given in MeV/c^2, which is a unit of energy equivalent to mass. The charge of a quark is given in units of the elementary charge, e. The color charge of a quark is a property that determines how it interacts with other quarks through the strong force.
+
 ----------------------    
 
 # Anti Quarks    
