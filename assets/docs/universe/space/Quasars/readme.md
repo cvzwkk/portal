@@ -313,8 +313,6 @@ The study of quasars continues to expand our knowledge of the universe's fundame
 
    Where $\( z \)$ is the redshift, $\( \Delta \lambda \)$ is the shift in wavelength, $\( \lambda_{\text{obs}} \)$ is the observed wavelength, $\( v \)$ is the recessional velocity of the quasar, $\( c \)$ is the speed of light, $\( H_0 \)$ is the Hubble constant, and $\( D \)$ is the distance to the quasar.
 
-These equations provide insights into the fundamental relationships and physical properties underlying quasar behavior and characteristics.
-
 1. **Black Hole Accretion Rate:** The mass accretion rate $(\( \dot{M} \))$ onto a black hole in terms of the luminosity $(\( L \))$ and radiative efficiency $(\( \eta \))$ can be expressed as:
 
    $\[ \dot{M} = \frac{L}{\eta c^2} \]$
@@ -350,8 +348,6 @@ These equations provide insights into the fundamental relationships and physical
    $\[ W_{\lambda} \propto L_{\text{cont}}^{-\beta} \]$
 
    This effect is observed in some quasars and helps to understand the behavior of emission lines with respect to luminosity.
-
-These equations provide insights into various properties, relationships, and characteristics of quasars, allowing astronomers to model, analyze, and interpret their behaviors and physical processes.
 
 1. **Black Hole Spin and Accretion Disk Properties:** The dimensionless spin parameter $(\(a\))$ of a rotating black hole is related to its angular momentum $(\(J\))$ and mass $(\(M\))$:
 
