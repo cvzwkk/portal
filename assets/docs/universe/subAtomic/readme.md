@@ -3,8 +3,8 @@
 --------------------
 
 - Particles:
-  - [Protons](/assets/docs/universe/subAtomic/particles/Protons/readme.md)      
-  - [Quarks](/assets/docs/universe/subAtomic/particles/Quarks/readme.md)
+  - [Quarks](/assets/docs/universe/subAtomic/particles/Quarks/readme.md)       
+  - [Protons](/assets/docs/universe/subAtomic/particles/Protons/readme.md)     
   - [Bosons](/assets/docs/universe/subAtomic/particles/Bosons/readme.md)
     - [Higgs Boson](/assets/docs/universe/subAtomic/particles/Bosons/HiggsBoson/readme.md)    
     - [W-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/WBoson/readme.md)
@@ -15,6 +15,7 @@
   - [Baryons](/assets/docs/universe/subAtomic/particles/Baryons/readme.md)
   - [Electrons](/assets/docs/universe/subAtomic/particles/Eletrons/readme.md)
   - [Muon](/assets/docs/universe/subAtomic/particles/Muon/readme.md)
+  - [Gluons](/assets/docs/universe/subAtomic/particles/Gluons/readme.md)     
   - [Positrons](/assets/docs/universe/subAtomic/particles/Positrons/readme.md)
   - [Neutrons](/assets/docs/universe/subAtomic/particles/Neutrons/readme.md)        
 
