@@ -47,7 +47,6 @@ However, there are also some challenges to converting energy into matter:
 
 Despite these challenges, the conversion of energy into matter is a promising field of research with the potential to revolutionize the way we understand the universe and to create new technologies.
 
-
 ------------------------------   
 
 # Materials That Can Reach in Extreme Temperatures    
@@ -70,21 +69,28 @@ Properties of Rhenium Diboride (ReB2):
 
 Overall, Rhenium Diboride stands out as a superior material to Tungsten Carbide in terms of its melting point, stability, and mechanical properties. However, it's important to consider that the choice of material depends on the specific application requirements, and other factors such as cost and availability may also influence material selection.   
 
+* **My Thought's**
+When one human give one children, is one process that convert energy in mass.
+One biological specie is developed from one protein or lot of proteins inside of spern.
+giving mass and size with the time starting from closer null to 60kg and much more
+
 --------------------------------    
 
 1. Hafnium Carbide (HfC): Hafnium Carbide is a compound with the chemical formula HfC, consisting of one atom of Hafnium and one atom of Carbon. It has an extremely high melting point of approximately 3900°C (4173.15 K), making it one of the most refractory ceramics known.
 
-2. Tantalum Hafnium Carbide (Ta4HfC5): Tantalum Hafnium Carbide is a compound with the chemical formula Ta4HfC5, composed of four atoms of Tantalum, one atom of Hafnium, and five atoms of Carbon. It has a remarkable melting point of about 4215°C (4488.15 K) and exceptional hardness, making it suitable for extreme temperature and high-stress environments.
+2. Tantalum Hafnium Carbide (Ta4HfC5): Tantalum Hafnium Carbide is a technologi
+3.
+4. the chemical formula Ta4HfC5, composed of four atoms of Tantalum, one atom of Hafnium, and five atoms of Carbon. It has a remarkable melting point of about 4215°C (4488.15 K) and exceptional hardness, making it suitable for extreme temperature and high-stress environments.
 
-3. Osmium Diboride (OsB2): Osmium Diboride is a compound with the chemical formula OsB2, consisting of one atom of Osmium and two atoms of Boron. It has an impressive melting point of approximately 3925°C (4198.15 K) and excellent thermal stability.
+5. Osmium Diboride (OsB2): Osmium Diboride is a compound with the chemical formula OsB2, consisting of one atom of Osmium and two atoms of Boron. It has an impressive melting point of approximately 3925°C (4198.15 K) and excellent thermal stability.
 
-4. Rhenium Tungsten Alloy (Re-W): Rhenium Tungsten Alloy is a composite material combining Rhenium and Tungsten, which enhances the melting point and strength of Tungsten. The addition of Rhenium significantly improves its high-temperature properties, making it suitable for aerospace and high-temperature applications.
+6. Rhenium Tungsten Alloy (Re-W): Rhenium Tungsten Alloy is a composite material combining Rhenium and Tungsten, which enhances the melting point and strength of Tungsten. The addition of Rhenium significantly improves its high-temperature properties, making it suitable for aerospace and high-temperature applications.
 
-5. Zirconium Diboride (ZrB2): Zirconium Diboride is a compound with the chemical formula ZrB2, comprising one atom of Zirconium and two atoms of Boron. It has a high melting point of approximately 3246°C (3519.15 K) and excellent resistance to oxidation and chemical attack.
+7. Zirconium Diboride (ZrB2): Zirconium Diboride is a compound with the chemical formula ZrB2, comprising one atom of Zirconium and two atoms of Boron. It has a high melting point of approximately 3246°C (3519.15 K) and excellent resistance to oxidation and chemical attack.
 
-6. Tantalum Carbide (TaC): Tantalum Carbide is a compound with the chemical formula TaC, composed of one atom of Tantalum and one atom of Carbon. It has a remarkable melting point of about 3983°C (4256.15 K) and exceptional hardness and wear resistance.
+8. Tantalum Carbide (TaC): Tantalum Carbide is a compound with the chemical formula TaC, composed of one atom of Tantalum and one atom of Carbon. It has a remarkable melting point of about 3983°C (4256.15 K) and exceptional hardness and wear resistance.
 
-7. Hafnium Nitride (HfN): Hafnium Nitride is a compound with the chemical formula HfN, comprising one atom of Hafnium and one atom of Nitrogen. It has a very high melting point of approximately 3310°C (3583.15 K) and excellent thermal stability.
+9. Hafnium Nitride (HfN): Hafnium Nitride is a compound with the chemical formula HfN, comprising one atom of Hafnium and one atom of Nitrogen. It has a very high melting point of approximately 3310°C (3583.15 K) and excellent thermal stability.
 
 1. Tantalum Hafnium Carbide Nitride (Ta4HfC5N): Tantalum Hafnium Carbide Nitride is a composite material combining Tantalum, Hafnium, Carbon, and Nitrogen. It has an extraordinary melting point of approximately 4215°C (4488.15 K), making it one of the highest melting point materials known. It possesses exceptional hardness and stability, making it suitable for extreme high-temperature and wear-resistant applications.
 
