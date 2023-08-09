@@ -316,6 +316,7 @@ Here are some additional details about self-subduction of quarks:
 ------------------------------   
 
 - Production Of AntiQuarks
+       
 Self-subjugation of quarks to antiquarks is a hypothetical process in which a quark spontaneously changes into its antiquark counterpart. This process is allowed by the laws of physics, but it is thought to be very rare.
 
 There are two main reasons why self-subjugation of quarks is thought to be rare. First, it requires a very high energy level. The energy required for a quark to change into its antiquark is greater than the energy released when a quark and an antiquark annihilate each other. Second, self-subjugation of quarks is thought to be suppressed by the strong force. The strong force is a force that binds quarks together, and it is thought to prevent quarks from changing into their antiquark counterparts.
