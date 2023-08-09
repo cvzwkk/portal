@@ -161,11 +161,16 @@ One collection of knowledge
 - Space:  
   - [Anti Matter](/assets/docs/antimatter/readme.md)     
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)  
+  - [Quasar's](/assets/docs/universe/space/Quasars/readme.md)
   - [BlackHoles](/assets/docs/universe/space/blackholes/readme.md)  
   - [Singularity of Mass Atoms](/assets/docs/universe/space/blackholes/singularity_mass-atoms.md)  
   - [Neutron Stars](/assets/docs/universe/space/neutron-stars/readme.md)  
   - [Red Dwarfs](/assets/docs/universe/space/red-dwarf/readme.md)  
-  - [Kepler-62](/assets/docs/universe/space/Kepler-62/readme.md)  
+  - [Kepler-62](/assets/docs/universe/space/Kepler-62/readme.md)
+
+  - Hypothetical:
+    - [Quarks Star's](/assets/docs/universe/space/QuarkStars/readme.md)      
+
 
 - Knowledges:  
   - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
