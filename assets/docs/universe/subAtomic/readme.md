@@ -5,7 +5,8 @@
 - Particles:
   - [Protons](/assets/docs/universe/subAtomic/particles/Protons/readme.md)      
   - [Quarks](/assets/docs/universe/subAtomic/particles/Quarks/readme.md)
-  - [Bosons](/assets/docs/universe/subAtomic/particles/Bosons/readme.md)    
+  - [Bosons](/assets/docs/universe/subAtomic/particles/Bosons/readme.md)
+    - [Higgs Boson](/assets/docs/universe/subAtomic/particles/Bosons/HiggsBoson/readme.md)    
     - [W-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/WBoson/readme.md)
     - [Z-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/ZBoson/readme.md)     
 
