@@ -11,7 +11,12 @@
     - [Z-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/ZBoson/readme.md)     
   - [Fermions](/assets/docs/universe/subAtomic/particles/Fermions/readme.md)
   - [Photons](/assets/docs/universe/subAtomic/particles/Photons/readme.md)
-  - [Leptons](/assets/docs/universe/subAtomic/particles/Leptons/readme.md)     
+  - [Leptons](/assets/docs/universe/subAtomic/particles/Leptons/readme.md)
+  - [Baryons](/assets/docs/universe/subAtomic/particles/Baryons/readme.md)
+  - [Electrons](/assets/docs/universe/subAtomic/particles/Eletrons/readme.md)
+  - [Muon](/assets/docs/universe/subAtomic/particles/Muon/readme.md)
+  - [Positrons](/assets/docs/universe/subAtomic/particles/Positrons/readme.md)
+  - [Neutrons](/assets/docs/universe/subAtomic/particles/Neutrons/readme.md)        
 
 
 --------------------    
