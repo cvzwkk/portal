@@ -18,15 +18,16 @@ Time dilation might sound counterintuitive, but it has been confirmed through va
 
 - Equation:
 
-Time dilation from space to the earth's surface (Lorentz transformation γ=√(1-v²/c²) 
-~1-0.5v²/c²
-Potential energy=m×Φ =
-Kinetic energy of fall=1/2mv²
-v²=(2gh)
-h Height above earth's surface
-t'=t /√(1-v²/c²)=
-=t/√(1-2gh/c²) 
-~t/(1-gh/c²)
+Time dilation from space to the earth's surface   
+(Lorentz transformation γ=√(1-v²/c²)      
+~1-0.5v²/c²      
+Potential energy=m×Φ =     
+Kinetic energy of fall=1/2mv²       
+v²=(2gh)       
+h Height above earth's surface       
+t'=t /√(1-v²/c²)=       
+=t/√(1-2gh/c²)         
+~t/(1-gh/c²)       
 
 Shared by Robert, in the Facebook. [External Source, Facebook](https://m.facebook.com/groups/1685507044817357/permalink/6820879324613411/?mibextid=Nif5oz)   
 
