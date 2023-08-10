@@ -172,7 +172,8 @@ One collection of knowledge
     - [Quarks Star's](/assets/docs/universe/space/QuarkStars/readme.md)      
 
 
-- Knowledges:  
+- Knowledges:
+  - [Time Dilation](/assets/docs/universe/space/knowledges/TimeDilation/readme.md)     
   - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
   - [Electron Capture](/assets/docs/universe/space/knowledges/electron_capture.md)    
   - [Hydro Signature Detection Method 'HDM'](/assets/docs/universe/space/knowledges/Hydro-Signature-Detection-Method.md)
