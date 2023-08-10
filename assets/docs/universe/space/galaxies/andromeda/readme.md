@@ -128,14 +128,20 @@ Here are some additional details about each of the properties of Messier 31:
 - Properties of the Andromeda Galaxy:
 
 * **Distance from Earth:** 2.5 million light-years
+        
 ![Image of Andromeda Galaxy in the night sky](http://i.imgur.com/OeBdSQv.jpg)    
+        
 * **Diameter:** 220,000 light-years
 * **Mass:** 1 trillion solar masses
+         
 ![Image of Andromeda Galaxy size comparison to Milky Way](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Local_Group_Galaxies_Comparison.png/600px-Local_Group_Galaxies_Comparison.png)     
+        
 * **Type:** Spiral galaxy
 * **Luminosity:** 2.5 trillion solar luminosities
 * **Satellite galaxies:** 14, including Messier 32 and Messier 110
-![Image of Andromeda Galaxy satellite galaxies](https://cdn.mos.cms.futurecdn.net/7Ab4FaonkzamzvoHhtNtvc-650-80.jpg.webp)     
+       
+![Image of Andromeda Galaxy satellite galaxies](https://cdn.mos.cms.futurecdn.net/7Ab4FaonkzamzvoHhtNtvc-650-80.jpg.webp)
+      
 * **Supermassive black hole:** 1.5 billion solar masses
 
 The Andromeda Galaxy is the largest and most massive galaxy in the Local Group of galaxies, which also contains the Milky Way, the Triangulum Galaxy, and about 30 other smaller galaxies. It is moving towards the Milky Way galaxy at a speed of about 100 kilometers per second. In about 4 billion years, the two galaxies will collide and merge into a single, larger galaxy.
