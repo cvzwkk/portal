@@ -98,3 +98,28 @@ Here are some of the applications of LiAlH4:
 LiAlH4 is a versatile and powerful reducing agent with a wide range of applications. However, it is also hazardous and should be handled with care.   
 
 ----------------------    
+
+# Lanthanum Hydride    
+
+Lanthanum hydride is an inorganic compound with the formula LaH3. It is a white, hygroscopic solid that is soluble in water. Lanthanum hydride is a strong reducing agent and is used in a variety of chemical reactions.
+
+Lanthanum hydride is prepared by reacting lanthanum metal with hydrogen gas. The reaction is exothermic and produces a white solid.
+
+La + 3H2 → LaH3
+
+Lanthanum hydride is a strong reducing agent and can be used to reduce other compounds. For example, it can be used to reduce boron trichloride to boron, and it can be used to reduce chromium(III) oxide to chromium metal.
+
+Lanthanum hydride is also used as a hydrogen storage material. It can absorb hydrogen gas and release it when needed. This makes it a potential fuel for fuel cells and other applications.
+
+Lanthanum hydride is a relatively safe compound to handle. However, it is important to keep it dry, as it will react with water to produce hydrogen gas. Hydrogen gas is flammable and explosive, so it is important to take precautions when handling lanthanum hydride.
+
+Here are some safety precautions to take when handling lanthanum hydride:
+
+* Keep lanthanum hydride dry.
+* Do not breathe in hydrogen gas produced by lanthanum hydride.
+* Do not store lanthanum hydride near flammable materials.
+* Do not heat lanthanum hydride.
+* If you come into contact with lanthanum hydride, flush the area with water immediately and seek medical attention.
+
+
+----------------------------------        
