@@ -24,3 +24,4 @@ The Milky Way is a fascinating object that is still being studied by astronomers
 # MilkWay Map    
 Source: NASA/ESA      
 
+![img](/assets/docs/universe/space/galaxies/MilkWay/img/Milky_way_map.png)       
