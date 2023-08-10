@@ -81,3 +81,18 @@
    It's important to note that the specific frequencies and intensities of emissions from   
     the Andromeda Galaxy can vary depending on the specific processes occurring within the galaxy at any   
      given time and the instruments used to detect and measure them.   
+
+-------------------------------------   
+
+
+# Messier 31, AGN Of Andromeda         
+
+Messier 31, also known as M31 or the Andromeda Galaxy, is the nearest spiral galaxy to our Milky Way galaxy. It is located about 2.5 million light-years away in the constellation of Andromeda. M31 is the largest galaxy in the Local Group of galaxies, which also contains the Milky Way, the Triangulum Galaxy, and about 30 other smaller galaxies.
+         
+![Image of Messier 31, or the Andromeda Galaxy](https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/m31-mosaic-with-groundbased-image.jpg?itok=4F1P0wkB)         
+       
+The asterisk (*) in Messier 31* is sometimes used to distinguish it from other objects in the constellation of Andromeda that are also cataloged by Charles Messier. For example, Messier 32 and Messier 110 are two smaller galaxies that are located near M31.
+
+M31 is a spiral galaxy with a diameter of about 220,000 light-years. It contains about 1 trillion stars. The galaxy has a bright central bulge and two spiral arms that extend outward. M31 is also home to a number of globular clusters, which are spherical groups of stars.
+
+M31 is moving towards the Milky Way galaxy at a speed of about 100 kilometers per second. In about 4 billion years, the two galaxies will collide and merge into a single, larger galaxy.
