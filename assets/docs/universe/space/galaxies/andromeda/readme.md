@@ -96,3 +96,59 @@ The asterisk (*) in Messier 31* is sometimes used to distinguish it from other o
 M31 is a spiral galaxy with a diameter of about 220,000 light-years. It contains about 1 trillion stars. The galaxy has a bright central bulge and two spiral arms that extend outward. M31 is also home to a number of globular clusters, which are spherical groups of stars.
 
 M31 is moving towards the Milky Way galaxy at a speed of about 100 kilometers per second. In about 4 billion years, the two galaxies will collide and merge into a single, larger galaxy.
+
+------------------------------      
+
+- properties of Messier 31, the Andromeda Galaxy:
+
+* Distance from Earth: 2.5 million light-years
+* Diameter: 220,000 light-years
+* Mass: 1 trillion solar masses
+* Type: Spiral galaxy
+* Luminosity: 2.5 trillion solar luminosities
+* Satellite galaxies: 14, including Messier 32 and Messier 110
+* Supermassive black hole: 1.5 billion solar masses
+
+M31 is the largest and most massive galaxy in the Local Group of galaxies. It is a spiral galaxy with a bright central bulge and two spiral arms that extend outward. The galaxy is home to a number of globular clusters, which are spherical groups of stars.
+
+M31 is moving towards the Milky Way galaxy at a speed of about 100 kilometers per second. In about 4 billion years, the two galaxies will collide and merge into a single, larger galaxy.
+
+Here are some additional details about each of the properties of Messier 31:
+
+* Distance from Earth: M31 is the nearest spiral galaxy to the Milky Way, at a distance of 2.5 million light-years. This means that the light we see from M31 today took 2.5 million years to travel to Earth.
+* Diameter: M31 has a diameter of about 220,000 light-years, which is about twice the diameter of the Milky Way galaxy.
+* Mass: M31 has a mass of about 1 trillion solar masses, which is about 5 times the mass of the Milky Way galaxy.
+* Type: M31 is a spiral galaxy, with a bright central bulge and two spiral arms that extend outward. The spiral arms are made up of young, hot stars, while the bulge is made up of older, cooler stars.
+* Luminosity: M31 has a luminosity of 2.5 trillion solar luminosities, which means that it emits as much light as 2.5 trillion suns.
+* Satellite galaxies: M31 has 14 satellite galaxies, including Messier 32 and Messier 110. These galaxies are much smaller than M31, and they orbit the larger galaxy.
+* Supermassive black hole: M31 has a supermassive black hole at its center. This black hole has a mass of about 1.5 billion solar masses.
+
+----------------------------            
+
+- Properties of the Andromeda Galaxy:
+
+* **Distance from Earth:** 2.5 million light-years
+![Image of Andromeda Galaxy in the night sky](http://i.imgur.com/OeBdSQv.jpg)    
+* **Diameter:** 220,000 light-years
+* **Mass:** 1 trillion solar masses
+![Image of Andromeda Galaxy size comparison to Milky Way](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Local_Group_Galaxies_Comparison.png/600px-Local_Group_Galaxies_Comparison.png)     
+* **Type:** Spiral galaxy
+* **Luminosity:** 2.5 trillion solar luminosities
+* **Satellite galaxies:** 14, including Messier 32 and Messier 110
+![Image of Andromeda Galaxy satellite galaxies](https://cdn.mos.cms.futurecdn.net/7Ab4FaonkzamzvoHhtNtvc-650-80.jpg.webp)     
+* **Supermassive black hole:** 1.5 billion solar masses
+
+The Andromeda Galaxy is the largest and most massive galaxy in the Local Group of galaxies, which also contains the Milky Way, the Triangulum Galaxy, and about 30 other smaller galaxies. It is moving towards the Milky Way galaxy at a speed of about 100 kilometers per second. In about 4 billion years, the two galaxies will collide and merge into a single, larger galaxy.
+
+The Andromeda Galaxy is a popular target for amateur astronomers. It is visible to the naked eye on a dark night, and it can be seen with binoculars or a small telescope. The galaxy is also a popular target for professional astronomers. They use telescopes to study the galaxy's structure, composition, and evolution.
+
+The Andromeda Galaxy is a fascinating object that holds many secrets. Astronomers are still learning about the galaxy and its place in the universe.
+
+-----------------------------------------        
+
+
+
+
+
+
+
