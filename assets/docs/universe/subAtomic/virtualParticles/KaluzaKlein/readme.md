@@ -121,16 +121,14 @@ I can provide you with a bit more information about the Kaluza-Klein theory and 
 
 **5D Metric Tensor:**     
 
-g_{μν} + φ^2 A_μ A_ν     φ^2 A_μ
-φ^2 A_ν                   φ^2
-
 \[
-\begin{bmatrix}
-g_{\mu\nu} + \phi^2 A_\mu A_\nu & \phi^2 A_\mu \\
-\phi^2 A_\nu & \phi^2
+\begin{bmatrix}  
+
+$g_{\mu\nu}$ + $\phi^2$ $A_\mu$ $A_\nu$ & $\phi^2$ $A_\mu$ \\
+$\phi^2$ $A_\nu$ & $\phi^2$
+
 \end{bmatrix}
 \]
-
 
 
 In this equation:
