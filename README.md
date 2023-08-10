@@ -27,7 +27,8 @@ One collection of knowledge
     - Physics:       
         
     - Mechanic's:      
-      - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)       
+      - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
+      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)      
        
 - Theories:
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
