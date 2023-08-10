@@ -160,7 +160,8 @@ One collection of knowledge
 --------------
 - Space:  
   - [Anti Matter](/assets/docs/antimatter/readme.md)     
-  - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)  
+  - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)
+  - [Exotic Matter](/assets/docs/earth/elements/materials/exoticMatter/readme.md)     
   - [Quasar's](/assets/docs/universe/space/Quasars/readme.md)
   - [BlackHoles](/assets/docs/universe/space/blackholes/readme.md)  
   - [Singularity of Mass Atoms](/assets/docs/universe/space/blackholes/singularity_mass-atoms.md)  
