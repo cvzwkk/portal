@@ -123,3 +123,41 @@ Here are some safety precautions to take when handling lanthanum hydride:
 
 
 ----------------------------------        
+
+# Carbo Hydrides, Carbide    
+
+Carbohydrides (or carbide hydrides) are solid compounds in one phase composed of a metal with carbon and hydrogen in the form of carbide and hydride ions. The term carbohydride can also refer to a hydrocarbon.
+
+Carbohydrides are typically formed by reacting a metal with carbon and hydrogen. The reaction can be carried out in a variety of ways, including:
+
+* Direct reaction of the metal with carbon and hydrogen gas.
+* Reaction of the metal with a carbide compound, such as calcium carbide.
+* Reaction of the metal with a hydrocarbon, such as methane.
+
+The properties of carbohydrides vary depending on the metal and the composition of the compound. However, some general properties of carbohydrides include:
+
+* They are typically hard and brittle solids.
+* They are often insoluble in water and other solvents.
+* They can be used as hydrogen storage materials.
+* They can be used as catalysts in chemical reactions.
+
+Carbohydrides are a relatively new class of compounds, and their properties are still being studied. However, they have the potential to be used in a variety of applications, such as hydrogen storage, catalysis, and electronics.
+
+Here are some examples of carbohydrides:
+
+* Ca2LiC3H: This compound is formed by reacting calcium carbide and lithium metal. It is a hard, brittle solid that is insoluble in water. Ca2LiC3H can be used as a hydrogen storage material.
+* La15(FeC6)4H: This compound is formed by reacting iron and anthracene in a lanthanum/nickel eutectic flux. It is a soft, black solid that is soluble in water. La15(FeC6)4H can be used as a catalyst in chemical reactions.
+* NdScSiC0.5H0.2: This compound is formed by reacting the intermetallic compound NdScSiC0.5 with hydrogen gas. It is a hard, brittle solid that is insoluble in water. NdScSiC0.5H0.2 can be used as a hydrogen storage material.
+
+Carbohydrides are a promising class of compounds with a variety of potential applications. As research on carbohydrides continues, we can expect to see even more exciting applications for these compounds in the future.
+
+
+-------------------------------------          
+
+
+
+
+
+
+
+
