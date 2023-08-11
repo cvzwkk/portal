@@ -21,6 +21,7 @@ One collection of knowledge
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
   - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)
+  - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
       
   - Quantum's Physics / Mechanic's:      
