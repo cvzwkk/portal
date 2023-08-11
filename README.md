@@ -169,7 +169,8 @@ One collection of knowledge
 - [Chemy](/assets/docs/universe/chemy/README.md)   
    - [Elements](/assets/docs/universe/chemy/Elements/readme.md)  
 --------------
-- Space:  
+- Space:
+  - [Dark Energy](/assets/docs/universe/space/dark-energy/readme.md)    
   - [Anti Matter](/assets/docs/antimatter/readme.md)     
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)
   - [Exotic Matter](/assets/docs/earth/elements/materials/exoticMatter/readme.md)     
