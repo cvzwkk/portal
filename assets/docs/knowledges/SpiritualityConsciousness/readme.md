@@ -2,6 +2,18 @@
 
 ----------------------    
 
+# Omniscience   
+
+Omniscience is the concept of having complete and unlimited knowledge. It's often associated with a deity or divine being who possesses knowledge of all things, past, present, and future. The term "omniscience" comes from the Latin words "omni" (all) and "scientia" (knowledge), literally meaning "all-knowing."
+
+In religious and philosophical discussions, omniscience is often used to describe a being's ability to know everything, including thoughts, actions, and events. This idea is found in various religious traditions and has implications for concepts like predestination, free will, and the nature of reality.
+
+In addition to religious contexts, discussions about omniscience also arise in philosophical debates about the nature of knowledge, the limits of human understanding, and the possibilities of knowing everything about the universe.
+
+Overall, omniscience is a concept that delves into questions about the scope and limitations of knowledge, both from a theological and philosophical standpoint.    
+
+----------------------
+
 # Spirituality and consciousness
 
 are complex and multifaceted topics that have been explored by various cultures, religions, philosophies, and scientific disciplines.     
