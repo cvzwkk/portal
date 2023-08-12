@@ -126,7 +126,7 @@ It is essential to note that the driving forces behind tectonic plate movement a
 ------------------------
 
 - ideas:
-  - [Extracting Energy From Subduction Zones](/assets/docs/earth/layers/subduction/\zone/readme.md)  
+  - [Extracting Energy From Subduction Zones](/assets/docs/earth/layers/subzone/readme.md)  
 
 ---  
 
