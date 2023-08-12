@@ -9,7 +9,8 @@
   - [Cordite](/assets/docs/synthesis/substances/chemical/Cordite/readme.md)    
   - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)  
   - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
-  - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)    
+  - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)
+  - [Selenium](/assets/docs/synthesis/substances/chemical/Selenium/readme.md)   
   
 
 ----------------------    
