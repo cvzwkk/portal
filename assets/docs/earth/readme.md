@@ -11,7 +11,9 @@
   - [Steam](/assets/docs/earth/phenomenas/steam/readme.md)   
 
 - Phenomena's   
-  - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)    
+  - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
+
+- [GeoDynamo](/assets/docs/earth/Geodynamo/readme.md)    
 
 -------------------------------
 
