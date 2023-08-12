@@ -63,6 +63,29 @@ Sure, here is a table that summarizes the most common alpha particle sources for
 | Curium-244 | 163 | 12 | Produces more alpha particles per unit mass than americium-241, ideal for applications that require a high neutron output | Short half-life, must be replaced more frequently |
 | Plutonium-239 | 24,110 | 7.5 | Produces more alpha particles per unit mass than americium-241 or curium-244 | Highly radioactive, requires special handling and shielding |
 | Californium-252 | 2.645 | 2.3 x 1010 | Produces the most alpha particles per unit mass of any naturally occurring isotope | Extremely expensive, highly radioactive, requires special handling and shielding |
+| Polonium-210 | 138.376 | 166,000 | High specific activity, emits alpha particles | Extremely radioactive, requires careful handling |
+| Radium-226 | 1,600 | 5.5 | Historical use, emits alpha particles | Radioactive, decay products can be hazardous |
+| Thorium-232 | 14.05 billion | 0.0002 | Abundant, long half-life | Low specific activity, emits alpha particles |
+| Uranium-235 | 703.8 million | 0.0002 | Fissile, abundant | Low specific activity, emits alpha particles |
+| Curium-242 | 162.8 days | 50 | High specific activity | Short half-life, requires frequent replacement |
+| Berkelium-249 | 330 days | 420 | Suitable for some neutron sources | Limited availability, short half-life |
+| Astatine-210 | 8.1 hours | N/A | Emits alpha particles | Extremely short half-life, difficult to handle |
+| Bismuth-209 | Stable | N/A | Naturally abundant | Stable isotope, doesn't emit alpha particles |
+| Curium-243 | 29.1 years | 15 | Suitable for neutron production | Limited availability, emits fewer alpha particles |
+| Actinium-227 | 21.8 years | 18.5 | Emits alpha particles | Limited availability, relatively short half-life |
+| Francium-223 | 22 minutes | N/A | Emits alpha particles | Extremely short half-life, rare and difficult to produce |
+| Rutherfordium-267 | 1.3 hours | N/A | Emits alpha particles | Extremely short half-life, synthetic element |
+| Neptunium-237 | 2.14 million | 0.017 | Suitable for some neutron sources | Low specific activity, emits alpha particles |
+| Curium-245 | 8,500 years | 8 | Suitable for some neutron sources | Limited availability, emits fewer alpha particles |
+| Radon-222 | 3.8 days | N/A | Emits alpha particles, decay product of uranium and thorium | Short half-life, gaseous, can be hazardous |
+| Curium-246 | 4,760 years | 1 | Suitable for neutron production | Limited availability, emits fewer alpha particles |
+| Plutonium-238 | 87.7 years | 63,000 | Emits alpha particles, used in space exploration | Limited availability, highly radioactive |
+| Polonium-214 | 0.1643 seconds | N/A | Emits alpha particles | Extremely short half-life, difficult to handle |
+| Livermorium-293 | 60 milliseconds | N/A | Emits alpha particles | Extremely short half-life, synthetic element |
+| Radium-226 | 1,600 | 5.5 | Historical use, emits alpha particles | Radioactive, decay products can be hazardous |
+| Polonium-210 | 138.376 | 166,000 | High specific activity, emits alpha particles | Extremely radioactive, requires careful handling |
+| Curium-244 | 163 | 12 | Produces more alpha particles per unit mass than americium-241, ideal for high neutron output | Short half-life, must be replaced more frequently |
+
 
 Please note that this is not an exhaustive list of all alpha particle sources that can be used for neutron generators. There are other alpha particle sources that may be suitable for specific applications. It is important to consult with a radiation safety expert to select the best alpha particle source for your needs.
 
@@ -78,6 +101,77 @@ here is a table with some elements that are very good for neutron generation:
 | Carbon | 4,000 |
 | Nitrogen | 7,000 |
 | Oxygen | 10,000 |
+| Fluorine | 2,700 |
+| Neon | 15,000 |
+| Sodium | 2,300 |
+| Magnesium | 1,700 |
+| Aluminum | 0.24 |
+| Silicon | 0.0064 |
+| Sulfur | 2,100 |
+| Chlorine | 39,000 |
+| Argon | 2,300 |
+| Calcium | 43,000 |
+| Scandium | 60,000 |
+| Titanium | 15,000 |
+| Vanadium | 7,800 |
+| Chromium | 5,200 |
+| Phosphorus | 89,000 |
+| Potassium | 89,000 |
+| Rubidium | 180,000 |
+| Strontium | 85,000 |
+| Yttrium | 130,000 |
+| Zirconium | 160,000 |
+| Niobium | 39,000 |
+| Molybdenum | 160,000 |
+| Ruthenium | 90,000 |
+| Rhodium | 220,000 |
+| Palladium | 105,000 |
+| Silver | 49,000 |
+| Cadmium | 59,000 |
+| Indium | 52,000 |
+| Tin | 4,700 |  
+| Antimony | 17,000 |
+| Iodine | 320,000 |
+| Barium | 450,000 |
+| Lanthanum | 1,300 |
+| Cerium | 1,200 |
+| Barium | 450,000 |
+| Europium | 600,000 |
+| Gadolinium | 490,000 |
+| Terbium | 1,100,000 |
+| Dysprosium | 750,000 |
+| Holmium | 1,700,000 |
+| Thulium | 113,000 |
+| Lutetium | 43,000 |
+| Hafnium | 2,400 |
+| Tantalum | 130,000 
+| Hafnium | 144,000 |
+| Tungsten | 3,100,000 |
+| Uranium | 5,800,000 |
+| Neptunium | 55,000 |
+| Plutonium | 19,000 |
+| Americium | 1,600 |
+| Curium | 2,500 |
+| Berkelium | 6,200 |
+| Californium | 15,000 |
+| Einsteinium | 1,900 |
+| Fermium | 760 |
+| Mendelevium | 230 |
+| Nobelium | 280 |
+| Lawrencium | 370 |
+| Rutherfordium | 1,000 |
+| Dubnium | 420 |
+| Seaborgium | 0.16 |
+| Bohrium | 4.5 |
+
+
+These elements have substantial cross-section values, indicating a significant propensity for interaction in the alpha-beryllium reaction.
+
+These elements also have notable cross-section values, suggesting their likelihood to interact in the alpha-beryllium reaction.
+
+
+
+These elements have cross-section values exceeding 89 barns and are more likely to interact in the alpha-beryllium reaction.
 
 The cross-section for the alpha-beryllium reaction is a measure of the probability that an alpha particle will interact with a beryllium nucleus and produce a neutron. The elements with the highest cross-sections are the best for neutron generation.
 
@@ -194,6 +288,21 @@ Here is a table that summarizes the advantages and disadvantages of each neutron
 | Depleted uranium | High | Inexpensive | Radioactive | Can be a proliferation risk, potentially toxic if inhaled. |
 | Lithium | Moderate | Inexpensive | Not radioactive | Can react with water to produce hydrogen gas, which is flammable and explosive. |
 | Graphite | Moderate | Inexpensive | Not radioactive | Can absorb neutrons, reducing the efficiency of the neutron generator. |
+| Gadolinium      | High neutron absorption, effective reflector | Radioactive in some isotopes                     |
+| Yttrium         | Good reflector, low neutron absorption      | Limited availability, may be costly              |
+| Samarium        | Neutron reflection, high absorption         | Radioactive in some isotopes, cost considerations |
+| Dysprosium      | Neutron reflection, good at slowing neutrons | Radioactive in some isotopes, cost considerations |
+| Europium        | Neutron reflection, useful in certain designs | Limited availability, may be costly              |
+| Terbium          | Good reflector, efficient at slowing neutrons | Radioactive in some isotopes, limited availability |
+| Holmium          | Neutron reflection, efficient at slowing neutrons | Radioactive in some isotopes, limited availability |
+| Thulium          | Neutron reflection, good at slowing neutrons | Radioactive in some isotopes, limited availability |
+| Neodymium        | Neutron reflection, used in specialized reactors | Limited availability, may be costly               |
+| Lutetium         | Neutron reflection, stable isotopes available | Limited availability, may be costly               |
+| Praseodymium    | Neutron reflection, stable isotopes available | Limited availability, may require enrichment    |
+| Cerium          | Neutron reflection, used in specialized reactors | Limited availability, may require enrichment    |
+| Erbium          | Neutron reflection, efficient at slowing neutrons | Limited availability, may be costly             |
+| Promethium      | Limited applications due to scarcity          | Radioactive, short half-life, challenging to handle |
+| Ytterbium       | Neutron reflection, efficient at slowing neutrons | Limited availability, may be costly             |
 
 
 Please note that this is not an exhaustive list of all neutron reflectors that can be used. There are other neutron reflectors that may be suitable for specific applications. It is important to consult with a radiation safety expert to select the best neutron reflector for your needs.
