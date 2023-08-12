@@ -125,7 +125,13 @@ It is essential to note that the driving forces behind tectonic plate movement a
 
 ------------------------
 
+- ideas:
+  - [Extracting Energy From Subduction Zones](/assets/docs/earth/layers/subduction\/zone/readme.md)  
+
+---  
+
 The rupture closest to the Earth's core occurs in the subduction zone, which is a region where one tectonic plate is pushed beneath another plate and dives into the asthenosphere (a hotter and less rigid layer of the mantle) towards the core of the planet.
+
 
 In the subduction zone, an oceanic plate usually descends beneath a continental plate or another denser oceanic plate. As the subducting plate descends into deeper layers of the mantle, it is gradually absorbed and recycled by mantle convection in a process called subduction.
 
