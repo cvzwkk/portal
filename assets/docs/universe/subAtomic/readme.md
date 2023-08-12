@@ -24,6 +24,8 @@
 - [Virtual Particle](/assets/docs/universe/subAtomic/virtualParticles/readme.md)
   - [Kaluza Klein Particles](/assets/docs/universe/subAtomic/virtualParticles/KaluzaKlein/readme.md)      
 
+- Atoms:
+  - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
 
 --------------------    
 
