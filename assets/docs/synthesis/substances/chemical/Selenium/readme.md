@@ -4,13 +4,13 @@
 
 # Selenium   
 
-Certainly! Here's an overview of selenium:
+Certainly! Here's an overview of selenium:      
 
-**Element Name:** Selenium (Se)
-**Atomic Number:** 34
-**Atomic Weight:** Approximately 78.96 g/mol
-**Classification:** Nonmetal
-**Periodic Table Group:** Chalcogen Group
+**Element Name:** Selenium (Se)   
+**Atomic Number:** 34   
+**Atomic Weight:** Approximately 78.96 g/mol     
+**Classification:** Nonmetal    
+**Periodic Table Group:** Chalcogen Group   
 
 **Physical Properties:**
 - Selenium can exist in various allotropes, including gray, red, and black forms.
