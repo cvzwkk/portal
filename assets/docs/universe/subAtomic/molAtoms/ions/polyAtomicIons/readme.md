@@ -1,4 +1,4 @@
-[HOME](/README.md) [IonS](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md) / [SubAtomic](/assets/docs/universe/subAtomic/readme.md)   
+[HOME](/README.md) / [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md) / [SubAtomic](/assets/docs/universe/subAtomic/readme.md)   
 
 ---   
 
