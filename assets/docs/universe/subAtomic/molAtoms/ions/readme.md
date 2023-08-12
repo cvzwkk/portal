@@ -2,6 +2,11 @@
 
 ---   
 
+- [PolyAtomic Ions](/assets/docs/universe/subAtomic/molAtoms/ions/polyAtomicIons/readme.md)   
+- [Iodates](/assets/docs/universe/subAtomic/molAtoms/ions/iodates/readme.md)    
+
+--- 
+
 # Ions  
 
 An ion is an atom or molecule with a net electrical charge. This happens when an atom loses or gains electrons. When an atom loses electrons, it becomes a positively charged ion called a cation. When an atom gains electrons, it becomes a negatively charged ion called an anion.
