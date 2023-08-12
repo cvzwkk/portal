@@ -174,6 +174,21 @@ Despite these challenges, the beryllium-polonium reaction is a promising reactio
 
 ---    
 
+# Supossitions Of Fission Results
+
+- Uranium Beryllium-9 Plutonium   
+   
+The fission of 150 kg of uranium-235, 150 kg of uranium-239, 100 kg of beryllium-9, and 85 kg of plutonium would produce about 8.6 × 10^16 joules of energy. This is equivalent to about 200 kilotons of TNT.
+
+The fission of uranium-235, uranium-239, beryllium-9, and plutonium are all different reactions that produce different amounts of energy. The amount of energy produced by a fission reaction depends on the mass of the fissile material, the type of fissile material, and the specific reaction that occurs.
+
+The most common type of fission reaction is the splitting of a uranium-235 nucleus into two smaller nuclei, along with the release of neutrons and energy. This reaction releases about 200 MeV of energy per fission event. The fission of uranium-239 releases about 202 MeV of energy per fission event, and the fission of beryllium-9 releases about 17.6 MeV of energy per fission event. The fission of plutonium releases about 190 MeV of energy per fission event.
+
+The total amount of energy produced by the fission of 150 kg of uranium-235, 150 kg of uranium-239, 100 kg of beryllium-9, and 85 kg of plutonium is about 8.6 × 10^16 joules. This is equivalent to about 200 kilotons of TNT.
+
+The energy produced by fission can be used to generate electricity in nuclear power plants. It can also be used to create nuclear weapons.
+
+---   
 
 
 
