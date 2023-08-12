@@ -3,7 +3,9 @@
 --------------------   
 
 - [Isotopes](/assets/docs/earth/elements/Isotopes/customformulas/readme.md)
-- [Crystals](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)
+
+- Crystal   
+  - [Silver Iodide Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)
    
 --------------------
 
