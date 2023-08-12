@@ -59,13 +59,13 @@
    - High initial costs:   
       Building and maintaining nuclear power plants can be expensive.      
 
-   - [Nuclear Fusion:](/assets/docs/nuclear/fusion/readme.md)    
+   - [Nuclear Fusion](/assets/docs/nuclear/fusion/readme.md):    
        is a process that occurs when atomic nuclei come together and combine to form a heavier nucleus,   
         releasing a large amount of energy in the process.    
          This is the same process that powers the Sun and other stars,    
           where the immense gravitational forces and temperatures allow for fusion to occur naturally.   
 
-   - Nuclear fission:  
+   - [Nuclear fission](/assets/docs/nuclear/fission/readme.md):    
        involves the splitting of atomic nuclei, while nuclear fusion involves the merging of atomic nuclei.   
         Both processes release a tremendous amount of energy.  
       
