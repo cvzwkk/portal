@@ -79,6 +79,7 @@ One collection of knowledge
     - [LK99](/assets/docs/synthesis/substances/chemical/LK99/readme.md)    
     - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
     - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
+    - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)    
      
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
