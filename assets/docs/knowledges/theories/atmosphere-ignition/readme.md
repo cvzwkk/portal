@@ -90,3 +90,17 @@ In conclusion, the ignition of the atmosphere theory is a hypothetical scenario 
 
 -----------------------------   
 
+# Fusion of hydrogen present on atmosphere   
+
+It is not possible to fuse all atoms of hydrogen in the atmosphere. The atmosphere is about 78% nitrogen, 21% oxygen, and 1% other gases. Hydrogen only makes up about 0.00005% of the atmosphere. Even if we could somehow fuse all of the hydrogen in the atmosphere, it would only produce a tiny amount of energy.
+
+The amount of energy required to fuse all of the hydrogen in the atmosphere is about 10^44 joules. This is about 100,000 times more energy than the Sun produces in a year. It is simply not possible to produce this much energy with current technology.
+
+Even if we could produce this much energy, it would not be possible to fuse all of the hydrogen in the atmosphere at once. The hydrogen atoms in the atmosphere are too spread out. In order to fuse them, we would need to heat them up to a very high temperature, about 100 million degrees Celsius. This is much hotter than the core of the Sun.
+
+Even if we could overcome these challenges, it would not be a good idea to fuse all of the hydrogen in the atmosphere. The resulting explosion would be so powerful that it would destroy the Earth.
+
+So, to answer your question, it would require an infinite amount of each element to reach in the fusion of all atoms of hydrogen of the atmosphere.   
+
+---   
+
