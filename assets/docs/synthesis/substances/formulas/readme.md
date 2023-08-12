@@ -1,3 +1,14 @@
+[HOME](/README.md) / [Synthesis](/assets/docs/synthesis/readme.md)  
+
+---   
+
+# Formulas   
+
+- [Pharaohs Serpent](/assets/docs/synthesis/substances/formulas/PharaohsSerpent/readme.md)
+
+
+---
+
 # Formulas to Molecules Creation
 
 - Synthetics:  
