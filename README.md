@@ -68,7 +68,8 @@ One collection of knowledge
      - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)
 
    - Crystals:
-     - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)    
+     - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)
+     - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)   
 
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
