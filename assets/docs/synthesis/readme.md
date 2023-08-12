@@ -26,6 +26,10 @@
 
 ----------------  
 
+- [Formulas](/assets/docs/synthesis/substances/formulas/readme.md)
+
+---  
+
 # Synthesis  
    - in a general sense:  
       refers to the process of combining different elements, ideas, or components to create something new.  
