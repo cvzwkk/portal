@@ -102,6 +102,32 @@ The beryllium target in a neutron generator is typically made of a thin sheet of
 
 The beryllium target in a neutron generator is a critical component. It is responsible for producing the neutrons that are used for the various applications of neutron generators. The beryllium target must be made of a high-quality material and it must be carefully installed in the neutron generator.
 
+---  
+
+The amount of beryllium and americium required to produce a specific number of neutrons depends on various factors, including the type of reactions, the energy of the particles involved, the efficiency of the setup, and the specific neutron generation method being used.
+
+Without access to the content of the link you provided and its specific information, I can provide you with a general approach to estimating the amount of beryllium and americium required for neutron production:
+
+1. **Reaction Type:** Determine the specific nuclear reactions you're planning to use for neutron generation. The choice of reaction will dictate the type and amount of materials needed.
+
+2. **Cross-section Data:** Research the cross-section data for the chosen reactions. Cross-section data provides information about the likelihood of a reaction occurring based on the energy of the particles.
+
+3. **Particle Flux:** Calculate the particle flux or intensity that will be used in the reaction. This includes the number of particles (e.g., alpha particles) hitting the target material per unit of time.
+
+4. **Target Material:** Determine the type and thickness of the target material (beryllium or americium) that will interact with the incoming particles to produce neutrons.
+
+5. **Neutron Yield:** Using the cross-section data and particle flux, estimate the neutron yield per reaction event.
+
+6. **Required Neutron Count:** Calculate how many reaction events are needed to produce 5 quintillions of neutrons (that's 5 followed by 18 zeros).
+
+7. **Material Amount:** Using the neutron yield per reaction and the required number of reactions, calculate the amount of beryllium or americium needed.
+
+8. **Efficiency and Optimization:** Keep in mind that real-world efficiency might be lower due to factors like energy loss, scattering, and inefficiencies in the neutron production process.
+
+9. **Safety Considerations:** Ensure that you're working with appropriate safety guidelines and protocols when handling radioactive materials.
+
+For accurate calculations, it's recommended to consult scientific literature, experts in the field, and potentially any documentation provided in the link you shared. Also, remember that the calculations could vary significantly depending on the specific details of the neutron generator setup, the type of reactions, and other parameters.
+
 ---   
 
 * **Neutron moderator:** The neutron moderator is a material that slows down the neutrons produced by the alpha-beryllium reaction. This is necessary because neutrons with high energies are more likely to be absorbed by the surrounding material. The most common neutron moderators are water, paraffin, and polyethylene. Water is a good moderator because it is a good conductor of heat. Paraffin and polyethylene are also good moderators, but they are not as good conductors of heat as water.
