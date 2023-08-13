@@ -86,5 +86,27 @@ Here are a few examples of thermobaric explosives and their applications:
 
 9. **Research and Development**: Ongoing research focuses on improving the efficiency, precision, and safety of thermobaric explosives while minimizing their environmental and collateral effects.
 
+---   
+
+# Fuel-Air  
+
+Sure, here is a table of fuel-air mixtures and formulas in table format:
+
+| Fuel | Stoichiometric Air-Fuel Ratio | Formula |
+|---|---|---|
+| Gasoline | 14.7:1 | AFR = 14.7 |
+| Diesel | 14.5:1 | AFR = 14.5 |
+| Natural gas | 16:1 | AFR = 16 |
+| Methane | 17.19:1 | AFR = 17.19 |
+| Propane | 15.67:1 | AFR = 15.67 |
+| Hydrogen | 34.3:1 | AFR = 34.3 |
+| Butane | 15.5:1 | AFR = 15.5 |
+| LPG (liquefied petroleum gas) | 15:1 | AFR = 15 |
+| CNG (compressed natural gas) | 16:1 | AFR = 16 |
+| Ethanol | 9:1 | AFR = 9 |
+| Methanol | 6.4:1 | AFR = 6.4 |
+
+---   
+
 
 
