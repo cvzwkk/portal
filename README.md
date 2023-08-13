@@ -24,8 +24,11 @@ One collection of knowledge
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
       
-  - Quantum's Physics / Mechanic's:   
-    - ThermoDynamic's:
+  - Quantum's Physics / Mechanic's:
+    - Electromagnetism:
+      - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
+
+     - ThermoDynamic's:
       - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)   
 
     - Physics:       
@@ -33,7 +36,7 @@ One collection of knowledge
     - Mechanic's:      
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
       - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)      
-       
+         
 - Theories:
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
   - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
