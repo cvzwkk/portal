@@ -128,7 +128,7 @@ One collection of knowledge
     - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
 
   - Electromagnetic devices:   
-    - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagneticdevices/selenoids/readme.md)   
+    - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)   
               
 - Nuclear:
    - [About Nuclear](/assets/docs/nuclear/readme.md)  
