@@ -126,6 +126,9 @@ One collection of knowledge
 
   - Atoms:
     - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
+
+  - Electromagnetic devices:   
+    - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagneticdevices/selenoids/readme.md)   
               
 - Nuclear:
    - [About Nuclear](/assets/docs/nuclear/readme.md)  
@@ -133,7 +136,7 @@ One collection of knowledge
    - [Alloys](/assets/docs/nuclear/elements/alloys/readme.md)
    
    - Iodes:
-    - [iodine-131](/assets/docs/nuclear/elements/iodes/iodo-131/readme.md)   
+     - [iodine-131](/assets/docs/nuclear/elements/iodes/iodo-131/readme.md)   
 
    - [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)    
    - [Nuclear Oxygen](/assets/docs/nuclear/knowledges/nuclear-oxygen.md) / [Nuclear Oxygen Tritium](/assets/docs/nuclear/knowledges/nuclear-oxygen-tritium.md)   
