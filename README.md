@@ -27,10 +27,9 @@ One collection of knowledge
   - Quantum's Physics / Mechanic's:
     - Electromagnetism:
       - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
-
+        
      - ThermoDynamic's:
-      - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)   
-
+       - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)         
     - Physics:       
         
     - Mechanic's:      
