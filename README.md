@@ -24,7 +24,10 @@ One collection of knowledge
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
       
-  - Quantum's Physics / Mechanic's:      
+  - Quantum's Physics / Mechanic's:   
+    - ThermoDynamic's:
+      - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)   
+
     - Physics:       
         
     - Mechanic's:      
