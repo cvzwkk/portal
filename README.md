@@ -44,7 +44,8 @@ One collection of knowledge
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
   - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
   - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)
-  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)     
+  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)
+  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)    
 
   - My Stuff Of Thought's:
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)    
