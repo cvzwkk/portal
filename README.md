@@ -61,7 +61,10 @@ One collection of knowledge
    
 -  Elements:
     - [Isotopes](/assets/docs/earth/elements/Isotopes/readme.md)
-    - [Materials](/assets/docs/earth/elements/materials/readme.md)    
+    - [Materials](/assets/docs/earth/elements/materials/readme.md)
+      - Explosives:
+        - [Hydrothermal](/assets/docs/earth/elements/materials/explosives/hydrothermal/readme.md)   
+        
     
     - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
       - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
