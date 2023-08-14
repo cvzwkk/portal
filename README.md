@@ -36,7 +36,8 @@ One collection of knowledge
  
     - [OptoMechanics](/assets/docs/knowledges/Quantum/Optomechanics/readme.md)    
       
-    - Mechanic's:      
+    - Mechanic's:
+      - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
       - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)      
          
