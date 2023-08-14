@@ -133,6 +133,11 @@ Sure, here is a theoretical isotope of element 312:
 Untritium is a superheavy element that has never been created or observed in nature. It is expected to be a very unstable element with a very short half-life. It is likely to decay by alpha emission, producing a neutron and an atom of an element with one fewer proton.
 
 ---  
+
+- I Generated one illustrative model from math equations of one bohr diagram:
+![ing](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/My\/\/theory/Untritium/img/Untritium-598.png)    
+
+---  
 ---  
 ---   
 
