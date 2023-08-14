@@ -1,5 +1,9 @@
 [HOME](/README.md) / [Reactors](/assets/docs/nuclear/reactors/readme.md) / [Nuclear](/assets/docs/nuclear/readme.md)    
 
+--   
+
+- [Isotopes](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/readme.md)  
+
 ---   
 
 # Bohr Diagram    
