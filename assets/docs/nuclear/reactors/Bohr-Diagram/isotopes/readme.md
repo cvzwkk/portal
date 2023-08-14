@@ -135,7 +135,7 @@ Untritium is a superheavy element that has never been created or observed in nat
 ---  
 
 - I Generated one illustrative model from math equations of one bohr diagram:
-![ing](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/My\/\/theory/Untritium/img/Untritium-598.png)    
+![img](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/my-Theory/Untritium/img/Untritium-598.png)       
 
 ---  
 ---  
@@ -157,7 +157,7 @@ The exact mixture of elements to produce untritium-598 is still unknown, but sci
 
 It is important to note that untritium-598 is a theoretical isotope and has never been created or observed in nature. It is possible that it does not exist, or that it has properties that are different from what we expect. More research is needed to confirm the existence of untritium-598 and to learn more about its properties.
 
-![img](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/my-Theory/Untritium/img/Untritium-598.png)   
+   
 
 ---   
 ---  
