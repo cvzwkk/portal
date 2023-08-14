@@ -1,5 +1,9 @@
 [HOME](/README.md)   
 
+--- 
+
+- [Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/gravitational-waves/readme.md)    
+
 ---   
 
 # Wave Functions 
