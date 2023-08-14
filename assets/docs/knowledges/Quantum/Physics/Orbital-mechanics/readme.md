@@ -9,7 +9,7 @@
     - SpaceCrafts:   
 
     - Weapons:
-      - [Quantum Orbital Strike System, 'QOSS'](/assets/docs/knowledge/Quantum/Physics/Orbital-mechanics/theory/devices/weapons/QOSS/readme.md)  
+      - [Quantum Orbital Strike System, 'QOSS'](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/theory/devices/weapons/QOSS/readme.md)  
 
 ---   
 
