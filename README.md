@@ -24,7 +24,9 @@ One collection of knowledge
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
       
-  - Quantum's Physics / Mechanic's:
+  - Quantum's:   
+    - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)  
+         
     - Electromagnetism:
       - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
         
