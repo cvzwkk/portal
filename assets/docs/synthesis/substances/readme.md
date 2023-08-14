@@ -11,7 +11,8 @@
   - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
   - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)
   - [Selenium](/assets/docs/synthesis/substances/chemical/Selenium/readme.md)
-  - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)    
+  - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)
+  - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)  
   
 
 ----------------------    
