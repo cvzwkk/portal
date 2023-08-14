@@ -48,7 +48,10 @@ One collection of knowledge
   - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)    
 
   - My Stuff Of Thought's:
-    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)    
+    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)
+  
+    - Elixir's:
+      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
 
 
 - Earth:
