@@ -4,7 +4,8 @@
 
 - Byproducts:    
   - Function:  
-    - [Bohr Diagram](/assets/docs/nuclear/reactors/Bohr-Diagram/readme.md)    
+    - [Bohr Diagram](/assets/docs/nuclear/reactors/Bohr-Diagram/readme.md)
+      - [Isotopes](/assets/docs/nuclear/reactors/Bohr-Diagram/isotopes/readme.md)   
 
 
 ---   
