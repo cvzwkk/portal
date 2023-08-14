@@ -9,6 +9,22 @@ In the context of the response, the "multiversal quantum entanglement nexus" is 
 
 ---  
 
+# Nexus Of Universe  
+
+- Myself Thinks:
+The nexus is ine possible singularity of universe but the trued singularity..
+the singularity that combine between all elemental forces of universe
+principally the gravitational force of gravitational waves.
+
+I'm working in one script that can generate by variables obtained from math the most approach possible of real results of reallity.
+
+---
+
+
+
+---  
+
+
 # Suposes Of View the Nexus of an element
 
 # Uranium   
