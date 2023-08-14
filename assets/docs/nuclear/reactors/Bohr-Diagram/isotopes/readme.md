@@ -31,7 +31,8 @@ The noise introduced by stochastic resonance might impact the way electrons tran
 Remember that this connection is a theoretical idea and might not have been fully explored in the literature. If you're interested in pursuing this further, it's recommended to consult with experts in both quantum mechanics and stochastic resonance to gain deeper insights into the potential bridges between these concepts.  
 
 - Then i searched for methods to create one new equation to connect theses two things
-   
+- Name that has combined: Stochastic Resonance-Modulated Orbital Probability Equation  
+
 Combining the concepts of stochastic resonance (SR) and electron orbital positioning in a single equation would be quite complex due to the abstract nature of both concepts. However, I can attempt to create a generalized equation that represents a hypothetical influence of stochastic resonance on electron positioning in orbitals:
 
 $\[ P(n) = A \cdot e^{-(n - \mu)^2 / (2 \sigma^2)} + B \cdot \sin(C \cdot n + \phi) \]$
