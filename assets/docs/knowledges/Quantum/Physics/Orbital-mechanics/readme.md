@@ -2,6 +2,17 @@
 
 ---    
 
+- Hypotetically Devices:   
+
+  - Devices:
+
+    - SpaceCrafts:   
+
+    - Weapons:
+      - [Quantum Orbital Strike System, 'QOSS'](/assets/docs/knowledge/Quantum/Physics/Orbital-mechanics/theory/devices/weapons/QOSS/readme.md)  
+
+---   
+
 # Orbital mechanics  
 
 involves the study of the motion of objects in space, such as satellites and planets, under the influence of gravitational forces. It relies on principles from physics, including Newton's laws of motion and the law of universal gravitation. If you're interested in specific formulas or equations related to orbital mechanics.   
