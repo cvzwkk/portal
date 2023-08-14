@@ -1,6 +1,9 @@
 [HOME](/README.md) / [Elements](../readme.md)  
 
----------------------
+---------------------  
+
+- types:
+  - [Expansive](/assets/docs/nuclear/elements/alloys/expansive/readme.md)   
 
 The alloy list with enumerous amounts of alloys used most precisely in the reactors section
 
