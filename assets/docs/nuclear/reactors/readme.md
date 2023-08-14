@@ -1,6 +1,13 @@
 [HOME](/README.md) / [Nuclear](/assets/docs/nuclear/readme.md)    
 
-------------------
+---  
+
+- Byproducts:    
+  - Function:  
+    - [Bohr Diagram](/assets/docs/nuclear/reactors/Bohr-Diagram/readme.md)    
+
+
+---   
 
 # A nuclear reactor   
   is a device that uses controlled nuclear reactions to generate electricity or produce heat for various purposes.   
