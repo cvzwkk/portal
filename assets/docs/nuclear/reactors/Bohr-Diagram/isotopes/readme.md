@@ -118,11 +118,11 @@ It's important to note that the theoretical prediction of creating isotopes like
 
 ---  
 
-# Other Personal theory about Untritrium-598/592  
+# Other Personal theory about Untritium-598/592  
 
 Sure, here is a theoretical isotope of element 312:
 
-* Name: untritrium
+* Name: untritium
 * Symbol: Utt
 * Atomic number: 312
 * Mass number: 598
@@ -130,7 +130,7 @@ Sure, here is a theoretical isotope of element 312:
 * Neutrons: 286
 * Electrons: 312
 
-Untritrium is a superheavy element that has never been created or observed in nature. It is expected to be a very unstable element with a very short half-life. It is likely to decay by alpha emission, producing a neutron and an atom of an element with one fewer proton.
+Untritium is a superheavy element that has never been created or observed in nature. It is expected to be a very unstable element with a very short half-life. It is likely to decay by alpha emission, producing a neutron and an atom of an element with one fewer proton.
 
 ---  
 ---  
