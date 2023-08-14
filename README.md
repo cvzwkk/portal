@@ -51,7 +51,8 @@ One collection of knowledge
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)
   
     - Elixir's:
-      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
+      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)
+      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)    
 
 
 - Earth:
