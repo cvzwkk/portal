@@ -2,6 +2,7 @@
 
 --------------------
 - [Reactors](/assets/docs/nuclear/reactors/readme.md)
+  - [Bohr Diagram](/assets/docs/nuclear/reactors/Bohr-Diagram/readme.md)   
   - [Tokamak](/assets/docs/nuclear/reactors/tokamak/readme.md)    
 - [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)
 - [Custom Equations Of Energy](/assets/docs/universe/equations/Heat-Energy/Nuclear/dev/equations/readme.md)     
