@@ -62,6 +62,10 @@ One collection of knowledge
   - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)    
 
   - My Stuff Of Thought's:
+    - My books:
+      - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
+
+ 
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)
   
     - Elixir's:
