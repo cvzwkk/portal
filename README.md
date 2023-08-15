@@ -25,7 +25,9 @@ One collection of knowledge
 ---
 
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
-    - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)
+    - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
+    - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)    
+
 
 ---  
 
