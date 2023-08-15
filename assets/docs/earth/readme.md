@@ -15,6 +15,8 @@
 
 - [GeoDynamo](/assets/docs/earth/Geodynamo/readme.md)    
 
+- [Magnetic Field](/assets/docs/earth/Magnetic-Field/readme.md)    
+
 -------------------------------
 
 ![img](/assets/docs/earth/imgs/earth-cover.gif)  
