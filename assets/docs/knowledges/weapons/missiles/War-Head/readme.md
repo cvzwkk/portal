@@ -1,4 +1,4 @@
-[HOME](/README.md)   
+[HOME](/README.md) / [Orbital Missiles](/assets/docs/knowledges/weapons/missiles/War-Head/readme.md)    
 
 ---      
 
@@ -9,7 +9,7 @@ That's right. The fuse is a critical component of any warhead. It is responsible
 
 Some of the most common types of fuses include:
 
-* **Impact fuses:** These fuses are activated when the warhead hits a hard surface. They are simple and reliable, but they can only be used for warheads that are designed to detonate on impact.
+* **Impact fuses:** These fuses are activated when the seewarhead hits a hard surface. They are simple and reliable, but they can only be used for warheads that are designed to detonate on impact.
 * **Proximity fuses:** These fuses are activated when the warhead comes within a certain distance of the target. They are more complex than impact fuses, but they can be used for a wider variety of targets.
 * **Time fuses:** These fuses are activated after a predetermined period of time. They are used for warheads that are designed to detonate at a specific time, such as air-dropped bombs or land mines.
 
