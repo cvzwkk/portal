@@ -22,6 +22,8 @@ One collection of knowledge
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
   - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)
 
+  - [Ancients](/assets/docs/knowledges/Ancients/readme.md)   
+
 ---
 
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
