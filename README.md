@@ -65,7 +65,6 @@ One collection of knowledge
     - My books:
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
 
- 
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)
   
     - Elixir's:
@@ -83,7 +82,8 @@ One collection of knowledge
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
   - [Earth](/assets/docs/earth/readme.md)    
     - Phenomena's     
-      - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)     
+      - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
+      - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)    
 
   - [Core/Nucleous](/assets/docs/earth/core/readme.md)   
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
