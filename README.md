@@ -54,7 +54,10 @@ One collection of knowledge
   
     - Elixir's:
       - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)
-      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)    
+      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)
+
+    - Devices:
+      - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)    
 
 
 - Earth:
