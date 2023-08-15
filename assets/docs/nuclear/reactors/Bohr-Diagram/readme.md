@@ -74,6 +74,13 @@ Keep in mind that Bohr diagrams are a simplified representation and may not accu
 
 ---
 
+# Orbital Atoms    
+
+Sure, let's talk about orbital atoms! In quantum mechanics, electrons within atoms are described by orbitals, which are regions of space where an electron is likely to be found. These orbitals are characterized by various quantum numbers, including the principal quantum number (n), azimuthal quantum number (l), magnetic quantum number (m), and spin quantum number (s). The arrangement of electrons in these orbitals determines an atom's electronic structure, which in turn influences its chemical properties. If you're interested in specific elements or their orbital configurations, feel free to provide more details!
+
+---  
+
+
 # how i can set the bohr diagram to generate one specify result   
 
 To create a Bohr diagram for a specific element, you'll need to follow the steps I outlined earlier. Let's go through the process step by step using an example: chlorine (atomic number 17).
