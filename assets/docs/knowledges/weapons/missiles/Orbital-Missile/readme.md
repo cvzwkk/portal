@@ -119,3 +119,73 @@ It's essential to emphasize that achieving such velocities and short time frames
 
 ---   
 
+- Weight vs Acceleration / Speed:                           
+To achieve the extreme speeds required to reach a target in just 21 seconds, a missile would need an enormous amount of energy and an extremely powerful propulsion system. Given the hypothetical scenario and the weight constraint of 525 kg, let's explore the concept of a purely speculative propulsion system: a nuclear thermal rocket.
+
+Nuclear thermal rockets use a nuclear reactor to heat a propellant (such as hydrogen) to high temperatures, which then expands through a nozzle to generate thrust. This type of propulsion could potentially provide the high thrust and efficiency required for rapid acceleration.
+
+In this example, we'll make several simplifications and assumptions for illustrative purposes:
+
+1. Propulsion: Assume a highly efficient nuclear thermal rocket system with a specific impulse (a measure of propulsion efficiency) of around 1,000 seconds.
+
+2. Thrust-to-Weight Ratio: Let's assume a very high thrust-to-weight ratio of 10, meaning the rocket's thrust is ten times its own weight.
+
+3. Acceleration: Given the thrust-to-weight ratio and mass of 525 kg, the rocket's acceleration would be 525 * 10 = 5250 m/s².
+
+4. Distance Traveled: In 21 seconds, the missile would travel a distance of (1/2) * acceleration * time^2 = 0.5 * 5250 * 21^2 ≈ 228,915 meters (or about 229 km).
+
+To calculate the velocity achieved using this acceleration, you can use the equation:
+
+Velocity = Initial Velocity + (Acceleration * Time)
+
+Since the initial velocity is 0 m/s:      
+
+Velocity = 0 + (5250 m/s² * 21 s) = 110,250 m/s
+
+It's important to emphasize that these calculations are based on hypothetical and speculative scenarios. The engineering challenges, safety concerns, and ethical considerations associated with such rapid acceleration and nuclear propulsion are substantial and go beyond the scope of this discussion.
+
+Furthermore, this scenario does not consider the complexities of real-world rocket designs, the operational challenges, or the potential environmental and safety risks associated with the use of nuclear propulsion. Responsible space exploration and propulsion technology development require careful consideration, rigorous testing, and adherence to international regulations.
+
+---      
+
+- Calculating the amount of fuel to transport certain weight total:
+
+ let's make a simplified example using the last adjusted scenario: launching a missile with a weight of 525 kg to reach a target in 21 seconds with an orbital velocity of 15,105 m/s and an altitude of 50 km.
+
+To calculate the required propellant mass, we'll use the rocket equation, which relates the change in velocity (delta-v), the initial mass of the rocket (including propellant), and the effective exhaust velocity (specific impulse) of the rocket engine:
+
+$\[ \Delta v = v_e \ln \left( \frac{m_i}{m_f} \right) \]$
+
+Where:
+- $\(\Delta v\)$ = Change in velocity (15,105 m/s in this case)
+- $\(v_e\)$ = Effective exhaust velocity (specific impulse)
+- $\(m_i\)$ = Initial mass of the rocket (including propellant)
+- $\(m_f\)$ = Final mass of the rocket (after propellant is expended)
+
+Given that we want to reach an orbital velocity of 15,105 m/s and the missile's weight is 525 kg:
+
+Effective exhaust velocity (specific impulse) varies based on the type of rocket engine and fuel used. For simplicity, let's assume an effective exhaust velocity of $\(2,500 m/s\)$ (typical of solid rocket motors). Also, the final mass $(\(m_f\))$ after expending all the propellant would be the missile's weight $(\(525 kg\))$.
+
+Now we can rearrange the rocket equation to solve for the initial mass (\(m_i\)):
+
+$\[ m_i = m_f \cdot e^{\frac{\Delta v}{v_e}} \]$
+
+Plugging in the values:
+$\[ m_i = 525 \, \text{kg} \cdot e^{\frac{15,105 \, \text{m/s}}{2,500 \, \text{m/s}}} \]$
+
+Solving for $\(m_i\)$:
+$\[ m_i \approx 114,374 \, \text{kg} \]$
+
+The calculated initial mass of the rocket, including the propellant, would be approximately $\(114,374\)$ kg. This is significantly greater than the missile's weight of $\(525\)$ kg, highlighting the substantial amount of propellant needed to achieve such high speeds in a short time frame.
+
+Please note that this example uses simplified values and assumptions for the specific impulse and exhaust velocity, and it doesn't consider practical limitations, engineering challenges, or the complexities of real-world rocket systems.
+
+
+
+
+
+
+
+
+
+
