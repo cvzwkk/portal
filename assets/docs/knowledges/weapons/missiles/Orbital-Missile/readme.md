@@ -166,7 +166,7 @@ Given that we want to reach an orbital velocity of 15,105 m/s and the missile's 
 
 Effective exhaust velocity (specific impulse) varies based on the type of rocket engine and fuel used. For simplicity, let's assume an effective exhaust velocity of $\(2,500 m/s\)$ (typical of solid rocket motors). Also, the final mass $(\(m_f\))$ after expending all the propellant would be the missile's weight $(\(525 kg\))$.
 
-Now we can rearrange the rocket equation to solve for the initial mass (\(m_i\)):
+Now we can rearrange the rocket equation to solve for the initial mass $(\(m_i\))$:
 
 $\[ m_i = m_f \cdot e^{\frac{\Delta v}{v_e}} \]$
 
