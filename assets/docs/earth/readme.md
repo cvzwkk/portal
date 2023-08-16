@@ -111,7 +111,7 @@ The term you are looking for is "satellite orbit". A satellite orbit is the path
 * High Earth orbit (HEO) is the farthest type of satellite orbit from Earth. HEO satellites typically orbit at altitudes of 35,000 to 35,786 kilometers. HEO satellites are used for a variety of purposes, including space exploration and astronomy.
 
 - Satellites Orbit:
-![ing](/https://www.datocms-assets.com/53444/1666338747-every-satellite-orbiting-earth-who-owns-them.png?auto=format&w=1024&dpr=0.75)     
+![ing](https://www.datocms-assets.com/53444/1666338747-every-satellite-orbiting-earth-who-owns-them.png?auto=format&w=1024&dpr=0.75)     
 
 ---   
 
