@@ -96,7 +96,24 @@
        A nutação é causada pelas forças gravitacionais de outros corpos celestes agindo sobre o objeto em rotação, como a Terra, e ocorre a cada 18,6 anos.
         A nutação é um fenômeno importante na astronomia, pois afeta a posição dos polos da Terra e pode influenciar a precisão das medições astronômicas
 
--------------------      
+---    
+---   
+
+- Earth Orbits:
+   
+There is no map of terrestrial orbits of Earth because there are no terrestrial orbits of Earth. The term "terrestrial" refers to the Earth, and the Earth is not in orbit around itself. The Earth is the central body in its own solar system, and all of the other planets, moons, asteroids, and comets orbit around it.
+
+The term you are looking for is "satellite orbit". A satellite orbit is the path that a satellite follows around a planet. There are many different types of satellite orbits, but they are all classified into three main categories: low Earth orbit, medium Earth orbit, and high Earth orbit.
+![Image of Satellite orbits around Earth](https://www.datocms-assets.com/53444/1666338679-every-satellite-orbiting-earth-who-owns-them-cover.png?auto=format&w=1200&dpr=0.5)   
+
+* Low Earth orbit (LEO) is the closest type of satellite orbit to Earth. LEO satellites typically orbit at altitudes of 100 to 2,000 kilometers. LEO satellites are used for a variety of purposes, including weather forecasting, communications, and surveillance.
+* Medium Earth orbit (MEO) is a type of satellite orbit that is in between LEO and GEO. MEO satellites typically orbit at altitudes of 10,000 to 20,000 kilometers. MEO satellites are used for a variety of purposes, including navigation, communications, and space exploration.
+* High Earth orbit (HEO) is the farthest type of satellite orbit from Earth. HEO satellites typically orbit at altitudes of 35,000 to 35,786 kilometers. HEO satellites are used for a variety of purposes, including space exploration and astronomy.
+
+- Satellites Orbit:
+![ing](/https://www.datocms-assets.com/53444/1666338747-every-satellite-orbiting-earth-who-owns-them.png?auto=format&w=1024&dpr=0.75)     
+
+---   
 
 - External Citations: [1](https://astro.vaporia.com/start/nutation.html)  [2](https://www.daviddarling.info/encyclopedia/N/nutation.html) [3](https://en.wikipedia.org/wiki/Astronomical_nutation)  
     
