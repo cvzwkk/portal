@@ -1,8 +1,7 @@
-
 import numpy as np
 import matplotlib.pyplot as plt
 
-def calculate_trajectory(initial_velocity, angle_degrees):
+def calculate_trajectory(initial_velocity, angle_degrees, ground_height):
     g = 9.81  # Acceleration due to gravity in m/s^2
     angle_radians = np.radians(angle_degrees)
     time_interval = 0.01
@@ -13,9 +12,9 @@ def calculate_trajectory(initial_velocity, angle_degrees):
     time = 0
     while True:
         x = initial_velocity * np.cos(angle_radians) * time
-        y = initial_velocity * np.sin(angle_radians) * time - 0.5 * g * time**2
+        y = ground_height + initial_velocity * np.sin(angle_radians) * time - 0.5 * g * time**2
         
-        if y < 0:
+        if y < ground_height:
             break
         
         x_values.append(x)
@@ -29,6 +28,7 @@ def calculate_trajectory(initial_velocity, angle_degrees):
 target_distance = float(input("Enter the target distance (meters): "))
 projectile_mass = float(input("Enter the projectile mass (kg): "))
 initial_velocity = float(input("Enter the initial velocity (m/s): "))
+ground_height = float(input("Enter the height of the ground (meters): "))
 
 # Use numerical optimization to find firing angle
 result = minimize_scalar(target_function, bounds=(0, 90), args=(target_distance, projectile_mass, initial_velocity))
@@ -38,7 +38,7 @@ if result.success:
     print(f"The firing angle to hit the target at {target_distance} meters is approximately {firing_angle:.2f} degrees.")
     
     # Calculate trajectory
-    x_vals, y_vals = calculate_trajectory(initial_velocity, firing_angle)
+    x_vals, y_vals = calculate_trajectory(initial_velocity, firing_angle, ground_height)
     
     # Plot trajectory
     plt.figure(figsize=(10, 6))
