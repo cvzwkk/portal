@@ -30,7 +30,7 @@ One collection of knowledge
   - [Orbital Missiles](/assets/docs/knowledges/weapons/missiles/Orbital-Missile/readme.md)      
   - Snipers:         
     - .50:     
-      - [My Stuff Of Interaction with .50:        
+      - [My Stuff Of Interaction with .50:](/assets/docs/knowledges/weapons/sniper/.50/readme.md)     
         - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
 
 
