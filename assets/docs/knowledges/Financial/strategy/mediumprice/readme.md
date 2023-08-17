@@ -19,20 +19,24 @@ Enter the percentage increase in coins between orders: 181
 ![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/img.png)    
 
 ```
+
 import matplotlib.pyplot as plt
 
 def calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase):
     current_price = medium_price
-    total_invested = []
+    total_invested = 0
+    capital_required = []
+
+    price_range = medium_price - desired_price
     coins_per_order = total_coins / num_orders
 
     for _ in range(num_orders):
-        total_invested.append(initial_capital)
+        total_invested += coins_per_order * current_price
+        capital_required.append(total_invested)
         coins_per_order *= (1 + percentage_increase / 100)
-        initial_capital += coins_per_order * current_price
-        current_price -= (medium_price - desired_price) / (num_orders - 1)
+        current_price -= price_range / (num_orders - 1)
 
-    return total_invested
+    return capital_required
 
 # Taking user input
 initial_capital = float(input("Enter your initial capital: "))
@@ -42,23 +46,20 @@ desired_price = float(input("Enter the desired price: "))
 num_orders = int(input("Enter the number of orders: "))
 percentage_increase = float(input("Enter the percentage increase in coins between orders: "))
 
-total_invested = calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
+capital_required = calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
 
-# Creating the plot
-plt.figure(figsize=(10, 6))
-plt.plot(total_invested, marker='o')
-plt.title('Capital Required for Each Order')
-plt.xlabel('Order Number')
-plt.ylabel('Total Capital Required')
-plt.xticks(range(1, num_orders + 1))
+# Plotting
+plt.plot(capital_required, marker='o')
+plt.xlabel('Order')
+plt.ylabel('Capital Required')
+plt.title('Capital Required per Order')
 plt.grid(True)
-plt.tight_layout()
-
-# Adding text to the plot
-for i, capital in enumerate(total_invested):
-    plt.text(i + 1, capital, f'{capital:.2f}', ha='center', va='bottom')
-
 plt.show()
+
+# Displaying textual output
+for i, capital in enumerate(capital_required):
+    print(f"Order {i + 1}: Capital Required = {capital:.2f}")
+
 ```
 ---    
 
