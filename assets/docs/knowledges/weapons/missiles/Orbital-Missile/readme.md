@@ -7,6 +7,30 @@
 
 ---  
 
+Base Mode, hypersonic Avangard:        
+
+| **Aspect**                | **Description**                                                                                       |
+|--------------------------|-------------------------------------------------------------------------------------------------------|
+| **Name**                 | Avangard                                                                                              |
+| **Origin**               | Russia                                                                                                |
+| **Type**                 | Hypersonic Glide Vehicle                                                                               |
+| **Speed**                | Mach 27 (Approximately 8,900 meters per second) during reentry phase                                |
+| **Delivery Method**      | Boost-glide vehicle launched on a ballistic missile                                                 |
+| **Maneuverability**      | Highly maneuverable, making it difficult to intercept                                              |
+| **Payload**              | Capable of carrying conventional or potentially nuclear warheads                                   |
+| **Targeting**            | Precision targeting for specific installations, infrastructure, or ships                            |
+| **Purpose**              | Enhance deterrence, increase strategic capabilities                                                |
+| **Operational Range**    | Classified information, but capable of reaching distant targets                                    |
+| **Avionics**             | Equipped with advanced guidance and avionics systems                                              |
+| **Stealth Features**     | Likely incorporates stealth technology to minimize radar detection                                 |
+| **Deployment Platforms** | Potentially launched from land-based, sea-based, or air-based platforms                            |
+| **Notable Features**     | - Reaches hypersonic speeds during reentry phase                                                   |
+|                          | - Maneuverable trajectory for evading defenses                                                      |
+|                          | - Rapid response capability to emerging threats                                                     |
+| **Development Status**   | The system was reported to be in testing and operational deployment by Russia                       |
+
+---  
+
 - Orbital Period Of Missile:
 Sure, let's consider an example using a simplified scenario.
 
