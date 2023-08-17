@@ -20,12 +20,14 @@ Enter the percentage increase in coins between orders: 181
 
 ```
 
+
 import matplotlib.pyplot as plt
 
 def calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase):
     current_price = medium_price
     total_invested = 0
     capital_required = []
+    coins_to_acquire = []
 
     price_range = medium_price - desired_price
     coins_per_order = total_coins / num_orders
@@ -33,10 +35,11 @@ def calculate_investment(initial_capital, total_coins, medium_price, desired_pri
     for _ in range(num_orders):
         total_invested += coins_per_order * current_price
         capital_required.append(total_invested)
+        coins_to_acquire.append(coins_per_order)
         coins_per_order *= (1 + percentage_increase / 100)
         current_price -= price_range / (num_orders - 1)
 
-    return capital_required
+    return capital_required, coins_to_acquire
 
 # Taking user input
 initial_capital = float(input("Enter your initial capital: "))
@@ -46,19 +49,26 @@ desired_price = float(input("Enter the desired price: "))
 num_orders = int(input("Enter the number of orders: "))
 percentage_increase = float(input("Enter the percentage increase in coins between orders: "))
 
-capital_required = calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
+capital_required, coins_to_acquire = calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
 
 # Plotting
-plt.plot(capital_required, marker='o')
+plt.plot(capital_required, marker='o', label='Capital Required')
+plt.plot(coins_to_acquire, marker='x', label='Coins to Acquire')
+
+# Adding balloons with coin counts to the points
+for i, txt in enumerate(coins_to_acquire):
+    plt.annotate(f'{txt:.2f}', (i, coins_to_acquire[i]), textcoords="offset points", xytext=(0, 10), ha='center')
+
 plt.xlabel('Order')
-plt.ylabel('Capital Required')
-plt.title('Capital Required per Order')
+plt.ylabel('Value')
+plt.title('Capital Required and Coins to Acquire per Order')
+plt.legend()
 plt.grid(True)
 plt.show()
 
 # Displaying textual output
-for i, capital in enumerate(capital_required):
-    print(f"Order {i + 1}: Capital Required = {capital:.2f}")
+for i, (capital, coins, price) in enumerate(zip(capital_required, coins_to_acquire, prices)):
+    print(f"Order {i + 1}: Price = {price:.2f}, Coins to Acquire = {coins:.2f}, Capital Required = {capital:.2f}")
 
 ```
 ---    
