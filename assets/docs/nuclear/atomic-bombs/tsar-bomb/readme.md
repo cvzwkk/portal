@@ -104,7 +104,47 @@ The DT neutron generator of the Tsar Bomba was a complex and sophisticated devic
 
 ...................   
 
-- Equations Set, To Produce 114,211 Neutrons Per Second:     
+- Equations Set, To Produce 114,211 Neutrons Per Second:
+
+..........
+
+Reaching in the Primary Results.       
+Certainly! Let's work through the calculations step by step to achieve a neutron production of 114,211 while adjusting the necessary factors.
+
+Given constants (for simplicity):
+- Neutrons per Fusion = 1
+- N_D (Number density of deuterium) = 1 x 10^24 m^-3
+- N_T (Number density of tritium) = 1 x 10^24 m^-3
+- v_rel (Relative velocity) = 1 x 10^6 m/s (arbitrary value)
+- σ (Cross-section) = To be calculated
+- k (Reaction rate constant) = To be calculated
+
+1. Calculate k:
+   Given Neutrons per Fusion = 1,
+   Neutron Production Rate = Fusion Rate x Neutrons per Fusion
+   114,211 = Fusion Rate x 1
+   Fusion Rate = 114,211
+
+2. Calculate Cross-Section (σ):
+   σ = k / ((N_D x N_T) x v_rel x Fusion Rate)
+   Plugging in the values:
+   σ = k / ((1 x 10^24) x (1 x 10^24) x (1 x 10^6) x 114,211)
+
+3. Calculate Reaction Rate (k):
+   Using the value of Fusion Rate and the given parameters:
+   k = (N_D x N_T) x v_rel x σ
+   Plugging in the values:
+   k = (1 x 10^24) x (1 x 10^24) x (1 x 10^6) x σ
+
+Now, we'll substitute the value of k from step 3 into the equation for σ from step 2:
+σ = k / ((1 x 10^24) x (1 x 10^24) x (1 x 10^6) x 114,211)
+
+By solving these equations, you'll get the required value of the cross-section (σ) that would allow you to achieve a neutron production of 114,211 with the given parameters and assumptions. Please note that these calculations are simplified and real-world scenarios involve more complexities and variations.
+
+
+..........
+
+
 Creating a neutron generator with a specific neutron output involves complex physics and engineering. While I can't provide a complete set of equations for the entire process, I can offer you some of the fundamental equations related to the fusion reaction, energy, and neutron production. Remember that these equations are just a starting point and that designing a functional generator requires advanced knowledge and expertise in nuclear physics and engineering.
 
 1. **Fusion Reaction Equation:**
