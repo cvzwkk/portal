@@ -16,7 +16,7 @@ Enter the desired price: 12000
 Enter the number of orders: 7       
 Enter the percentage increase in coins between orders: 181        
  
-![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/img.png)    
+![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/1img.png)    
 
 ```
 
