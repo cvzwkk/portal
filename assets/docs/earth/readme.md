@@ -10,6 +10,9 @@
     - [Seed Clouds](/assets/docs/earth/earth/seedCloud/readme.md)
   - [Steam](/assets/docs/earth/phenomenas/steam/readme.md)   
 
+- Events:
+  - [ChicXulub Impact](/assets/docs/earth/events/Chicxulub-impact/readme.md)
+    
 - Phenomena's   
   - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
 
