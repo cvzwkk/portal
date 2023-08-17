@@ -61,3 +61,33 @@ for i, capital in enumerate(total_invested):
 plt.show()
 ```
 ---    
+
+
+- Textual mode:
+
+```
+
+def calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase):
+    current_price = medium_price
+    total_invested = 0
+
+    price_range = medium_price - desired_price
+    coins_per_order = total_coins / num_orders
+
+    for _ in range(num_orders):
+        total_invested += coins_per_order * current_price
+        print(f"At {current_price:.2f} price, you would need {total_invested:.2f} capital.")
+        coins_per_order *= (1 + percentage_increase / 100)
+        current_price -= price_range / (num_orders - 1)
+
+# Taking user input
+initial_capital = float(input("Enter your initial capital: "))
+total_coins = float(input("Enter total number of coins: "))
+medium_price = float(input("Enter the medium price: "))
+desired_price = float(input("Enter the desired price: "))
+num_orders = int(input("Enter the number of orders: "))
+percentage_increase = float(input("Enter the percentage increase in coins between orders: "))
+
+calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
+
+```
