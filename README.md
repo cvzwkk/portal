@@ -87,17 +87,27 @@ One collection of knowledge
     - My Nuclear Theories:
       - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)    
 
+---   
 
 - Earth:
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
   - [Earth](/assets/docs/earth/readme.md)    
-    - Phenomena's     
-      - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
-      - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)    
+
+- Events:
+  - [ChicXulub Impact](/assets/docs/earth/events/Chicxulub-impact/readme.md)
+  - [Tunguska event](/assets/docs/earth/events/Tunguska/readme.md)     
+    
+- Phenomena's   
+  - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
+  - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)
+  - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)
 
   - [Core/Nucleous](/assets/docs/earth/core/readme.md)   
-  - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)  
-   
+  - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)
+  - [CryoVolcanism](/assets/docs/earth/earth/Cryovolcano/readme.md)    
+
+---   
+
 -  Elements:
     - [Isotopes](/assets/docs/earth/elements/Isotopes/readme.md)
     - [Materials](/assets/docs/earth/elements/materials/readme.md)
@@ -122,6 +132,8 @@ One collection of knowledge
      - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)
      - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)   
 
+---   
+
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
     - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
@@ -133,18 +145,24 @@ One collection of knowledge
     - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
     - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)
     - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)   
-     
+
+---   
+
 -  Researchs:  
     - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
     - [ETOPO1 Ice-Surface](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/)     
-  
+
+---  
+
 - Moon:  
   - [Moon](/assets/docs/moon/readme.md)
+
+---
    
 - Sun:  
   - [Sun](/assets/docs/sun/readme.md)
   
---------------
+---
 
 - [SubAtomic](/assets/docs/universe/subAtomic/readme.md)
   - Particles  
@@ -176,7 +194,9 @@ One collection of knowledge
 
   - Electromagnetic devices:   
     - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)   
-              
+
+---
+             
 - Nuclear:
    - [About Nuclear](/assets/docs/nuclear/readme.md)  
    - [Nuclear Elements](/assets/docs/universe/equations/Heat-Energy/Nuclear/elements/readme.md)   
@@ -195,26 +215,30 @@ One collection of knowledge
 
 - Synthesis of Nuclear Elements:  
    - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)    
+
+---
    
 - Chemical Weapons:    
    - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
    - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
    - [NoviChock](/assets/docs/nuclear/chemical/novichock/readme.md)
 
+---
+
 - Weapons:  
    - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
   - [Atomic Bombs](/assets/docs/nuclear/atomic-bombs/readme.md):   
    - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
    - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
-   
 
+---  
 
-
---------------
 - [Light](/assets/docs/universe/light/readme.md)  
    - [Synthesis](/assets/docs/universe/light/synthesis/readme.md)  
    - [Equations](/assets/docs/universe/light/equations/readme.md)  
--------------
+
+---  
+
 - [Synthesis](/assets/docs/synthesis/readme.md)
 - [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
 
@@ -229,11 +253,14 @@ One collection of knowledge
    - Webtools:   
     - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
      
---------------
+---  
+
 - [NucleoSynthesis](/assets/docs/nucleosynthesis/readme.md)  
 - [Chemy](/assets/docs/universe/chemy/README.md)   
    - [Elements](/assets/docs/universe/chemy/Elements/readme.md)  
---------------
+
+---  
+
 - Space:
   - [Dark Energy](/assets/docs/universe/space/dark-energy/readme.md)    
   - [Anti Matter](/assets/docs/antimatter/readme.md)     
@@ -249,13 +276,16 @@ One collection of knowledge
   - Hypothetical:
     - [Quarks Star's](/assets/docs/universe/space/QuarkStars/readme.md)      
 
+---  
 
 - Knowledges:
   - [Time Dilation](/assets/docs/universe/space/knowledges/TimeDilation/readme.md)     
   - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
   - [Electron Capture](/assets/docs/universe/space/knowledges/electron_capture.md)    
   - [Hydro Signature Detection Method 'HDM'](/assets/docs/universe/space/knowledges/Hydro-Signature-Detection-Method.md)
-   
+
+---
+  
 - Rockets / Space Ships  
   - [Nuclear Rockets](/assets/docs/nuclear/knowledges/nuclear-rockets/readme.md)  
   - Nuclear Engine   
@@ -269,7 +299,9 @@ One collection of knowledge
    
 - [Spatial Researchs:](/assets/docs/universe/spatial/readme.md)  
   - [Open Exoplanet Catalog](https://github.com/emeraldTable/exoplanets)  
---------------
+
+---  
+
 # [Universe Equations](/assets/docs/universe/equations/README.md)   
 - Nuclear Physics
   - [The Nuclear Binding Energy Equation](/assets/docs/universe/equations/nuclear-physics/Nuclear-Binding-Energy-Equation/readme.md)
@@ -284,7 +316,7 @@ One collection of knowledge
        
 - [Light:](/assets/docs/universe/light/equations/readme.md)   
 
--------------
+---
 
 # Python Section:
 - [Nuclear Docs](/assets/docs/nuclear/)   
@@ -310,8 +342,8 @@ One collection of knowledge
       The molecules generator included is result of one process in the deep of reactor,  
        that generate elements after your operation  
         faciliting the studies and uses of reactors and other nuclear developments.  
-        
--------------------
+
+---
         
 1. [Earth Dev Section](/assets/addons/python/dev/earth/readme.md)   
  - 1. Equations:   
@@ -332,7 +364,8 @@ One collection of knowledge
 3. Planet Tools     
  - 1. [Planets Mass Calculator](/assets/addons/python/Reactor)   
      
---------------  
+---  
+
 # Futuristic Comics:  
 - [SCI-FI](/assets/docs/earth/sci-fi/readme.md)
   - [Earth Split](/assets/docs/earth/sci-fi/sci-fi_terra_split/readme.md)
@@ -348,7 +381,9 @@ One collection of knowledge
       - IMG > Base64: To convert one image in string base64  
       - CSV Generator: This generate one .CSV that contain the proprierties of your molecule  
       - CSV to HTML: This generate with basis in the .CSV one html visualization of proprierties of molecule  
---------------
+
+---
+
 # Ways to run  
   - Online mode:
     - Acessing: [Portal](https://emeraldtable.github.io/portal/)   
@@ -359,14 +394,14 @@ One collection of knowledge
      This is required because the portal contain CORS requests from files inside root dir  
       then this command executed inside root dir of portal, fix the CORS requests.  
 
-------------------
+---
 
 # Drive Backup Link:   
 - Date:
   - [Jul/2023](https://drive.google.com/file/d/1xt7b1S9X7ghcsZgS5tWfZtt3Zw5JCYUZ/view?usp=drive_link)
   - [Aug/2023](https://drive.google.com/file/d/1-33iaqOsNujHky8kQEZst0pg4nU-SZzk/view?usp=drivesdk)     
 
---------------------
+---
 
 Portal Maded By: c2v2zw4k or cvzwk
 two identity of same person.
