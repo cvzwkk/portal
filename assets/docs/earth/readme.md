@@ -5,6 +5,7 @@
 - Data's:
   - [Layers](/assets/docs/earth/layers/readme.md)
   - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)
+  - [CryoVolcanism](/assets/docs/earth/earth/Cryovolcano/readme.md)    
   - [ice Nucleation](/assets/docs/earth/earth/iceNucleation/readme.md)      
   - [Tornadoes / Cyclones](/assets/docs/earth/earth/cyclonesTornadoes/readme.md)
     - [Seed Clouds](/assets/docs/earth/earth/seedCloud/readme.md)
