@@ -15,7 +15,8 @@
   - [ChicXulub Impact](/assets/docs/earth/events/Chicxulub-impact/readme.md)
   - [Tunguska event](/assets/docs/earth/events/Tunguska/readme.md)     
     
-- Phenomena's   
+- Phenomena's
+  - [Liquefaction](/assets/docs/earth/phenomenas/liquefaction/readme.md)    
   - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
   - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)
   - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)       
