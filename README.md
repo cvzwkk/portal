@@ -20,10 +20,10 @@ One collection of knowledge
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
-  - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)
-
-  - [Ancients](/assets/docs/knowledges/Ancients/readme.md)   
-
+  - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)    
+  - [Ancients](/assets/docs/knowledges/Ancients/readme.md)  
+  - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
+  
 ---   
 
 - Weapons:
@@ -33,17 +33,13 @@ One collection of knowledge
       - [My Stuff Of Interaction with .50:](/assets/docs/knowledges/weapons/sniper/.50/readme.md)     
         - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
 
-
 ---
 
   - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
     - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
     - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)    
 
-
 ---  
-
-  - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
       
   - Quantum's:   
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)  
@@ -63,7 +59,9 @@ One collection of knowledge
       - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
       - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)      
-         
+
+---  
+
 - Theories:
   - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
   - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
@@ -186,7 +184,7 @@ One collection of knowledge
   - [Virtual Particle](/assets/docs/universe/subAtomic/virtualParticles/readme.md)
     - [Kaluza Klein Particles](/assets/docs/universe/subAtomic/virtualParticles/KaluzaKlein/readme.md)
 
-  -  Theorically Particles:     
+  -  Theoric Particles:     
      -  [Pine's Demon](/assets/docs/universe/subAtomic/particles/pinesDemon/readme.md)      
 
   - Atoms:
