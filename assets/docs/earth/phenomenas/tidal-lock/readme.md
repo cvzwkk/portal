@@ -1,4 +1,4 @@
-[HOME](/README.md)  / [Earth](/assets/docs/earth/phenomenas/tidal-lock/readme.md)   
+[HOME](/README.md)  / [Earth](/assets/docs/earth/readme.md)   
 
 ---   
 
