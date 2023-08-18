@@ -65,16 +65,16 @@ The study of Bose-Einstein condensation has deepened our understanding of quantu
 Certainly! Here are some of the fundamental equations and concepts related to Bose-Einstein condensation:
 
 1. **Number Density (n)**: The number of particles per unit volume.
-   
-   ![Number Density](https://latex.codecogs.com/svg.latex?n%20%3D%20%5Cfrac%7BN%7D%7BV%7D)
+
+![Number Density](https://latex.codecogs.com/svg.latex?n%20%3D%20%5Cfrac%7BN%7D%7BV%7D)
 
    Where:
    - $\(N\)$ is the total number of particles.
    - $\(V\)$ is the volume.
 
-2. **Thermal De Broglie Wavelength $(\(\lambda_{\text{dB}}\))$**: The wavelength associated with a particle's thermal energy.
+3. **Thermal De Broglie Wavelength $(\(\lambda_{\text{dB}}\))$**: The wavelength associated with a particle's thermal energy.b      
 
-   ![Thermal De Broglie Wavelength](https://latex.codecogs.com/svg.latex?%5Clambda_%7B%5Ctext%7BdB%7D%7D%20%3D%20%5Csqrt%7B%5Cfrac%7B2%5Cpi%5Chbar%5E2%7D%7BmkT%7D%7D)
+![Thermal De Broglie Wavelength](https://latex.codecogs.com/svg.latex?%5Clambda_%7B%5Ctext%7BdB%7D%7D%20%3D%20%5Csqrt%7B%5Cfrac%7B2%5Cpi%5Chbar%5E2%7D%7BmkT%7D%7D)     
 
    Where:
    - $\(\hbar\)$ is the reduced Planck constant.
@@ -86,7 +86,7 @@ Certainly! Here are some of the fundamental equations and concepts related to Bo
 
 4. **Bose-Einstein Distribution Function $(n(E))$**: Describes the probability of having \(n\) particles in a given energy level $\(E\)$.
 
-   ![Bose-Einstein Distribution Function](https://latex.codecogs.com/svg.latex?n%28E%29%20%3D%20%5Cfrac%7B1%7D%7Be%5E%7B%5Cfrac%7BE%20-%20%5Cmu%7D%7BkT%7D%7D%20-%201%7D)
+![Bose-Einstein Distribution Function](https://latex.codecogs.com/svg.latex?n%28E%29%20%3D%20%5Cfrac%7B1%7D%7Be%5E%7B%5Cfrac%7BE%20-%20%5Cmu%7D%7BkT%7D%7D%20-%201%7D)
 
    Where:
    - $\(E\)$ is the energy level.
@@ -96,11 +96,11 @@ Certainly! Here are some of the fundamental equations and concepts related to Bo
 
 6. **Number of Particles in the Ground State $(\(N_0\))$**: The number of particles that have condensed into the lowest energy state.
 
-   ![Number of Particles in the Ground State](https://latex.codecogs.com/svg.latex?N_0%20%3D%20%5Cfrac%7BV%7D%7B%5Clambda_%7B%5Ctext%7BdB%7D%7D%5E3%7D)
+![Number of Particles in the Ground State](https://latex.codecogs.com/svg.latex?N_0%20%3D%20%5Cfrac%7BV%7D%7B%5Clambda_%7B%5Ctext%7BdB%7D%7D%5E3%7D)
 
 7. **Critical Density $(\(n_c\))$**: The number density at which BEC occurs.
 
-   ![Critical Density](https://latex.codecogs.com/svg.latex?n_c%20%3D%20%5Cleft%28%20%5Cfrac%7B2%7D%7B%5Czeta%283%2F2%29%7D%20%5Cright%29%20%5Cleft%28%20%5Cfrac%7B%5Chbar%5E2%7D%7B2%5Cpi%20mk%20T_c%7D%20%5Cright%29%5E%7B3/2%7D)
+![Critical Density](https://latex.codecogs.com/svg.latex?n_c%20%3D%20%5Cleft%28%20%5Cfrac%7B2%7D%7B%5Czeta%283%2F2%29%7D%20%5Cright%29%20%5Cleft%28%20%5Cfrac%7B%5Chbar%5E2%7D%7B2%5Cpi%20mk%20T_c%7D%20%5Cright%29%5E%7B3/2%7D)
 
    Where:
    - $\(\zeta\)$ is the Riemann zeta function.
@@ -115,7 +115,7 @@ Certainly! Here are a few more equations and concepts related to Bose-Einstein c
 
 9. **Condensate Fraction in a Harmonic Trap**:
 
-   ![Condensate Fraction in a Harmonic Trap](https://latex.codecogs.com/svg.latex?%5Cfrac%7Bn_0%7D%7Bn%7D%20%3D%20%5Cleft%5B1%20-%20%5Cleft%28%5Cfrac%7BT%7D%7BT_c%7D%5Cright%29%5E%7B3/2%7D%5Cright%5D)
+![Condensate Fraction in a Harmonic Trap](https://latex.codecogs.com/svg.latex?%5Cfrac%7Bn_0%7D%7Bn%7D%20%3D%20%5Cleft%5B1%20-%20%5Cleft%28%5Cfrac%7BT%7D%7BT_c%7D%5Cright%29%5E%7B3/2%7D%5Cright%5D)
 
    Where:
    - $\(T\)$ is the temperature.
@@ -123,7 +123,7 @@ Certainly! Here are a few more equations and concepts related to Bose-Einstein c
 
 10. **Equation of State for Non-Ideal Bose Gas**:
 
-   ![Equation of State for Non-Ideal Bose Gas](https://latex.codecogs.com/svg.latex?P%20%3D%20%5Cfrac%7B2%7D%7B5%7D%20%5Cfrac%7B%5Chbar%5E2%7D%7Bm%20%5Czeta%28%5Cfrac%7B5%7D%7B2%7D%29%7D%20%5Cleft%28%5Cfrac%7Bn%7D%7Bm%20k%20T%7D%5Cright%29%5E%7B5/2%7D)
+![Equation of State for Non-Ideal Bose Gas](https://latex.codecogs.com/svg.latex?P%20%3D%20%5Cfrac%7B2%7D%7B5%7D%20%5Cfrac%7B%5Chbar%5E2%7D%7Bm%20%5Czeta%28%5Cfrac%7B5%7D%7B2%7D%29%7D%20%5Cleft%28%5Cfrac%7Bn%7D%7Bm%20k%20T%7D%5Cright%29%5E%7B5/2%7D)
 
    Where:
    - $\(P\)$ is the pressure.
@@ -131,7 +131,7 @@ Certainly! Here are a few more equations and concepts related to Bose-Einstein c
 
 11. **Energy of a Non-Ideal Bose Gas**:
 
-   ![Energy of a Non-Ideal Bose Gas](https://latex.codecogs.com/svg.latex?E%20%3D%20%5Cfrac%7B3%7D%7B2%7D%20NkT%20%5Cleft%5B1%20%2B%20%5Cfrac%7B128%7D%7B15%20%5Csqrt%7B%5Cpi%7D%7D%20%5Cleft%28%20%5Cfrac%7BN%20%5Clambda_%7B%5Ctext%7BdB%7D%7D%7D%7BV%7D%20%5Cright%29%5E%7B3/2%7D%20%5Cright%5D)
+![Energy of a Non-Ideal Bose Gas](https://latex.codecogs.com/svg.latex?E%20%3D%20%5Cfrac%7B3%7D%7B2%7D%20NkT%20%5Cleft%5B1%20%2B%20%5Cfrac%7B128%7D%7B15%20%5Csqrt%7B%5Cpi%7D%7D%20%5Cleft%28%20%5Cfrac%7BN%20%5Clambda_%7B%5Ctext%7BdB%7D%7D%7D%7BV%7D%20%5Cright%29%5E%7B3/2%7D%20%5Cright%5D)
 
 12. **Bogoliubov Theory**: A perturbation theory that describes weakly interacting Bose gases.
 
@@ -322,9 +322,9 @@ Certainly, here are a few more equations and concepts related to Bose-Einstein c
    ![Two-Mode Squeezing in BECs](https://latex.codecogs.com/svg.latex?%5CDelta%20X%20%5CDelta%20Y%20-%20%5Cfrac%7B1%7D%7B4%7D%20%5Cleft%28%5Clangle%20%5B%20X%2C%20Y%20%5D%5E2%20%5Crangle%20-%20%5Clangle%20X%20%5Crangle%20%5Clangle%20Y%20%5Crangle%20%5E2%20%5Cright%29)
 
    Where:
-   - \(X\) and \(Y\) are conjugate variables.
-   - \(\Delta X\) and \(\Delta Y\) are the uncertainties in \(X\) and \(Y\).
-   - \(\langle [X, Y]^2 \rangle\) represents the variance of the commutator \([X, Y]^2\).
+   - $\(X\)$ and $\(Y\)$ are conjugate variables.
+   - $\(\Delta X\)$ and $\(\Delta Y\)$ are the uncertainties in $\(X\)$ and $\(Y\)$.
+   - $\(\langle [X, Y]^2 \rangle\)$ represents the variance of the commutator $\([X, Y]^2\)$.
 
 84. **Zaremba-Nikuni-Griffin (ZNG) Equation**:
 
