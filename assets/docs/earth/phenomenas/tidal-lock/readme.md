@@ -22,6 +22,26 @@ Tidal forces can impact nutation by affecting the Earth's shape and its distribu
 
 In summary, while tidal locking doesn't directly influence nutation, the gravitational forces that lead to tidal locking can contribute to the overall gravitational interactions affecting nutation by influencing the Earth's shape and mass distribution.
 
+---  
+
+- How Tidal Forces can influenciate in the Earth Mass Distribution:
+
+Tidal forces can influence Earth's mass distribution through the creation of tidal bulges and Earth tides. Here's how it works:
+
+1. **Tidal Bulges**: When the Moon's gravitational pull interacts with the Earth, it creates two tidal bulges in the planet's oceans—one facing the Moon and the other on the opposite side. These bulges are a result of the difference in gravitational attraction across the Earth due to the Moon's presence. The gravitational force is stronger on the side of the Earth facing the Moon and weaker on the opposite side, causing water to "stretch" toward the Moon. This leads to a redistribution of water mass, resulting in the formation of these tidal bulges.
+
+2. **Earth Tides**: Tidal forces don't just affect the oceans; they also have an effect on the solid Earth. As the Earth responds to the changing tidal forces, it undergoes an elastic deformation known as Earth tides. Just like the oceans experience tidal bulges, the solid Earth experiences slight deformations due to the varying gravitational forces. These deformations are less visible than oceanic tidal bulges but are an essential part of the overall process.
+
+The redistribution of mass caused by both tidal bulges in the oceans and Earth tides in the solid Earth leads to variations in Earth's mass distribution. This variation affects the planet's gravitational field and its rotation. The dynamic interaction between the changing gravitational forces and Earth's response to them results in a complex pattern of mass redistribution over time.
+
+In turn, this redistribution of mass influences Earth's rotational dynamics, including its rotation rate and axis orientation. The periodic changes in the mass distribution, caused by the Moon's gravitational pull and Earth's response to it, contribute to the phenomenon of nutation—the periodic wobbling or nodding of Earth's rotational axis.
+
+Overall, tidal forces play a crucial role in reshaping Earth's mass distribution, leading to tidal bulges in the oceans, Earth tides in the solid Earth, and influencing the planet's rotation and axial behavior.
+
+---    
+
+![img](/assets/addons/python/dev/earth/imgs/distribuicao_massa_pressao.png)      
+
 ---    
 ---  
 
