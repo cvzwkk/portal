@@ -17,7 +17,8 @@
     
 - Phenomena's   
   - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
-  - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)     
+  - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)
+  - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)       
 
 - [GeoDynamo](/assets/docs/earth/Geodynamo/readme.md)    
 
