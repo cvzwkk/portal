@@ -1,0 +1,80 @@
+[Home](/README.md)     
+
+---     
+
+First you can make one sphere full metal
+and inject ions from one ions generator.
+1 Ions Generator
+1 Neutron Sources
+1 Cluster of metallic sphere maded from materials of neutron capture
+Beryllium, Americium and others
+
+1 Cluster of neutrons multiplications
+1 Cluster with lower absorption of neutrons to make the neutrons multiplication
+and fuse with more ions making radioactives processes of transformation to produce neutrons from ions
+
+The production of neutrons from a metallic sphere that is ionized involves a complex process of nuclear reactions and requires specialized equipment and expertise. Here are the general steps involved:
+
+1. Preparation of the metallic sphere: The metallic sphere used needs to be a special type of metal that can withstand high temperatures and is highly conductive. The sphere is usually made of isotopes such as lithium or deuterium, which have the potential to undergo nuclear reactions that produce neutrons.
+
+2. Ionization of the metallic sphere: The metallic sphere is bombarded with high-energy ions to cause ionization of the atoms in the metal. This is typically done using a particle accelerator or a cyclotron. The ionization of the metal sphere creates a high concentration of ions, which are positively charged.
+
+3. Formation of a plasma: The bombardment of the metallic sphere with ions leads to the formation of a plasma around the sphere. The plasma is a collection of ions and electrons that are in a high-energy state.
+
+4. Fusion reactions: The high-energy ions in the plasma collide with the ions in the metal sphere, causing fusion reactions to occur. In these reactions, the positively charged ions combine to form a heavier nucleus, releasing energy in the form of neutrons.
+
+5. Neutron capture and detection: The neutrons that are produced in the fusion reactions are highly energetic and can be captured by other atoms, such as those in a neutron detector. The neutron capture is detected, and the data is recorded.
+
+6. Data analysis and interpretation: The data collected from the neutron detector is analyzed to determine the rate of production of neutrons and other characteristics of the nuclear reaction.
+
+Overall, the production of neutrons from a metallic sphere that is ionized is a complex process that requires specialized equipment and expertise. The process has potential applications in fields such as nuclear physics, materials science, and nuclear energy production.
+
+---    
+
+The process of generating neutrons from an ion generator involves a complex series of steps and requires specialized equipment and expertise. Here are the general steps involved:
+
+1. Ionization of a gas: An ion generator works by ionizing a gas, such as hydrogen or deuterium. This is typically done using a high-energy source, such as an electron beam or a radioactive source.
+
+2. Generation of a plasma: The ionized gas is then subjected to a high energy electric field, which causes it to form a plasma. The plasma is a high-energy state of matter comprised of ions and electrons.
+
+3. Formation of a target: The plasma is then directed towards a target material, which could be a metallic or non-metallic material. The energy of the plasma causes the atoms in the target to become ionized.
+
+4. Formation of a hot-spot: As the ions from the plasma collide with the ionized atoms in the target, a region of high energy is formed, known as a hot-spot.
+
+5. Neutron formation: The high-energy environment of the hot-spot can lead to nuclear reactions, which can produce neutrons. There are several possible reactions that can lead to neutron production, including fusion reactions and reactions involving the capture of neutrons.
+
+6. Neutron capture and detection: The neutrons that are produced in the nuclear reactions can be captured by other atoms, such as those in a neutron detector. The neutron capture is detected, and the data is recorded.
+
+7. Data analysis and interpretation: The data collected from the neutron detector is analyzed to determine the rate of production of neutrons and other characteristics of the nuclear reaction.
+
+Overall, the process of generating neutrons from an ion generator is complex and requires sophisticated equipment and expertise. The process has potential applications in fields such as nuclear physics, materials science, and nuclear energy production.
+
+---    
+
+Capturing neutrons from uranium and plutonium isotopes is an important step in many nuclear applications, including energy production and nuclear weapons. Here are the general steps involved in capturing neutrons from these isotopes:
+
+1. Preparation of target material: To capture neutrons from uranium and plutonium isotopes, a target material must be prepared. This material is typically enriched with the desired isotope, meaning that it contains a higher concentration of the specific isotope than the natural abundance.
+
+2. Neutron source: A neutron source is required to provide a stream of neutrons for the target material to capture. This source can be a radioactive source, such as americium-beryllium or californium-252, or a particle accelerator-based source that produces neutrons through nuclear reactions.
+
+3. Colliding the neutrons with the target material: The neutron source is directed towards the target material, and the neutrons collide with the nuclei in the target material, transferring their energy and momentum to the target.
+
+4. Fission and capture reactions: Neutrons can be captured by the nuclei of the target material through both fission and capture reactions. In the fission reaction, the nucleus splits into two smaller nuclei, releasing additional neutrons and energy. In the capture reaction, the nucleus absorbs the neutron, and the nucleus undergoes a nuclear transformation with the emission of gamma rays and other particles.
+
+5. Detection of products: The products of the fission and capture reactions are detected using detectors such as gamma-ray detectors, neutron detectors, or mass spectrometers.
+
+6. Data analysis and interpretation: The data collected from the detectors is analyzed to determine the rate of neutron capture by the target material and to identify the isotopes produced through the reactions.
+
+Overall, capturing neutrons from uranium and plutonium isotopes is an important step in many nuclear applications and requires specialized equipment and expertise.
+
+---   
+
+
+
+
+
+
+
+
+
+
