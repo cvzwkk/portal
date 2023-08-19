@@ -7,6 +7,16 @@
 
 ---  
 
+- Idea Of Shape:               
+
+The orbital missile operate such as satelitte orbiting the earth.     
+one spherical metallic device fully ionized have in your interior.     
+like a one hypersonic missile common.   
+the sphere can be launched from sky or implode in the air.    
+
+---
+---
+
 Base Mode, hypersonic Avangard:        
 
 | **Aspect**                | **Description**                                                                                       |
