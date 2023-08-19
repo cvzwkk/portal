@@ -12,7 +12,13 @@
 The orbital missile operate such as satelitte orbiting the earth.     
 one spherical metallic device fully ionized have in your interior.     
 like a one hypersonic missile common.   
-the sphere can be launched from sky or implode in the air.    
+the sphere can be launched from sky or implode in the air.      
+
+---   
+
+other shape is following the interior of tsar bomb in small scale with shape of hypersonic missile   
+but this only enter in orbits of earth but not keep flying.    
+the sphere instead of tsar ball is one ionisated sphere maded from expansive alloy of lithium more others heavy elements of fissiom
 
 ---
 ---
