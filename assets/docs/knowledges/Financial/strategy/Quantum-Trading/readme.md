@@ -363,6 +363,32 @@ Sure, here are some other technical indicators that are commonly used:
 * **Bollinger bands squeeze:** This is a technical analysis tool that identifies periods of low volatility. Bollinger bands squeeze can be used to identify potential trading opportunities.
 * **Order imbalance exhaustion:** This is a technical analysis tool that identifies periods of high order imbalance. Order imbalance exhaustion can be used to identify potential trading opportunities.  
 
+
+---    
+
+HZlog is a technical indicator that is used in high-frequency trading (HFT). It is based on the Hull moving average (HMA), which is a type of moving average that is less sensitive to noise than the simple moving average (SMA). HZlog is calculated by taking the difference between the HMA and the SMA.
+
+HZlog can be used to identify potential trading opportunities. For example, a positive HZlog value indicates that the HMA is above the SMA, which is a bullish signal. A negative HZlog value indicates that the HMA is below the SMA, which is a bearish signal.
+
+HZlog can also be used to identify overbought and oversold conditions. For example, a HZlog value that is far above the zero line indicates that the market is overbought, while a HZlog value that is far below the zero line indicates that the market is oversold.
+
+HZlog is a relatively new indicator, and there is limited research on its effectiveness. However, it has been shown to be effective in some studies.
+
+Here are some of the pros and cons of using HZlog:
+
+**Pros:**
+
+* HZlog is less sensitive to noise than the SMA, making it a more reliable indicator.
+* HZlog can be used to identify potential trading opportunities and overbought and oversold conditions.
+* HZlog is a relatively new indicator, so it may not have been fully tested.
+
+**Cons:**
+
+* HZlog can be difficult to interpret, especially for beginners.
+* HZlog is not as widely used as other technical indicators, so there is less data available to backtest it.
+
+Overall, HZlog is a promising technical indicator that can be used to identify potential trading opportunities. However, it is important to use it in conjunction with other indicators and to understand its limitations.
+
 ---  
 
 
