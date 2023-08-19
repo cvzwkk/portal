@@ -101,7 +101,7 @@ One collection of knowledge
       - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)      
 
     - My Nuclear Theories:
-      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.m
+      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)    
 
 ---   
 
