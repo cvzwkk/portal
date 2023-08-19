@@ -135,6 +135,38 @@ Overall, a breeder reactor loop system is a complex and highly engineered system
 
 ---    
 
+- idea of blanket System to Hypersonic missiles          
+
+Adding a blanket system to a hypersonic missile is a complex task that requires careful consideration of a variety of technical factors. Here are some steps that may be involved:
+
+1. Consider the specific requirements: A blanket system for a hypersonic missile needs to be lightweight, compact, and capable of withstanding the extreme thermal and mechanical stresses associated with high-speed flight. Additionally, the material used in the blanket must be fissile and able to sustain nuclear reactions over a long period of time.
+
+2. Choose an appropriate fissile material: The type of fissile material used in the blanket will depend on a variety of factors, including the intended application, the operating conditions, and the availability of materials. Uranium-235, uranium-233, and plutonium-239 are all possible candidates for use in a blanket system.
+
+3. Design the blanket system: The blanket system needs to be designed to fit within the confines of the missile, while also providing adequate protection for the fissile material. This will likely involve the use of advanced materials and fabrication techniques such as 3D printing.
+
+4. Testing and Simulation: A variety of tests and simulations will be required to ensure that the blanket system is effective and reliable. These tests may include thermal testing, stress testing, and simulations of the blanket's performance under various operating conditions.
+
+Overall, incorporating a blanket system into a hypersonic missile is a complex and technically challenging task that requires a high level of expertise in a variety of fields, including materials science, nuclear engineering, and rocketry. However, the potential benefits of such a system in terms of increased missile performance, range, and stealth could make it a valuable technology in the context of national security and defense.
+
+---       
+
+- idea of orbital missile like a satelitte:       
+
+To make an orbital missile satellite that can continue flying in orbit, you will need to consider the following:
+
+1. Design the satellite: You need to design a small, lightweight satellite with the necessary propulsion and navigational equipment to maintain its orbit. You also need to ensure that the satellite's components are radiation-hardened to withstand the rigors of space.
+
+2. Choose the launch vehicle: You will need to select a launch vehicle that is powerful enough to put your satellite into the desired orbit. This will depend on the satellite's weight, the altitude of the orbit, and other factors.
+
+3. Launch the satellite: Once the satellite is designed and the launch vehicle is selected, you will need to coordinate with a launch provider to get the satellite into space.
+
+4. Control the satellite: Once the satellite is in orbit, you will need to control it using ground-based communications and control equipment. This will involve monitoring the satellite's position, adjusting its orbit as needed, and ensuring that its systems are functioning properly.
+
+Overall, designing an orbital missile satellite is a complex and technically challenging task that requires expertise in a variety of fields including aerospace engineering, materials science, and computer science.  It is important to remember that all space-based activities must comply with international laws and regulations, and it is necessary to obtain the appropriate permits and clearances before launch.
+
+---
+
 
 
 
