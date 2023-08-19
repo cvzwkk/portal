@@ -23,7 +23,20 @@ One collection of knowledge
   - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)    
   - [Ancients](/assets/docs/knowledges/Ancients/readme.md)  
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
-  - [Bose-Einstein Condensate](/assets/docs/knowledges/Bose-Einstein-condensate/readme.md)    
+  - [Bose-Einstein Condensate](/assets/docs/knowledges/Bose-Einstein-condensate/readme.md)
+ 
+---
+
+- Financial:       
+   
+  - Strategy:      
+    - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)   
+
+  - Processes:     
+    - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
+
+  - Monetary Policies:      
+    - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)    
   
 ---   
 
