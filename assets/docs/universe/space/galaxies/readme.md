@@ -6,7 +6,8 @@
   - [Andromeda](/assets/docs/universe/space/galaxies/andromeda/readme.md)   
   - [NGC4993](/assets/docs/universe/space/galaxies/NGC4993/readme.md)   
   - [J1135](/assets/docs/universe/space/galaxies/J1135/readme.md)
-  - [MilkWay](/assets/docs/universe/space/galaxies/MilkWay/readme.md)      
+  - [MilkWay](/assets/docs/universe/space/galaxies/MilkWay/readme.md)
+  - [Gn-z11](/assets/docs/universe/space/galaxies/Gn-z11/readme.md)    
 
    
 ------------------------  
