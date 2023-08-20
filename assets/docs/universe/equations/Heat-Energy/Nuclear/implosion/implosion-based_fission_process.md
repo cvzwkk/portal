@@ -109,6 +109,7 @@ The fusion fuel in thermonuclear weapons is typically a mixture of deuterium and
 Expansive alloys are materials that can be used to create a controlled chemical reaction that produces a large volume of gas, leading to expansion and potential displacement of objects. They are typically used in industrial and military applications for blasting, shaping or cutting of materials. However, expansive alloys are not used in the primary stages of a thermonuclear weapon, where the focus is on creating the conditions necessary for fusion to occur.
 
 ---   
+---   
 
 Here are some examples of expansive alloys:
 
@@ -170,11 +171,26 @@ a
 
 1. Aluminum borohydride: This is a complex hydride that has been found to have a high hydrogen storage capacity, potentially exceeding 10 weight percent of hydrogen. However, it has some limitation due to its low thermal stability.
 
+--- 
+
 2. Beryllium borohydride: Another complex hydride that has been studied for its potential to store large amounts of hydrogen. It has been found to have a hydrogen storage capacity of up to 18 weight percent. However, beryllium is an expensive and toxic element, which limits its practical use.
+Here are a few more borohydrides that have been studied for their potential in hydrogen storage:
 
-3. Sodium alanate: This is not a borohydride compound, but rather a derivative of it. Sodium alanate has been found to have a high hydrogen storage capacity of up to 6 weight percent, making it a potential candidate for hydrogen fuel cells.
+1. Yttrium borohydride: This is a complex hydride that has a high hydrogen storage capacity of up to 5.5 weight percent. It has been studied for its potential use in solid-state hydrogen storage and hydrogen fuel cells.
 
-4. Lithium aluminum hydride: This is a very strong reducing agent that can also store hydrogen gas. It has high hydrogen storage capacity and has been studied for its potential use in hydrogen fuel cells.
+2. Scandium borohydride: Another complex hydride that has a high hydrogen storage capacity of up to 7 weight percent. It has been studied for its potential use in solid-state hydrogen storage and as a hydrogen fuel additive.
+
+3. Zinc borohydride: This is a simple hydride that has a hydrogen storage capacity of up to 5.6 weight percent. It has potential for use in portable hydrogen storage devices, but it also has a high decomposition temperature.
+
+4. Potassium borohydride: This is another simple hydride that has a hydrogen storage capacity of up to 9.5 weight percent. It is relatively inexpensive and has potential for use in portable hydrogen storage devices, but it also requires a catalyst to release the stored hydrogen.
+
+These and other borohydrides are being explored for their potential in hydrogen storage applications, but they also face various challenges and limitations such as high decomposition temperatures, low stability, and high cost. Therefore, researchers are still working on developing new materials and methods to improve the efficiency and viability of hydrogen storage for a clean energy future.
+
+---
+
+4. Sodium alanate: This is not a borohydride compound, but rather a derivative of it. Sodium alanate has been found to have a high hydrogen storage capacity of up to 6 weight percent, making it a potential candidate for hydrogen fuel cells.
+
+5. Lithium aluminum hydride: This is a very strong reducing agent that can also store hydrogen gas. It has high hydrogen storage capacity and has been studied for its potential use in hydrogen fuel cells.
 
 1. Magnesium borohydride: This is a complex hydride that has been found to have a high hydrogen storage capacity of up to 7.6 weight percent. However, it has a high decomposition temperature and requires high temperatures to release the stored hydrogen, which limits its practical use.
 
@@ -191,7 +207,7 @@ a
 4. Potassium borohydride: This is another simple hydride that has a hydrogen storage capacity of up to 9.5 weight percent. It is relatively inexpensive and has potential for use in portable hydrogen storage devices, but it also requires a catalyst to release the stored hydrogen.
 
 ---   
-
+---
 
 
 
