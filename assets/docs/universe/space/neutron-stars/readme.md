@@ -19,11 +19,12 @@
 
 # Collision between neutron stars:  
    ![img](/assets/docs/universe/space/neutron-stars/imgs/neutronstars.gif)   
+   ![img](https://universe.nasa.gov/internal_resources/453/Gravitational%20Wave.gif)       
 [Source image:](https://www.buzzfeed.com/kellyoakes/scientists-have-seen-gravitational-waves-formed-from)   
 
 ---   
 
-![img](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2F64.media.tumblr.com%2Fffb24d3ad52c90e3936c1edcdf21a029%2F9f2c181978c1badf-65%2Fs500x750%2F3383dbd0937d7d5c7b9ad3cc15544d27c7ad4b99.gifv&sp=1692494564T51cbe43dd2c299e1e35c7c6e008c8d7969091fe7ede25c7b287792198bda6988)   
+![img](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2F64.media.tumblr.com%2Fffb24d3ad52c90e3936c1edcdf21a029%2F9f2c181978c1badf-65%2Fs500x750%2F3383dbd0937d7d5c7b9ad3cc15544d27c7ad4b99.gifv&sp=1692494551cbe43dd2c299e1e35c7c6e008c8d7969091fe7ede25c7b287792198bda6988)   
 
 ---  
 
