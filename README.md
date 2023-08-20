@@ -417,7 +417,8 @@ One collection of knowledge
 # Drive Backup Link:   
 - Date:
   - [Jul/2023](https://drive.google.com/file/d/1xt7b1S9X7ghcsZgS5tWfZtt3Zw5JCYUZ/view?usp=drive_link)
-  - [Aug/2023](https://drive.google.com/file/d/1-33iaqOsNujHky8kQEZst0pg4nU-SZzk/view?usp=drivesdk)     
+  - [Aug/2023](https://drive.google.com/file/d/1-33iaqOsNujHky8kQEZst0pg4nU-SZzk/view?usp=drivesdk)
+  - [20/Aug/2023](https://drive.google.com/file/d/1-HBL74zBTvBfCK1hVYS3deKxqehMM62G/view?usp=drivesdk)      
 
 ---
 
