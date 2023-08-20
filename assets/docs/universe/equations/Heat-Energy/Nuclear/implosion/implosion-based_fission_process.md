@@ -174,17 +174,6 @@ a
 --- 
 
 2. Beryllium borohydride: Another complex hydride that has been studied for its potential to store large amounts of hydrogen. It has been found to have a hydrogen storage capacity of up to 18 weight percent. However, beryllium is an expensive and toxic element, which limits its practical use.
-Here are a few more borohydrides that have been studied for their potential in hydrogen storage:
-
-1. Yttrium borohydride: This is a complex hydride that has a high hydrogen storage capacity of up to 5.5 weight percent. It has been studied for its potential use in solid-state hydrogen storage and hydrogen fuel cells.
-
-2. Scandium borohydride: Another complex hydride that has a high hydrogen storage capacity of up to 7 weight percent. It has been studied for its potential use in solid-state hydrogen storage and as a hydrogen fuel additive.
-
-3. Zinc borohydride: This is a simple hydride that has a hydrogen storage capacity of up to 5.6 weight percent. It has potential for use in portable hydrogen storage devices, but it also has a high decomposition temperature.
-
-4. Potassium borohydride: This is another simple hydride that has a hydrogen storage capacity of up to 9.5 weight percent. It is relatively inexpensive and has potential for use in portable hydrogen storage devices, but it also requires a catalyst to release the stored hydrogen.
-
-These and other borohydrides are being explored for their potential in hydrogen storage applications, but they also face various challenges and limitations such as high decomposition temperatures, low stability, and high cost. Therefore, researchers are still working on developing new materials and methods to improve the efficiency and viability of hydrogen storage for a clean energy future.
 
 ---
 
@@ -198,7 +187,20 @@ These and other borohydrides are being explored for their potential in hydrogen 
 
 4. Strontium borohydride: This is a complex hydride that has been found to have a hydrogen storage capacity of up to 8.2 weight percent. It has potential for use in hydrogen fuel cells, but its stability and reactivity with air and water need to be improved.
 
+---  
+
 1. Yttrium borohydride: This is a complex hydride that has a high hydrogen storage capacity of up to 5.5 weight percent. It has been studied for its potential use in solid-state hydrogen storage and hydrogen fuel cells.
+Yttrium borohydride (Y(BH4)3), like other borohydrides, has been studied for its potential as a hydrogen storage material for powering fuel cells. However, to increase the power of the fuel cell, several factors need to be considered, such as improving the efficiency of the hydrogen release process, optimizing the catalysts, and improving the transport of protons and electrons in the fuel cell.
+
+One way to improve the efficiency of the hydrogen release process in Yttrium borohydride is by adding metal hydrides or other catalysts that can reduce the decomposition temperature and increase the kinetics of the hydrogen release reaction. For example, adding TiO2 has been shown to increase the hydrogen release rate and decrease the decomposition temperature of Y(BH4)3. 
+
+Another way to increase the power of a fuel cell that uses yttrium borohydride is by optimizing the catalysts used in the anode and cathode, which can affect the kinetics of hydrogen and oxygen reduction reactions. Platinum catalysts are commonly used in fuel cells, but other catalysts like nickel or cobalt-based materials are also being explored as alternatives due to their lower costs.
+
+Finally, the transport of protons and electrons in the fuel cell can be improved by using proton exchange membrane (PEM) technology. PEM fuel cells use an acidic polymer electrolyte membrane that facilitates proton transport from the anode to the cathode while preventing the crossover of fuel and oxidant. PEM fuel cells have high power density and can operate at low temperatures, making them suitable for portable and stationary power applications.
+
+In summary, to increase the power of a fuel cell that uses yttrium borohydride, several factors need to be considered, including improving the efficiency of the hydrogen release process, optimizing the catalysts, and improving the transport of protons and electrons in the fuel cell using PEM technology.
+
+---  
 
 2. Scandium borohydride: Another complex hydride that has a high hydrogen storage capacity of up to 7 weight percent. It has been studied for its potential use in solid-state hydrogen storage and as a hydrogen fuel additive.
 
