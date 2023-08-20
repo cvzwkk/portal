@@ -30,10 +30,11 @@ One collection of knowledge
 - Financial:
 
   - [Quantum Trading, (HFT) High Frequency Trading](/assets/docs/knowledges/Financial/strategy/Quantum-Trading/readme.md)
-  - 
+       
    
   - Strategy:      
-    - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)   
+    - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)
+    - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)      
 
   - Processes:     
     - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
