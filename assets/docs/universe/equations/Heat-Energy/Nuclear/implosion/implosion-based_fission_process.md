@@ -175,6 +175,14 @@ a
 
 2. Beryllium borohydride: Another complex hydride that has been studied for its potential to store large amounts of hydrogen. It has been found to have a hydrogen storage capacity of up to 18 weight percent. However, beryllium is an expensive and toxic element, which limits its practical use.
 
+Beryllium borohydride (Be(BH4)2) is a complex hydride that has been studied for its potential as a hydrogen storage material. It has a theoretical hydrogen storage capacity of 18.2 weight percent, which is higher than that of many other hydrides. However, beryllium is a highly reactive and toxic element, which makes it difficult and dangerous to handle.
+
+Furthermore, beryllium borohydride is unstable and has a high decomposition temperature of around 400°C, which makes it difficult to release hydrogen under mild conditions. Thus, the hydrogen release process requires high temperatures and pressure, which can limit its practical applications.
+
+Despite these challenges, researchers are studying beryllium borohydride to understand its hydrogen storage properties and improve its performance. Studies have shown that adding transition metal catalysts, such as titanium and zirconium, can reduce the decomposition temperature and improve the kinetics of the hydrogen release reaction. 
+
+However, the high toxicity and reactiveness of beryllium make it difficult to handle, and therefore, further research is needed to explore safer alternatives for hydrogen storage applications. Other complex hydrides, such as lithium borohydride and sodium borohydride, have been found to have promising hydrogen storage properties and are being investigated as potential alternatives to beryllium borohydride.
+
 ---
 
 4. Sodium alanate: This is not a borohydride compound, but rather a derivative of it. Sodium alanate has been found to have a high hydrogen storage capacity of up to 6 weight percent, making it a potential candidate for hydrogen fuel cells.
