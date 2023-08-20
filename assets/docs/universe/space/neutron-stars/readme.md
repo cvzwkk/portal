@@ -40,7 +40,9 @@
 
 
 - Types:
-- Magnetars    
+- Magnetars
+
+![ing](https://pbs.twimg.com/media/E0FCSryWQAcqshg?format=jpg&name=medium)     
 
 Magnetars are a unique and enigmatic class of neutron stars that have captured the attention of astronomers and astrophysicists due to their remarkable properties and extreme behaviors. These objects are thought to be some of the most magnetized objects in the universe, with magnetic fields that can be trillions of times stronger than those of the Earth.
 
