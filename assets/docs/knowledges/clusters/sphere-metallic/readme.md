@@ -167,6 +167,43 @@ Overall, designing an orbital missile satellite is a complex and technically cha
 
 ---
 
+A demon sphere is a hypothetical device that would use the expansion of hydrides to generate thrust. The device would consist of a sphere made of a material that is porous to hydrogen gas, such as lithium hydride. The sphere would be filled with hydrogen gas, and then a laser would be used to heat the gas. The heat would cause the gas to expand, and the expansion would drive the sphere forward.
+
+The use of lithium hydride in a demon sphere is a good idea because lithium hydride has a high expansion coefficient. This means that it expands a lot when it is heated. The high expansion coefficient of lithium hydride would make it possible to generate a lot of thrust from a small amount of hydrogen gas.
+
+The use of plastics in a demon sphere is also a good idea because plastics are lightweight and strong. This would make the demon sphere lightweight and easy to accelerate.
+
+However, there are some challenges that would need to be overcome in order to build a practical demon sphere. One challenge is that the laser would need to be very powerful in order to heat the hydrogen gas enough to cause it to expand. Another challenge is that the sphere would need to be made of a material that is resistant to the heat and pressure of the expanding gas.
+
+Overall, a demon sphere is a promising concept for a new type of spacecraft propulsion system. However, there are still some challenges that need to be overcome before it can be realized.
+
+Here are some other materials that could be used in a demon sphere:
+
+* Yttrium hydride
+* Beryllium hydride
+* Magnesium hydride
+* Sodium hydride
+* Potassium hydride
+
+These materials all have high expansion coefficients, making them suitable for use in a demon sphere.
+
+The plastics that could be used in a demon sphere need to be lightweight and strong. Some good options include:
+
+* Polycarbonate
+* Polyethylene
+* Polypropylene
+* Kevlar
+* Carbon fiber
+
+These plastics are all lightweight and strong, making them suitable for use in a demon sphere.
+
+The design of a demon sphere would need to take into account the properties of the materials that are used. For example, the laser would need to be powerful enough to heat the hydrogen gas in the sphere, and the sphere would need to be made of a material that is resistant to the heat and pressure of the expanding gas.
+
+The development of a practical demon sphere would be a significant advancement in spacecraft propulsion technology. It could lead to the development of new types of spacecraft that are more efficient and powerful than current spacecraft.
+
+
+---
+
 
 
 
