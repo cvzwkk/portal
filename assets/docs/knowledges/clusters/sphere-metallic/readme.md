@@ -189,11 +189,95 @@ These materials all have high expansion coefficients, making them suitable for u
 
 The plastics that could be used in a demon sphere need to be lightweight and strong. Some good options include:
 
+
 * Polycarbonate
-* Polyethylene
-* Polypropylene
-* Kevlar
-* Carbon fiber
+There are many types of polycarbonate that can be used to complete this task. Here are a few examples:
+
+* **General-purpose polycarbonate:** This type of polycarbonate is the most common and is used for a variety of applications, including safety glasses, lenses, and housings. It is strong, impact-resistant, and transparent.
+* **High-impact polycarbonate:** This type of polycarbonate is even stronger than general-purpose polycarbonate and is used for applications where impact resistance is critical, such as bulletproof glass and riot shields.
+
+
+* **Flame-retardant polycarbonate:** This type of polycarbonate is designed to resist fire and is used for applications where fire safety is important, such as electrical enclosures and building materials.
+Here are some of the flame retardants that are used in polycarbonate:
+
+Antimony trioxide
+Brominated flame retardants
+Chlorinated flame retardants
+Inorganic flame retardants
+Organophosphorus flame retardants
+The flame retardant that is used in polycarbonate will depend on the specific application. For example, antimony trioxide is often used in electrical enclosures because it is a good conductor of heat. Brominated flame retardants are often used in building materials because they are effective at preventing the spread of fire.
+
+It is important to note that flame-retardant polycarbonate is not 100% fireproof. It will still burn if it is exposed to high heat for a long period of time. However, flame-retardant polycarbonate will help to slow the spread of fire and to protect people from burns.
+
+
+* **Optical polycarbonate:** This type of polycarbonate is specifically designed for optical applications, such as lenses and prisms. It has a high refractive index and low dispersion, making it ideal for transmitting light with minimal distortion.
+* **Weatherable polycarbonate:** This type of polycarbonate is resistant to weathering and is used for applications where the material will be exposed to the elements, such as exterior building materials and signs.
+
+The best type of polycarbonate for this task will depend on the specific requirements of the application. For example, if the application requires a high degree of impact resistance, then high-impact polycarbonate would be a good choice. If the application requires resistance to fire, then flame-retardant polycarbonate would be a good choice.
+
+It is important to note that not all polycarbonates are created equal. There are many different grades of polycarbonate available, each with its own set of properties. It is important to choose a grade of polycarbonate that is suitable for the specific application.
+
+
+* Polyethylene           
+Sure, here are some types of polyethylene that can be used to complete this task:
+
+* **High-density polyethylene (HDPE):** HDPE is a strong and rigid type of polyethylene that is often used in bottles, food containers, and other applications where strength and durability are important. It is also resistant to chemicals and solvents.
+* **Low-density polyethylene (LDPE):** LDPE is a soft and flexible type of polyethylene that is often used in bags, films, and other applications where flexibility is important. It is also resistant to moisture and tears.
+* **Linear low-density polyethylene (LLDPE):** LLDPE is a type of polyethylene that has a combination of the properties of HDPE and LDPE. It is strong and rigid, but it is also flexible and tough. It is often used in applications where high strength and toughness are required, such as in pipes and containers.
+* **Ultra-high molecular weight polyethylene (UHMWPE):** UHMWPE is a very strong and tough type of polyethylene that is often used in applications where extreme wear resistance is required, such as in bearings and gears. It is also resistant to chemicals and solvents.
+* **Cross-linked polyethylene (XLPE):** XLPE is a type of polyethylene that has been chemically cross-linked to improve its strength and toughness. It is often used in electrical applications, such as cables and insulation.
+
+The best type of polyethylene for this task will depend on the specific requirements of the application. For example, if the application requires a high degree of strength, then HDPE would be a good choice. If the application requires flexibility, then LDPE would be a good choice.
+
+It is important to note that not all polyethylenes are created equal. There are many different grades of polyethylene available, each with its own set of properties. It is important to choose a grade of polyethylene that is suitable for the specific application.
+
+
+* Polypropylene         
+
+Sure, here are some types of polypropylene that can be used to complete this task:
+
+* **Homopolymer polypropylene (PP-H):** PP-H is the most common type of polypropylene and is used in a wide variety of applications, including food packaging, bottles, and furniture. It is strong, lightweight, and resistant to chemicals.
+* **Random copolymer polypropylene (PP-R):** PP-R is a type of polypropylene that has been modified with a small amount of ethylene to improve its toughness and heat resistance. It is often used in pipes and other applications where high strength and heat resistance are required.
+* **Block copolymer polypropylene (PP-B):** PP-B is a type of polypropylene that has been modified with two or more types of ethylene to improve its properties. It is often used in applications where high strength, toughness, and heat resistance are required.
+* **Impact polypropylene (IPP):** IPP is a type of polypropylene that has been modified with rubbery materials to improve its impact resistance. It is often used in applications where the material must be able to withstand impact, such as in toys and automotive parts.
+* **Filled polypropylene (PP-F):** PP-F is a type of polypropylene that has been filled with inert materials, such as glass fibers or talc, to improve its properties. It is often used in applications where high strength, stiffness, or heat resistance are required.
+
+
+The best type of polypropylene for this task will depend on the specific requirements of the application. For example, if the application requires a high degree of strength, then PP-H would be a good choice. If the application requires high impact resistance, then IPP would be a good choice.
+
+
+It is important to note that not all polypropylenes are created equal. There are many different grades of polypropylene available, each with its own set of properties. It is important to choose a grade of polypropylene that is suitable for the specific application.
+
+
+
+* Kevlar        
+Sure, here are some types of Kevlar that can be used to complete this task:
+
+* **Kevlar 29:** Kevlar 29 is the most common type of Kevlar and is used in a wide variety of applications, including body armor, tires, and ropes. It is strong, lightweight, and resistant to abrasion.
+* **Kevlar 49:** Kevlar 49 is a stronger type of Kevlar that is often used in applications where high strength is required, such as in bulletproof vests and marine applications.
+* **Kevlar 129:** Kevlar 129 is a type of Kevlar that has been modified to be more resistant to heat and chemicals. It is often used in applications where the material must be able to withstand these conditions, such as in aerospace and automotive applications.
+* **Kevlar KM2:** Kevlar KM2 is a type of Kevlar that has been modified to be more flexible and impact-resistant. It is often used in applications where the material must be able to withstand impact, such as in sports equipment and protective clothing.
+* **Kevlar XP:** Kevlar XP is a type of Kevlar that has been modified to be more resistant to ultraviolet radiation. It is often used in applications where the material must be able to withstand exposure to sunlight, such as in outdoor furniture and signage.
+
+The best type of Kevlar for this task will depend on the specific requirements of the application. For example, if the application requires a high degree of strength, then Kevlar 49 would be a good choice. If the application requires high flexibility, then Kevlar KM2 would be a good choice.
+
+It is important to note that not all Kevlars are created equal. There are many different grades of Kevlar available, each with its own set of properties. It is important to choose a grade of Kevlar that is suitable for the specific application.
+
+
+
+* Carbon fiber          
+Sure, here are some types of carbon fiber that can be used to complete this task:
+
+* **Plain weave carbon fiber:** Plain weave carbon fiber is the most common type of carbon fiber and is used in a wide variety of applications, including composites, sporting goods, and automotive parts. It is strong, lightweight, and resistant to corrosion.
+* **Twill weave carbon fiber:** Twill weave carbon fiber is a type of carbon fiber that has a woven pattern that gives it greater strength and stiffness than plain weave carbon fiber. It is often used in applications where high strength and stiffness are required, such as in aerospace and automotive applications.
+* **Satin weave carbon fiber:** Satin weave carbon fiber is a type of carbon fiber that has a woven pattern that gives it a smoother surface than plain weave or twill weave carbon fiber. It is often used in applications where a smooth surface is required, such as in composites that will be exposed to the elements.
+* **Unidirectional carbon fiber:** Unidirectional carbon fiber is a type of carbon fiber that has fibers that are all aligned in the same direction. It is the strongest type of carbon fiber, but it is also the most expensive. It is often used in applications where high strength is required in a specific direction, such as in composite blades.
+* **Hybrid carbon fiber:** Hybrid carbon fiber is a type of carbon fiber that is made up of a combination of different types of carbon fibers. It is often used to achieve a specific set of properties, such as high strength and stiffness combined with a smooth surface.
+
+The best type of carbon fiber for this task will depend on the specific requirements of the application. For example, if the application requires a high degree of strength, then twill weave carbon fiber would be a good choice. If the application requires a smooth surface, then satin weave carbon fiber would be a good choice.
+
+It is important to note that not all carbon fibers are created equal. There are many different grades of carbon fiber available, each with its own set of properties. It is important to choose a grade of carbon fiber that is suitable for the specific application.
+
 
 These plastics are all lightweight and strong, making them suitable for use in a demon sphere.
 
