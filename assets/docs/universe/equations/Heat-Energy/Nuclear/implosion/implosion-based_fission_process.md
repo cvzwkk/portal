@@ -219,7 +219,68 @@ In summary, to increase the power of a fuel cell that uses yttrium borohydride, 
 ---   
 ---
 
+# Demon core     
+The Demon Core was a spherical 6.2-kilogram (14 lb) subcritical mass of plutonium 89 millimeters (3.5 in) in diameter, manufactured during World War II by the United States nuclear weapon development effort, the Manhattan Project, as a fissile core for an early atomic bomb. It was nicknamed the "Demon Core" after two separate criticality accidents involving the core, which resulted in the deaths of two scientists.
 
+The first accident occurred on August 21, 1945, when Harry Daghlian, a physicist at Los Alamos National Laboratory, was conducting an experiment with the core. He accidentally dropped a tungsten carbide block onto the core, which caused it to become critical for a few seconds. Daghlian received a fatal dose of radiation and died 25 days later.
+
+The second accident occurred on May 21, 1946, when Louis Slotin, another physicist at Los Alamos, was conducting a similar experiment. He was using a screwdriver to hold the core in place when it slipped and came into contact with a neutron reflector. The core went critical for a fraction of a second, and Slotin received a fatal dose of radiation. He died nine days later.
+
+After the second accident, the Demon Core was kept in a lead container and was only handled with extreme caution. It was eventually melted down and recycled into new warheads.
+
+The Demon Core is a reminder of the dangers of nuclear technology. It is also a testament to the courage and sacrifice of the scientists who worked on the Manhattan Project.
+
+Here are some additional facts about the Demon Core:
+
+* The core was made of plutonium-gallium, a mixture of plutonium and gallium. The gallium was added to make the core more stable.
+* The core was kept in a lead container at all times, except when it was being used in experiments.
+* The core was never used in an actual nuclear weapon.
+* The core was eventually melted down and recycled into new warheads.
+
+The Demon Core is a cautionary tale about the dangers of nuclear technology. It is a reminder that even a small amount of plutonium can be deadly if not handled properly. The accidents involving the Demon Core also highlight the importance of safety procedures in nuclear research.
+
+---  
+
+Sure. The Demon Core was made of plutonium-gallium, a mixture of plutonium and gallium. The gallium was added to make the core more stable. The exact composition of the core is not known, but it is estimated to be about 93% plutonium and 7% gallium. The core had a diameter of 89 millimeters (3.5 inches) and a mass of 6.2 kilograms (14 pounds).
+
+The critical mass of plutonium-gallium is about 10 kilograms (22 pounds). This means that if the core was compressed to a smaller size, it would become critical and start a nuclear chain reaction. The Demon Core was subcritical, meaning that it was not large enough to start a chain reaction on its own. However, it could become critical if it was brought into contact with a neutron reflector, such as a piece of tungsten carbide.
+
+The two accidents involving the Demon Core occurred when the core was brought into contact with a neutron reflector. In the first accident, Harry Daghlian dropped a tungsten carbide block onto the core, causing it to become critical for a few seconds. In the second accident, Louis Slotin was using a screwdriver to hold the core in place when it slipped and came into contact with a neutron reflector. The core went critical for a fraction of a second, and both Daghlian and Slotin received fatal doses of radiation.
+
+The numerical values of the composition of the Demon Core are not as important as the fact that it was a subcritical mass of plutonium that could become critical if it was brought into contact with a neutron reflector. The accidents involving the Demon Core are a reminder of the dangers of nuclear technology and the importance of safety procedures in handling radioactive materials.
+
+---   
+
+The Demon Core was a subcritical mass of plutonium-gallium that was produced during World War II by the United States nuclear weapon development effort, the Manhattan Project. It was nicknamed the "Demon Core" after two separate criticality accidents involving the core, which resulted in the deaths of two scientists.
+
+The Demon Core was made by mixing plutonium and gallium. Plutonium is a fissile material, meaning that it can undergo a nuclear chain reaction. Gallium is a metal that has a low melting point and is added to plutonium to make it more workable.
+
+The exact composition of the Demon Core is not known, but it is estimated to be about 93% plutonium and 7% gallium. The core had a diameter of 89 millimeters (3.5 inches) and a mass of 6.2 kilograms (14 pounds).
+
+The Demon Core was produced at the Los Alamos National Laboratory in New Mexico. The production process involved several steps:
+
+1. The plutonium was first melted in a crucible.
+2. The gallium was then added to the molten plutonium.
+3. The mixture was then stirred until it was homogeneous.
+4. The mixture was then poured into a mold to form the core.
+5. The core was then cooled and allowed to solidify.
+
+The Demon Core was produced in a lead-lined glove box to protect the workers from radiation exposure. The glove box is a sealed chamber that allows workers to handle radioactive materials without coming into direct contact with them.
+
+The production of the Demon Core was a complex and dangerous process. The plutonium was highly radioactive and could cause serious health problems if it was not handled properly. The gallium was also flammable and could have caused a fire if it was not handled carefully.
+
+Despite the risks, the production of the Demon Core was necessary for the development of nuclear weapons. The Demon Core was used in experiments to study the criticality of plutonium and to develop methods for safely handling fissile materials.
+
+The Demon Core is a reminder of the dangers of nuclear technology. It is also a testament to the courage and sacrifice of the scientists who worked on the Manhattan Project.
+
+---  
+
+other idea is mix beryllium,americium and californium in the sphere alloy    
+
+
+---
+---  
+.
 
 
 
