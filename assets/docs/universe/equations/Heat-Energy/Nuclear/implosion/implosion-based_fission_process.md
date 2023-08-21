@@ -277,6 +277,13 @@ The Demon Core is a reminder of the dangers of nuclear technology. It is also a 
 
 other idea is mix beryllium,americium and californium in the sphere alloy    
 
+---  
+
+Then outter of sphere the another layers of sphere is created by borohydrides and hydrides such as yttrium hydride and beryllium borohydride-hydride  
+
+to interact with hydrogen after energy release inside sphere making effect expansive     
+uranium, sodium, (salt) and hydrogen layers from another layers with one main cluster inside producing fission event
+then after the event of fission the energy released is used to produce fusion state between heat and hydrogen discharges      
 
 ---
 ---  
