@@ -147,3 +147,20 @@ The energy released by a fission reaction depends on the type of nucleus and the
 The energy released by fission can be used to generate electricity in nuclear power plants. It can also be used to create nuclear weapons.
 
 ---   
+
+* **Colission Of Particles By Fission Energy**
+
+Fission energy is the energy released when the nucleus of an atom splits apart. This can be done by bombarding the atom with neutrons, but it cannot be done by simply colliding particles inside a cluster.
+
+To collide particles using fission energy, you would need to use a nuclear reactor. A nuclear reactor is a device that uses fission energy to generate heat. The heat is then used to create steam, which drives a turbine to generate electricity.
+
+In a nuclear reactor, the fission reaction is controlled by using moderators to slow down the neutrons. The moderators are usually made of materials such as water or graphite. The slowed-down neutrons are then more likely to interact with the nuclei of the fuel atoms, causing them to fission.
+
+When a fuel atom fissions, it releases two or three neutrons. These neutrons can then go on to fission other fuel atoms, creating a chain reaction. The chain reaction is controlled by using control rods to absorb neutrons. The control rods are made of materials such as cadmium or boron, which are very good at absorbing neutrons.
+
+By controlling the number of neutrons in the reactor, the power output of the reactor can be controlled.
+
+The collision of particles using fission energy is a complex process that requires a lot of control. It is not something that can be done simply by colliding particles inside a cluster.
+
+---  
+
