@@ -28,7 +28,12 @@
 
 - [Formulas](/assets/docs/synthesis/substances/formulas/readme.md)
 
----  
+--- 
+
+- Remedies:
+  [Fentanyl](/assets/docs/synthesis/remedies/fentanyl.md)   
+
+---   
 
 # Synthesis  
    - in a general sense:  
