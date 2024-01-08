@@ -85,4 +85,26 @@ Throughout the formulation process, close collaboration between synthetic chemis
 ---   
 ---   
 
+---
+---  
+
+- Column Cromotography:
+Column chromatography is a commonly used technique for purifying compounds by exploiting their differential affinities for the stationary phase and the mobile phase.
+Here's how column chromatography can be used for purifying N-(1-(2-phenethyl)-4-piperidinyl-N-phenyl-propanamide:
+
+1. Column preparation: A column is packed with a stationary phase, such as silica gel or an adsorbent resin. The choice of stationary phase depends on the compound's polarity and interactions with the stationary phase. Silica gel is often used for a wide range of compounds.
+
+2. Sample loading: The crude compound mixture, containing impurities and N-(1-(2-phenethyl)-4-piperidinyl-N-phenyl-propanamide, is dissolved in a suitable solvent and loaded onto the top of the column.
+
+3. Selective elution: The mobile phase, typically a solvent or a combination of solvents, is slowly passed through the column. This eluent, or mobile phase, flows downward through the column, causing compounds to separate based on their affinity for the stationary phase.
+
+4. Elution and fraction collection: As the mobile phase flows through the column, different components of the mixture will have varying affinities for the stationary phase. Compounds that have a higher affinity for the stationary phase will elute more slowly, while compounds with a lower affinity will elute faster. Fractions are collected separately as they come off the column.
+
+5. Monitoring the elution process: The elution progress can be monitored using UV-visible spectroscopy or thin-layer chromatography (TLC). TLC plates can be taken periodically and visualized to determine the elution profile of the targeted compound.
+
+6. Combination of desired fractions: Fractions containing the desired N-(1-(2-phenethyl)-4-piperidinyl-N-phenyl-propanamide are combined based on the monitoring methods mentioned above. The collected fractions containing the compound of interest can be further concentrated using evaporation or suitable techniques.
+
+By selectively eluting the desired compound through the column and collecting the appropriate fractions, column chromatography can effectively separate and purify N-(1-(2-phenethyl)-4-piperidinyl-N-phenyl-propanamide from impurities and other compounds present in the crude mixture.  
+
+---   
 
