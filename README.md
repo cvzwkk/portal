@@ -17,11 +17,19 @@ One collection of knowledge
 # Knowledges about the universe    
 - Knowledges:
 
+  - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+    - Embodied Fractal Consciousness
+    - [Embodied Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
+    - Metaphysic
+
   - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
     - Kinesis:
       - Telekinesis
       - AtmoKinesis
       - GeoKinesis
+      - AeroKinesis
+      - HydroKinesis
+      - ElectroKinesis
   
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
