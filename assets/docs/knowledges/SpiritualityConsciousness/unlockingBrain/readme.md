@@ -4,8 +4,11 @@
 
 # Unlocking Full potential of Brain    
 
+---   
+
 - Theories:
-  - Awakening:
+  
+# Awakening:    
    
 Liberating 100% of your brain's potential using awakening involves understanding and leveraging various aspects of your brain's functioning. Here are some steps you can take:
     
@@ -28,7 +31,11 @@ Liberating 100% of your brain's potential using awakening involves understanding
 9. **Get Enough Sleep**: Your brain's capacity to perform at its optimum can suffer from not getting enough sleep. The National Sleep Foundation recommends 7 hours of sleep every night for adults. Insufficient sleep can alter how your brain works [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
      
 By implementing these steps, you can effectively awaken your brain and unlock its full potential.
-    
+
+---  
+
+# Telekinesis   
+
 Unlocking the brain part responsible for physics control and levitation of objects seems to be a concept that blurs the lines between reality and fiction, particularly given the current understanding of neuroscience and physics. However, I can provide some insights based on the search results and the principles of physics and neuroscience.
      
 1. **Telekinesis**: This is the hypothetical ability to influence a physical system without physical interaction. The term comes from the Greek words "tele," meaning "far off," and "kinesis," meaning "movement." The idea of telekinesis has been a staple of science fiction, but there's no reliable scientific evidence supporting its existence [Source 4](https://en.wikipedia.org/wiki/Telekinesis).
@@ -50,6 +57,36 @@ The human brain is composed of various regions, each with unique responsibilitie
 To "unlock" these areas, or increase their activity, you might consider engaging in activities that stimulate these areas. This could include physical exercises that challenge your motor skills, or cognitive exercises that stimulate your brain. However, it's important to remember that these activities won't grant you telekinesis or any similar supernatural abilities.
 
 Moreover, researchers have used techniques like trans-cranial magnetic stimulation (TMS) to temporarily induce specific states or behaviors in normally functioning brains. This method involves applying a small electric current to the scalp, which can stimulate or suppress activity in specific brain regions. While this technique has been used to study and treat conditions like depression and obsessive-compulsive disorder, it's not clear whether it could be used to "unlock" the brain's supposed telekinesis power [Source 3](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function).
+
+Creating an object physically from thoughts is a complex process that involves a deep connection between the mind and the physical world. Here are some steps you might consider, drawing from the principles of cognitive defusion and deliteralization, as well as the practice of giving thoughts physical form:
+
+1. **Cognitive Defusion**: This is a therapeutic technique where you distance yourself from your thoughts. Instead of getting caught up in them, you observe them as if they were happening to someone else. This helps to reduce the intensity of the thoughts and allows you to control your reaction to them [Source 1](https://contextualscience.org/cognitive_defusion_deliteralization).
+
+2. **Deliteralization**: This is another therapeutic technique where you break down complex ideas into smaller, manageable parts. By breaking down your thoughts, you can make them more understandable and easier to handle [Source 1](https://contextualscience.org/cognitive_defusion_deliteralization).
+
+3. **Giving Thoughts Physical Form**: One way to give your thoughts physical form is to symbolically attach them to an object. This can be done by writing down your thoughts and attaching them to an object, or by creating a physical representation of your thoughts. For example, if you want to create a physical object from a thought, you might write the thought on a piece of paper and then burn it to ash. This symbolizes the transformation of your thought into something physical [Source 2](https://therapyinanutshell.com/skill-20-intrusive-thoughts-and-overthinking-the-skill-of-cognitive-defusion/).
+
+4. **Manipulating the Object**: Once you have a physical representation of your thought, you can manipulate it as you wish. This can serve as a form of physical manifestation of your thoughts. However, it's important to remember that this is a symbolic representation and not an actual telekinesis.
+
+Remember, these steps are based on the assumption that thoughts can be represented physically. However, there's currently no scientific evidence supporting the existence of telekinesis or the ability to create matter from thoughts. These practices can enhance your brain's function and potentially make you more aware of your surroundings, but they do not confer any form of telekinesis.
     
 ---    
+
+# Atmokinesis:
+Manipulating nature elements like rain, wind, and clouds, often referred to as Atmokinesis, is a concept that falls into the realm of fiction and fantasy. However, the idea behind such a power is based on the idea of harnessing and controlling the natural forces of the Earth. Here's a theoretical approach to how this might work, according to the information provided in [Source 1](https://phantom-tribeirl.fandom.com/wiki/Atmokinesis_/_weather_manipulation:_Guide):
+
+1. **Mastering Basic Abilities**: Before attempting to control the weather, it's recommended to master basic abilities like Aerokinesis (air manipulation) and Geokinesis (earth manipulation). This is because these abilities can provide a foundation for understanding and controlling atmospheric conditions.
+
+2. **Understanding Weather Patterns**: Understanding how weather patterns work, such as how cold air drops out of a thunderstorm and wraps around the back of the storm to form a tornado, can be crucial in manipulating the weather.
+
+3. **Developing Emotional Stability**: The ability to control the weather requires a good amount of concentration and focus. Emotional stability can be crucial in preventing the weather from becoming uncontrollable and potentially chaotic.
+
+4. **Practice and Control**: The ability to control the weather requires practice and control. Starting with small changes, such as causing a slight sprinkle of rain within a certain period, can gradually lead to more significant changes like creating heavy rain storms or manipulating the seasons.
+
+5. **Analyzing Events**: To gain control over the ability to perform it on command or consciously, one needs to analyze events. Look at the events in which you performed the ability and attempt to find patterns. Once patterns are found, you can appropriately recreate a scenario to trigger an event, thus allowing you to choose when to use the ability.
+
+Remember, these steps are purely theoretical and are based on the concept of Atmokinesis. There's currently no scientific evidence supporting the existence of such powers. The ability to control the weather is a complex process that involves a deep understanding of meteorology and the natural forces of the Earth.   
+
+---   
+
 
