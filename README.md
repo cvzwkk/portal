@@ -16,6 +16,13 @@ One collection of knowledge
 
 # Knowledges about the universe    
 - Knowledges:
+
+  - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
+    - Kinesis:
+      - Telekinesis
+      - AtmoKinesis
+      - GeoKinesis
+  
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
