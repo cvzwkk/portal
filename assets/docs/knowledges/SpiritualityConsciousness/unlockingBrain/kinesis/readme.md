@@ -64,6 +64,8 @@ Developing Atmokinesis, or the ability to control weather, is a complex and abst
 
 Remember, these steps are purely theoretical and are based on the principles of embodied cognition and meditation. There's currently no scientific evidence supporting the existence of Atmokinesis or the ability to control the weather. The ability to control the weather is a complex process that involves a deep understanding of meteorology and the natural forces of the Earth.
 
+---   
+
 - Spirituality: Buddhism
 ![img](https://buddhaweekly.com/wp-content/uploads/2017/09/Buddha-Weekly-Om-Mani-Padme-Hum-Mantra-chanted-Yoko-Dharma-mantra-of-Chenrezig-Buddhism-536x300.jpg)
 "Om Mani Padme Hum" is a widely used mantra in Tibetan Buddhism, particularly associated with the practice of Avalokiteshvara, the bodhisattva of compassion [Source 1](https://thejoywithin.org/meditations/mantras/om-mani-padme-hum). This mantra is often recited as a form of meditation and is believed to invoke the blessings of compassion, helping to cultivate qualities such as love, compassion, and wisdom [Source 1](https://thejoywithin.org/meditations/mantras/om-mani-padme-hum).
