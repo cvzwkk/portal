@@ -651,4 +651,51 @@ By following these steps, you can awaken the Goddess within and cultivate a deep
 
 -------------------
 
+# Omni-Creator   
 
+The All-Creator, also known as the Avatar, is a concept found in various cosmic theories and philosophies. It is considered the true God in all of Actuality, suggesting that if the fictional worlds exist, it is and always will be the pinnacle of Creation, power, and authority in the sense of absolutely everything [Source 0](https://ultimas-cosmology.fandom.com/wiki/The_All-Creator_(Avatar)).
+
+The All-Creator exists within the Perspectiverse and its power is known as Omni-Creator. The term 'Omni' is derived from Latin and means 'all'. Therefore, in the context of the All-Creator, the term Omni-Creator suggests that the All-Creator has all-encompassing power, similar to the concept of omnipotence in traditional religious beliefs [Source 1](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+The All-Creator rules over the Cosmoverse and the Corridor of All-Creator. It is contained by the Corridor of All-Creator and originates from True ΑΩ [Source 0](https://ultimas-cosmology.fandom.com/wiki/The_All-Creator_(Avatar)).
+
+It's worth mentioning that the concept of the All-Creator has been interpreted differently across various cultures and philosophies. Some people speculate that this being does not exist and is more of an idea of intelligent design. Others, like those who believe in creationism, argue that the Big Bang must have also had something to trigger it [Source 0](https://ultimas-cosmology.fandom.com/wiki/The_All-Creator_(Avatar)).
+
+The term "All-Creator" or "Avatar" is often associated with concepts such as "Omni-Creator", "Omnipotence", "Omniscience", and "Omnipresence". These terms represent the all-encompassing power, knowledge, and presence of the All-Creator.
+
+- **Omni-Creator**: This term suggests that the All-Creator has all-encompassing power, similar to the concept of omnipotence in traditional religious beliefs. It implies that the All-Creator has the ability to create everything that exists [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/), [Source 4](http://genevaninstitute.org/articles/the-omnis-of-god/).
+
+- **Omnipotence**: This refers to the power of the All-Creator to perform any action, including creating the universe and all that exists within it. It signifies the All-Creator's total control over itself and its creation [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/), [Source 4](http://genevaninstitute.org/articles/the-omnis-of-god/).    
+Omnipotence, in the context of the All-Creator, refers to the power of the All-Creator to perform any action, including creating the universe and all that exists within it. This signifies the All-Creator's total control over itself and its creation [Source 3](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+However, it's important to note that while the All-Creator is omnipotent, there are certain limitations to its power. For instance, the All-Creator cannot perform any immoral action, as it is perfectly holy and good. Similarly, the All-Creator cannot do anything that is logically contradictory, like making round squares. His truth is a perfect consistency of thought and action. Furthermore, the All-Creator cannot perform actions that are inappropriate to its nature, like buying shoes or celebrating its birthday [Source 3](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+Omnipotence is more than just the ability to perform any action. It's about having complete and total control over everything, including the smallest details of the natural world. This includes not only the events we call random, which we ascribe to chance, but also the large-scale events that determine the fate of nations and the lives of individuals [Source 3](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+In summary, the omnipotence of the All-Creator refers to its absolute power, control, and freedom to act according to its will, while also acknowledging certain limitations that stem from its inherent nature and attributes.
+    
+- **Omniscience**: This term denotes the All-Creator's knowledge of everything. It suggests that the All-Creator is aware of all past, present, and future events. This attribute is often attributed to a divine being in various philosophies and religions [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/), [Source 2](https://iep.utm.edu/omnisci/), [Source 4](http://genevaninstitute.org/articles/the-omnis-of-god/).
+Omniscience is a term that refers to the All-Creator's absolute knowledge of everything. This characteristic is usually treated as a consequence of one of two ways in which God exists: either because God exists outside of time, or because God exists as part of time [Source 1](https://www.learnreligions.com/god-is-omniscient-251059).
+
+In a broader sense, omniscience refers to having knowledge of all propositions, all true propositions, or all propositions that could not possibly be surpassed [Source 2](https://iep.utm.edu/omnisci/). This implies that the All-Creator is aware of all past, present, and future events, and all possible events.
+
+However, it's important to note that there are different interpretations of omniscience. One interpretation suggests that the All-Creator knows all the present truths and all truths of the past and future. Another interpretation posits that God knows everything that any being could possibly know, implying that God has knowledge which no one could possibly surpass [Source 2](https://iep.utm.edu/omnisci/).
+
+Another aspect of omniscience is divine foreknowledge, which refers to the All-Creator's knowledge of future events. This concept raises questions about the compatibility of omniscience and creaturely freedom. If God knows all actions ahead of time, it could be argued that creatures are not truly free, as their actions are predetermined by God's knowledge [Source 2](https://iep.utm.edu/omnisci/).
+
+In conclusion, the concept of omniscience ascribes to the All-Creator the ability to know everything, both past, present, and future. This attribute is often attributed to a divine being in various philosophies and religions, highlighting the vastness and all-encompassing nature of the All-Creator's knowledge [Source 1](https://www.learnreligions.com/god-is-omniscient-251059), [Source 2](https://iep.utm.edu/omnisci/).     
+
+- **Omnipresence**: This refers to the All-Creator's presence everywhere at all times. Despite being immaterial, the All-Creator is considered present in every location and moment, extending its power and knowledge throughout the entirety of existence [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/), [Source 4](http://genevaninstitute.org/articles/the-omnis-of-god/).
+The concept of Omnipresence refers to the All-Creator's presence everywhere at all times. This attribute is considered a traditional divine attribute and has been discussed extensively in philosophical and theological contexts [Source 0](https://plato.stanford.edu/entries/omnipresence/), [Source 1](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).     
+
+Despite the All-Creator being immaterial, it is considered present in every location and moment, extending its power and knowledge throughout the entirety of existence [Source 1](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/), [Source 3](https://www.ligonier.org/learn/devotionals/divine-omnipresence).
+
+This omnipresence is not just a theoretical conclusion. It is a precious truth of redemption, meaning that the All-Creator is present in every event, though its presence is not quite the same as the presence of physical beings. It implies that the All-Creator's omnipotence and omniscience imply its omnipresence [Source 1](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+The All-Creator's omnipresence is a presence both in place and in time. It is the creator of the heavens and the earth, and so it is in every location. It is also the creator of time, the one without beginning or end. So it has been present in the world since its creation, and there will never be a time from which it is absent [Source 1](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+However, it's important to note that the concept of omnipresence is a complex one. It is not about God being like a gas that is diffused throughout the entire universe. Instead, it means that the fullness of God is present everywhere. Everything that God is is fully present at each point in a given room, at every point in the building outside the room, and at every point outside the building [Source 3](https://www.ligonier.org/learn/devotionals/divine-omnipresence).
+
+These attributes are interconnected and collectively describe the All-Creator's lordship. They provide a profound understanding of creation, providence, and salvation, emphasizing the All-Creator's supreme authority and control over all aspects of existence [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
+
+---  
