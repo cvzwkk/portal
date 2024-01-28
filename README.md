@@ -311,6 +311,7 @@ Guide to Wisdom & Awareness
   - [Gravitational Collapse](/assets/docs/universe/space/knowledges/Gravitational_Collapse.md)  
   - [Electron Capture](/assets/docs/universe/space/knowledges/electron_capture.md)    
   - [Hydro Signature Detection Method 'HDM'](/assets/docs/universe/space/knowledges/Hydro-Signature-Detection-Method.md)
+  - [SonoLuminescence](/assets/docs/universe/space/knowledges/SonoLuminescence/readme.md)    
   - [Reionization Of Universe](/assets/docs/universe/space/knowledges/Reionization/readme.md)
   - [The Big Crunch](/assets/docs/universe/space/knowledges/bigcrunch/readme.md)   
   - [Cosmic Rays](/assets/docs/universe/space/cosmicrays/readme.md)
