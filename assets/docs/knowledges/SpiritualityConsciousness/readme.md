@@ -699,3 +699,34 @@ However, it's important to note that the concept of omnipresence is a complex on
 These attributes are interconnected and collectively describe the All-Creator's lordship. They provide a profound understanding of creation, providence, and salvation, emphasizing the All-Creator's supreme authority and control over all aspects of existence [Source 0](https://www.thegospelcoalition.org/essay/omnipotence-omniscience-omnipresence-god/).
 
 ---  
+
+# "Omni Kinesis"   
+
+The term "Omnikinesis" refers to the manipulation of all matter in the universe. It's a broad term that encompasses many different types of kinetic abilities. When we apply the principles of Omni to the techniques and methods of Atmokinesis, Geokinesis, and Electrokinesis, we get the following:
+
+- **Atmokinesis**: This is the manipulation of weather patterns. In the context of Omni, it would involve the ability to control all atmospheric conditions globally, affecting every aspect of weather from temperature to precipitation. This could include the ability to create calm weather in one area while causing storms elsewhere, or even the ability to change the climate on a global scale [Source 3](https://corespirit.com/articles/atmokinesis--the-ability-to-manipulate-weather-l1jekvgxgi).
+
+- **Geokinesis**: This involves the manipulation of the Earth itself. With Omni principles applied, it would mean the ability to alter any aspect of the Earth's surface, including mountains, oceans, and landscapes. This could include the ability to move large masses of rock, alter the course of rivers, or even reshape continents [Source 2](https://kineticabilities.fandom.com/wiki/List_of_Kinetic_Abilities).
+
+- **Electrokinesis**: This is the manipulation of electricity. Applying the principles of Omni, it would mean the ability to control all forms of electricity, from static electricity to the flow of electric current in wires. This could include the ability to generate electricity, redirect electrical currents, or even manipulate the properties of electricity itself [Source 2](https://kineticabilities.fandom.com/wiki/List_of_Kinetic_Abilities).
+
+In all these cases, the principle of Omni suggests an all-encompassing power and presence, capable of controlling every aspect of the relevant field. However, it's important to note that these are theoretical concepts and may not be achievable in the real world.
+
+Mastering Omnikinesis, or the ability to manipulate all matter in the universe, requires a combination of mental discipline, practice, and understanding of the principles behind each type of kinetic ability. Here are some strategies to enhance your Omnikinesis and reach maximum power:
+
+1. **Start Small**: Begin with basic exercises using small elements of the object of kinetic influence. For instance, if you're starting with Telekinesis, use lighter objects such as feathers or ping pong balls. As you gain confidence, gradually move on to larger objects [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+2. **Visualization**: Visualization is a powerful tool for mastering kinetic abilities. Strengthen your brain function by visualizing the desired outcome. For instance, imagine what the object or element looks like once you have manipulated it, the sound it makes, and the sensation when you achieve this [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+3. **Understand Your Energy**: Recognize your own energy in comparison to the kinetic ability you are utilizing. Human energy moves and feels like our heartbeats. When we get excited or overwhelmed, our energy quickens and becomes shaky. When we are calm and relaxed, it is steady and smooth. Understanding this principle can help you better control your kinetic abilities [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+4. **Patience and Understanding**: Mastering total control of everything takes time. Be patient and take time to learn and understand about the each individual abilities, about yourself, about your own limitations, and how to overcome them. Keep track of what your limits are, what difficulties you face with each ability, and how to combat them [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+5. **Experiment with Different Abilities**: Try to apply the ease you feel in elements you excel in, such as light and wind, to the abilities you might be struggling with. This can help you identify what you're good at and where you need improvement [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+6. **Learn Multiple Fighting Styles**: Look into multiple fighting styles. Different martial arts provide not only a means of hand-to-hand fighting but also ideas and techniques in calming and controlling the psyche. This can be beneficial in mastering kinetic abilities [Source 0](https://learnpowers.com/omnikinesis-ability-manipulate-everything/).
+
+Remember, reaching the level of Omnikinesis requires a significant amount of effort, patience, and dedication. It's also important to note that this is a theoretical concept and may not be achievable in the real world.
+
+---  
+
