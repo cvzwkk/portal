@@ -1,16 +1,11 @@
 # Portal of Knowledge   
  ![Portal](/portal.png)  
   
-Guide to Wisdom.  
-One collection of knowledge   
- - utillity tools about:  
-      - nuclear elements  
-      - energy molecules  
-      - fission process  
-      - Formation of Materia / Elements  
+Guide to Wisdom & Awareness   
+
 # [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
-   - [Uranium+Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)  
+   - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)  
 
 -------------
 
