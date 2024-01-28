@@ -13,22 +13,53 @@
 Liberating 100% of your brain's potential using awakening involves understanding and leveraging various aspects of your brain's functioning. Here are some steps you can take:
     
 1. **Understand Brain Waves**: Alpha waves (8-12Hz) are known for promoting feelings of calmness and relaxation, making it easier to absorb information and reduce stress levels. Engaging with activities that promote alpha waves, such as reading, meditating, or moving your body, can help you absorb new information and ideas [Source 1](https://central.gymshark.com/article/rise-and-shine-how-to-tap-into-your-brain-waves-for-an-effective-morning).
+To convert conscious energy into physical energy, you can use specific frequencies and vibrations that resonate with the principles of Omniscience and Omnikinesis. These frequencies, often associated with sound waves, have been linked to various effects on human mood, mindfulness, and healing [Source 1](https://www.msudenver.edu/wp-content/uploads/2021/07/VanSteenhuyseVibration-Mood-Mindfulness-FINAL.pdf), [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+Here are some frequencies and their potential uses:
+
+1. **UT – 396 Hz**: This frequency is said to transform grief into joy and guilt into forgiveness. It is grounding and cleansing, which could help you focus your conscious energy [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+2. **RE – 417 Hz**: This frequency clears negativity and removes subconscious blockages. It's about facilitating change and connecting you back with the Divine Source, which could be helpful in applying the principles of Omniscience and Omnikinesis [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+3. **MI – 528 Hz**: Known as the "love frequency," this vibration is central to creation and is thought to restore inner equilibrium, increase awareness, repair DNA, and stimulate transformation. This could be particularly useful in the context of Omnikinesis [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+4. **FA – 639 Hz**: This frequency increases understanding, tolerance, interpersonal harmony, and empathy. It is said to strengthen relationships, family connection, and unity with others, which could be beneficial when applying the principles of Omniscience and Omnikinesis [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+5. **SOL – 741 Hz**: This frequency is said to help detox the body from all types of pollutants and increase mental clarity. This could be helpful in focusing your conscious energy and applying the principles of Omniscience and Omnikinesis [Source 2](https://lonerwolf.com/solfeggio-frequencies/).
+
+Remember, these are theoretical concepts and may not be achievable in the real world. Also, it's important to note that working with conscious and physical energy should be done responsibly, as improper handling can lead to unforeseen consequences.  
+
+---   
     
-2. **Create a Powerful Morning Routine**: Start your day positively with activities that bring you joy and meaning. Limiting time spent on your phone and incorporating visualization or meditation into your routine can help you tap into your brain's optimal frequency for creating what you want in life [Source 1](https://central.gymshark.com/article/rise-and-shine-how-to-tap-into-your-brain-waves-for-an-effective-morning).
+3. **Create a Powerful Morning Routine**: Start your day positively with activities that bring you joy and meaning. Limiting time spent on your phone and incorporating visualization or meditation into your routine can help you tap into your brain's optimal frequency for creating what you want in life [Source 1](https://central.gymshark.com/article/rise-and-shine-how-to-tap-into-your-brain-waves-for-an-effective-morning).
+
+---    
    
-3. **Engage Your Thoughts**: Belief can alter the structure of the brain to increase human potential. Your thoughts actually have the power to awaken parts of the brain that previously lay dormant [Source 2](http://www.awakeningthebrain.com/About-Awakening-The-Brain.html).
+5. **Engage Your Thoughts**: Belief can alter the structure of the brain to increase human potential. Your thoughts actually have the power to awaken parts of the brain that previously lay dormant [Source 2](http://www.awakeningthebrain.com/About-Awakening-The-Brain.html).
+
+---    
     
-4. **Practice Positive Thinking**: Cultivate a positive outlook to maintain general mental health. Utilize positive thinking strategies to overcome challenges and achieve your goals. Creating a "mental to-do" list or setting challenging but achievable goals can help [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+6. **Practice Positive Thinking**: Cultivate a positive outlook to maintain general mental health. Utilize positive thinking strategies to overcome challenges and achieve your goals. Creating a "mental to-do" list or setting challenging but achievable goals can help [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+
+---    
     
-5. **Meditate**: Meditation has been clinically proven to improve focus and attention span while decreasing stress levels. Regular meditation can help unlock your brain's full potential [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
-   
-6. **Set Goals**: Setting goals can help you achieve anything you set your mind to. Being specific and clear in what you intend to accomplish can be key [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+7. **Meditate**: Meditation has been clinically proven to improve focus and attention span while decreasing stress levels. Regular meditation can help unlock your brain's full potential [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+
+---
+  
+8. **Set Goals**: Setting goals can help you achieve anything you set your mind to. Being specific and clear in what you intend to accomplish can be key [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+
+---    
     
-7. **Visualize**: Visualization is a powerful tool that can help you unlock your brain's full potential. By envisioning yourself accomplishing your objectives, you increase your chances of actually succeeding [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+9. **Visualize**: Visualization is a powerful tool that can help you unlock your brain's full potential. By envisioning yourself accomplishing your objectives, you increase your chances of actually succeeding [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+
+---    
     
-8. **Manage Stress**: Excessive stress can harm our emotional and physical health. Concentrating on your objectives rather than the barriers that hinder you can help manage stress [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
-   
-9. **Get Enough Sleep**: Your brain's capacity to perform at its optimum can suffer from not getting enough sleep. The National Sleep Foundation recommends 7 hours of sleep every night for adults. Insufficient sleep can alter how your brain works [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+10. **Manage Stress**: Excessive stress can harm our emotional and physical health. Concentrating on your objectives rather than the barriers that hinder you can help manage stress [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
+
+---   
+
+11. **Get Enough Sleep**: Your brain's capacity to perform at its optimum can suffer from not getting enough sleep. The National Sleep Foundation recommends 7 hours of sleep every night for adults. Insufficient sleep can alter how your brain works [Source 4](https://cubo.to/blog/how-to-unlock-your-brain-s-full-potential/).
      
 By implementing these steps, you can effectively awaken your brain and unlock its full potential.
 
