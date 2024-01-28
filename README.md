@@ -15,7 +15,11 @@ Guide to Wisdom, Awakening & Awareness
   - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
     - Embodied Fractal Consciousness
     - [Embodied Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
-    - Metaphysic
+    - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+      - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
+      - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)    
+
+---  
 
   - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
     - Kinesis:
@@ -62,27 +66,20 @@ Guide to Wisdom, Awakening & Awareness
         - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
 
 ---
-
-  - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
-    - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
-    - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)    
-
----  
       
   - Quantum's:   
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)  
          
-    - Electromagnetism:
-      - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
+  - Electromagnetism:
+    - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
         
-     - ThermoDynamic's:
-       - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)         
-    - Physics:
-      - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)
-      - [The Coulomb Barrier](/assets/docs/knowledges/Quantum/Physics/Coulomb-Barrier/readme.md)   
- 
+  - ThermoDynamic's:
+    - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)         
+
+  - Physics:
+    - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)
+    - [The Coulomb Barrier](/assets/docs/knowledges/Quantum/Physics/Coulomb-Barrier/readme.md)   
     - [OptoMechanics](/assets/docs/knowledges/Quantum/Optomechanics/readme.md)    
-      
     - Mechanic's:
       - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
