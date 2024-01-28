@@ -1,7 +1,7 @@
 # Portal of Knowledge   
  ![Portal](/portal.png)  
   
-Guide to Wisdom & Awareness   
+Guide to Wisdom, Awakening & Awareness   
 
 # [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
@@ -225,7 +225,13 @@ Guide to Wisdom & Awareness
 ---
              
 - Nuclear:
-   - [About Nuclear](/assets/docs/nuclear/readme.md)  
+   - [About Nuclear](/assets/docs/nuclear/readme.md)
+   - States:
+     - Fusion:
+       - [SonoFusion/BubbleFusion](/assets/docs/nuclear/fusion/sonoFusion/readme.md)
+
+     - Fission's:   
+
    - [Nuclear Elements](/assets/docs/universe/equations/Heat-Energy/Nuclear/elements/readme.md)   
    - [Alloys](/assets/docs/nuclear/elements/alloys/readme.md)
    
@@ -277,8 +283,8 @@ Guide to Wisdom & Awareness
   - Muscular Fibers:  
   - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)   
 
-   - Webtools:   
-    - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
+- Webtools:   
+  - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
      
 ---  
 
@@ -404,6 +410,8 @@ Guide to Wisdom & Awareness
   - [Earth Split](/assets/docs/earth/sci-fi/sci-fi_terra_split/readme.md)
   - [Star Formation](/assets/docs/earth/sci-fi/sci-fi-StarFormation/readme.md)
   - [Warp Drive](/assets/docs/earth/sci-fi/sciFi-WarpDrive/readme.md)      
+
+---  
 
  # WEB pages Sections below:   
  
