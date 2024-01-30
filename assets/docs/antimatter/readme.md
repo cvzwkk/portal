@@ -50,6 +50,75 @@ Despite these challenges, scientists are working to overcome them and develop ne
 
 -------------------------------   
 
+Antimatter is the opposite of matter. Each type of particle in matter has a corresponding antiparticle. For instance, an electron is a particle of matter, and its corresponding antiparticle is a positron. Protons and neutrons are particles of matter, and their antiparticles are antiprotons and antineutrons. When a particle and its antiparticle meet, they annihilate each other and produce energy in the form of photons [Source 1](https://en.wikipedia.org/wiki/Antimatter).
+
+Antimatter can be created in various ways:
+
+1. **Positron Emission**: This is a natural process where positrons are produced in beta decays of naturally occurring radioactive isotopes (like potassium-40) and in interactions of gamma quanta emitted by radioactive nuclei with matter [Source 1](https://en.wikipedia.org/wiki/Antimatter).
+
+2. **Pair Production**: This is a process where a photon splits into an electron-positron pair. This happens when a high-energy photon encounters a heavy atom, like lead or uranium. The photon transfers some of its energy to the atom, which then emits an electron and a positron [Source 4](https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/fundamental-particles/what-is-antimatter/matter-antimatter-creation-and-annihilation/).
+
+3. **Nuclear Reaction**: In a nuclear reactor, antineutrinos are produced in negative beta decay. These antineutrinos can be converted into positrons [Source 4](https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/fundamental-particles/what-is-antimatter/matter-antimatter-creation-and-annihilation/).
+
+4. **Gamma Ray Flashes**: Antimatter can also be produced in gamma-ray flashes created by electrons accelerated by strong electric fields in thunderstorm clouds [Source 4](https://www.nuclear-power.com/nuclear-power/reactor-physics/atomic-nuclear-physics/fundamental-particles/what-is-antimatter/matter-antimatter-creation-and-annihilation/).
+
+To convert matter into antimatter, you would need to capture the antiparticles that are produced in these processes. For example, the Extra Low Energy Antiproton ring (ELENA) at CERN takes antiprotons from the antiproton decelerator and cools them to 90 keV, which is "cold" enough to study. More than one hundred antiprotons can be captured per second. However, the large-scale production of antimatter is limited by the availability of antiprotons. Even with current facilities, it would take 100 billion years to produce 1 gram or 1 mole of antihydrogen [Source 1](https://en.wikipedia.org/wiki/Antimatter).
+
+---   
+---   
+
+After the creation of antimatter, the next stages of evolution depend on the context. If we consider the evolution of the universe, the creation of antimatter could play a significant role in the formation of galaxies and stars. Here's a brief overview of the key stages in the evolution of the universe:
+
+1. **Planck Epoch**: The first 10^-43 seconds after the Big Bang. No current theory of physics (quantum gravity) exists during this period [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---  
+
+2. **Grand Unified Theory (GUT) Epoch**: After 10^-43 seconds, the temperature fell to 10^32 K [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---
+
+3. **Quark Epoch**: Creation of protons and neutrons continued for about 10^-4 seconds. Temperature drops below 10^13 K, and protons and neutrons are no longer produced in pairs [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+![img](https://bigthink.com/wp-content/uploads/2023/11/768px-Quark_structure_neutron.svg.png?w=1536)
+During the Quark Epoch, which lasted for about 10^-12 seconds after the Big Bang, the temperature of the universe was extremely high, above 10^13 K. At this temperature, the energy was so intense that protons and neutrons could not form, and the fundamental particles present were quarks and gluons, which are the building blocks of protons and neutrons. As the universe expanded and cooled, the temperature dropped below 10^13 K, and the quarks combined to form protons and neutrons. This marked the end of the Quark Epoch and the beginning of the Hadron Epoch, during which protons and neutrons were no longer produced in pairs[1][3][4].
+
+The process of quarks combining to form protons and neutrons is a fundamental aspect of the early universe's evolution. Quarks, which are elementary particles, combine to form composite particles called hadrons, the most stable of which are protons and neutrons, the components of atomic nuclei[5].
+![img](https://bigthink.com/wp-content/uploads/2023/11/SWaB-Article5-Antimatter.png)
+Citations:
+[1](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html)
+[2](https://www.historyoftheuniverse.com/neutron.html)
+[3](https://bigthink.com/starts-with-a-bang/protons-and-neutrons-formed/)
+[4](https://www.forbes.com/sites/startswithabang/2018/08/08/what-was-it-like-when-we-first-made-protons-and-neutrons/)
+[5](https://en.wikipedia.org/wiki/Quark)
+
+
+---  
+
+4. **Lepton Epoch**: Ends when the universe is about 100 seconds old. During this epoch, the leptons (electrons, neutrinos, and other light particles) are still produced in pairs, because they are light. Ends when temperature drops below 1 billion K [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---  
+
+5. **Nuclear Epoch**: Protons and neutrons fuse into nuclei. By the time the universe is about 15 minutes old, much of the helium had been formed [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+6. **Matter Era**: Atomic Epoch begins about 50,000 years after the Big Bang. Atoms form and remain intact (electrons attached to nuclei). Electromagnetic radiation decouples. Cosmic Microwave Background appears. Ends 200,000,000 years after Big Bang [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---  
+
+7. **Galactic Epoch**: Large scale structure and bulk of most galaxies form. Lasts from 200,000,000 years to 3,000,000,000 after Big Bang [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---  
+
+8. **Stellar Epoch**: Stars continue to form up to today. Extends into the Dark Energy Era [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+---  
+
+9. **Dark Energy Era**: Today. Expansion of the universe is accelerating [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+In the context of these stages, the creation of antimatter could play a role in the nuclear fusion processes that power stars, or it could contribute to the formation of exotic states of matter under extreme conditions. However, the exact role of antimatter in the evolution of the universe is still a subject of ongoing research.
+
+---   
+---   
+
+
 # Knowledges:
   - [Anti-Hydrogen](./antihydrogen/readme.md)  
   - [Bombs](./bombs/readme.md)  
