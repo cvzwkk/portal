@@ -147,11 +147,11 @@ The rapid cooling of the universe during the Nuclear Epoch is significant for se
 In summary, the rapid cooling of the universe during the Nuclear Epoch was crucial for the formation of atomic nuclei, the preservation of matter over antimatter, and providing insights into the density of matter in the early universe.
 
 Citations:
-[1] http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/
-[2] https://en.wikipedia.org/wiki/Chronology_of_the_universe
-[3] https://home.cern/science/physics/early-universe
-[4] https://lco.global/spacebook/cosmology/early-universe/
-[5] https://en.wikipedia.org/wiki/Lepton_epoch
+[1](http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/)
+[2](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
+[3](https://home.cern/science/physics/early-universe)
+[4](https://lco.global/spacebook/cosmology/early-universe/)
+[5](https://en.wikipedia.org/wiki/Lepton_epoch)
 
 The axion is a hypothetical elementary particle that was first proposed by the Peccei–Quinn theory in 1977 to solve the strong CP problem in quantum chromodynamics (QCD). If axions exist and have low mass within a certain range, they are of interest as potential components of cold dark matter [Source 0](https://en.wikipedia.org/wiki/Axion).
 
@@ -167,19 +167,102 @@ The observational implications of axions are still not fully understood across d
 
 6. **Matter Era**: Atomic Epoch begins about 50,000 years after the Big Bang. Atoms form and remain intact (electrons attached to nuclei). Electromagnetic radiation decouples. Cosmic Microwave Background appears. Ends 200,000,000 years after Big Bang [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
+The Matter Era, also known as the Atomic Epoch, is a significant period in the early universe's evolution. It begins about 50,000 years after the Big Bang, during which atoms form and remain intact, with electrons attached to nuclei. This epoch marks the decoupling of electromagnetic radiation and the appearance of the Cosmic Microwave Background. The Matter Era ends approximately 200,000,000 years after the Big Bang.
+
+This period is characterized by the transition from a plasma of charged particles to a state where atoms, mostly hydrogen and helium, are able to form. The decoupling of electromagnetic radiation allowed the universe to become transparent, leading to the cosmic microwave background radiation that we observe today.
+
+The Matter Era is a crucial phase in the history of the universe, as it marks the transition to a state where matter, rather than radiation, dominates the dynamics of the cosmos. This epoch laid the foundation for the formation of the large-scale structure of the universe, including the eventual emergence of galaxies and other cosmic structures.
+
+The significance of the Matter Era lies in its role as a pivotal transition point in the evolution of the universe, setting the stage for the subsequent formation of the cosmic structures that we observe in the universe today.
+
+Citations:
+[1](http://www.khadley.com/courses/astronomy/ph_207/topics/bigbang/matter-era-and-beyond.html)
+[2](http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/)
+[3](https://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/matter-era-and-beyond.html)
+[4](https://lco.global/spacebook/cosmology/early-universe/)
+
+![img](https://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/images/27_04_figure_sml.jpg?crc=4276637256)
+
 ---  
 
 7. **Galactic Epoch**: Large scale structure and bulk of most galaxies form. Lasts from 200,000,000 years to 3,000,000,000 after Big Bang [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
+The Galactic Epoch is a significant period in the early universe's evolution. It begins about 200,000,000 years after the Big Bang and ends around 3,000,000,000 years after the Big Bang. During this epoch, large-scale structure and the bulk of most galaxies form [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+During this epoch, the universe underwent a phase of reionization, where high-energy photons from the earliest stars, dwarf galaxies, and perhaps quasars led to a period of reionization that commenced gradually between about 250–500 million years and finished by about 1 billion years. The Dark Ages only fully came to an end at about 1 billion years as the universe gradually transitioned into the universe we see around us today [Source 4](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+Galaxy clusters and superclusters emerged over time. While early stars have not been observed, galaxies have been observed from 329 million years since the Big Bang, with JADES-GS-z13-0 which the James Webb Space Telescope observed with a redshift of z=13.2, from 13.4 billion years ago. The JWST was designed to observe as far as z≈20 (180 million years cosmic time) [Source 4](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+The Galactic Epoch marks the transition from a period of rapid expansion and formation of the early universe to a period of slowing expansion and the formation of large-scale structure, including galaxies. This epoch laid the foundation for the formation of the large-scale structure of the universe, including the eventual emergence of galaxies and other cosmic structures [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+The Galactic Epoch is a significant period in the early universe's evolution, beginning about 200,000,000 years after the Big Bang and ending around 3,000,000,000 years after the Big Bang. During this epoch, several key events occurred:
+
+![img](https://astro.uni-bonn.de/_Resources/Persistent/520a515fad3e04d31a84e81373ded0c5b7b9e970/eso1620a-min.jpeg)   
+
+1. **Reionization**: The universe underwent a phase of reionization, where high-energy photons from the earliest stars, dwarf galaxies, and perhaps quasars led to a period of reionization that commenced gradually between about 250–500 million years and finished by about 1 billion years.
+
+2. **Formation of Large-Scale Structure**: Galaxy clusters and superclusters emerged over time. Recent findings suggest that some star formation must have occurred early in the Galactic Epoch, as traces of heavy elements, such as carbon and silicon, have been observed[3].
+
+3. **Observations**: While early stars have not been observed, galaxies have been observed from 329 million years since the Big Bang, with the James Webb Space Telescope being designed to observe as far as z≈20 (180 million years cosmic time)[2].
+
+The Galactic Epoch marks the transition from a period of rapid expansion and formation of the early universe to a period of slowing expansion and the formation of large-scale structure, including galaxies. This epoch laid the foundation for the formation of the large-scale structure of the universe, including the eventual emergence of galaxies and other cosmic structures.
+
+Citations:
+[1](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html)
+[2](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
+[3](https://lweb.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/fr_1/fr_1_gal6.html)
+
+
+
 ---  
 
 8. **Stellar Epoch**: Stars continue to form up to today. Extends into the Dark Energy Era [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+The Stellar Epoch is a significant period in the universe's evolution that started around 50,000 years after the Big Bang and continues to the present day. This period is marked by the continuous formation of stars and extends into the Dark Energy Era [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+During the Stellar Epoch, stars began to form from the remaining hydrogen gas in the universe. This period is characterized by the peak of star formation, which occurred around 8.8 billion years ago [Source 1](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+The star formation process begins when a cloud of interstellar gas and dust contracts under its own gravity. This contraction causes the temperature and pressure at the center of the cloud to increase until nuclear fusion can begin. This is the birth of a star. Once the star exhausts its fuel supply, it enters the final stages of its life, eventually exploding as a supernova [Source 2](https://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/matter-era-and-beyond.html).
+
+The Stellar Epoch also saw the merging and evolution of galaxies, with galaxies growing and merging to form larger structures. This period is also when the universe began to be dominated by dark energy, which is causing the universe to expand at an accelerating rate [Source 2](https://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/matter-era-and-beyond.html).
+
+In summary, the Stellar Epoch is a critical period in the universe's evolution that marked the beginning of star formation, the growth and merging of galaxies, and the dominance of dark energy.
+
+The Stellar Epoch is a significant period in the universe's evolution, starting around 50,000 years after the Big Bang and continuing to the present day. This period is characterized by the continuous formation of stars and extends into the Dark Energy Era. Key events and characteristics of the Stellar Epoch include:
+
+1. **Star Formation**: Stars began to form from the remaining hydrogen gas in the universe. The star formation process begins when a cloud of interstellar gas and dust contracts under its own gravity, leading to the birth of a star. This period is characterized by the peak of star formation, which occurred around 8.8 billion years ago[1].
+
+2. **Galactic Evolution**: The Stellar Epoch saw the merging and evolution of galaxies, with galaxies growing and merging to form larger structures[2].
+
+3. **Dark Energy Dominance**: This period is also when the universe began to be dominated by dark energy, which is causing the universe to expand at an accelerating rate[2].
+
+In summary, the Stellar Epoch is a critical period in the universe's evolution that marked the beginning of star formation, the growth and merging of galaxies, and the dominance of dark energy.
+
+Citations:
+[1](https://lweb.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/fr_1/fr_1_stel_intro.html)
+[2](https://lweb.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/fr_1/fr_1_stel1.html)
+[3](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
+[4](https://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/matter-era-and-beyond.html)
+
+![img](https://lweb.cfa.harvard.edu/~ejchaisson/cosmic_evolution/docs/images/imgs_sml_ver3/3_53.gif)
 
 ---  
 
 9. **Dark Energy Era**: Today. Expansion of the universe is accelerating [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
 In the context of these stages, the creation of antimatter could play a role in the nuclear fusion processes that power stars, or it could contribute to the formation of exotic states of matter under extreme conditions. However, the exact role of antimatter in the evolution of the universe is still a subject of ongoing research.
+
+The creation of antimatter during the early stages of the universe is a complex process that involves the formation of quark-antiquark pairs. This happens when high-energy photons collide with other particles. One of the photons transforms into a quark-antiquark pair, creating a particle of matter and its corresponding antiparticle. This process is known as pair production [Source 1](https://experts.arizona.edu/en/publications/a-short-survey-of-matter-antimatter-evolution-in-the-primordial-u).
+
+In the early universe, the conditions were such that equal amounts of matter and antimatter were produced. However, due to the difference in mass between matter and antimatter (where the mass of matter is always greater than the mass of antimatter), matter particles tend to condense into galaxies, while antimatter particles tend to scatter or annihilate with matter particles. This is known as baryogenesis [Source 1](https://experts.arizona.edu/en/publications/a-short-survey-of-matter-antimatter-evolution-in-the-primordial-u).
+
+The baryogenesis problem is one of the biggest mysteries in cosmology. It arises from the fact that the universe is composed almost entirely of ordinary matter, with virtually no antimatter. The Standard Model of particle physics does not predict why this imbalance exists. Theories such as the CP violation mechanism propose that this imbalance arises from the weak nuclear force, which is responsible for the transformation of matter into antimatter. However, this theory cannot fully account for the observed matter-antimatter asymmetry [Source 1](https://experts.arizona.edu/en/publications/a-short-survey-of-matter-antimatter-evolution-in-the-primordial-u).
+
+![img](https://www.researchgate.net/profile/Salah-Nasri/publication/2004450/figure/fig1/AS:394692601630720@1471113457026/The-evolution-of-the-universe-in-this-model-As-the-scalar-field-rolls-down-its-potential.png)  
+
+The axion, a hypothetical particle, has been proposed as a possible solution to this problem. The axion is a particle that would couple to the weak nuclear force, allowing it to mediate the transformation of matter into antimatter. However, the axion has not been observed, and it remains a theoretical possibility. Further research is needed to determine whether the axion is a viable solution to the baryogenesis problem [Source 0](https://en.wikipedia.org/wiki/Axion).
+
+![img](https://www.perplexity.ai/search/The-Galactic-Epoch-BasCFzo2RoSk4kEckZZyFw?s=u)  
 
 ---   
 ---   
