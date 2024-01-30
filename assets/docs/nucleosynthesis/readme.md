@@ -2,6 +2,11 @@
 
 --------------   
 
+![img](https://qph.cf2.quoracdn.net/main-qimg-7d9117688541cbad596a03b62f66b700-pjlq)
+
+---   
+
+
 # Nucleosynthesis   
  - Refers to the process by which new atomic nuclei are formed through nuclear reactions.    
     It occurs in various astrophysical environments, including the early universe, stellar interiors,   
@@ -74,6 +79,15 @@ There are two primary types of nucleosynthesis:
       and the cosmos as a whole.   
 
 --------------   
+
+![img](https://dq0hsqwjhea1.cloudfront.net/eras-of-the-big-bang.jpeg)   
+
+![img](https://cdn.physicsoftheuniverse.com/images/bigbang_timeline.jpg)  
+
+
+
+---   
+
   
 # [PT-BR] Nucleossíntese    
   - é o processo pelo qual os elementos químicos mais pesados do que o hélio são formados no universo.    
