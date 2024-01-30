@@ -84,7 +84,9 @@ There are two primary types of nucleosynthesis:
 
 ![img](https://cdn.physicsoftheuniverse.com/images/bigbang_timeline.jpg)  
 
+---   
 
+![img](https://bigthink.com/wp-content/uploads/2021/11/Nucleosynthesis_periodic_table.svg_.png?w=1280)  
 
 ---   
 
