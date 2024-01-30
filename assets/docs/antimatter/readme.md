@@ -71,9 +71,25 @@ After the creation of antimatter, the next stages of evolution depend on the con
 
 1. **Planck Epoch**: The first 10^-43 seconds after the Big Bang. No current theory of physics (quantum gravity) exists during this period [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
+The Planck Epoch is the earliest era in the history of the universe, occurring immediately after the Big Bang. This period is characterized by extremely high temperatures and energies, such that everyday subatomic particles could not form, and even the four fundamental forces that shape the universe - gravitation, electromagnetism, the weak nuclear force, and the strong nuclear force - were combined and formed one fundamental force [Source 0](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+During the Planck Epoch, little is understood about physics at this temperature. Different hypotheses propose different scenarios. Traditional big bang cosmology predicts a gravitational singularity before this time, but this theory relies on the theory of general relativity, which is thought to break down for this epoch due to quantum effects [Source 0](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+In inflationary models of cosmology, times before the end of inflation (roughly 10 seconds after the Big Bang) do not follow the same timeline as in traditional big bang cosmology. Models that aim to describe the universe and physics during the Planck Epoch are generally speculative and fall under the umbrella of "New Physics". Examples include the Hartle–Hawking initial state, string theory landscape, string gas cosmology, and the ekpyrotic universe [Source 0](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+Despite the challenges in understanding the Planck Epoch, physicists believe that the universe was in a state of quantum fluctuation during this time. Quantum fluctuations are temporary changes in the amount of energy in a given region of space, and they are believed to have played a crucial role in the formation of the early universe. These fluctuations could have led to the creation of the first particles and the distribution of matter throughout the universe [Source 2](https://www.astronomy.com/science/the-planck-era-imagining-our-infant-universe/).
+
 ---  
 
 2. **Grand Unified Theory (GUT) Epoch**: After 10^-43 seconds, the temperature fell to 10^32 K [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+The Grand Unified Theory (GUT) Epoch is a period in the early universe's evolution that followed the Planck Epoch, starting at about 10^-43 seconds after the Big Bang. During this time, the temperature of the universe was comparable to the characteristic temperatures of grand unified theories. If the grand unification energy is taken to be 10^15 GeV, this corresponds to temperatures higher than 10^32 K. During this period, three of the four fundamental interactions — electromagnetism, the strong interaction, and the weak interaction — were unified as the electronuclear force. Gravity had separated from the electronuclear force at the end of the Planck era. During the grand unification epoch, physical characteristics such as mass, charge, flavor, and color charge were meaningless [Source 1](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+The GUT Epoch ended at approximately 10^-36 seconds after the Big Bang. At this point, the strong force separated from the other fundamental forces. It is possible that some part of this decay process violated the conservation of baryon number and gave rise to a small excess of matter over antimatter (see baryogenesis). This phase transition is also thought to have triggered the process of cosmic inflation that dominated the development of the universe during the following inflationary epoch [Source 1](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+The quest for the GUT is still ongoing. While the physical conditions in specialized laboratories have successfully reproduced parts of the earlier hadron period (~10^-10 s), scientists have concluded that the earliest chaos period is likely to remain forevermore “too hot to handle.” Even the biggest accelerators on Earth are barely able to create, and only for the briefest of instants, conditions approximating 10^15 K sufficient to confirm the electroweak theory [Source 2](https://en.wikipedia.org/wiki/Quark_epoch).
+
+In summary, the Grand Unified Theory (GUT) Epoch is a period in the early universe's evolution that followed the Planck Epoch, during which three of the four fundamental interactions were unified. The GUT Epoch ended at approximately 10^-36 seconds after the Big Bang, and it is thought to have triggered the process of cosmic inflation. The quest for the GUT is still ongoing, and scientists have concluded that the earliest chaos period is likely to remain forevermore “too hot to handle.”
 
 ---
 
@@ -95,9 +111,59 @@ Citations:
 
 4. **Lepton Epoch**: Ends when the universe is about 100 seconds old. During this epoch, the leptons (electrons, neutrinos, and other light particles) are still produced in pairs, because they are light. Ends when temperature drops below 1 billion K [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
+The Lepton Epoch is a stage in the early universe's evolution that occurred shortly after the Big Bang, when the universe was about 100 seconds old. During this epoch, the leptons (electrons, neutrinos, and other light particles) were still produced in pairs, because they are light. This epoch ended when the temperature of the universe dropped below 1 billion Kelvin [Source 4](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+During the Lepton Epoch, the majority of hadrons and anti-hadrons annihilated each other at the end of the Hadron Epoch, leaving leptons and anti-leptons dominating the mass of the universe. Approximately 10 seconds after the Big Bang, the temperature of the universe had fallen to the point where electron-positron pairs were gradually annihilated. A small residue of electrons needed to charge-neutralize the Universe remained along with free streaming neutrinos: an important aspect of this epoch is the neutrino decoupling [Source 0](https://en.wikipedia.org/wiki/Lepton_epoch).
+
+The Lepton Epoch ended when the universe was about 100 seconds old. At this point, the temperature of the universe had fallen to the point at which new lepton/anti-lepton pairs were no longer created and most leptons and anti-leptons were eliminated in annihilation reactions, leaving a small residue of leptons [Source 2](http://palaeos.com/cosmos/primordial/earlyuniverse.html).
+
+After the Lepton Epoch, the Big Bang nucleosynthesis epoch followed, overlapping with the photon epoch. During this epoch, the temperature of the universe fell to the point (about a billion degrees) where atomic nuclei can begin to form as protons and neutrons combine through nuclear fusion to form the nuclei of the simple elements of hydrogen, helium, and lithium [Source 3](https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html).
+
+
 ---  
 
 5. **Nuclear Epoch**: Protons and neutrons fuse into nuclei. By the time the universe is about 15 minutes old, much of the helium had been formed [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+The Nuclear Epoch is a stage in the early universe's evolution that occurred approximately 15 minutes after the Big Bang. During this epoch, the universe had cooled sufficiently to allow for nuclear fusion to occur, which resulted in the formation of atomic nuclei [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
+
+Nuclear fusion is a process in which two or more atomic nuclei come together to form a heavier atomic nucleus, along with a release of energy in the form of radiation. This process is responsible for the energy output of stars, including our Sun. In the case of the early universe, nuclear fusion allowed protons and neutrons to combine to form nuclei of lighter elements, such as hydrogen and helium [Source 2](https://en.wikipedia.org/wiki/Nucleosynthesis).
+
+By the time the universe was about 15 minutes old, much of the helium had been formed. This process, known as primordial nucleosynthesis, resulted in the creation of about 25% of the matter in the universe by mass [Source 1](http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/).
+
+The Nuclear Epoch ended when the universe cooled below the temperature required for nuclear fusion. This rapid cooling of the universe meant that fusion stopped. The window of opportunity for fusion only lasted for about 15 minutes [Source 1](http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/).
+
+It's worth noting that not all of the deuterium (an isotope of hydrogen) formed during the Nuclear Epoch went into helium nuclei. Some was left over, and whatever deuterium we detect today must be primordial. Comparing the amount of deuterium present with our estimate of how much there should be gives us a measure of the overall density of matter [Source 1](http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/).
+
+![img](https://scienceblogs.com/files/startswithabang/files/2017/07/nuclear-1.jpg)   
+![img](https://www.researchgate.net/profile/Carlos-Bertulani/publication/224973204/figure/fig6/AS:342262342012937@1458613109955/Deuterium-abundance-The-solid-curve-is-the-result-obtained-with-the-standard-Maxwell.png)   
+
+The rapid cooling of the universe during the Nuclear Epoch is significant for several reasons:
+
+1. **Nucleosynthesis**: The rapid cooling allowed for nuclear fusion to occur, leading to the formation of atomic nuclei. This process resulted in the creation of about 25% of the matter in the universe by mass, including the formation of elements such as hydrogen and helium.
+
+2. **Matter-Antimatter Asymmetry**: As the temperature fell below certain thresholds, there was slightly more matter than antimatter, leading to the preservation of a small percentage of particles, such as protons, which make up all the protons in the universe today.
+
+3. **Density of Matter**: The amount of deuterium (an isotope of hydrogen) formed during this epoch provides a measure of the overall density of matter in the universe. Comparing the amount of deuterium present with estimates gives insights into the density of matter in the early universe.
+
+In summary, the rapid cooling of the universe during the Nuclear Epoch was crucial for the formation of atomic nuclei, the preservation of matter over antimatter, and providing insights into the density of matter in the early universe.
+
+Citations:
+[1] http://sites.science.oregonstate.edu/~hadlekat/COURSES/ph207/bigBang/
+[2] https://en.wikipedia.org/wiki/Chronology_of_the_universe
+[3] https://home.cern/science/physics/early-universe
+[4] https://lco.global/spacebook/cosmology/early-universe/
+[5] https://en.wikipedia.org/wiki/Lepton_epoch
+
+The axion is a hypothetical elementary particle that was first proposed by the Peccei–Quinn theory in 1977 to solve the strong CP problem in quantum chromodynamics (QCD). If axions exist and have low mass within a certain range, they are of interest as potential components of cold dark matter [Source 0](https://en.wikipedia.org/wiki/Axion).
+
+Axions were initially postulated as a solution to a problem in the Standard Model of particle physics, specifically the part built on the theory of quantum chromodynamics (QCD), which governs the fundamental particles we call quarks and gluons. QCD is highly successful, but it predicts properties we've never seen in the neutron (which is made of quarks) [Source 1](https://www.americanscientist.org/article/enter-the-axion).
+
+Axions may also be produced at particle colliders, particularly in electron-positron collisions and ultra-peripheral heavy-ion collisions at the Large Hadron Collider at CERN. These searches are sensitive for rather large axion masses between 100 MeV/c² and hundreds of GeV/c² [Source 0](https://en.wikipedia.org/wiki/Axion).
+
+In supersymmetric theories, the axion has both a scalar and a fermionic superpartner. The fermionic superpartner of the axion is called the axino, and the scalar superpartner is called the saxion or dilaton. They are all bundled in a chiral superfield. The axino has been predicted to be the lightest supersymmetric particle in such a model. Due to this property, it is considered a candidate for dark matter [Source 0](https://en.wikipedia.org/wiki/Axion).
+
+The observational implications of axions are still not fully understood across different possible masses for the particle. Lighter axions could form a galaxy-halo–sized condensate, while heavier ones may form axsteroids in the early universe. However, we don't yet know what they do at later times, specifically, at the time in which we now live [Source 1](https://www.americanscientist.org/article/enter-the-axion).
+
+---  
 
 6. **Matter Era**: Atomic Epoch begins about 50,000 years after the Big Bang. Atoms form and remain intact (electrons attached to nuclei). Electromagnetic radiation decouples. Cosmic Microwave Background appears. Ends 200,000,000 years after Big Bang [Source 0](https://pages.uoregon.edu/jimbrau/astr123/Notes/Chapter27.html).
 
