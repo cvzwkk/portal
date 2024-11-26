@@ -12,12 +12,13 @@ Guide to Awakening & Awareness
 # General Knowledge   
 - Knowledges:
   - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
-    - Embodied Fractal Consciousness
-    - [Embodied Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
+    - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
+      - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
+      - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)   
     - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
-    - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+    - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)   
       - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
-      - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)
+      - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)    
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
         - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)        
