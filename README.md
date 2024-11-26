@@ -1,7 +1,7 @@
-# Portal of Knowledge   
+# Universal Wisdom  
  ![Portal](/portal.png)  
   
-Guide to Wisdom, Awakening & Awareness   
+Guide to Awakening & Awareness   
 
 # [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
@@ -9,7 +9,7 @@ Guide to Wisdom, Awakening & Awareness
 
 -------------
 
-# Knowledges about the universe    
+# General Knowledge   
 - Knowledges:
   - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
     - Embodied Fractal Consciousness
@@ -20,19 +20,18 @@ Guide to Wisdom, Awakening & Awareness
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)    
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
-        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)    
-
----  
-
-  - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
-    - Kinesis:
-      - Telekinesis
-      - AtmoKinesis
-      - GeoKinesis
-      - AeroKinesis
-      - HydroKinesis
-      - ElectroKinesis
-  
+        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)        
+      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)   
+        - Kinesis:   
+         - Telekinesis   
+         - AtmoKinesis   
+         - GeoKinesis   
+         - AeroKinesis   
+         - HydroKinesis   
+         - ElectroKinesis   
+    
+--- 
+ 
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
@@ -44,155 +43,138 @@ Guide to Wisdom, Awakening & Awareness
  
 ---
 
-- Financial:
-
+# Financial  
   - [Quantum Trading, (HFT) High Frequency Trading](/assets/docs/knowledges/Financial/strategy/Quantum-Trading/readme.md)
-       
-   
   - Strategy:      
-    - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)
-    - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)      
-
+    - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)   
+    - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)       
   - Processes:     
     - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
-
   - Monetary Policies:      
     - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)    
-  
+
 ---   
 
-- Weapons:
-  - [Orbital Missiles](/assets/docs/knowledges/weapons/missiles/Orbital-Missile/readme.md)      
-  - Snipers:         
-    - .50:     
-      - [My Stuff Of Interaction with .50:](/assets/docs/knowledges/weapons/sniper/.50/readme.md)     
-        - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
-
----
-      
+# Fields   
   - Quantum's:   
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)   
     - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)   
          
-  - Electromagnetism:
+  - Electromagnetism:   
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
         
-  - ThermoDynamic's:
+  - ThermoDynamic's:   
     - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)         
-
-  - Physics:
-    - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)
-    - [The Coulomb Barrier](/assets/docs/knowledges/Quantum/Physics/Coulomb-Barrier/readme.md)   
+   
+  - Physics:   
+    - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)   
+    - [The Coulomb Barrier](/assets/docs/knowledges/Quantum/Physics/Coulomb-Barrier/readme.md)    
     - [OptoMechanics](/assets/docs/knowledges/Quantum/Optomechanics/readme.md)    
-    - Mechanic's:
+    - Mechanic's:   
       - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
-      - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)
-      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)      
+      - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)   
+      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)       
 
 ---  
 
-- Theories:
-  - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)
-  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)
-  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)
-  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)
-  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)    
+# Theories   
+  - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)   
+  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)   
+  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)   
+  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
+  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)      
 
-  - My Stuff Of Thought's:
-    - My books:
+  - My Stuff Of Thought's:  
+    - My books:   
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
-
-    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)
-  
-    - Elixir's:
-      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)
-      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)
-
-    - Devices:
-      - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)
-      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)      
-
-    - My Nuclear Theories:
-      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)    
-
+    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
+    - Elixir's:   
+      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
+      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)   
+    - Devices:   
+      - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)   
+      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)        
+    - My Nuclear Theories:   
+      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)      
 ---   
 
-- Earth:
+# Earth Environment  
+
+- Earth:   
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
   - [Earth](/assets/docs/earth/readme.md)    
-
-- Events:
-  - [ChicXulub Impact](/assets/docs/earth/events/Chicxulub-impact/readme.md)
-  - [Tunguska event](/assets/docs/earth/events/Tunguska/readme.md)     
-    
+   
+- Events:   
+  - [ChicXulub Impact](/assets/docs/earth/events/Chicxulub-impact/readme.md)   
+  - [Tunguska event](/assets/docs/earth/events/Tunguska/readme.md)      
+     
 - Phenomena's   
-  - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)
-  - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)
-  - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)
+  - [Thunderstorm's](/assets/docs/earth/phenomenas/storm/thunderstorm/readme.md)   
+  - [Climate Changes](/assets/docs/earth/phenomenas/Climate-Changes/readme.md)   
+  - [Tidal Locking](/assets/docs/earth/phenomenas/tidal-lock/readme.md)   
+   
+  - [Core/Nucleous](/assets/docs/earth/core/readme.md)    
+  - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)   
+  - [CryoVolcanism](/assets/docs/earth/earth/Cryovolcano/readme.md)     
 
-  - [Core/Nucleous](/assets/docs/earth/core/readme.md)   
-  - [Volcanoes](/assets/docs/earth/earth/volcanoes/readme.md)
-  - [CryoVolcanism](/assets/docs/earth/earth/Cryovolcano/readme.md)    
+---
 
----   
-
--  Elements:
+-  Elements:   
     - [Isotopes](/assets/docs/earth/elements/Isotopes/readme.md)
-    - [Materials](/assets/docs/earth/elements/materials/readme.md)
-      - Explosives:
+    - [Materials](/assets/docs/earth/elements/materials/readme.md)   
+      - Explosives:   
         - [Hydrothermal](/assets/docs/earth/elements/materials/explosives/hydrothermal/readme.md)   
-        
-    
-    - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)
-      - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)
-      - [Plutonium](/assets/docs/earth/elements/formation/elements/Plutonium/readme.md)   
-      - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)
-      - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)  
-      - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)
-      - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)
+     
+    - [Elements Formation](/assets/docs/earth/elements/formation/readme.md)   
+      - [Uranium](/assets/docs/earth/elements/formation/elements/Uranium/readme.md)   
+      - [Plutonium](/assets/docs/earth/elements/formation/elements/Plutonium/readme.md)    
+      - [Germanium](/assets/docs/earth/elements/formation/elements/Germanium/readme.md)   
+      - [Corium](/assets/docs/earth/elements/formation/elements/Corium/readme.md)   
+      - [Trinitite](/assets/docs/earth/elements/formation/elements/trinitite/readme.md)   
+      - [Yttrium / Hydride](/assets/docs/earth/elements/formation/elements/yttrium/readme.md)   
       - [Halfinium / Hydride](/assets/docs/earth/elements/formation/elements/Halfinium/readme.md)   
 
-     - [Water](/assets/docs/earth/elements/water/readme.md)
-     - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)
-     - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)
-
-   - Crystals:
-     - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)
-     - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)   
+     - [Water](/assets/docs/earth/elements/water/readme.md)   
+     - [Superconductors](/assets/docs/earth/elements/superconductors/readme.md)   
+     - [Hydrides](/assets/docs/earth/elements/Hydrides/readme.md)   
+   
+   - Crystals:   
+     - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)   
+     - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)     
 
 ---   
 
 - [Substances](/assets/docs/synthesis/substances/readme.md)  
    - Substances Types / Elements Formation:  
-    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)
-    - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)
-    - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)
-    - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)
-    - [LK99](/assets/docs/synthesis/substances/chemical/LK99/readme.md)    
-    - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)
-    - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)   
-    - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)
-    - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)   
+    - [Alkalis](/assets/docs/synthesis/substances/types/Alkalis/readme.md)   
+    - [Borane](/assets/docs/synthesis/substances/chemical/Borane/readme.md)   
+    - [Methane](/assets/docs/synthesis/substances/chemical/Methane/readme.md)   
+    - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)   
+    - [LK99](/assets/docs/synthesis/substances/chemical/LK99/readme.md)      
+    - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)   
+    - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)    
+    - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)   
+    - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)    
 
 ---   
 
--  Researchs:  
-    - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
-    - [ETOPO1 Ice-Surface](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/)     
-
----  
-
-- Moon:  
-  - [Moon](/assets/docs/moon/readme.md)
-
----
+- Geo Researchs:  
+   - [ETOPO1 Bedrock](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/)    
+   - [ETOPO1 Ice-Surface](https://www.ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/ice_surface/)     
    
-- Sun:  
-  - [Sun](/assets/docs/sun/readme.md)
-  
+---  
+   
+# Moon Environment    
+  - [Moon](/assets/docs/moon/readme.md)   
+   
+---   
+   
+# Sun Environment  
+  - [Sun](/assets/docs/sun/readme.md)   
+    
 ---
 
-- [SubAtomic](/assets/docs/universe/subAtomic/readme.md)
+# [SubAtomic](/assets/docs/universe/subAtomic/readme.md)   
   - Particles  
   - [Quarks](/assets/docs/universe/subAtomic/particles/Quarks/readme.md)       
   - [Protons](/assets/docs/universe/subAtomic/particles/Protons/readme.md)     
@@ -222,80 +204,71 @@ Guide to Wisdom, Awakening & Awareness
 
   - Electromagnetic devices:   
     - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)   
-
----
-             
-- Nuclear:
-   - [About Nuclear](/assets/docs/nuclear/readme.md)
-   - States:
-     - Fusion:
-       - [SonoFusion/BubbleFusion](/assets/docs/nuclear/fusion/sonoFusion/readme.md)
-
-     - Fission's:   
-
-   - [Nuclear Elements](/assets/docs/universe/equations/Heat-Energy/Nuclear/elements/readme.md)   
-   - [Alloys](/assets/docs/nuclear/elements/alloys/readme.md)
    
-   - Iodes:
-     - [iodine-131](/assets/docs/nuclear/elements/iodes/iodo-131/readme.md)   
-
+---   
+             
+# Nuclear   
+   - [About Nuclear](/assets/docs/nuclear/readme.md)   
+   - States:   
+     - Fusion:   
+       - [SonoFusion/BubbleFusion](/assets/docs/nuclear/fusion/sonoFusion/readme.md)  
+   
+     - Fission's:   
+   
+   - [Nuclear Elements](/assets/docs/universe/equations/Heat-Energy/Nuclear/elements/readme.md)   
+   - [Alloys](/assets/docs/nuclear/elements/alloys/readme.md)   
+   
+---   
+     
+   - Iodes:  
+     - [iodine-131](/assets/docs/nuclear/elements/iodes/iodo-131/readme.md)    
+   
+---   
+   
    - [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)    
    - [Nuclear Oxygen](/assets/docs/nuclear/knowledges/nuclear-oxygen.md) / [Nuclear Oxygen Tritium](/assets/docs/nuclear/knowledges/nuclear-oxygen-tritium.md)   
+    
+---   
  
-- Implosive Methods:  
-  - [Implosion](/assets/docs/universe/equations/Heat-Energy/Nuclear/implosion/readme.md)   
-  - [Implosion per Fission](/assets/docs/universe/equations/Heat-Energy/Nuclear/implosion/implosion-based_fission_process.md)    
-  - [Cylinder Shape](/assets/docs/nuclear/knowledges/implosive-methods/cylinder-shape.md)   
-
-- Synthesis of Nuclear Elements:  
-   - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)    
-
----
+  - Implosive Methods:  
+     - [Implosion](/assets/docs/universe/equations/Heat-Energy/Nuclear/implosion/readme.md)   
+     - [Implosion per Fission](/assets/docs/universe/equations/Heat-Energy/Nuclear/implosion/implosion-based_fission_process.md)    
+     - [Cylinder Shape](/assets/docs/nuclear/knowledges/implosive-methods/cylinder-shape.md)   
    
-- Chemical Weapons:    
-   - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
-   - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
-   - [NoviChock](/assets/docs/nuclear/chemical/novichock/readme.md)
-
+- Synthesis of Nuclear Elements:  
+   - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)     
+   
 ---
 
-- Weapons:  
-   - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
-  - [Atomic Bombs](/assets/docs/nuclear/atomic-bombs/readme.md):   
-   - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
-   - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
-
----  
-
-- [Light](/assets/docs/universe/light/readme.md)  
+# [Light](/assets/docs/universe/light/readme.md)  
    - [Synthesis](/assets/docs/universe/light/synthesis/readme.md)  
    - [Equations](/assets/docs/universe/light/equations/readme.md)  
 
 ---  
+ 
+# [Synthesis](/assets/docs/synthesis/readme.md)
+  - [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
 
-- [Synthesis](/assets/docs/synthesis/readme.md)
-- [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
+  - [Formulas](/assets/docs/synthesis/substances/readme.md)  
+    - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
+    - [C20 H25 NO4](/assets/docs/synthesis/substances/formulas/syn/2/readme.md)  
 
-- [Formulas](/assets/docs/synthesis/substances/readme.md)  
-   - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
-   - [C20 H25 NO4](/assets/docs/synthesis/substances/formulas/syn/2/readme.md)  
+  - [Proteins](/assets/docs/synthesis/proteins/readme.md)    
+    - Muscular Fibers:  
+    - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)   
 
- - [Proteins](/assets/docs/synthesis/proteins/readme.md)    
-  - Muscular Fibers:  
-  - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)   
-
-- Webtools:   
-  - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
+  - Webtools:   
+    - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
      
 ---  
 
-- [NucleoSynthesis](/assets/docs/nucleosynthesis/readme.md)  
-- [Chemy](/assets/docs/universe/chemy/README.md)   
-   - [Elements](/assets/docs/universe/chemy/Elements/readme.md)  
+# [NucleoSynthesis](/assets/docs/nucleosynthesis/readme.md)  
+  - [Chemy](/assets/docs/universe/chemy/README.md)   
+    - [Elements](/assets/docs/universe/chemy/Elements/readme.md)  
 
 ---  
 
-- Space:
+# Space
   - [Dark Energy](/assets/docs/universe/space/dark-energy/readme.md)    
   - [Anti Matter](/assets/docs/antimatter/readme.md)     
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)
@@ -343,47 +316,72 @@ Guide to Wisdom, Awakening & Awareness
 ---  
 
 # [Universe Equations](/assets/docs/universe/equations/README.md)   
-- Nuclear Physics
-  - [The Nuclear Binding Energy Equation](/assets/docs/universe/equations/nuclear-physics/Nuclear-Binding-Energy-Equation/readme.md)
-- Heat / Energy   
-  - [Heat](/assets/docs/universe/equations/Heat-Energy/Heat/readme.md)   
-  - [Energy](/assets/docs/universe/equations/Heat-Energy/Energy/readme.md)
-  - [Custom Stuff Of Energy Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/dev/equations/readme.md)   
-  - [Nuclear](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)   
-- [Theoretical Physics:](/assets/docs/universe/equations/Theoretical-Physics/readme.md)  
-  - [Tolman Oppenheimer Volkoff](/assets/docs/universe/equations/Theoretical-Physics/Tolman-Oppenheimer-Volkoff.md)   
-  - [Ruge-Kutta](/assets/docs/universe/equations/Theoretical-Physics/Runge-Kutta.md)   
+ - Nuclear Physics
+   - [The Nuclear Binding Energy Equation](/assets/docs/universe/equations/nuclear-physics/Nuclear-Binding-Energy-Equation/readme.md)
+ - Heat / Energy   
+   - [Heat](/assets/docs/universe/equations/Heat-Energy/Heat/readme.md)   
+   - [Energy](/assets/docs/universe/equations/Heat-Energy/Energy/readme.md)
+   - [Custom Stuff Of Energy Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/dev/equations/readme.md)   
+   - [Nuclear](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)   
+ - [Theoretical Physics:](/assets/docs/universe/equations/Theoretical-Physics/readme.md)  
+   - [Tolman Oppenheimer Volkoff](/assets/docs/universe/equations/Theoretical-Physics/Tolman-Oppenheimer-Volkoff.md)   
+   - [Ruge-Kutta](/assets/docs/universe/equations/Theoretical-Physics/Runge-Kutta.md)   
        
-- [Light:](/assets/docs/universe/light/equations/readme.md)   
+ - [Light:](/assets/docs/universe/light/equations/readme.md)   
+   
+---   
 
----
+# Weapons  
+   
+- Chemical Weapons:    
+   - [Sarin Gas](/assets/docs/nuclear/chemical/sarin-gas/readme.md)
+   - [Chemical VX](/assets/docs/nuclear/chemical/VX/readme.md)
+   - [NoviChock](/assets/docs/nuclear/chemical/novichock/readme.md)
+   
+---   
+   
+- Nuclear Weapons:  
+   - [BioWeapons:](/assets/docs/synthesis/bioweapons/readme.md)
+   - [Atomic Bombs](/assets/docs/nuclear/atomic-bombs/readme.md):   
+   - [TSAR Bomb](/assets/docs/nuclear/atomic-bombs/tsar-bomb/readme.md)
+   - [Los Alamos Project](/assets/docs/nuclear/atomic-bombs/los-alamos-project/readme.md)
 
-# Python Section:
-- [Nuclear Docs](/assets/docs/nuclear/)   
-- [Nuclear Python](/assets/addons/python/Nuclear/)  
-- [Nuclear Weapons](/assets/addons/python/Nuclear/Weapons/)  
-  - [Ivy Mike](/assets/addons/python/Nuclear/weapons/ivyMike)   
-
-- [Quantum chromodynamics (QCD)](/assets/addons/python/QCD)  
-  - Quantum chromodynamics (QCD)
-     indeed a fundamental theory that is part of the standard model of 
-      particle physics. It is the theory that describes the strong nuclear 
-      force, which is one of the fundamental forces of nature.
-
-- [Molecules Tools](/assets/addons/python/molecules)  
-  - [Simple Molecule Generator](/assets/addons/python/molGenerator)  
-
+---  
+   
+- Fire Weapons:   
+  - [Orbital Missiles](/assets/docs/knowledges/weapons/missiles/Orbital-Missile/readme.md)      
+  - Snipers:         
+    - .50:     
+      - [My Stuff Of Interaction with .50:](/assets/docs/knowledges/weapons/sniper/.50/readme.md)     
+        - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
+   
+---     
+   
+# Python Section   
+ - [Nuclear Docs](/assets/docs/nuclear/)   
+ - [Nuclear Python](/assets/addons/python/Nuclear/)  
+ - [Nuclear Weapons](/assets/addons/python/Nuclear/Weapons/)  
+   - [Ivy Mike](/assets/addons/python/Nuclear/weapons/ivyMike)   
+   
+ - [Quantum chromodynamics (QCD)](/assets/addons/python/QCD)  
+   - Quantum chromodynamics (QCD)   
+     indeed a fundamental theory that is part of the standard model of particle physics.   
+      It is the theory that describes the strong nuclear force, which is one of the fundamental forces of nature.   
+   
+- [Molecules Tools](/assets/addons/python/molecules)    
+  - [Simple Molecule Generator](/assets/addons/python/molGenerator)    
+   
 - Proteins:  
-  - [Sequencer of AminoAcids](/assets/addons/python/proteins/sequencer/readme.md)  
-
-- [Reactor](/assets/addons/python/Reactor)  
-  - This is one project of Digital Reactor that generate multiples equations math,  
-     idealy to use to operate reactors with energy calcs,mass and elements study.  
-      The molecules generator included is result of one process in the deep of reactor,  
-       that generate elements after your operation  
-        faciliting the studies and uses of reactors and other nuclear developments.  
-
+  - [Sequencer of AminoAcids](/assets/addons/python/proteins/sequencer/readme.md)   
+  
+- [Reactor](/assets/addons/python/Reactor)    
+  - This is one project of Digital Reactor that generate multiples equations math, idealy to use to operate reactors with energy calcs,mass and elements study.   
+     The molecules generator included is result of one process in the deep of reactor,  
+      that generate elements after your operation faciliting the studies and uses of reactors and other nuclear developments.   
+  
 ---
+
+# Development Tools   
         
 1. [Earth Dev Section](/assets/addons/python/dev/earth/readme.md)   
  - 1. Equations:   
@@ -406,17 +404,16 @@ Guide to Wisdom, Awakening & Awareness
      
 ---  
 
-# Futuristic Comics:  
-- [SCI-FI](/assets/docs/earth/sci-fi/readme.md)
-  - [Earth Split](/assets/docs/earth/sci-fi/sci-fi_terra_split/readme.md)
-  - [Star Formation](/assets/docs/earth/sci-fi/sci-fi-StarFormation/readme.md)
-  - [Warp Drive](/assets/docs/earth/sci-fi/sciFi-WarpDrive/readme.md)      
+# Futuristic Comics  
+ - [SCI-FI](/assets/docs/earth/sci-fi/readme.md)
+   - [Earth Split](/assets/docs/earth/sci-fi/sci-fi_terra_split/readme.md)
+   - [Star Formation](/assets/docs/earth/sci-fi/sci-fi-StarFormation/readme.md)
+   - [Warp Drive](/assets/docs/earth/sci-fi/sciFi-WarpDrive/readme.md)      
 
 ---  
-
- # WEB pages Sections below:   
+# WEB pages Sections below
  
-# /dev/  
+- **/dev/**     
   - Generator of Molecules: Generate molecules with random generation   
      - Molecules research: uses one cross-site of anonchatgpt to make research,   
      - Molecules Viwer: to reproduce one visualization with the interpretation of formula of your molecule  
@@ -427,7 +424,7 @@ Guide to Wisdom, Awakening & Awareness
 ---
 
 # Ways to run  
-  - Online mode:
+  - Online mode:  
     - Acessing: [Portal](https://emeraldtable.github.io/portal/)   
   - Offline mode Using:  
   
@@ -448,3 +445,29 @@ Guide to Wisdom, Awakening & Awareness
 
 Portal Maded By: c2v2zw4k or cvzwk
 two identity of same person.
+
+---  
+
+# Socials Networks
+   
+- Twitter (X):   
+  - [cvzwk](https://x.com/cvzwk)   
+  - [cvzwk_](https://x.com/cvzwk_)
+  - [cvzwkK](https://x.com/cvzwkK)   
+  - [cvzwk111](https://x.com/cvzwk111)   
+  - [11cvzwk](https://x.com/11cvzwk)   
+  - [cvzwkBTC](https://x.com/cvzwkbtc)   
+   
+- Facebook:   
+  - [cvzwk](https://facebook.com/cvzwkz)     
+   
+- Instagram:   
+  - [cvzwk1111](https://instagram.com/cvzwk1111)   
+  - [c2v2zw4k](https://instagram.com/c2v2zw4k)    
+
+---   
+  
+Original Source of Research: @ChatGPT  
+All Rights Reserved from OpenSource copyright  
+   
+---   
