@@ -11,13 +11,13 @@ Guide to Wisdom, Awakening & Awareness
 
 # Knowledges about the universe    
 - Knowledges:
-
   - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
     - Embodied Fractal Consciousness
     - [Embodied Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
       - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
-      - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)    
+      - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)
+      - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)
 
 ---  
 
