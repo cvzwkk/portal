@@ -76,29 +76,8 @@ Guide to Awakening & Awareness
       - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)       
 
 ---  
-
-# Theories   
-  - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)   
-  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)   
-  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)   
-  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
-  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)      
-
-  - My Stuff Of Thought's:  
-    - My books:   
-      - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
-    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
-    - Elixir's:   
-      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
-      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)   
-    - Devices:   
-      - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)   
-      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)        
-    - My Nuclear Theories:   
-      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)      
----   
-
-# Earth Environment  
+   
+# Earth Environment   
 
 - Earth:   
   - [Proto Earth](/assets/docs/earth/proto-earth/readme.md)    
@@ -355,7 +334,26 @@ Guide to Awakening & Awareness
       - [My Stuff Of Interaction with .50:](/assets/docs/knowledges/weapons/sniper/.50/readme.md)     
         - [Long Range Angle](/assets/docs/knowledges/weapons/sniper/.50/py/angle.py)     
    
----     
+# Theories   
+  - [Black Hole, Creation > Multiples Dimension's](/assets/docs/knowledges/theories/blackholes/readme.md)   
+  - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)   
+  - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)   
+  - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
+  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)      
+
+  - My Stuff Of Thought's:  
+    - My books:   
+      - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
+    - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
+    - Elixir's:   
+      - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
+      - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)   
+    - Devices:   
+      - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)   
+      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)        
+    - My Nuclear Theories:   
+      - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)      
+---   
    
 # Python Section   
  - [Nuclear Docs](/assets/docs/nuclear/)   
