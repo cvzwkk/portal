@@ -69,7 +69,8 @@ Guide to Wisdom, Awakening & Awareness
 ---
       
   - Quantum's:   
-    - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)  
+    - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)   
+    - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)   
          
   - Electromagnetism:
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
