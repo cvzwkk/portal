@@ -18,7 +18,9 @@ Guide to Wisdom, Awakening & Awareness
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
       - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)  
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)
-      - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)
+      - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)    
+      - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
+        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)    
 
 ---  
 
