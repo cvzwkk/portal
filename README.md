@@ -24,7 +24,7 @@ Guide to Awakening & Awareness
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
         - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)        
       - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)   
-        - Kinesis:   
+        - [Kinesis:](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/kinesis/readme.md)   
          - Telekinesis   
          - AtmoKinesis   
          - GeoKinesis   
