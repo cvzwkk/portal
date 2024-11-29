@@ -75,7 +75,19 @@ Guide to Awakening & Awareness
     - Mechanic's:   
       - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)   
-      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)       
+      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)
+
+  - Dimensional:
+    - Study:
+      
+    - Theory:   
+      - [M-Theory](/assets/docs/universe/dimensions/theory/m-theory/readme.md)    
+      - [3D Branes](/assets/docs/universe/dimensions/theory/3DBranes/readme.md)   
+      - [N-Dimensional](/assets/docs/universe/dimensions/n-dimensional/readme.md)   
+      - [Calabi-Yau](/assets/docs/universe/dimensions/theory/calabi-yau/readme.md)   
+      - [Tesseract](/assets/docs/universe/dimensions/tesseract/readme.md)   
+      - [Oneness](/assets/docs/universe/dimensions/theory/Oneness/readme.md)
+      - [Dimensional Travel](/assets/docs/universe/dimensions/theory/DimensionalTravel/readme.md)   
 
 ---  
    
