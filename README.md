@@ -247,7 +247,7 @@ Guide to Awakening & Awareness
     - [C20 H25 NO4](/assets/docs/synthesis/substances/formulas/syn/2/readme.md)  
 
   - [Proteins](/assets/docs/synthesis/proteins/readme.md)    
-    - Muscular Fibers:  
+    - [CRISPR/CAS:](/assets/docs/synthesis/proteins/CRISPR/readme.md)  
     - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)
     - [Platelet-Derived Growth Factor subunit A](/assets/docs/synthesis/proteins/CRISPR/PDGF/readme.md)
     - [Bone Morphogenetic Protein 2](/assets/docs/synthesis/proteins/CRISPR/BMP2/readme.md)  
