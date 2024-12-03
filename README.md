@@ -23,7 +23,8 @@ Guide to Awakening & Awareness
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)    
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
         - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)        
-      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)   
+      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
+        - [Hypermind Species](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/readme.md)   
         - [Kinesis:](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/kinesis/readme.md)   
          - Telekinesis   
          - AtmoKinesis   
