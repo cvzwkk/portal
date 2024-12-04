@@ -240,12 +240,11 @@ Guide to Awakening & Awareness
 
 ---  
  
-# [Synthesis](/assets/docs/synthesis/readme.md)
-  - [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
+# [Synthesis](/assets/docs/synthesis/readme.md)   
 
-  - [Formulas](/assets/docs/synthesis/substances/readme.md)  
-    - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
-    - [C20 H25 NO4](/assets/docs/synthesis/substances/formulas/syn/2/readme.md)  
+  - [DNA/mRna](/assets/docs/synthesis/dna-mRna/readme.md)
+    - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetic/readme.md)  
+    - [Autophagy](/assets/docs/synthesis/dna-mRna/autophagy/readme.md)   
 
   - [Proteins](/assets/docs/synthesis/proteins/readme.md)    
     - [CRISPR/CAS:](/assets/docs/synthesis/proteins/CRISPR/readme.md)  
@@ -255,6 +254,12 @@ Guide to Awakening & Awareness
 
   - Webtools:   
     - [Swiss Model, Proteins](https://swissmodel.expasy.org/interactive)   
+
+- [Skin Tissue Repair](/assets/docs/synthesis/SkinTissue-Repair/readme.md)
+
+  - [Formulas](/assets/docs/synthesis/substances/readme.md)  
+    - [C13 H21 NO2](/assets/docs/synthesis/substances/formulas/syn/1/readme.md)  
+    - [C20 H25 NO4](/assets/docs/synthesis/substances/formulas/syn/2/readme.md)  
      
 ---  
 
