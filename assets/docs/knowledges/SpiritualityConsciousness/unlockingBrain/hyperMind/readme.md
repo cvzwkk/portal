@@ -2,7 +2,8 @@
 
 mind Over:   
  - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
- - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)   
+ - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)
+ - [Lucid State](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverLucidState/readme.md)   
 
 Concepts:   
  - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)
@@ -23,7 +24,7 @@ The brain, as a highly complex biological organ, has evolved over millions of ye
 - **Advanced Cognition**: Over time, brain evolution led to the **neocortex**, which is responsible for higher cognitive functions, including language, abstract thought, and complex decision-making.
 - **Self-Awareness**: The development of self-awareness is a critical evolutionary milestone. As humans became aware of themselves and their place in the world, the ability to reflect on one’s thoughts, desires, and actions emerged. This enabled the development of intentionality, or the ability to **act with purpose**.
 - **Abstract Thought and Will**: With the neocortex, humans can form intentions and execute complex plans. The brain's **neuroplasticity** allows it to adapt and learn from experiences, providing a foundation for **mental control** over physical processes (e.g., motor skills, emotional regulation).
-
+[
 ### 2. **The Hypothetical “Hypermind”**
 
 The concept of the **hypermind** suggests that human consciousness could evolve or expand beyond the constraints of the brain and its physical processes, allowing access to higher dimensions, and facilitating the manipulation of brane worlds or dimensional fields. The **hypermind** could be a state of consciousness that operates at a **quantum** or **higher-dimensional** level, where the boundaries of the physical body and the brain no longer limit mental influence.
