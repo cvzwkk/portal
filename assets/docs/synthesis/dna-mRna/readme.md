@@ -3,7 +3,7 @@
 ---  
 
 **DNA/mRna:**  
-  - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetics/readme.md)   
+  - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetic/readme.md)   
   - [Autophagy](/assets/docs/synthesis/dna-mRna/autophagy/readme.md)   
 
 ---   
