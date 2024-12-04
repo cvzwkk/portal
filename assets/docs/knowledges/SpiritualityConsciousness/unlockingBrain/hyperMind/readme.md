@@ -1,4 +1,7 @@
 [HOME](/README.md)   
+Self:  
+- [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)   
+
 
 mind Over:   
  - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
