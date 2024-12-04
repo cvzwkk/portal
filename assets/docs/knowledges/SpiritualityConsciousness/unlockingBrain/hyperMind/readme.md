@@ -5,7 +5,8 @@ mind Over:
  - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)   
 
 Concepts:   
- - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)   
+ - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)
+ - [Kinectic, Cymatic, Sensorial](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/Kinectic-Cymatic-Sensorial/readme.md)   
 
 
 ---   
