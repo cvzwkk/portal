@@ -7,31 +7,51 @@ Guide to Awakening & Awareness
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
    - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)  
 
--------------
+-------------    
 
 # General Knowledge   
-- Knowledges:
-  - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
-    - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
-      - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
-      - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)   
-    - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
+- [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
+  - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
+    - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
+    - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)   
+
+ - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
+    
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)   
-      - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)
+      - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)   
       - [Dissolution Of Soul](/assets/docs/knowledges/SpiritualityConsciousness/soul/dissolution/readme.md)   
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
-      - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)    
+      - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)   
+      - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)   
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
-        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)        
-      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)
+        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
+        
+     **HyperMind**   
+  
+      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)    
         - [Hypermind Species](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/readme.md)   
+   
+         Self:  
+           - [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)   
+   
+         mind Over:   
+           - [Mind](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMind/readme.md)   
+           - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
+           - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)   
+           - [Lucid State](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverLucidState/readme.md)   
+        
+         Concepts:   
+           - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)   
+           - [Kinectic, Cymatic, Sensorial](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/Kinectic-Cymatic-Sensorial/readme.md)   
+     
+         
         - [Kinesis:](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/kinesis/readme.md)   
-         - Telekinesis   
-         - AtmoKinesis   
-         - GeoKinesis   
-         - AeroKinesis   
-         - HydroKinesis   
-         - ElectroKinesis   
+           - Telekinesis   
+           - AtmoKinesis   
+           - GeoKinesis   
+           - AeroKinesis   
+           - HydroKinesis   
+           - ElectroKinesis   
     
 --- 
  
