@@ -265,6 +265,12 @@ Guide to Awakening & Awareness
  
 # [Synthesis](/assets/docs/synthesis/readme.md)   
 
+  - [Humans](/assets/docs/synthesis/humans/readme.md)   
+    - [Brain](/)
+      - [Synthetic Brain](/assets/docs/synthesis/humans/brain/syntheticBrain/readme.md)
+      
+    - [Mind](/assets/docs/synthesis/humans/mind/readme.md)   
+
   - [DNA/mRna](/assets/docs/synthesis/dna-mRna/readme.md)
     - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetic/readme.md)  
     - [Autophagy](/assets/docs/synthesis/dna-mRna/autophagy/readme.md)   
