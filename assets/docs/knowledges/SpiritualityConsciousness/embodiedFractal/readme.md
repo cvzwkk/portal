@@ -5,6 +5,7 @@
 - Embodiement:  
   - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)  
   - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)
+  - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/Holographic/readme.md)    
   
 ---  
 
