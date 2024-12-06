@@ -108,7 +108,10 @@ Guide to Awakening & Awareness
       - [Calabi-Yau](/assets/docs/universe/dimensions/theory/calabi-yau/readme.md)   
       - [Tesseract](/assets/docs/universe/dimensions/tesseract/readme.md)   
       - [Oneness](/assets/docs/universe/dimensions/theory/Oneness/readme.md)
-      - [Dimensional Travel](/assets/docs/universe/dimensions/theory/DimensionalTravel/readme.md)   
+      - [Dimensional Travel](/assets/docs/universe/dimensions/theory/DimensionalTravel/readme.md)
+
+    - [Quintessence](/assets/docs/knowledges/Quintessence/readme.md)   
+      
 
 ---  
    
