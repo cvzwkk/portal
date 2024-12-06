@@ -4,6 +4,7 @@ Self:
 
 
 mind Over:   
+ - [Mind](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMind/readme.md)   
  - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
  - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)
  - [Lucid State](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverLucidState/readme.md)   
