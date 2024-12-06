@@ -1,6 +1,8 @@
 [HOME](/README.md)   
 Self:  
-- [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)   
+- [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)
+- [Neural Cortex](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/neuralCortex/readme.md)   
+   - [Cortex Less - Synthetic Mind](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/neuralCortex/cortexLess/readme.md)   
 
 
 mind Over:   
