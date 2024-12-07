@@ -2,6 +2,12 @@
 
 ---    
 
+- [Synthetic Brain](/assets/docs/synthesis/humans/brain/syntheticBrain/readme.md)    
+- [Perceptual Illusions](/assets/docs/synthesis/humans/brain/Perceptual-illusions/readme.md)   
+
+---   
+
+
 Here’s a compact and synthesized overview of our current scientific understanding of the human brain, including its structure, function, and the most advanced discoveries:
 
 ---
