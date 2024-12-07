@@ -3,7 +3,8 @@
 ---    
 
 - [Synthetic Brain](/assets/docs/synthesis/humans/brain/syntheticBrain/readme.md)    
-- [Perceptual Illusions](/assets/docs/synthesis/humans/brain/Perceptual-illusions/readme.md)   
+- [Perceptual Illusions](/assets/docs/synthesis/humans/brain/Perceptual-illusions/readme.md)
+- [Predictive Coding](/assets/docs/synthesis/humans/brain/PredictiveCoding/readme.md)   
 
 ---   
 
