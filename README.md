@@ -275,7 +275,8 @@ Guide to Awakening & Awareness
     - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetic/readme.md)  
     - [Autophagy](/assets/docs/synthesis/dna-mRna/autophagy/readme.md)   
 
-  - [Proteins](/assets/docs/synthesis/proteins/readme.md)    
+  - [Proteins](/assets/docs/synthesis/proteins/readme.md)
+    - [Variant Keys](/assets/docs/synthesis/proteins/variantKeys/readme.md)   
     - [CRISPR/CAS:](/assets/docs/synthesis/proteins/CRISPR/readme.md)  
     - [Mechano growth factor MGF](/assets/docs/synthesis/proteins/musclefiber/Mechano-growth%20factor-MGF/readme.md)
     - [Platelet-Derived Growth Factor subunit A](/assets/docs/synthesis/proteins/CRISPR/PDGF/readme.md)
