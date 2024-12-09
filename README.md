@@ -9,7 +9,7 @@ Guide to Awakening & Awareness
 
 -------------    
 
-# General Knowledge   
+# Omni Science  
 - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
     - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
@@ -24,49 +24,64 @@ Guide to Awakening & Awareness
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)   
       - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)
       
-     ---  
-  
-      - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
-        - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
-        - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)
-        - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)
+     ---
+
+   # Transcendence  
+
+![img](/assets/imgs/alchemy/20241208_234455.jpg)  
+
+   ---   
+
+   - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
+     - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
+     - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)
+     - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)
        
-         - Confluency between transcendence types:
-           - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
+      - Confluency between transcendence types:
+        - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
          
-         - Topics:
-           - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)    
+      - Topics:
+        - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
+       
+![img](/assets/imgs/alchemy/971fe61d-a4a3-40b1-b652-0e15afee9185.webp)    
            
-     ---  
+---   
+
+   **Love**    
+   - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)   
+
+![img](/assets/imgs/alchemy/c1140f45-fadd-4b53-a770-bf73fb1e71e4.webp)     
+
+---   
         
-     **HyperMind**   
+   **HyperMind**   
   
-      - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)    
-        - [Hypermind Species](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/readme.md)   
+   - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)    
+     - [Hypermind Species](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/readme.md)   
    
-         Self:  
-           - [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)   
+     Self:  
+      - [DNA/mRna Self Transformation](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindSelf/readme.md)   
    
-         mind Over:   
-           - [Mind](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMind/readme.md)   
-           - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
-           - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)   
-           - [Lucid State](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverLucidState/readme.md)   
+     mind Over:   
+      - [Mind](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMind/readme.md)   
+      - [Matter](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverMatter/readme.md)   
+      - [Quantum Fields](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverQuantumFields/readme.md)   
+      - [Lucid State](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/mindOverLucidState/readme.md)   
         
-         Concepts:   
-           - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)   
-           - [Kinectic, Cymatic, Sensorial](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/Kinectic-Cymatic-Sensorial/readme.md)   
-     
-         
-        - [Kinesis:](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/kinesis/readme.md)   
-           - Telekinesis   
-           - AtmoKinesis   
-           - GeoKinesis   
-           - AeroKinesis   
-           - HydroKinesis   
-           - ElectroKinesis   
+     Concepts:   
+      - [Holographic](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/holographicConcept/readme.md)   
+      - [Kinectic, Cymatic, Sensorial](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/hyperMind/Kinectic-Cymatic-Sensorial/readme.md)           
+      - [Kinesis:](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/kinesis/readme.md)   
+        - Telekinesis   
+        - AtmoKinesis   
+        - GeoKinesis   
+        - AeroKinesis   
+        - HydroKinesis   
+        - ElectroKinesis   
     
---- 
+---  
+
+# General Knowledge  
  
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
