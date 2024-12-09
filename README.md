@@ -28,8 +28,6 @@ Guide to Awakening & Awareness
 
    # Transcendence  
 
-![img](/assets/imgs/alchemy/20241208_234455.jpg)  
-
    ---   
 
    - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
@@ -42,15 +40,12 @@ Guide to Awakening & Awareness
          
       - Topics:
         - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
-       
-![img](/assets/imgs/alchemy/971fe61d-a4a3-40b1-b652-0e15afee9185.webp)    
+
            
 ---   
 
    **Love**    
    - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)   
-
-![img](/assets/imgs/alchemy/c1140f45-fadd-4b53-a770-bf73fb1e71e4.webp)     
 
 ---   
         
@@ -531,12 +526,20 @@ Guide to Awakening & Awareness
   - [Aug/2023](https://drive.google.com/file/d/1-33iaqOsNujHky8kQEZst0pg4nU-SZzk/view?usp=drivesdk)
   - [20/Aug/2023](https://drive.google.com/file/d/1-HBL74zBTvBfCK1hVYS3deKxqehMM62G/view?usp=drivesdk)      
 
----
+---   
+
+![img](/assets/imgs/alchemy/20241208_234455.jpg)  
+
+---   
 
 Portal Maded By: c2v2zw4k or cvzwk
 two identity of same person.
 
 ---  
+
+![img](/assets/imgs/alchemy/971fe61d-a4a3-40b1-b652-0e15afee9185.webp)     
+
+---   
 
 # Socials Networks
    
@@ -554,6 +557,10 @@ two identity of same person.
 - Instagram:   
   - [cvzwk1111](https://instagram.com/cvzwk1111)   
   - [c2v2zw4k](https://instagram.com/c2v2zw4k)    
+
+---   
+
+![img](/assets/imgs/alchemy/c1140f45-fadd-4b53-a770-bf73fb1e71e4.webp)     
 
 ---   
   
