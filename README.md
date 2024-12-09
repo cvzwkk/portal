@@ -23,11 +23,17 @@ Guide to Awakening & Awareness
       - [Dissolution Of Soul](/assets/docs/knowledges/SpiritualityConsciousness/soul/dissolution/readme.md)   
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)   
-      - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)   
+      - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)
+     ---  
+  
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
         - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
         - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)
-        - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)    
+        - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)
+       
+         - Confluency between transcendence types:
+           - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
+     ---  
         
      **HyperMind**   
   
