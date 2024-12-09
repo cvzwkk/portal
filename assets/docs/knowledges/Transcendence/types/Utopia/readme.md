@@ -1,5 +1,10 @@
 [HOME](/README.md) | [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
 
+---   
+
+- Key Points:
+  - **[Dystopia](/assets/docs/knowledges/Transcendence/types/Utopia/Dystopia/readme.md)**
+
 ---    
 
 **Utopia** refers to an idealized, perfect society or community where everything is designed to function in harmony, achieving the highest form of well-being, justice, and happiness for its inhabitants. The term originates from Sir Thomas More's 1516 book *Utopia*, which describes an imaginary island society with seemingly perfect socio-political and legal systems. 
