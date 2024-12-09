@@ -33,6 +33,10 @@ Guide to Awakening & Awareness
        
          - Confluency between transcendence types:
            - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
+         
+         - Topics:
+           - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)    
+           
      ---  
         
      **HyperMind**   
