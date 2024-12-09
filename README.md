@@ -395,7 +395,9 @@ Guide to Awakening & Awareness
   - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
   - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)      
 
-  - My Stuff Of Thought's:  
+  - My Stuff Of Thought's:
+    - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)   
+   
     - My books:   
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
