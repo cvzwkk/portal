@@ -15,7 +15,6 @@ Guide to Awakening & Awareness
     - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
     - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)
     - [Synesthesia](/assets/docs/Synesthesia/readme.md)   
-
  - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
     
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)   
@@ -24,6 +23,7 @@ Guide to Awakening & Awareness
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)   
       - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)
+      
      ---  
   
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
@@ -83,8 +83,15 @@ Guide to Awakening & Awareness
   - Processes:     
     - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
   - Monetary Policies:      
-    - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)    
+    - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)
+   
+---   
 
+# Nature   
+ - Principles:
+   - [Entropy / Negentropy](/assets/docs/Nature/principles/readme.md)   
+
+   
 ---   
 
 # Fields   
@@ -308,9 +315,10 @@ Guide to Awakening & Awareness
 
 ---  
 
-# Space
+# Space  
+
   - [Dark Energy](/assets/docs/universe/space/dark-energy/readme.md)    
-  - [Anti Matter](/assets/docs/antimatter/readme.md)     
+  - [Anti Matter](/assets/docs/antimatter/readme.md)    
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)
   - [Exotic Matter](/assets/docs/earth/elements/materials/exoticMatter/readme.md)
   - [Pulsar's](/assets/docs/universe/space/Pulsar/readme.md)     
@@ -320,6 +328,8 @@ Guide to Awakening & Awareness
   - [Neutron Stars](/assets/docs/universe/space/neutron-stars/readme.md)  
   - [Red Dwarfs](/assets/docs/universe/space/red-dwarf/readme.md)  
   - [Kepler-62](/assets/docs/universe/space/Kepler-62/readme.md)
+
+---  
 
   - Hypothetical:
     - [Quarks Star's](/assets/docs/universe/space/QuarkStars/readme.md)      
