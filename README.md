@@ -26,7 +26,8 @@ Guide to Awakening & Awareness
       - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)   
       - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
         - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
-        - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)    
+        - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)
+        - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)    
         
      **HyperMind**   
   
