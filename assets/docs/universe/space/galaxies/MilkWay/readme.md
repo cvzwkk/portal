@@ -1,6 +1,10 @@
 [HOME](/README.md) / [Galaxies](/assets/docs/universe/space/galaxies/readme.md)     
 
------------------------------
+-----------------------------   
+
+**- [Solar System](/assets/docs/universe/space/galaxies/MilkWay/SolarSystem/readme.md)**
+
+---   
 
 # MilkWay
 
