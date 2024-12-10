@@ -1,4 +1,4 @@
-[HOME](/README.md) | [Milkway](/assets/docs/universe/space/galaxies/Milkway/readme.md)    
+[HOME](/README.md) | [Milkway](/assets/docs/universe/space/galaxies/MilkWay/readme.md)    
 
 ---    
 
