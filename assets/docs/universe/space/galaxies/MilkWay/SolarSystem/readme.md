@@ -2,6 +2,11 @@
 
 ---    
 
+![img](/assets/docs/universe/space/galaxies/MilkWay/SolarSystem/imgs/images(7).jpeg)   
+
+
+---    
+
 The **solar system** is a complex and dynamic structure consisting of the Sun, planets, moons, dwarf planets, asteroids, comets, and other objects, all bound together by the Sun’s gravity.    
 Here's a detailed overview:
 
@@ -179,4 +184,17 @@ Both regions are remnants of the early solar system, holding clues about its for
 
 
 
----    
+---      
+
+**Suposition of How our solar system run in our spiral arms of galaxy:**   
+
+![img](/assets/docs/universe/space/galaxies/MilkWay/SolarSystem/imgs/426fb0ae51439e6734c60e7d9ce50e02.gif)   
+
+---   
+
+![img](/assets/docs/universe/space/galaxies/MilkWay/SolarSystem/imgs/solar-system-space-gif-1652013.gif)    
+
+
+---   
+
+
