@@ -5,7 +5,16 @@ Guide to Awakening & Awareness
 
 # [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
-   - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)  
+   - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)
+  
+---    
+
+# Hermetic Collection   
+**Thirdy part collections about occult awareness**   
+ - is not writed by me, is shared by another members of Hermetic Order   
+   - The content has uploaded in Google Drive containing lot of PDF's about enumerous awarenesse's:   
+     - [External URL](https://drive.google.com/drive/mobile/folders/1TPFgWXNA1FfL0SzJh9Y0bBoLd0eb1ffQ)   
+ 
 
 -------------    
 
