@@ -86,7 +86,8 @@ Guide to Awakening & Awareness
 ---  
 
 # General Knowledge  
- 
+
+  - [Existance Realm](/assets/docs/knowledges/Realm/readme.md)    
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
