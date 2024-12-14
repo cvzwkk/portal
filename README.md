@@ -121,7 +121,8 @@ Guide to Awakening & Awareness
 # Fields   
   - Quantum's:   
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)   
-    - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)   
+    - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)
+    - [Entanglement](/assets/docs/knowledges/Quantum/Entanglement/readme.md)    
          
   - Electromagnetism:   
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
