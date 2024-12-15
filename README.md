@@ -122,8 +122,10 @@ Guide to Awakening & Awareness
   - Quantum's:   
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)   
     - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)
-    - [Entanglement](/assets/docs/knowledges/Quantum/Entanglement/readme.md)
+    - [Qubit](/assets/docs/knowledges/Quantum/Qubit/readme.md)   
+    - [Entanglement](/assets/docs/knowledges/Quantum/Entanglement/readme.md) 
       - [Butter-Fly Effect in Entangled Systems and Consciousness](/assets/docs/knowledges/Quantum/ButterflyEffect/readme.md)    
+      - [Serendipity](/assets/docs/knowledges/Quantum/ButterflyEffect/Serendipity/readme.md)    
          
   - Electromagnetism:   
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
