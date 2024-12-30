@@ -45,7 +45,8 @@ Guide to Awakening & Awareness
        - [Cryogenic System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/CryogenicSystem/readme.md)     
        - [Quantum Teleport](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/QuantumTeleport/readme.md)  
      - [Synthetic Invisible](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/readme.md)
-       - [Quantum System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/QuantumSystem/readme.md)    
+       - [Quantum System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/QuantumSystem/readme.md)
+         - [Quantum Destin](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/QuantumSystem/QuantumDestin/readme.md)   
 
      
      - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
