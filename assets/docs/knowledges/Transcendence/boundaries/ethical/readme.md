@@ -3,7 +3,7 @@
 ---   
 
 Boundarie's Logic:   
-Measuring our development time and ethical concern about money required to buy mattwr,energy,technology to develop and evolve our actual civilization to a new transcendental type measured by kardashev scale of type 3  
+Measuring our development time and ethical concern about money required to buy matter,energy,technology to develop and evolve our actual civilization to a new transcendental type measured by kardashev scale of type 3  
 
 ---   
 
