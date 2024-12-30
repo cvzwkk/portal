@@ -323,7 +323,11 @@ Guide to Awakening & Awareness
     - [Brain](/)
       - [Synthetic Brain](/assets/docs/synthesis/humans/brain/syntheticBrain/readme.md)
       
-    - [Mind](/assets/docs/synthesis/humans/mind/readme.md)   
+    - [Mind](/assets/docs/synthesis/humans/mind/readme.md)
+      - Consciousness:
+        - [Vibrational Spectrum](/assets/docs/synthesis/humans/mind/Consciousness/VibrationalSpectrum/readme.md)   
+        - Transition States:
+          - [Seamless](/assets/docs/synthesis/humans/mind/Consciousness/TransitionStates/Seamless/readme.md)   
 
   - [DNA/mRna](/assets/docs/synthesis/dna-mRna/readme.md)
     - [Epigenetics](/assets/docs/synthesis/dna-mRna/Epigenetic/readme.md)  
