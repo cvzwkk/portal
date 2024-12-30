@@ -39,12 +39,15 @@ Guide to Awakening & Awareness
 
    ---   
 
-   - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)
+   - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
      - [Synthetic / Natural](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/readme.md)   
        - [Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)     
        - [Cryogenic System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/CryogenicSystem/readme.md)     
-       - [Quantum Teleport](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/QuantumTeleport/readme.md)     
-          
+       - [Quantum Teleport](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/QuantumTeleport/readme.md)  
+     - [Synthetic Invisible](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/readme.md)
+       - [Quantum System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/QuantumSystem/readme.md)    
+
+     
      - [Nietzsche - Übermensch](/assets/docs/knowledges/Transcendence/types/Nietzsches/readme.md)
      - [Dionysian Unity](/assets/docs/knowledges/Transcendence/types/Nietzsches/DionysianUnity/readme.md)
      - [Utopia, Utopianism](/assets/docs/knowledges/Transcendence/types/Utopia/readme.md)
