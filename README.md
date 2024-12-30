@@ -40,7 +40,8 @@ Guide to Awakening & Awareness
    ---   
 
    - [Transcendence](/assets/docs/knowledges/Transcendence/readme.md)    
-     - [Synthetic / Natural](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/readme.md)   
+     - [Synthetic / Natural](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/readme.md)
+       - [The Story of Solara: Guardian of Entropic Balance](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/Solara/readme.md)   
        - [Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)     
        - [Cryogenic System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/CryogenicSystem/readme.md)     
        - [Quantum Teleport](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/QuantumTeleport/readme.md)  
