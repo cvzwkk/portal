@@ -45,11 +45,13 @@ Guide to Awakening & Awareness
        
        - [Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)
          - Assembly:
+           - [Synthesis Scan Ultra Tech](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/Synthesis/readme.md)    
            - [Synthetic MetaMaterials - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/metaMaterialsGenerator/readme.md)    
            - [Synthetic - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/SyntheticGenerator/readme.md)   
            - [Synthetic - BioEncubator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/BioEncubator/readme.md)
          - [Meta Materials](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/metamaterials/readme.md)
          - [Model](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/readme.md)
+           - [Organic Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/Organic/readme.md)    
            - [Synthetic - Bones](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBones/readme.md)    
            - [Synthetic - Brain](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBrain/readme.md)   
            - [Synthetic - Cognition](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticCognition/readme.md)      
