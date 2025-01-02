@@ -183,7 +183,10 @@ Guide to Awakening & Awareness
       - [Oneness](/assets/docs/universe/dimensions/theory/Oneness/readme.md)
       - [Dimensional Travel](/assets/docs/universe/dimensions/theory/DimensionalTravel/readme.md)
 
-    - [Quintessence](/assets/docs/knowledges/Quintessence/readme.md)   
+    - [Quintessence](/assets/docs/knowledges/Quintessence/readme.md)
+
+  - [Frequentials:](/assets/docs/knowledges/fields/frequential/readme.md)     
+    
       
 
 ---  
