@@ -187,7 +187,9 @@ Guide to Awakening & Awareness
 
   - [Frequential](/assets/docs/knowledges/fields/frequential/readme.md)
 
-  - [Morphic](/assets/docs/knowledges/fields/morphic/readme.md)    
+  - [Morphic](/assets/docs/knowledges/fields/morphic/readme.md)
+
+  - [Primordial](/assets/docs/knowledges/fields/primordial/readme.md)   
     
       
 
