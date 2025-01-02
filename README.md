@@ -307,7 +307,10 @@ Guide to Awakening & Awareness
 ---   
              
 # Nuclear   
-   - [About Nuclear](/assets/docs/nuclear/readme.md)   
+   - [About Nuclear](/assets/docs/nuclear/readme.md)
+
+   - [Energy](/assets/docs/nuclear/energy/readme.md)    
+    
    - States:   
      - Fusion:   
        - [SonoFusion/BubbleFusion](/assets/docs/nuclear/fusion/sonoFusion/readme.md)  
