@@ -77,6 +77,7 @@ Guide to Awakening & Awareness
         - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
          
       - Topics:
+        - [Aeon's - Cosmic Architect's](/assets/docs/knowledges/Transcendence/topics/Aeons/readme.md)    
         - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
 
            
