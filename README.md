@@ -185,7 +185,9 @@ Guide to Awakening & Awareness
 
     - [Quintessence](/assets/docs/knowledges/Quintessence/readme.md)
 
-  - [Frequentials:](/assets/docs/knowledges/fields/frequential/readme.md)     
+  - [Frequential](/assets/docs/knowledges/fields/frequential/readme.md)
+
+  - [Morphic](/assets/docs/knowledges/fields/morphic/readme.md)    
     
       
 
