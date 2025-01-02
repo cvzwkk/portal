@@ -148,7 +148,8 @@ Guide to Awakening & Awareness
 ---   
 
 # Fields   
-  - Quantum's:   
+  - Quantum's:
+    - [Information](/assets/docs/knowledges/Quantum/information/readme.md)    
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)   
     - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)
     - [Qubit](/assets/docs/knowledges/Quantum/Qubit/readme.md)   
