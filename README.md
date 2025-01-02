@@ -347,6 +347,7 @@ Guide to Awakening & Awareness
       
     - [Mind](/assets/docs/synthesis/humans/mind/readme.md)
       - Consciousness:
+        - [Conscious Substrate](/assets/docs/knowledges/SpiritualityConsciousness/Conscious/substrate/readme.md)    
         - [Vibrational Spectrum](/assets/docs/synthesis/humans/mind/Consciousness/VibrationalSpectrum/readme.md)   
         - Transition States:
           - [Seamless](/assets/docs/synthesis/humans/mind/Consciousness/TransitionStates/Seamless/readme.md)   
