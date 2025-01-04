@@ -296,7 +296,8 @@ Guide to Awakening & Awareness
     - [Kaluza Klein Particles](/assets/docs/universe/subAtomic/virtualParticles/KaluzaKlein/readme.md)
 
   -  Theoric Particles:     
-     -  [Pine's Demon](/assets/docs/universe/subAtomic/particles/pinesDemon/readme.md)      
+     -  [Pine's Demon](/assets/docs/universe/subAtomic/particles/pinesDemon/readme.md)
+     -  [Tachyons Particles - Tachyonic State of Existance and Reality](/assets/docs/universe/subAtomic/particles/hypothetical/tachyons/readme.md)    
 
   - Atoms:
     - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
