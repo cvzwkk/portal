@@ -255,6 +255,15 @@ Guide to Awakening & Awareness
     - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)   
     - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)    
 
+---    
+     
+- Society:     
+   - Tips:        
+      - Ethics     
+      - Foundamental Laws    
+    - Medical Pratices:
+      - [LymphaticSystem](/assets/docs/earth/earth/society/tips/medicalPratices/therapeutic/lymphaticSystem/readme.md)     
+
 ---   
 
 - Geo Researchs:  
