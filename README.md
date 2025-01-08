@@ -43,17 +43,17 @@ Guide to Awakening & Awareness
      - [Synthetic / Natural](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/readme.md)
        - [The Story of Solara: Guardian of Entropic Balance](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/Solara/readme.md)
        
-       - [Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)
-         - Assembly:
+       - **[Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)**
+         - **Assembly:**
            - [Synthesis Natural/Synthetic](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/Synthesis/readme.md)    
            - [Synthetic MetaMaterials - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/metaMaterialsGenerator/readme.md)    
            - [Synthetic - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/SyntheticGenerator/readme.md)   
            - [Synthetic - BioEncubator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/BioEncubator/readme.md)
          - [Meta Materials](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/metamaterials/readme.md)
          
-         - [Model](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/readme.md)
+         - **[Model](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/readme.md)**
            - [Organic Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/Organic/readme.md)
-             - Assembly:
+             - **Assembly:**  
                - [Synthesis - Organic](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/Organic/Assembly/Synthesis/readme.md)
                
            - [Synthetic - Bones](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBones/readme.md)    
@@ -61,7 +61,7 @@ Guide to Awakening & Awareness
            - [Synthetic - Cognition](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticCognition/readme.md)      
            - [Synthetic - Sensorial Engine System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticSensorialEngine/readme.md)   
            - [Synthetic - Pregnancy](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticPregnancy/readme.md)     
-           - [Synthetic Blood:](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBlood/readme.md)      
+           - **[Synthetic Blood:](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBlood/readme.md)**      
              - [Synthetic DNA:](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticDNA/readme.md)     
                - [Synthetic Gamete](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticDNA/SyntheticGamete/readme.md)     
        - [Cryogenic System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/CryogenicSystem/readme.md)     
