@@ -60,8 +60,10 @@ Guide to Awakening & Awareness
            - [Synthetic - Brain](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBrain/readme.md)   
            - [Synthetic - Cognition](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticCognition/readme.md)      
            - [Synthetic - Sensorial Engine System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticSensorialEngine/readme.md)   
-           - [Synthetic - Pregnancy](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticPregnancy/readme.md)                    
-         
+           - [Synthetic - Pregnancy](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticPregnancy/readme.md)     
+           - [Synthetic Blood:](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticBlood/readme.md)      
+             - [Synthetic DNA:](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticDNA/readme.md)     
+               - [Synthetic Gamete](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticDNA/SyntheticGamete/readme.md)     
        - [Cryogenic System](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/CryogenicSystem/readme.md)     
        - [Quantum Teleport](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/QuantumTeleport/readme.md)  
      - [Synthetic Invisible](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticInvisible/readme.md)
