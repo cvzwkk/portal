@@ -1,5 +1,9 @@
 [HOME](/README.md)     
 
+---   
+
+**[Synthetic Gamete - Pair Reproduction](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/model/SyntheticDNA/SyntheticGamete/readme.md)**    
+
 ---    
 
 The idea of using synthetic nanoparticles as carriers for DNA reproduction to encode and decode the entire information of the human body—including identity, personality, aspect, formation, and pair reproduction—is a visionary concept. It involves a convergence of synthetic biology, nanotechnology, genomics, and computational sciences. Let’s explore this concept in detail.
