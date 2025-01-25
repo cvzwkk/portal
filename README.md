@@ -262,7 +262,8 @@ Guide to Awakening & Awareness
     - [RDX](/assets/docs/synthesis/substances/chemical/RDX/readme.md)   
     - [LK99](/assets/docs/synthesis/substances/chemical/LK99/readme.md)      
     - [Nitrogen](/assets/docs/synthesis/substances/chemical/Nitrogen/readme.md)   
-    - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)    
+    - [Hydrogen](/assets/docs/earth/elements/formation/elements/Hydrogen/readme.md)
+      - [Rapid Hydrogen Fuel Production](/assets/docs/earth/elements/formation/elements/Hydrogen/fuel/readme.md)  
     - [Beryllium](/assets/docs/synthesis/substances/chemical/Beryllium/readme.md)   
     - [Hexamine](/assets/docs/synthesis/substances/chemical/Hexamine/readme.md)    
 
