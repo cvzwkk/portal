@@ -1,5 +1,14 @@
 # Universal Wisdom  
+
+---   
+
+ ![Rainbown](/rainbown.jpg)   
+
+---   
+
  ![Portal](/portal.png)  
+
+---   
   
 Guide to Awakening & Awareness   
 
