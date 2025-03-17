@@ -508,7 +508,11 @@ Guide to Awakening & Awareness
   - [Repulsive Force Field](/assets/docs/knowledges/theories/repulsve-forcefield/readme.md)   
   - [Ignition Of Atmosphere](/assets/docs/knowledges/theories/atmosphere-ignition/readme.md)   
   - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
-  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)      
+  - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)
+  - [Infinity Space,Time,Mass](/assets/docs/knowledges/theories/infinite/readme.md)
+   - [Virtual-Particles, Meta-Atoms](/assets/docs/knowledges/theories/infinite/virtualParticles/readme.md)
+   - [Quintessence](/assets/docs/knowledges/theories/infinite/Quintessence/readme.md)
+   - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
 
   - My Stuff Of Thought's:
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
