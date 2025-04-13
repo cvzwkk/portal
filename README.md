@@ -30,7 +30,8 @@ Guide to Awakening & Awareness
 # Omni Science  
 - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
-    - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)   
+    - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)
+      - [Laws](/assets/docs/knowledges/SpiritualityConsciousness/laws/readme.md)   
     - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)
     - [Synesthesia](/assets/docs/Synesthesia/readme.md)   
  - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
