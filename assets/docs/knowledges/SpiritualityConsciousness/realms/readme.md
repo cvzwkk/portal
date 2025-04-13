@@ -1,4 +1,4 @@
-[HOME](/README.md)   
+[HOME](/README.md) | [Balms](/assets/docs/knowledges/SpiritualityConsciousness/realms/balms/readme.md)   
 
 ---   
 
