@@ -91,6 +91,7 @@ Guide to Awakening & Awareness
         - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
          
       - Topics:
+        - [Corpus Hermeticum](/assets/docs/knowledges/Transcendence/topics/CorpusHermeticum/readme..md)   
         - [Aeon's - Cosmic Architect's](/assets/docs/knowledges/Transcendence/topics/Aeons/readme.md)    
         - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
         - [Immortality, Eternal environment](/assets/docs/knowledges/Transcendence/topics/Immortality/readme.md)
