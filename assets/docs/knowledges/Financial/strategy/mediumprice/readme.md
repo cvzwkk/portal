@@ -107,6 +107,5 @@ calculate_investment(initial_capital, total_coins, medium_price, desired_price, 
 cvzwk.neocities.org/mp
 
 ![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/20250417_231932.jpg)
-
-
+![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/20250417_231940.jpg)   
 ---  
