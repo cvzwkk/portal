@@ -102,3 +102,11 @@ percentage_increase = float(input("Enter the percentage increase in coins betwee
 calculate_investment(initial_capital, total_coins, medium_price, desired_price, num_orders, percentage_increase)
 
 ```
+
+# Tool to make the equation   
+cvzwk.neocities.org/mp
+
+![img](/assets/docs/knowledges/Financial/strategy/mediumprice/IMG/20250417_231932.jpg)
+
+
+---  
