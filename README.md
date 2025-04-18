@@ -148,6 +148,7 @@ Guide to Awakening & Awareness
 
 # Financial  
   - [Quantum Trading, (HFT) High Frequency Trading](/assets/docs/knowledges/Financial/strategy/Quantum-Trading/readme.md)
+  - [HFT - High Frequency Trading Using FPGAs](/assets/docs/knowledges/Financial/strategy/HFT/readme.md)    
   - Strategy:      
     - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)   
     - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)
