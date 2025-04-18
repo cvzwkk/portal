@@ -2,6 +2,11 @@
 
 ---    
 
+![img](/assets/docs/knowledges/Financial/strategy/HFT/files/fpga.png)    
+
+---   
+
+
 # High Frequency Trading + FPGAs   
 
 High-Frequency Trading (HFT) using **FPGAs (Field-Programmable Gate Arrays)** is all about **ultra-low-latency** trading — making split-second decisions and executing trades faster than traditional software-based systems.    
