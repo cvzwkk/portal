@@ -6,6 +6,10 @@
 
 ---   
 
+![img](/assets/docs/knowledges/Financial/strategy/HFT/files/images.png)    
+
+---   
+
 
 # High Frequency Trading + FPGAs   
 
