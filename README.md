@@ -150,7 +150,8 @@ Guide to Awakening & Awareness
   - [Quantum Trading, (HFT) High Frequency Trading](/assets/docs/knowledges/Financial/strategy/Quantum-Trading/readme.md)
   - Strategy:      
     - [Medium Price Management](/assets/docs/knowledges/Financial/strategy/mediumprice/readme.md)   
-    - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)       
+    - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)
+    - [AlgoTrading](/assets/docs/knowledges/Financial/strategy/robots/readme.md)    
   - Processes:     
     - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
   - Monetary Policies:      
