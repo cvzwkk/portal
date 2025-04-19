@@ -147,6 +147,7 @@ Guide to Awakening & Awareness
 ---
 
 # Financial  
+[Oficial WebSite with Financial Data](https://cvzwk.neocities.org/)
   - [Bitcoin](/assets/docs/knowledges/Financial/DeFi/Bitcoin/readme.md)    
   - [Quantum Trading, (HFT) High Frequency Trading](/assets/docs/knowledges/Financial/strategy/Quantum-Trading/readme.md)
   - [HFT - High Frequency Trading Using FPGAs](/assets/docs/knowledges/Financial/strategy/HFT/readme.md)    
