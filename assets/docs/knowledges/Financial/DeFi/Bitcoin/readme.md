@@ -4,6 +4,21 @@
 
 # Bitcoin   
 
+## White Paper:   
+
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/2.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/3.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/4.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/5.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/6.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/7.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/8.png)
+![i](/assets/docs/knowledges/Financial/DeFi/Bitcoin/WhitePaper/9.png)
+
+
+---  
+
+
 **detailed explanation of Bitcoin**, how it works **with the internet** and **without the internet**:
 
 ### 1. **What is Bitcoin?**
