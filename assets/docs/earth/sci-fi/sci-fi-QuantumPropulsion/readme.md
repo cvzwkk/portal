@@ -94,6 +94,6 @@ It wouldn’t be a quantum thruster yet — but it would help us **map any unusu
 
 ---
 
-![i]()
+![i](/assets/docs/earth/sci-fi/sci-fi-QuantumPropulsion/1.png)
 
 ---   
