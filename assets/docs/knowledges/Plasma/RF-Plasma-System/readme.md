@@ -93,6 +93,6 @@ An **RF Plasma System** uses **radio frequency electromagnetic waves** (usually 
 
 ---
 
-![img]()
+![img](/assets/docs/knowledges/Plasma/RF-Plasma-System/1.png)   
 
 ---   
