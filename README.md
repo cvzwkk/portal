@@ -148,7 +148,9 @@ Guide to Awakening & Awareness
     - [RF-Plasma System](/assets/docs/knowledges/Plasma/RF-Plasma-System/readme.md)   
       - [RF-Generator](/assets/docs/knowledges/Plasma/RF-Plasma-System/RF-Generator/readme.md)   
 ---           
-  - [Hall Effect Thruster](/assets/docs/knowledges/Hall-Effect-Thruster/readme.md)   
+  - [Hall Effect Thruster](/assets/docs/knowledges/Hall-Effect-Thruster/readme.md)
+  - [Quantum Thruster](/assets/docs/knowledges/Quantum-Thruster/readme.md)   
+  - [Pais Effect](/assets/docs/knowledges/PaisEffect/readme.md)    
  
 ---
 
@@ -599,6 +601,7 @@ Guide to Awakening & Awareness
    - [Warp Drive](/assets/docs/earth/sci-fi/sciFi-WarpDrive/readme.md)
    - [Tachyon Drives](/assets/docs/earth/sci-fi/scifi-tachyonDrive/readme.md)
    - [Plasmatic Propulsion](/assets/docs/earth/sci-fi/scifi-plasmatic-Engine/readme.md)
+   - [Quantum Propulsion](/)
 
 ---  
 # WEB pages Sections below
