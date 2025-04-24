@@ -143,7 +143,8 @@ Guide to Awakening & Awareness
   - [Ancients](/assets/docs/knowledges/Ancients/readme.md)  
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
   - [Bose-Einstein Condensate](/assets/docs/knowledges/Bose-Einstein-condensate/readme.md)
-  - [Plasma](/assets/docs/knowledges/Plasma/readme.md)   
+  - [Plasma](/assets/docs/knowledges/Plasma/readme.md)
+  - [Hall Effect Thruster](/assets/docs/knowledges/Hall-Effect-Thruster/readme.md)   
  
 ---
 
