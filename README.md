@@ -143,6 +143,7 @@ Guide to Awakening & Awareness
   - [Ancients](/assets/docs/knowledges/Ancients/readme.md)  
   - [Process Of Extrusion](/assets/docs/knowledges/ExtrusionProcess/readme.md)
   - [Bose-Einstein Condensate](/assets/docs/knowledges/Bose-Einstein-condensate/readme.md)
+  - [Plasma](/assets/docs/knowledges/Plasma/readme.md)   
  
 ---
 
@@ -451,7 +452,7 @@ Guide to Awakening & Awareness
   - [Reionization Of Universe](/assets/docs/universe/space/knowledges/Reionization/readme.md)
   - [The Big Crunch](/assets/docs/universe/space/knowledges/bigcrunch/readme.md)   
   - [Cosmic Rays](/assets/docs/universe/space/cosmicrays/readme.md)
-  - [Universe Dimensions](/assets/docs/universe/space/knowledges/Dimensions/readme.md)   
+  - [Universe Dimensions](/assets/docs/universe/space/knowledges/Dimensions/readme.md)
     
 ---
   
