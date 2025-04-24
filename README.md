@@ -591,7 +591,8 @@ Guide to Awakening & Awareness
    - [Earth Split](/assets/docs/earth/sci-fi/sci-fi_terra_split/readme.md)
    - [Star Formation](/assets/docs/earth/sci-fi/sci-fi-StarFormation/readme.md)
    - [Warp Drive](/assets/docs/earth/sci-fi/sciFi-WarpDrive/readme.md)
-   - [Tachyon Drives](/assets/docs/earth/sci-fi/scifi-tachyonDrive/readme.md)    
+   - [Tachyon Drives](/assets/docs/earth/sci-fi/scifi-tachyonDrive/readme.md)
+   - [Plasmatic Propulsion](/assets/docs/earth/sci-fi/scifi-plasmatic-Engine/readme.md)
 
 ---  
 # WEB pages Sections below
