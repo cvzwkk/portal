@@ -529,6 +529,7 @@ Guide to Awakening & Awareness
   - [Infinity Space,Time,Mass](/assets/docs/knowledges/theories/infinite/readme.md)
    - [Virtual-Particles, Meta-Atoms](/assets/docs/knowledges/theories/infinite/virtualParticles/readme.md)
    - [Quintessence](/assets/docs/knowledges/theories/infinite/Quintessence/readme.md)
+   - [Anti-de Sitter/Conformal Field Theory](/assets/docs/knowledges/UniverseExpansion/Ads-CFT/readme.md)
    - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
 
   - My Stuff Of Thought's:
