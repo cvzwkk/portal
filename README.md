@@ -318,6 +318,7 @@ Guide to Awakening & Awareness
   - [Quarks](/assets/docs/universe/subAtomic/particles/Quarks/readme.md)       
   - [Protons](/assets/docs/universe/subAtomic/particles/Protons/readme.md)     
   - [Bosons](/assets/docs/universe/subAtomic/particles/Bosons/readme.md)
+    - [Gauge Bosons](/assets/docs/universe/subAtomic/particles/Bosons/GaugeBosons/readme.md)    
     - [Higgs Boson](/assets/docs/universe/subAtomic/particles/Bosons/HiggsBoson/readme.md)    
     - [W-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/WBoson/readme.md)
     - [Z-Bosons](/assets/docs/universe/subAtomic/particles/Bosons/ZBoson/readme.md)     
@@ -337,7 +338,8 @@ Guide to Awakening & Awareness
 
   -  Theoric Particles:     
      -  [Pine's Demon](/assets/docs/universe/subAtomic/particles/pinesDemon/readme.md)
-     -  [Tachyons Particles - Tachyonic State of Existance and Reality](/assets/docs/universe/subAtomic/particles/hypothetical/tachyons/readme.md)    
+     -  [Tachyons Particles - Tachyonic State of Existance and Reality](/assets/docs/universe/subAtomic/particles/hypothetical/tachyons/readme.md)
+     -  [Gravitons](/assets/docs/universe/subAtomic/particles/hypothetical/Gravitons/readme.md)     
 
   - Atoms:
     - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
