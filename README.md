@@ -151,7 +151,8 @@ Guide to Awakening & Awareness
   - [Hall Effect Thruster](/assets/docs/knowledges/Hall-Effect-Thruster/readme.md)
   - [Quantum Thruster](/assets/docs/knowledges/Quantum-Thruster/readme.md)   
   - [Pais Effect](/assets/docs/knowledges/PaisEffect/readme.md)
-  - [Universe Expansion](/assets/docs/knowledges/UniverseExpansion/readme.md)   
+  - [Universe Expansion](/assets/docs/knowledges/UniverseExpansion/readme.md)
+    - [Holomovement Theory](/assets/docs/knowledges/Holomovement/readme.md)   
  
 ---
 
