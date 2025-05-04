@@ -95,7 +95,9 @@ Guide to Awakening & Awareness
         - [Aeon's - Cosmic Architect's](/assets/docs/knowledges/Transcendence/topics/Aeons/readme.md)    
         - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
         - [Immortality, Eternal environment](/assets/docs/knowledges/Transcendence/topics/Immortality/readme.md)
-          -  [Safe Places, Environments](/assets/docs/knowledges/Transcendence/topics/Immortality/places/readme.md)    
+          -  [Safe Places, Environments](/assets/docs/knowledges/Transcendence/topics/Immortality/places/readme.md)
+         
+        - [Many Worlds interpretations, Quantum Immortality](/assets/docs/knowledges/ManyWorlds/readme.md)   
 
            
 ---   
