@@ -128,7 +128,9 @@ Guide to Awakening & Awareness
         - GeoKinesis   
         - AeroKinesis   
         - HydroKinesis   
-        - ElectroKinesis   
+        - ElectroKinesis
+     
+      - [Consciousness After Dead - Quantum Destin](/assets/docs/knowledges/SpiritualityConsciousness/AfterDead/readme.md)    
     
 ---  
 
