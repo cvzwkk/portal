@@ -138,9 +138,12 @@ Guide to Awakening & Awareness
 
 # General Knowledge  
 
-  - [Existance Realm](/assets/docs/knowledges/Realm/readme.md)    
+  - [Existance Realm](/assets/docs/knowledges/Realm/readme.md)
+    
+  - [PenRose (CCC - Theory](/assets/docs/knowledges/PenRose/readme.md)    
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
-  - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)       
+  - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)
+         
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
   - [Greek Letters](/assets/docs/knowledges/Greek/Greek-Letters/readme.md)    
