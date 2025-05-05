@@ -191,7 +191,7 @@ To **develop quantum coherence** through **quantum resonance** for the **generat
 
 ---
 
-# Geberating Qubits,Qutrits,Qudits    
+# Generating Qubits,Qutrits,Qudits    
 
 ## **1. Concept Overview**
 
