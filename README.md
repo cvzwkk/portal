@@ -161,7 +161,13 @@ Guide to Awakening & Awareness
   - [Universe Expansion](/assets/docs/knowledges/UniverseExpansion/readme.md)
     - [Holomovement Theory](/assets/docs/knowledges/Holomovement/readme.md)   
  
----
+---   
+
+# Paradox   
+  - [Fermi Paradox](/assets/docs/knowledges/Paradox/FermiParadox/readme.md)
+      
+
+---   
 
 # Financial  
 [Oficial WebSite with Financial Data](https://cvzwk.neocities.org/)
