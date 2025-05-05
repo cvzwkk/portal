@@ -165,6 +165,7 @@ Guide to Awakening & Awareness
 
 # Paradox   
   - [Fermi Paradox](/assets/docs/knowledges/Paradox/FermiParadox/readme.md)
+  - [Boltzman Brains Paradox](/assets/docs/knowledges/Paradox/BoltzmanBrain/readme.md)    
       
 
 ---   
