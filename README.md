@@ -211,7 +211,9 @@ Guide to Awakening & Awareness
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
         
   - ThermoDynamic's:   
-    - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)         
+    - [Maxwell's Demon](/assets/docs/knowledges/Quantum/Thermodynamics/MaxwellsDemon/readme.md)
+
+  - [Teleodynamic](/assets/docs/knowledges/Quantum/Teleodynamic/readme.md)    
    
   - Physics:   
     - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)   
