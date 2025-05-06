@@ -159,7 +159,10 @@ Guide to Awakening & Awareness
   - [Quantum Thruster](/assets/docs/knowledges/Quantum-Thruster/readme.md)   
   - [Pais Effect](/assets/docs/knowledges/PaisEffect/readme.md)
   - [Universe Expansion](/assets/docs/knowledges/UniverseExpansion/readme.md)
-    - [Holomovement Theory](/assets/docs/knowledges/Holomovement/readme.md)   
+    - [Holomovement Theory](/assets/docs/knowledges/Holomovement/readme.md)
+
+  - Entropy:
+    - [Syntropic Cosmology](/assets/docs/knowledges/entropy/SyntropicCosmology/readme.md)    
  
 ---   
 
