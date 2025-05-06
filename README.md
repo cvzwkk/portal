@@ -206,6 +206,7 @@ Guide to Awakening & Awareness
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)
     - [Coherence](/assets/docs/knowledges/Quantum/Coherence/readme.md)   
     - [Substratum](/assets/docs/knowledges/Quantum/Substratum/readme.md)
+    - [Cognition](/assets/docs/knowledges/Quantum/Cognition/readme.md)    
     - [Qubit](/assets/docs/knowledges/Quantum/Qubit/readme.md)   
     - [Entanglement](/assets/docs/knowledges/Quantum/Entanglement/readme.md) 
       - [Butter-Fly Effect in Entangled Systems and Consciousness](/assets/docs/knowledges/Quantum/ButterflyEffect/readme.md)    
