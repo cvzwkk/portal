@@ -555,6 +555,7 @@ Guide to Awakening & Awareness
    - [Quintessence](/assets/docs/knowledges/theories/infinite/Quintessence/readme.md)
    - [Anti-de Sitter/Conformal Field Theory](/assets/docs/knowledges/UniverseExpansion/Ads-CFT/readme.md)
    - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
+   - [Omega Point Theory](/assets/docs/knowledges/theories/OmegaPoint/readme.md)    
 
   - My Stuff Of Thought's:
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
