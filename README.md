@@ -168,9 +168,13 @@ Guide to Awakening & Awareness
 
 # Paradox   
   - [Fermi Paradox](/assets/docs/knowledges/Paradox/FermiParadox/readme.md)
-  - [Boltzman Brains Paradox](/assets/docs/knowledges/Paradox/BoltzmanBrain/readme.md)    
-      
+  - [Boltzman Brains Paradox](/assets/docs/knowledges/Paradox/BoltzmanBrain/readme.md)
+    
+  - Principles:
+    - [Bekenstein Bond](/assets/docs/knowledges/Paradox/Principles/BekensteinBond/readme.md)   
+    - [Launder's Principle](/assets/docs/knowledges/Paradox/Principles/Landauers/readme.md)   
 
+     
 ---   
 
 # Financial  
