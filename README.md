@@ -562,18 +562,20 @@ Guide to Awakening & Awareness
   - [Strangelet](/assets/docs/knowledges/theories/strangelet/readme.md)   
   - [Nexus Of Life](/assets/docs/knowledges/theories/Nexus/readme.md)
   - [Infinity Space,Time,Mass](/assets/docs/knowledges/theories/infinite/readme.md)
-   - [Virtual-Particles, Meta-Atoms](/assets/docs/knowledges/theories/infinite/virtualParticles/readme.md)
-   - [Quintessence](/assets/docs/knowledges/theories/infinite/Quintessence/readme.md)
-   - [Anti-de Sitter/Conformal Field Theory](/assets/docs/knowledges/UniverseExpansion/Ads-CFT/readme.md)
-   - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
-   - [Omega Point Theory](/assets/docs/knowledges/theories/OmegaPoint/readme.md)    
+  - [Virtual-Particles, Meta-Atoms](/assets/docs/knowledges/theories/infinite/virtualParticles/readme.md)
+  - [Quintessence](/assets/docs/knowledges/theories/infinite/Quintessence/readme.md)
+  - [Anti-de Sitter/Conformal Field Theory](/assets/docs/knowledges/UniverseExpansion/Ads-CFT/readme.md)
+  - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
+  - [Omega Point Theory](/assets/docs/knowledges/theories/OmegaPoint/readme.md)
+  - [Penrose–Hameroff Orchestrated Objective Reduction (Orch-OR) theory](/assets/docs/knowledges/theories/Orch-OR/readme.md)
 
   - My Stuff Of Thought's:
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
     - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)    
    
     - My books:   
-      - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
+      - [Futures Ancients, Future travels](/ass
+      - ets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
     - Elixir's:   
       - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
