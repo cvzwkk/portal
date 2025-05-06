@@ -210,6 +210,8 @@ Guide to Awakening & Awareness
     - [Entanglement](/assets/docs/knowledges/Quantum/Entanglement/readme.md) 
       - [Butter-Fly Effect in Entangled Systems and Consciousness](/assets/docs/knowledges/Quantum/ButterflyEffect/readme.md)    
       - [Serendipity](/assets/docs/knowledges/Quantum/ButterflyEffect/Serendipity/readme.md)    
+
+    - [QBism](/assets/docs/knowledges/Quantum/QBism/readme.md)    
          
   - Electromagnetism:   
     - [Michael faraday](/assets/docs/knowledges/Quantum/Electromagnetism/readme.md)   
