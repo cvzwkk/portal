@@ -568,6 +568,7 @@ Guide to Awakening & Awareness
   - [Qubits,Qutrits,Qudit - Quilbit Evolution](/assets/docs/knowledges/theories/QubitsEvolution/readme.md)
   - [Omega Point Theory](/assets/docs/knowledges/theories/OmegaPoint/readme.md)
   - [Penrose–Hameroff Orchestrated Objective Reduction (Orch-OR) theory](/assets/docs/knowledges/theories/Orch-OR/readme.md)
+  - [Syntropic Consciousness + Quantum Mind](/assets/docs/knowledges/theories/SyntropicConsciousness/readme.md)    
 
   - My Stuff Of Thought's:
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
