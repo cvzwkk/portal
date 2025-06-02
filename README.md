@@ -1,4 +1,4 @@
-# Universal Wisdom  
+h# Universal Wisdom  
 
 ---   
 
@@ -38,7 +38,8 @@ Guide to Awakening & Awareness
     - [Synesthesia](/assets/docs/Synesthesia/readme.md)   
  - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
     
-    - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)   
+    - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+      - [Vedic Cosmology](/assets/docs/knowledges/SpiritualityConsciousness/theories/VedicCosmology/readme.md)    
       - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)   
       - [Dissolution Of Soul](/assets/docs/knowledges/SpiritualityConsciousness/soul/dissolution/readme.md)   
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
