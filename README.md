@@ -237,6 +237,7 @@ Guide to Awakening & Awareness
       - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
       - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)   
       - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)
+      - [Quantum Zeno / Anti Zeno](/assets/docs/knowledges/Quantum/mechanics/QuantumZeno/readme.md)    
 
   - Dimensional:
     - Study:
