@@ -1,4 +1,4 @@
-h# Universal Wisdom  
+# Universal Wisdom  
 
 ---   
 
@@ -98,7 +98,8 @@ Guide to Awakening & Awareness
         - [Immortality, Eternal environment](/assets/docs/knowledges/Transcendence/topics/Immortality/readme.md)
           -  [Safe Places, Environments](/assets/docs/knowledges/Transcendence/topics/Immortality/places/readme.md)
          
-        - [Many Worlds interpretations, Quantum Immortality](/assets/docs/knowledges/ManyWorlds/readme.md)   
+        - [Many Worlds interpretations, Quantum Immortality](/assets/docs/knowledges/ManyWorlds/readme.md)
+        - [Quantum Dimensionals + Body Dimensional](assets/docs/knowledges/Transcendence/topics/DimensionalLevels/readme.md)   
 
            
 ---   
