@@ -419,7 +419,11 @@ Guide to Awakening & Awareness
      - [Cylinder Shape](/assets/docs/nuclear/knowledges/implosive-methods/cylinder-shape.md)   
    
 - Synthesis of Nuclear Elements:  
-   - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)     
+   - [U-92 Synthesis](/assets/docs/nuclear/synthesis/U92-synthesis.md)
+ 
+- Reactors:
+  - Theoric Reactors:
+    - [Quantum Reactor](/assets/docs/nuclear/reactors/hypothetical/readme.md)     
    
 ---
 
