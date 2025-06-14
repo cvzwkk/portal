@@ -307,7 +307,10 @@ Guide to Awakening & Awareness
    
    - Crystals:   
      - [Niobate Crystals](/assets/docs/earth/elements/Crystals/niobateCrystals/readme.md)   
-     - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)     
+     - [Silver Iodide Crystal + idea of Hybrid Crystal](/assets/docs/earth/elements/Crystals/SilverIodideCrystals/readme.md)
+    
+   - Theoric:
+     - [Element-115](/assets/docs/earth/elements/hypothetical/element-115/readme.md)    
 
 ---   
 
