@@ -11,12 +11,7 @@ The **Moore-Read Pfaffian** state is a **trial wavefunction** introduced in 1991
 
 It is described by the wavefunction:
 
-$$\Psi_{\text{Pf}}(z_1, \dots, z_N) = \text{Pf} \left( \frac{1}{z_i - z_j} \right) \prod_{i<j} (z_i - z_j)^m \, e^{-\sum |z_i|^2/4\ell_B^2}$$
-
-* $z_i$: complex coordinates of electrons in 2D
-* $\ell_B$: magnetic length
-* **Pf**: the **Pfaffian**, an antisymmetrized product over electron pairs
-* $m = 1$ for bosons (or $m = 2$ for fermions in realistic systems)
+![img](/assets/docs/knowledges/fields/theory/Moore-Read-Pfaffian-State/Screenshot_20250621-013619.Chrome.png)   
 
 ---
 
