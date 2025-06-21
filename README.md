@@ -263,8 +263,11 @@ Guide to Awakening & Awareness
   - [Morphic](/assets/docs/knowledges/fields/morphic/readme.md)
 
   - [Primordial](/assets/docs/knowledges/fields/primordial/readme.md)   
+
+  - Theory:
+    - States:
+       - [Moore-Read-Pfaffian State](/assets/docs/knowledges/fields/theory/Moore-Read-Pfaffian-State/readme.md)      
     
-      
 
 ---  
    
@@ -384,13 +387,17 @@ Guide to Awakening & Awareness
      -  [Pine's Demon](/assets/docs/universe/subAtomic/particles/pinesDemon/readme.md)
      -  [Tachyons Particles - Tachyonic State of Existance and Reality](/assets/docs/universe/subAtomic/particles/hypothetical/tachyons/readme.md)
      -  [Gravitons](/assets/docs/universe/subAtomic/particles/hypothetical/Gravitons/readme.md)     
-
+    
+  - Exotic QuasiParticles:
+    - [Anyons](/assets/docs/universe/subAtomic/QuasiParticles/Anyons/readme.md)    
+   
   - Atoms:
     - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
 
   - Electromagnetic devices:   
-    - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)   
+    - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)
    
+
 ---   
              
 # Nuclear   
