@@ -100,7 +100,8 @@ Guide to Awakening & Awareness
           -  [Safe Places, Environments](/assets/docs/knowledges/Transcendence/topics/Immortality/places/readme.md)
          
         - [Many Worlds interpretations, Quantum Immortality](/assets/docs/knowledges/ManyWorlds/readme.md)
-        - [Quantum Dimensionals + Body Dimensional](assets/docs/knowledges/Transcendence/topics/DimensionalLevels/readme.md)   
+        - [Shadow Work](/assets/docs/knowledges/Transcendence/topics/Consciousness/ShadowWork/readme.md)     
+        - [Quantum Dimensionals + Body Dimensional](assets/docs/knowledges/Transcendence/topics/DimensionalLevels/readme.md)    
 
            
 ---   
