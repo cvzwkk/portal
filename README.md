@@ -608,8 +608,7 @@ Guide to Awakening & Awareness
     - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)    
    
     - My books:   
-      - [Futures Ancients, Future travels](/ass
-      - ets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
+      - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
     - [UniverseNull](/assets/docs/knowledges/theories/UniverseReset/readme.md)   
     - Elixir's:   
       - [Elixir Of Knowledge, Cosmic Cognitive](/assets/docs/knowledges/theories/my-Stuff/Elixir/Cosmic-Cognition/readme.md)   
@@ -731,7 +730,7 @@ two identity of same person.
   - [cvzwkK](https://x.com/cvzwkK)   
   - [cvzwk111](https://x.com/cvzwk111)   
   - [11cvzwk](https://x.com/11cvzwk)   
-  - [cvzwkBTC](https://x.com/cvzwkbtc)   
+  - [cvzwkBTC](https://x.com/gustavojoel_)   
    
 - Facebook:   
   - [cvzwk](https://facebook.com/cvzwkz)     
