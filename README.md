@@ -144,7 +144,11 @@ Guide to Awakening & Awareness
 
   - [Existance Realm](/assets/docs/knowledges/Realm/readme.md)
     
-  - [PenRose (CCC - Theory](/assets/docs/knowledges/PenRose/readme.md)    
+  - [PenRose (CCC - Theory)](/assets/docs/knowledges/PenRose/readme.md)
+    - Consciousness Theory:     
+      - [Orch-OR, Microtubules, Tubulin SuperPosition](/assets/docs/knowledges/SpiritualityConsciousness/theories/MicroTubules/readme.md)        
+
+    
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)
   - [Bob Lazar](/assets/docs/knowledges/BobLazar/readme.md)
