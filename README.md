@@ -101,7 +101,10 @@ Guide to Awakening & Awareness
          
         - [Many Worlds interpretations, Quantum Immortality](/assets/docs/knowledges/ManyWorlds/readme.md)
         - [Shadow Work](/assets/docs/knowledges/Transcendence/topics/Consciousness/ShadowWork/readme.md)     
-        - [Quantum Dimensionals + Body Dimensional](assets/docs/knowledges/Transcendence/topics/DimensionalLevels/readme.md)    
+        - [Quantum Dimensionals + Body Dimensional](assets/docs/knowledges/Transcendence/topics/DimensionalLevels/readme.md)
+       
+        - Earth:
+          - [Evolutionary Spheres](/assets/docs/knowledges/Transcendence/topics/Earth/environment/spheres/readme.md)      
 
            
 ---   
