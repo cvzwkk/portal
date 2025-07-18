@@ -59,7 +59,8 @@ Guide to Awakening & Awareness
        
        - **[Rapid Human Cloning](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/readme.md)**
          - **Assembly:**
-           - [Synthesis Natural/Synthetic](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/Synthesis/readme.md)    
+           - [Synthesis Natural/Synthetic](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/Synthesis/readme.md)
+           - [Synthetic - Consciousness](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/SyntheticConsciousness/readme.md)    
            - [Synthetic MetaMaterials - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/metaMaterialsGenerator/readme.md)    
            - [Synthetic - Generator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/SyntheticGenerator/readme.md)   
            - [Synthetic - BioEncubator](/assets/docs/knowledges/Transcendence/types/Synthetic-Natural/HumanCloning/Assembly/BioEncubator/readme.md)
