@@ -42,6 +42,7 @@ Guide to Awakening & Awareness
  - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
     
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+      - [Fluctuator, Aeons, Proto-Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/Fluctuator/readme.md) 
       - [Morphogenic Field](/assets/docs/knowledges/SpiritualityConsciousness/Conscious/MorphogenicField/readme.md)      
       - [Vedic Cosmology](/assets/docs/knowledges/SpiritualityConsciousness/theories/VedicCosmology/readme.md)    
       - [Ancient rituals](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Sun/readme.md)   
