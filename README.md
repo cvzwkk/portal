@@ -278,9 +278,10 @@ Guide to Awakening & Awareness
   - [Primordial](/assets/docs/knowledges/fields/primordial/readme.md)   
 
   - Theory:
-    - States:
+    - States:    
        - [Moore-Read-Pfaffian State](/assets/docs/knowledges/fields/theory/Moore-Read-Pfaffian-State/readme.md)      
-    
+    - Fields:
+       - [Noetic Field](/assets/docs/knowledges/fields/theory/NoeticField/readme.md)   
 
 ---  
    
