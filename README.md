@@ -38,7 +38,11 @@ Guide to Awakening & Awareness
       - [Balms](/assets/docs/knowledges/SpiritualityConsciousness/realms/balms/readme.md)
     - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)
     - [Synesthesia](/assets/docs/Synesthesia/readme.md)
-    - [Consciousness Without Organic Brain](/assets/docs/knowledges/Transcendence/topics/Consciousness/FreedomConsciousness/readme.md)    
+    - [Consciousness Without Organic Brain](/assets/docs/knowledges/Transcendence/topics/Consciousness/FreedomConsciousness/readme.md)
+    
+    - [Psychoenergetic](/assets/docs/knowledges/Transcendence/topics/Consciousness/PsychoEnergetics/readme.md)
+      - [Dean Radin's - GCP](/assets/docs/knowledges/Transcendence/topics/Consciousness/PsychoEnergetics/readme.md)
+      
  - [Universe Symbiotic](/assets/docs/knowledges/SpiritualityConsciousness/symbiotic/readme.md)   
     
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
