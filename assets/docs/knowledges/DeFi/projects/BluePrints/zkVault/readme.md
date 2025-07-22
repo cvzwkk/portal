@@ -1085,4 +1085,84 @@ You can plug in a multi-sig contract like **Gnosis Safe** or use OpenZeppelin’
 ---  
 
 # Replacing General Lock manual as manual hand
-** Discarding RugPull by Admins
+Perfect — that means you want:
+
+> ✅ **Only allow manual *unblocking*** — but **never allow blocking** any wallet.
+
+This protects users from admin abuse and ensures that once a wallet is active, it cannot be frozen by anyone.
+
+---
+
+## 🔐 Safe Logic Design
+
+### ✅ 1. Track only **unblocked wallets** — no “block” power
+
+```solidity
+mapping(address => bool) public isUnblocked; // defaults to false
+address public fraudAdmin;
+```
+
+---
+
+### ✅ 2. Restrict actions only if **not explicitly unblocked**
+
+In key functions like `zkApprove`, `approveViaSignature`, `withdraw`, etc., use:
+
+```solidity
+require(isUnblocked[msg.sender], "Wallet must be unblocked by admin");
+```
+
+---
+
+### ✅ 3. Allow `fraudAdmin` to **only unblock**
+
+```solidity
+modifier onlyFraudAdmin() {
+    require(msg.sender == fraudAdmin, "Not fraud admin");
+    _;
+}
+
+function unblockWallet(address wallet) external onlyFraudAdmin {
+    isUnblocked[wallet] = true;
+    emit WalletUnblocked(wallet);
+}
+```
+
+---
+
+### 🚫 No `blockWallet()` function is allowed.
+
+---
+
+## 🧠 Why This Is Secure
+
+* Admin **cannot harm** users by blocking them.
+* Only unlock action is permitted.
+* Default state is “blocked until unblocked,” which is useful for **whitelist-based security**.
+
+---
+
+### 🔁 Optional: Auto-unblock the **depositor and approvers**
+
+To avoid friction, you can initialize them as unblocked on `deposit()` and `addApprovers()`:
+
+```solidity
+isUnblocked[msg.sender] = true; // in deposit()
+
+for (uint i = 0; i < 4; i++) {
+    isUnblocked[_approvers[i]] = true;
+}
+```
+
+---
+
+## ✅ Summary
+
+| Feature           | Behavior                          |
+| ----------------- | --------------------------------- |
+| `unblockWallet()` | ✅ Allowed by fraudAdmin           |
+| `blockWallet()`   | 🚫 Forbidden                      |
+| Default state     | Blocked until unblocked           |
+| Risk of abuse     | 🚫 None — admin cannot lock funds |
+
+---
