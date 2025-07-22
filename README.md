@@ -216,7 +216,11 @@ Guide to Awakening & Awareness
     - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)
 
   - Projects:
-    - [100 To 1Million](/assets/docs/knowledges/Financial/Projects/1To1m/readme.md)    
+    - [100 To 1Million](/assets/docs/knowledges/Financial/Projects/1To1m/readme.md)
+   
+   - DeFi:
+     - Projects,Ideas,Abstracts:
+       - [Vault, Zero Knowledge](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/readme.md)    
    
 ---   
 
