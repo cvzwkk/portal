@@ -1083,3 +1083,6 @@ You can plug in a multi-sig contract like **Gnosis Safe** or use OpenZeppelin’
 | Governance over Fraud Admin | Timelock + confirmation, or Gnosis Safe multisig        |
 
 ---  
+
+# Replacing General Lock manual as manual hand
+** Discarding RugPull by Admins
