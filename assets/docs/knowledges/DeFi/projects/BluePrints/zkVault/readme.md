@@ -1258,3 +1258,381 @@ But for now, a single `fraudAdmin` address works fine.
 2. Optionally: a copy of your preferred **zkVerifier** if not already on-chain
 
 ---    
+
+---   
+
+# Vulnerability Detected:  
+
+Creating a **reverse-engineered attack simulation** is an excellent way to audit your `ZkFourKeyEscrow` contract. Below is a detailed **threat model and attack harness** for testing key vulnerabilities, including code snippets and descriptions of what each attack vector attempts.
+
+---
+
+## 🔓 Attack Surface Mapping
+
+| Target Function         | Threat Vector                     | Simulation Focus                               |
+| ----------------------- | --------------------------------- | ---------------------------------------------- |
+| `approveViaSignature()` | Signature forgery / replay        | EIP-712 replay, signer mismatch                |
+| `zkApprove()`           | Fake zkProof injection            | Invalid `pubSignals` or malicious `zkVerifier` |
+| `withdraw()`            | Premature or duplicate withdrawal | Bypass `isFullyApproved`, reentry              |
+| `deposit()`             | Double-deposit by same user       | Check `depositor` logic                        |
+| `addApprovers()`        | Replace approvers post-deposit    | Bypass 1-time set check                        |
+| `unblockWallet()`       | Abuse of fraudAdmin               | Force-unblock impersonator                     |
+
+---
+
+## 🧪 1. **Test Harness (Hardhat or Foundry)**
+
+You can create a simulated attacker in your test environment:
+
+```solidity
+contract ZkEscrowAttacker {
+    ZkFourKeyEscrow public vault;
+    address public fakeApprover;
+
+    constructor(address _vault, address _fakeApprover) {
+        vault = ZkFourKeyEscrow(_vault);
+        fakeApprover = _fakeApprover;
+    }
+
+    function tryReplaySignature(bytes calldata sig, uint256 nonce) external {
+        vault.approveViaSignature(fakeApprover, nonce, sig);
+    }
+
+    function tryFakeZK(bytes calldata fakeProof, uint256[] calldata fakeSignals) external {
+        vault.zkApprove(fakeProof, fakeSignals);
+    }
+
+    function tryEarlyWithdraw() external {
+        vault.withdraw(); // should fail if not approved
+    }
+
+    function tryDoubleWithdraw() external {
+        vault.withdraw(); // should fail if already withdrawn
+    }
+}
+```
+
+---
+
+## 🔍 Attack Scenario 1: **Replay Signature Attack**
+
+**Goal:** Use a previous approval signature again.
+
+### Simulation:
+
+```js
+await vault.approveViaSignature(approver, 0, validSig); // works
+await vault.approveViaSignature(approver, 0, validSig); // should fail, nonce reused
+```
+
+✅ Defense: The `nonce` check inside `approveViaSignature()` prevents replay.
+
+---
+
+## 🔍 Attack Scenario 2: **ZK Identity Spoof**
+
+**Goal:** Craft fake `pubSignals` and fake ZK proof to approve as a valid approver.
+
+### Simulation:
+
+```js
+let fakeSignals = [attacker.address];
+await vault.zkApprove("0xfakeProofData", fakeSignals);
+```
+
+✅ Defense: The zkVerifier must validate that the address is part of an approved Merkle tree.
+
+➡️ **Test this** with a mock zkVerifier that always returns `true`.
+
+---
+
+## 🔍 Attack Scenario 3: **Unauthorized Withdraw**
+
+**Goal:** Withdraw before getting 4 approvals or try a second withdrawal.
+
+### Test:
+
+```js
+await vault.withdraw(); // should fail if approvals < 4
+await vault.withdraw(); // again => should fail, already withdrawn
+```
+
+✅ Defense: `isFullyApproved()` + `withdrawn` boolean prevent this.
+
+---
+
+## 🔍 Attack Scenario 4: **Malicious `fraudAdmin`**
+
+**Goal:** Admin tries to “freeze” or block a wallet (not allowed by design)
+
+### Test:
+
+```solidity
+function maliciousBlock(address target) external {
+    vault.blockWallet(target); // should NOT exist
+}
+```
+
+✅ Defense: We removed all block functions. Only `unblockWallet()` exists.
+
+---
+
+## 🔍 Attack Scenario 5: **Fake Depositor or Approvers**
+
+**Goal:** Add new approvers after approval has started.
+
+```js
+await vault.addApprovers(newSet); // should fail if already set
+```
+
+✅ Defense: The `approvers[0] != address(0)` check stops override.
+
+---
+
+## 🧪 Summary of Simulated Attacks
+
+| Attack               | Prevented By                    |
+| -------------------- | ------------------------------- |
+| Signature Replay     | Nonce per signer                |
+| ZK Identity Spoof    | Verified zkVerifier plug-in     |
+| Premature Withdraw   | Approval count & withdrawn flag |
+| Admin Blocking Abuse | Only `unblockWallet()` exists   |
+| Approval Override    | One-time approver setup         |
+
+---
+
+## 🔒 Want to Go Further?
+
+You can fuzz test with:
+
+* 🔁 Forge’s `invariant testing` (`forge invariant`)
+* 🕷️ Echidna (property-based fuzzing)
+* 🔍 MythX or Slither for static analysis
+* 🧠 Formal verification using Certora (if scaling up)
+
+---
+
+---    
+
+# Possible Fixes:   
+
+Here's a **hardened and fully coded version** of the `ZkFourKeyEscrow` contract with the **latest security fixes** applied based on our review:
+
+---
+
+### ✅ **Security Enhancements Implemented:**
+
+| Feature                       | Status                             |
+| ----------------------------- | ---------------------------------- |
+| ✅ Signature Replay Protection | `nonces` per signer                |
+| ✅ ZK Verifier Injection       | External verifier required         |
+| ✅ Approval Count Guard        | Require 4 approvals                |
+| ✅ Withdraw Guard              | Can only run once                  |
+| ✅ Depositor Lock              | Only set once                      |
+| ✅ Approvers Lock              | Immutable once set                 |
+| ✅ Freeze/Block Prevention     | No "block" function exists         |
+| ✅ Manual Unblock Only         | `unblockWallet()` by `fraudAdmin`  |
+| ✅ Contract Lock (No Upgrades) | Immutable source (non-upgradeable) |
+
+---
+
+### 🔐 Final Hardened Contract
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
+
+interface IERC20 {
+    function transfer(address to, uint256 amount) external returns (bool);
+    function transferFrom(address from, address to, uint256 amount) external returns (bool);
+}
+
+interface IVerifier {
+    function verifyProof(bytes calldata proof, uint256[] calldata pubSignals) external view returns (bool);
+}
+
+contract ZkFourKeyEscrow {
+    using ECDSA for bytes32;
+
+    address public immutable receiverWallet;
+    address public immutable token;
+    address public immutable fraudAdmin;
+    IVerifier public immutable zkVerifier;
+
+    address public depositor;
+    uint256 public depositedAmount;
+    bool public isToken;
+    bool public withdrawn;
+
+    address[4] public approvers;
+    mapping(address => bool) public hasApproved;
+    mapping(address => uint256) public nonces;
+    mapping(address => bool) public isUnblocked;
+
+    uint8 public approvals;
+
+    bytes32 public DOMAIN_SEPARATOR;
+    bytes32 public constant APPROVE_TYPEHASH = keccak256("Approve(address approver,uint256 nonce)");
+
+    event Deposited(address indexed from, uint256 amount);
+    event Approved(address indexed approver);
+    event Withdrawn(address indexed to, uint256 amount);
+    event Unblocked(address indexed user);
+
+    modifier onlyDepositor() {
+        require(msg.sender == depositor, "Only depositor allowed");
+        _;
+    }
+
+    modifier onlyFraudAdmin() {
+        require(msg.sender == fraudAdmin, "Not authorized");
+        _;
+    }
+
+    constructor(
+        address _receiverWallet,
+        address _token,
+        address _zkVerifier,
+        address _fraudAdmin
+    ) {
+        require(_receiverWallet != address(0), "Invalid receiver");
+        require(_zkVerifier != address(0), "Invalid verifier");
+        require(_fraudAdmin != address(0), "Invalid admin");
+
+        receiverWallet = _receiverWallet;
+        token = _token;
+        zkVerifier = IVerifier(_zkVerifier);
+        fraudAdmin = _fraudAdmin;
+        isToken = (_token != address(0));
+
+        DOMAIN_SEPARATOR = keccak256(abi.encode(
+            keccak256("EIP712Domain(string name,uint256 chainId,address verifyingContract)"),
+            keccak256(bytes("ZkFourKeyEscrow")),
+            block.chainid,
+            address(this)
+        ));
+    }
+
+    function deposit(uint256 amount) external payable {
+        require(depositor == address(0), "Already deposited");
+
+        if (isToken) {
+            require(amount > 0, "Invalid token amount");
+            require(IERC20(token).transferFrom(msg.sender, address(this), amount), "Token transfer failed");
+            depositedAmount = amount;
+        } else {
+            require(msg.value > 0, "No ETH sent");
+            depositedAmount = msg.value;
+        }
+
+        depositor = msg.sender;
+        isUnblocked[msg.sender] = true;
+        emit Deposited(msg.sender, depositedAmount);
+    }
+
+    function addApprovers(address[4] calldata _approvers) external onlyDepositor {
+        require(approvers[0] == address(0), "Approvers already set");
+
+        for (uint i = 0; i < 4; i++) {
+            require(_approvers[i] != address(0), "Invalid approver");
+            approvers[i] = _approvers[i];
+        }
+    }
+
+    function isApprover(address _addr) public view returns (bool) {
+        for (uint i = 0; i < 4; i++) {
+            if (approvers[i] == _addr) return true;
+        }
+        return false;
+    }
+
+    function approveViaSignature(address approver, uint256 nonce, bytes calldata sig) external {
+        require(isApprover(approver), "Not an approver");
+        require(!hasApproved[approver], "Already approved");
+        require(nonces[approver] == nonce, "Invalid nonce");
+
+        bytes32 digest = keccak256(abi.encodePacked(
+            "\x19\x01",
+            DOMAIN_SEPARATOR,
+            keccak256(abi.encode(APPROVE_TYPEHASH, approver, nonce))
+        ));
+
+        address recovered = digest.recover(sig);
+        require(recovered == approver, "Invalid signature");
+
+        hasApproved[approver] = true;
+        approvals++;
+        nonces[approver]++;
+
+        emit Approved(approver);
+    }
+
+    function zkApprove(bytes calldata proof, uint256[] calldata pubSignals) external {
+        require(!withdrawn, "Already withdrawn");
+        require(zkVerifier.verifyProof(proof, pubSignals), "ZK proof invalid");
+
+        address signer = address(uint160(pubSignals[0]));
+        require(isApprover(signer), "Not an approver");
+        require(!hasApproved[signer], "Already approved");
+
+        hasApproved[signer] = true;
+        approvals++;
+
+        emit Approved(signer);
+    }
+
+    function isFullyApproved() public view returns (bool) {
+        return approvals == 4;
+    }
+
+    function withdraw() external {
+        require(isFullyApproved(), "Not enough approvals");
+        require(!withdrawn, "Already withdrawn");
+        require(isUnblocked[depositor], "Depositor is frozen");
+
+        withdrawn = true;
+
+        if (isToken) {
+            require(IERC20(token).transfer(receiverWallet, depositedAmount), "Token transfer failed");
+        } else {
+            (bool success, ) = payable(receiverWallet).call{value: depositedAmount}("");
+            require(success, "ETH transfer failed");
+        }
+
+        emit Withdrawn(receiverWallet, depositedAmount);
+    }
+
+    function unblockWallet(address user) external onlyFraudAdmin {
+        require(user != address(0), "Invalid user");
+        isUnblocked[user] = true;
+        emit Unblocked(user);
+    }
+}
+```
+
+---
+
+### 🔐 Key Security Locks Recap
+
+* ✅ **No upgrade proxy** → contract source is final
+* ✅ **No one can block a user**, only unlock (`isUnblocked` default true at deposit)
+* ✅ **ZK Verifier required** → you must use trusted zk circuit (zkLogin, Semaphore, etc.)
+* ✅ **Only depositor can set approvers**
+* ✅ **No second deposit or approver override allowed**
+* ✅ **Hardcoded fraudAdmin** (consider multisig governance in future)
+
+---
+
+Would you like:
+
+1. A **Hardhat** test suite for this contract?
+2. A **frontend interface** to simulate the zk + signature flows?
+3. Help with deploying this to zkSync, Linea, Scroll, or another zkEVM?
+
+Let me know and I’ll build the next layer with you.
+
+
+
+----
