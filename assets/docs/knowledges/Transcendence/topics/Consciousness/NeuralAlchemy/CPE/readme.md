@@ -90,6 +90,29 @@ Sure! Here’s a focused overview of the key metabolic regulators **mTOR, AMPK, 
   * Use intermittent fasting or calorie restriction to suppress mTOR and activate autophagy.
   * Metformin (off-label) mimics fasting effects, downregulating mTOR pathways.
 
+Here’s a clear, concise summary for **mTOR** suitable for your CPE framework or any educational material:
+
+---
+
+### **mTOR (mechanistic Target of Rapamycin)**
+
+**Role:**
+
+* Master regulator of cell growth, protein synthesis, and anabolism.
+* Activated when nutrients (especially amino acids and glucose) and growth factors are plentiful.
+* When active, mTOR inhibits autophagy, favoring cellular building and growth.
+
+**Modulation:**
+
+* **Inhibited by:** fasting, calorie restriction, rapamycin (a pharmaceutical mTOR inhibitor), and metformin (indirectly).
+* **Activated by:** nutrient abundance, insulin, and growth signals.
+
+**Actionable Steps:**
+
+* Employ **intermittent fasting** or **calorie restriction** protocols to suppress mTOR activity and promote autophagy.
+* Consider **metformin** under medical supervision to mimic fasting effects and downregulate mTOR signaling.
+
+
 ---
 
 ### 2. **AMPK (AMP-activated Protein Kinase)**
@@ -109,6 +132,30 @@ Sure! Here’s a focused overview of the key metabolic regulators **mTOR, AMPK, 
   * Consider metformin under medical supervision.
   * Cold exposure protocols (e.g., cold showers) can stimulate AMPK.
 
+Great! Here’s the summary for **AMPK** next:
+
+---
+
+### **AMPK (AMP-activated Protein Kinase)**
+
+**Role:**
+
+* Acts as the cell’s energy sensor, activated when cellular energy is low (high AMP\:ATP ratio).
+* Promotes catabolic processes that generate energy, such as glucose uptake and fatty acid oxidation.
+* Activates autophagy and mitochondrial biogenesis to restore energy balance.
+* Suppresses mTOR signaling, thereby supporting cellular recycling and longevity.
+
+**Modulation:**
+
+* **Activated by:** fasting, exercise, caloric restriction, metformin, and cold exposure.
+* **Inhibited by:** nutrient excess and sedentary lifestyle.
+
+**Actionable Steps:**
+
+* Incorporate **regular aerobic exercise** and **intermittent fasting** to activate AMPK naturally.
+* Consider **cold exposure** protocols (e.g., cold showers or ice baths) to stimulate AMPK.
+* Use **metformin** with medical guidance for pharmacological activation.
+
 ---
 
 ### 3. **Sirtuins (SIRT1/3)**
@@ -127,6 +174,29 @@ Sure! Here’s a focused overview of the key metabolic regulators **mTOR, AMPK, 
   * Boost NAD+ through precursors (NR, NMN supplements).
   * Practice fasting and moderate exercise.
   * Consider polyphenol-rich foods (e.g., grapes, berries) or supplements.
+Here’s the summary for **SIRT1/3**:
+
+---
+
+### **Sirtuins (SIRT1 and SIRT3)**
+
+**Role:**
+
+* NAD+-dependent enzymes that regulate longevity, metabolism, DNA repair, and mitochondrial function.
+* **SIRT1** is mainly nuclear/cytosolic, modulating gene expression and inflammation.
+* **SIRT3** is mitochondrial, enhancing mitochondrial health and energy metabolism.
+* Both promote stress resistance and activate autophagy pathways.
+
+**Modulation:**
+
+* **Activated by:** increased NAD+ levels, fasting, exercise, and certain polyphenols like resveratrol.
+* **Inhibited by:** low NAD+ levels, aging, and nutrient-rich diets.
+
+**Actionable Steps:**
+
+* Boost NAD+ levels using precursors like **Nicotinamide Riboside (NR)** or **Nicotinamide Mononucleotide (NMN)** supplements.
+* Practice **intermittent fasting** and **moderate exercise** to naturally increase sirtuin activity.
+* Include polyphenol-rich foods or supplements (e.g., grapes, berries, resveratrol).
 
 ---
 
