@@ -39,6 +39,9 @@ Guide to Awakening & Awareness
     - [Cognition](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/cognition/readme.md)
     - [Synesthesia](/assets/docs/Synesthesia/readme.md)
     - [Consciousness Without Organic Brain](/assets/docs/knowledges/Transcendence/topics/Consciousness/FreedomConsciousness/readme.md)
+
+    - [Neural Alchemy](/assets/docs/knowledges/Transcendence/topics/Consciousness/NeuralAlchemy/readme.md)
+      - [Conscious Plasticity Engineering (CPE)](/assets/docs/knowledges/Transcendence/topics/Consciousness/NeuralAlchemy/CPE/readme.md)   
     
     - [Psychoenergetic](/assets/docs/knowledges/Transcendence/topics/Consciousness/PsychoEnergetics/readme.md)
       - [Dean Radin's - GCP](/assets/docs/knowledges/Transcendence/topics/Consciousness/PsychoEnergetics/readme.md)
