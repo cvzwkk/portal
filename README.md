@@ -214,7 +214,8 @@ Guide to Awakening & Awareness
     - [DCA Strategy To Bitcoin](/assets/docs/knowledges/Financial/strategy/dca/readme.md)
     - [AlgoTrading](/assets/docs/knowledges/Financial/strategy/robots/readme.md)    
   - Processes:     
-    - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)   
+    - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)
+    - [Inflation Control](/assets/docs/knowledges/Financial/Processes/inflation\/control/readme.md)  
   - Monetary Policies:      
     - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)
 
