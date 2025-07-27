@@ -215,7 +215,7 @@ Guide to Awakening & Awareness
     - [AlgoTrading](/assets/docs/knowledges/Financial/strategy/robots/readme.md)    
   - Processes:     
     - [Recession / Deflation](/assets/docs/knowledges/Financial/Processes/recession-deflation/readme.md)
-    - [Inflation Control](/assets/docs/knowledges/Financial/Processes/inflation/readme.md)  
+    - [Inflation Control](/assets/docs/knowledges/Financial/Processes/inflation/Readme.md)  
   - Monetary Policies:      
     - [Quantitative Easing](/assets/docs/knowledges/Financial/Processes/monetary-policy/Quantitstive-Easing/readme.md)
 
