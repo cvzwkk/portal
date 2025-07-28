@@ -134,7 +134,9 @@ Guide to Awakening & Awareness
 ![](Screenshot_20250724-192540.X.png)     
 
    **Love**    
-   - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)   
+   - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)
+
+  ![](20250710_150222.jpg) | 
 
 ---   
         
@@ -243,12 +245,13 @@ Guide to Awakening & Awareness
 
 # Nature   
 
-![![](FB_IMG_1752404894375.jpg)   
+![![](FB_IMG_1752404894375.jpg)
 
  - Principles:
    - [Entropy / Negentropy](/assets/docs/Nature/principles/readme.md)   
 
-![](FB_IMG_1752404909483.jpg)
+ ![](FB_IMG_1752404909483.jpg)  
+ 
 ---   
 
 # Fields  
@@ -782,9 +785,18 @@ two identity of same person.
 
 ![img](/assets/imgs/alchemy/c1140f45-fadd-4b53-a770-bf73fb1e71e4.webp)     
 
+---  
+
+![](20250719_135609.jpg)  
+
 ---   
   
 Original Source of Research: @ChatGPT  
 All Rights Reserved from OpenSource copyright  
+
+
+---
+
+![](20250719_165217.jpg)    
    
 ---   
