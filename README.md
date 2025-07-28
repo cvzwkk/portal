@@ -57,6 +57,9 @@ Guide to Awakening & Awareness
       - [Channeling cosmic energy](/assets/docs/knowledges/SpiritualityConsciousness/take-Control/Channeling-Cosmic-Energy/readme.md)   
       - [Akashic Records](/assets/docs/knowledges/AkashicRecords/readme.md)   
       - [Astral, Vampirism](/assets/docs/knowledges/SpiritualityConsciousness/Astral/vampirism/readme.md)
+
+    - God
+       - [God Awakened State](/assets/docs/knowledges/SpiritualityConsciousness/GodStage/readme.md)   
       
      ---
 
