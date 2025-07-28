@@ -238,7 +238,10 @@ Guide to Awakening & Awareness
    
 ---   
 
-# Fields   
+# Fields  
+  - Membranes:   
+   - [Time Membrane](/assets/docs/knowledges/membranes/Time/readme.md)   
+    
   - Quantum's:
     - [Information](/assets/docs/knowledges/Quantum/information/readme.md)    
     - [Resonance](/assets/docs/knowledges/Quantum/Resonance/readme.md)
