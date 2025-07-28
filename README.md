@@ -769,10 +769,9 @@ two identity of same person.
 - Twitter (X):   
   - [cvzwk](https://x.com/cvzwk)   
   - [cvzwk_](https://x.com/cvzwk_)
-  - [cvzwkK](https://x.com/cvzwkK)   
-  - [cvzwk111](https://x.com/cvzwk111)   
+  - [cvzwkK](https://x.com/cvzwkK)  
   - [11cvzwk](https://x.com/11cvzwk)   
-  - [cvzwkBTC](https://x.com/gustavojoel_)   
+  - [Gustavo Joel De Souza](https://x.com/gustavojoel_)   
    
 - Facebook:   
   - [cvzwk](https://facebook.com/cvzwkz)     
