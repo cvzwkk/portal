@@ -3,13 +3,15 @@
 ---   
 
 ![](milkway.jpeg)
-![](yyw50a.jpg)
+![](20250724_192222.jpg)
 
  ![Portal](/portal.png)
 
  ![Rainbown](/rainbown.jpg)     
 
 ---   
+
+![](IMG-20250719-WA0001.jpg)    
   
 Guide to Awakening & Awareness   
 
@@ -125,6 +127,8 @@ Guide to Awakening & Awareness
 
            
 ---   
+
+![](Screenshot_20250724-192540.X.png)     
 
    **Love**    
    - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)   
