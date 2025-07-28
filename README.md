@@ -237,10 +237,13 @@ Guide to Awakening & Awareness
 ---   
 
 # Nature   
+
+![![](FB_IMG_1752404894375.jpg)   
+
  - Principles:
    - [Entropy / Negentropy](/assets/docs/Nature/principles/readme.md)   
 
-   
+![](FB_IMG_1752404909483.jpg)
 ---   
 
 # Fields  
