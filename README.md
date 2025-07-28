@@ -30,6 +30,9 @@ Guide to Awakening & Awareness
 
 -------------    
 
+
+![](20250728_162130.jpg)   
+
 # Omni Science  
 - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
   - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
@@ -162,7 +165,9 @@ Guide to Awakening & Awareness
      
       - [Consciousness After Dead - Quantum Destin](/assets/docs/knowledges/SpiritualityConsciousness/AfterDead/readme.md)    
     
----  
+---   
+
+![](20250728_162039.jpg)   
 
 # General Knowledge  
 
