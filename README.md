@@ -287,11 +287,12 @@ Guide to Awakening & Awareness
     - [Orbital Mechanics](/assets/docs/knowledges/Quantum/Physics/Orbital-mechanics/readme.md)   
     - [The Coulomb Barrier](/assets/docs/knowledges/Quantum/Physics/Coulomb-Barrier/readme.md)    
     - [OptoMechanics](/assets/docs/knowledges/Quantum/Optomechanics/readme.md)    
-    - Mechanic's:   
-      - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
-      - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)   
-      - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)
-      - [Quantum Zeno / Anti Zeno](/assets/docs/knowledges/Quantum/mechanics/QuantumZeno/readme.md)    
+     
+  - Mechanic's:   
+    - [Waves Function, Gravitational Waves](/assets/docs/knowledges/Quantum/mechanics/wave-functions/readme.md)   
+    - [Casimir Effect](/assets/docs/knowledges/Quantum/mechanics/casimirEffect/readme.md)   
+    - [Quantum Fluctuations](/assets/docs/knowledges/Quantum/mechanics/quantumFluctuations/readme.md)
+    - [Quantum Zeno / Anti Zeno](/assets/docs/knowledges/Quantum/mechanics/QuantumZeno/readme.md)    
 
   - Dimensional:
     - Study:
@@ -314,6 +315,8 @@ Guide to Awakening & Awareness
   - [Primordial](/assets/docs/knowledges/fields/primordial/readme.md)   
 
   - Theory:
+    - Mechanics:
+       - [Quantum Faraday cage](/assets/docs/knowledges/Quantum/mechanics/QuantumFaradayCage/readme.md)    
     - States:    
        - [Moore-Read-Pfaffian State](/assets/docs/knowledges/fields/theory/Moore-Read-Pfaffian-State/readme.md)      
     - Fields:
