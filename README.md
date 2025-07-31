@@ -127,7 +127,7 @@ Guide to Awakening & Awareness
        
         - Earth:
           - [Evolutionary Spheres](/assets/docs/knowledges/Transcendence/topics/Earth/environment/spheres/readme.md)      
-
+     - [Transdimensional](/assets/docs/knowledges/Transcendence/Transdimensional/readme.md)
            
 ---   
 
