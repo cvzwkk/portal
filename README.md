@@ -238,7 +238,9 @@
    - DeFi:
      - Projects,Ideas,Abstracts:
        - [Vault, Zero Knowledge](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/readme.md)
-         - [ZK Identity](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/zkIdentity/readme.md)   
+         - [ZK Identity](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/zkIdentity/readme.md)
+           
+       - [ZK Email](/assets/docs/knowledges/DeFi/zkLayer/projects/zkEmail/readme.md)
    
 ---   
 
