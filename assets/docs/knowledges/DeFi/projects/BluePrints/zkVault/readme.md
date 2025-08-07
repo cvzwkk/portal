@@ -2171,3 +2171,112 @@ await vault.sendViaConnext(
 * Use **OpenZeppelin Defender or Chainlink Automation** for secure orchestration
 
 ---   
+
+
+# A sample frontend to trigger crosschain transfer   
+
+```
+import { useState } from "react";
+import { ethers } from "ethers";
+
+export default function VaultCrosschainFrontend() {
+  const [amount, setAmount] = useState(0);
+  const [dstChainId, setDstChainId] = useState(10106); // Example: LayerZero zkEVM
+  const [dstAddress, setDstAddress] = useState("0x...");
+  const [status, setStatus] = useState("");
+
+  const contractAddress = "0xYourVaultContract"; // Replace with your deployed Vault
+  const vaultABI = [
+    "function sendViaLayerZero(uint16,bytes,bytes) payable",
+    "function sendViaAxelar(string,string,bytes)",
+    "function sendViaConnext(uint32,address,uint256,uint256,bytes) payable"
+  ];
+
+  const sendViaLayerZero = async () => {
+    try {
+      if (!window.ethereum) throw new Error("Wallet not found");
+      const provider = new ethers.providers.Web3Provider(window.ethereum);
+      const signer = provider.getSigner();
+      const vault = new ethers.Contract(contractAddress, vaultABI, signer);
+
+      const payload = ethers.utils.defaultAbiCoder.encode([
+        "string"
+      ], ["Crosschain Ping"]);
+
+      const tx = await vault.sendViaLayerZero(
+        dstChainId,
+        ethers.utils.defaultAbiCoder.encode(["address"], [dstAddress]),
+        payload,
+        { value: ethers.utils.parseEther("0.05") } // Adjust for LayerZero fees
+      );
+
+      setStatus("Sending... TX: " + tx.hash);
+      await tx.wait();
+      setStatus("Success: " + tx.hash);
+    } catch (err) {
+      setStatus("Error: " + err.message);
+    }
+  };
+
+  return (
+    <div className="p-6 max-w-md mx-auto bg-white rounded-xl shadow-md">
+      <h2 className="text-xl font-bold mb-2">Crosschain Vault Trigger</h2>
+
+      <label className="block mb-2">Destination Chain ID:</label>
+      <input
+        type="number"
+        value={dstChainId}
+        onChange={(e) => setDstChainId(parseInt(e.target.value))}
+        className="w-full mb-4 border rounded p-2"
+      />
+
+      <label className="block mb-2">Destination Address:</label>
+      <input
+        type="text"
+        value={dstAddress}
+        onChange={(e) => setDstAddress(e.target.value)}
+        className="w-full mb-4 border rounded p-2"
+      />
+
+      <button
+        onClick={sendViaLayerZero}
+        className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
+      >
+        Send via LayerZero
+      </button>
+
+      <p className="mt-4 text-sm text-gray-600">{status}</p>
+    </div>
+  );
+}
+```
+
+✅ **Frontend Ready: Crosschain Vault Trigger (React + Ethers.js)**
+
+This UI allows the user to:
+
+* Input destination chain ID and address
+* Trigger a crosschain call using **LayerZero**
+* See transaction status in real-time
+
+### 🧪 How to Use:
+
+1. **Install dependencies**:
+
+   ```bash
+   npm install ethers
+   ```
+
+2. **Replace placeholders**:
+
+   * `0xYourVaultContract` → your deployed contract address
+   * `dstChainId` → LayerZero's destination chain ID (e.g., 10106 for zkEVM)
+   * Adjust fee values or add gas estimators
+
+3. **Extend to Axelar/Connext**:
+
+   * Duplicate the `sendViaLayerZero` function for `sendViaAxelar` and `sendViaConnext`
+   * Use appropriate input fields and payloads
+
+
+---    
