@@ -1627,19 +1627,21 @@ contract ZkFourKeyEscrow {
 
 # V2   
 
-Crosschain-compatible vault (design only; actual crosschain logic requires off-chain components or messaging protocols like LayerZero or Axelar)
-Multi-storage (e.g., mapping, array, event-based)
-ZK Identity compatibility (placeholder for integration; zkID typically handled off-chain or via specific protocols like Semaphore)
-Gasless via EIP-712 (meta-transactions)
-Escrow multisig: Requires 4 keys to authorize withdrawals
-One-time withdrawal to a new secure key
-Optimized for EVM chains (e.g., Polygon)
+Crosschain-compatible vault (design only;   
+ - Actual crosschain logic requires off-chain components or messaging protocols like LayerZero or Axelar)
+ - Multi-storage (e.g., mapping, array, event-based)
+ - ZK Identity compatibility (placeholder for integration; zkID typically handled off-chain or via specific protocols like Semaphore)
+ - Gasless via EIP-712 (meta-transactions)
+ - Escrow multisig: Requires 4 keys to authorize withdrawals
+ - One-time withdrawal to a new secure key
 
-Let’s now build the smart contract. This version will contain:
-Vault storage
-EIP-712 logic for gasless execution
-Multisig approval (4-of-N)
-Withdraw-once to a new secure key
+Optimized for EVM chains (e.g., Polygon)   
+Let’s now build the smart contract.  
+This version will contain:   
+ - Vault storage
+ - EIP-712 logic for gasless execution
+ - Multisig approval (4-of-N)
+ - Withdraw-once to a new secure key
 
 ```// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
