@@ -239,7 +239,8 @@ Guide to Awakening & Awareness
    
    - DeFi:
      - Projects,Ideas,Abstracts:
-       - [Vault, Zero Knowledge](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/readme.md)    
+       - [Vault, Zero Knowledge](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/readme.md)
+         - [ZK Identity](/assets/docs/knowledges/DeFi/projects/BluePrints/zkVault/zkIdentity/readme.md)   
    
 ---   
 
