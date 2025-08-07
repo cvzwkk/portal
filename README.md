@@ -9,17 +9,17 @@
 
  ![Rainbown](/rainbown.jpg)     
 
----   
-
-![](IMG-20250719-WA0001.jpg)    
+---    
   
-Guide to Awakening & Awareness   
+# Guide to Awakening & Awareness   
 
-# [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
+## [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
  - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
    - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)
   
 ---    
+
+![](IMG-20250719-WA0001.jpg)   
 
 # Hermetic Collection   
 **Thirdy part collections about occult awareness**   
@@ -136,8 +136,6 @@ Guide to Awakening & Awareness
    **Love**    
    - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)
 
-  ![](20250710_150222.jpg) | 
-
 ---   
         
    **HyperMind**   
@@ -246,12 +244,10 @@ Guide to Awakening & Awareness
 
 # Nature   
 
-![![](FB_IMG_1752404894375.jpg)
+![](FB_IMG_1752404894375.jpg)
 
  - Principles:
    - [Entropy / Negentropy](/assets/docs/Nature/principles/readme.md)   
-
- ![](FB_IMG_1752404909483.jpg)  
  
 ---   
 
@@ -323,7 +319,9 @@ Guide to Awakening & Awareness
     - Fields:
        - [Noetic Field](/assets/docs/knowledges/fields/theory/NoeticField/readme.md)   
 
----  
+---    
+
+  ![](20250710_150222.jpg)  
    
 # Earth Environment   
 
@@ -772,7 +770,8 @@ two identity of same person.
 # Socials Networks
    
 - Twitter (X):   
-  - [cvzwk](https://x.com/cvzwk)   
+  - [cvzwk](https://x.com/cvzwk)
+  - [cvzwk - Market Insights](https://x.com/cvzwkmk)   
   - [cvzwk_](https://x.com/cvzwk_)
   - [cvzwkK](https://x.com/cvzwkK)  
   - [11cvzwk](https://x.com/11cvzwk)   
