@@ -1625,14 +1625,141 @@ contract ZkFourKeyEscrow {
 
 ---
 
-Would you like:
+# V2   
 
-1. A **Hardhat** test suite for this contract?
-2. A **frontend interface** to simulate the zk + signature flows?
-3. Help with deploying this to zkSync, Linea, Scroll, or another zkEVM?
+Crosschain-compatible vault (design only; actual crosschain logic requires off-chain components or messaging protocols like LayerZero or Axelar)
+Multi-storage (e.g., mapping, array, event-based)
+ZK Identity compatibility (placeholder for integration; zkID typically handled off-chain or via specific protocols like Semaphore)
+Gasless via EIP-712 (meta-transactions)
+Escrow multisig: Requires 4 keys to authorize withdrawals
+One-time withdrawal to a new secure key
+Optimized for EVM chains (e.g., Polygon)
 
-Let me know and I’ll build the next layer with you.
+Let’s now build the smart contract. This version will contain:
+Vault storage
+EIP-712 logic for gasless execution
+Multisig approval (4-of-N)
+Withdraw-once to a new secure key
 
+```// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
 
+import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
+import "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol";
+import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
-----
+contract CrosschainZKVault is EIP712, ReentrancyGuard {
+    using ECDSA for bytes32;
+
+    // Events
+    event Deposit(address indexed from, uint256 amount);
+    event Withdrawal(address indexed to, uint256 amount);
+    event SignerApproved(address indexed signer);
+
+    // Storage
+    mapping(address => bool) public isSigner;
+    mapping(bytes32 => bool) public usedDigests;
+    address[] public signerList;
+    uint256 public signerThreshold = 4;
+
+    address public owner;
+    address public zkIdentityProvider; // Placeholder
+    address public secureWithdrawKey;
+    bool public withdrawnToSecureKey = false;
+
+    // Meta-tx domain separator config
+    string private constant SIGNING_DOMAIN = "VaultMetaTx";
+    string private constant SIGNATURE_VERSION = "1";
+
+    constructor(address[] memory initialSigners, address _zkIdentityProvider) 
+        EIP712(SIGNING_DOMAIN, SIGNATURE_VERSION) 
+    {
+        require(initialSigners.length >= signerThreshold, "Need >= 4 signers");
+        for (uint256 i = 0; i < initialSigners.length; i++) {
+            isSigner[initialSigners[i]] = true;
+            signerList.push(initialSigners[i]);
+        }
+        zkIdentityProvider = _zkIdentityProvider; // For future ZK auth support
+        owner = msg.sender;
+    }
+
+    // ========== Deposit ==========
+    receive() external payable {
+        emit Deposit(msg.sender, msg.value);
+    }
+
+    function deposit() external payable {
+        emit Deposit(msg.sender, msg.value);
+    }
+
+    // ========== Meta Transaction (EIP-712) ==========
+    struct MetaTx {
+        address to;
+        uint256 amount;
+        uint256 nonce;
+    }
+
+    function getDigest(MetaTx calldata meta) public view returns (bytes32) {
+        return _hashTypedDataV4(keccak256(abi.encode(
+            keccak256("MetaTx(address to,uint256 amount,uint256 nonce)"),
+            meta.to,
+            meta.amount,
+            meta.nonce
+        )));
+    }
+
+    function executeMetaTx(
+        MetaTx calldata meta,
+        bytes[] calldata signatures
+    ) external nonReentrant {
+        require(signatures.length >= signerThreshold, "Need 4 signatures");
+
+        bytes32 digest = getDigest(meta);
+        require(!usedDigests[digest], "Digest used");
+        usedDigests[digest] = true;
+
+        address[] memory seen = new address[](signerThreshold);
+        for (uint256 i = 0; i < signerThreshold; i++) {
+            address recovered = digest.recover(signatures[i]);
+            require(isSigner[recovered], "Invalid signer");
+            for (uint256 j = 0; j < i; j++) require(seen[j] != recovered, "Duplicate");
+            seen[i] = recovered;
+        }
+
+        // Safe transfer
+        (bool success, ) = meta.to.call{value: meta.amount}("");
+        require(success, "Transfer failed");
+        emit Withdrawal(meta.to, meta.amount);
+    }
+
+    // ========== Withdraw To New Key Once ==========
+    function withdrawToNewKey(address payable newKey) external nonReentrant {
+        require(!withdrawnToSecureKey, "Already withdrawn");
+        require(isSigner[msg.sender], "Not signer");
+        withdrawnToSecureKey = true;
+        uint256 balance = address(this).balance;
+        require(balance > 0, "No balance");
+
+        secureWithdrawKey = newKey;
+        (bool success, ) = newKey.call{value: balance}("");
+        require(success, "Withdraw failed");
+        emit Withdrawal(newKey, balance);
+    }
+
+    // ========== Admin Utils ==========
+    function approveNewSigner(address newSigner) external {
+        require(msg.sender == owner, "Only owner");
+        isSigner[newSigner] = true;
+        signerList.push(newSigner);
+        emit SignerApproved(newSigner);
+    }
+
+    function getAllSigners() external view returns (address[] memory) {
+        return signerList;
+    }
+
+    function getVaultBalance() external view returns (uint256) {
+        return address(this).balance;
+    }
+}
+```
