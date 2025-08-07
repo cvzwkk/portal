@@ -1763,3 +1763,230 @@ contract CrosschainZKVault is EIP712, ReentrancyGuard {
     }
 }
 ```
+---    
+
+# Cross-Chain Logic to V2 Example:  
+
+✅ Crosschain Logic Added
+Your vault contract now includes integrated support for:
+  - LayerZero (sendViaLayerZero)
+  - Axelar (sendViaAxelar)
+  - Connext (sendViaConnext)
+
+Each function is:
+  - Owner-restricted
+    Capable of sending messages or funds crosschain
+     Emitting protocol-specific events
+
+🧩 Next Steps:
+Deploy this contract on Polygon zkEVM and one more chain
+ Set up message receivers or routers on the target chains
+  Add actual payload format (e.g., ABI-encoded vault instructions)
+
+```
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
+import "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol";
+import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+
+// LayerZero Interfaces
+interface ILayerZeroEndpoint {
+    function send(
+        uint16 _dstChainId,
+        bytes calldata _destination,
+        bytes calldata _payload,
+        address payable _refundAddress,
+        address _zroPaymentAddress,
+        bytes calldata _adapterParams
+    ) external payable;
+}
+
+// Axelar Interfaces
+interface IAxelarGateway {
+    function callContract(string calldata destinationChain, string calldata destinationAddress, bytes calldata payload) external;
+}
+
+// Connext Interfaces
+interface IConnext {
+    function xcall(
+        uint32 destinationDomain,
+        address to,
+        address asset,
+        address delegate,
+        uint256 amount,
+        uint256 slippage,
+        bytes calldata callData
+    ) external payable returns (bytes32);
+}
+
+contract CrosschainZKVault is EIP712, ReentrancyGuard {
+    using ECDSA for bytes32;
+
+    // Events
+    event Deposit(address indexed from, uint256 amount);
+    event Withdrawal(address indexed to, uint256 amount);
+    event SignerApproved(address indexed signer);
+    event CrosschainSent(string protocol, address to, uint256 amount);
+
+    // Storage
+    mapping(address => bool) public isSigner;
+    mapping(bytes32 => bool) public usedDigests;
+    address[] public signerList;
+    uint256 public signerThreshold = 4;
+
+    address public owner;
+    address public zkIdentityProvider; // Placeholder
+    address public secureWithdrawKey;
+    bool public withdrawnToSecureKey = false;
+
+    // Crosschain endpoints
+    ILayerZeroEndpoint public layerZero;
+    IAxelarGateway public axelar;
+    IConnext public connext;
+
+    // Meta-tx domain separator config
+    string private constant SIGNING_DOMAIN = "VaultMetaTx";
+    string private constant SIGNATURE_VERSION = "1";
+
+    constructor(
+        address[] memory initialSigners,
+        address _zkIdentityProvider,
+        address _layerZero,
+        address _axelar,
+        address _connext
+    ) EIP712(SIGNING_DOMAIN, SIGNATURE_VERSION) {
+        require(initialSigners.length >= signerThreshold, "Need >= 4 signers");
+        for (uint256 i = 0; i < initialSigners.length; i++) {
+            isSigner[initialSigners[i]] = true;
+            signerList.push(initialSigners[i]);
+        }
+        zkIdentityProvider = _zkIdentityProvider;
+        owner = msg.sender;
+
+        layerZero = ILayerZeroEndpoint(_layerZero);
+        axelar = IAxelarGateway(_axelar);
+        connext = IConnext(_connext);
+    }
+
+    receive() external payable {
+        emit Deposit(msg.sender, msg.value);
+    }
+
+    function deposit() external payable {
+        emit Deposit(msg.sender, msg.value);
+    }
+
+    struct MetaTx {
+        address to;
+        uint256 amount;
+        uint256 nonce;
+    }
+
+    function getDigest(MetaTx calldata meta) public view returns (bytes32) {
+        return _hashTypedDataV4(keccak256(abi.encode(
+            keccak256("MetaTx(address to,uint256 amount,uint256 nonce)"),
+            meta.to,
+            meta.amount,
+            meta.nonce
+        )));
+    }
+
+    function executeMetaTx(
+        MetaTx calldata meta,
+        bytes[] calldata signatures
+    ) external nonReentrant {
+        require(signatures.length >= signerThreshold, "Need 4 signatures");
+
+        bytes32 digest = getDigest(meta);
+        require(!usedDigests[digest], "Digest used");
+        usedDigests[digest] = true;
+
+        address[] memory seen = new address[](signerThreshold);
+        for (uint256 i = 0; i < signerThreshold; i++) {
+            address recovered = digest.recover(signatures[i]);
+            require(isSigner[recovered], "Invalid signer");
+            for (uint256 j = 0; j < i; j++) require(seen[j] != recovered, "Duplicate");
+            seen[i] = recovered;
+        }
+
+        (bool success, ) = meta.to.call{value: meta.amount}("");
+        require(success, "Transfer failed");
+        emit Withdrawal(meta.to, meta.amount);
+    }
+
+    function withdrawToNewKey(address payable newKey) external nonReentrant {
+        require(!withdrawnToSecureKey, "Already withdrawn");
+        require(isSigner[msg.sender], "Not signer");
+        withdrawnToSecureKey = true;
+        uint256 balance = address(this).balance;
+        require(balance > 0, "No balance");
+
+        secureWithdrawKey = newKey;
+        (bool success, ) = newKey.call{value: balance}("");
+        require(success, "Withdraw failed");
+        emit Withdrawal(newKey, balance);
+    }
+
+    function approveNewSigner(address newSigner) external {
+        require(msg.sender == owner, "Only owner");
+        isSigner[newSigner] = true;
+        signerList.push(newSigner);
+        emit SignerApproved(newSigner);
+    }
+
+    function getAllSigners() external view returns (address[] memory) {
+        return signerList;
+    }
+
+    function getVaultBalance() external view returns (uint256) {
+        return address(this).balance;
+    }
+
+    // ========== Crosschain Logic ==========
+
+    function sendViaLayerZero(uint16 dstChainId, bytes calldata dstAddress, bytes calldata payload) external payable {
+        require(msg.sender == owner, "Only owner");
+        layerZero.send{value: msg.value}(
+            dstChainId,
+            dstAddress,
+            payload,
+            payable(msg.sender),
+            address(0),
+            ""
+        );
+        emit CrosschainSent("LayerZero", address(0), 0);
+    }
+
+    function sendViaAxelar(string calldata dstChain, string calldata dstAddress, bytes calldata payload) external {
+        require(msg.sender == owner, "Only owner");
+        axelar.callContract(dstChain, dstAddress, payload);
+        emit CrosschainSent("Axelar", address(0), 0);
+    }
+
+    function sendViaConnext(
+        uint32 dstDomain,
+        address to,
+        uint256 amount,
+        uint256 slippage,
+        bytes calldata callData
+    ) external payable {
+        require(msg.sender == owner, "Only owner");
+        connext.xcall{value: msg.value}(
+            dstDomain,
+            to,
+            address(0),
+            msg.sender,
+            amount,
+            slippage,
+            callData
+        );
+        emit CrosschainSent("Connext", to, amount);
+    }
+}
+```
+
+
+---   
+
