@@ -1992,3 +1992,182 @@ contract CrosschainZKVault is EIP712, ReentrancyGuard {
 
 ---   
 
+# 🚀 Deployment Guide: `CrosschainZKVault` on Polygon zkEVM Testnet
+
+---
+
+## 📦 Prerequisites
+
+### 1. Install Required Tools
+
+Make sure you have:
+
+* Node.js (v16+)
+* npm or yarn
+* [Foundry](https://book.getfoundry.sh/getting-started/installation) or [Hardhat](https://hardhat.org/getting-started)
+* MetaMask with **Polygon zkEVM Testnet** added
+* Funds from [Polygon zkEVM Faucet](https://faucet.polygon.technology/)
+
+---
+
+## 🔧 Step 1: Configure Your Environment
+
+### A. Hardhat Setup (`hardhat.config.js`)
+
+```js
+require("@nomicfoundation/hardhat-toolbox");
+
+module.exports = {
+  solidity: "0.8.20",
+  networks: {
+    polygonZkEvmTestnet: {
+      url: "https://rpc.public.zkevm-test.net",
+      accounts: [process.env.PRIVATE_KEY],
+      chainId: 1442,
+    },
+  },
+};
+```
+
+### B. Install Dependencies
+
+```bash
+npm install @openzeppelin/contracts
+npm install @axelar-network/axelar-gmp-sdk-solidity
+npm install @layerzerolabs/solidity-examples
+npm install dotenv
+```
+
+### C. `.env` File
+
+```bash
+PRIVATE_KEY=your_wallet_private_key
+```
+
+---
+
+## 🏗️ Step 2: Prepare Constructor Parameters
+
+You'll need:
+
+* `initialSigners`: 4+ Ethereum addresses you control
+* `zkIdentityProvider`: Use a placeholder (e.g., `0x000...001`)
+* `layerZero`, `axelar`, `connext`: Contract addresses on zkEVM testnet
+
+---
+
+## ✅ Contract Addresses (as of Aug 2025)
+
+> These addresses may change. Verify from:
+>
+> * [LayerZero Docs](https://layerzero.gitbook.io)
+> * [Axelar GMP Explorer](https://testnet.axelarscan.io/)
+> * [Connext Docs](https://docs.connext.network/)
+
+| Protocol  | zkEVM Testnet Address Example                |
+| --------- | -------------------------------------------- |
+| LayerZero | `0x9b96E61bE985C0A1633c9123Bb22f8d5506eD267` |
+| Axelar    | `0x8Db2d201c0050A6fFe5f697F1b418F42611bD8c4` |
+| Connext   | `0xA3b5c7c43C7F6DCc2E5FcAf69A02C3473C3f12f1` |
+
+---
+
+## ✨ Step 3: Deploy Script
+
+Create `scripts/deploy.js`:
+
+```js
+const hre = require("hardhat");
+
+async function main() {
+  const initialSigners = [
+    "0xYourAddr1", "0xYourAddr2", "0xYourAddr3", "0xYourAddr4"
+  ];
+  const zkIdentityProvider = "0x0000000000000000000000000000000000000001";
+
+  const layerZero = "0x9b96E61bE985C0A1633c9123Bb22f8d5506eD267";
+  const axelar = "0x8Db2d201c0050A6fFe5f697F1b418F42611bD8c4";
+  const connext = "0xA3b5c7c43C7F6DCc2E5FcAf69A02C3473C3f12f1";
+
+  const Vault = await hre.ethers.getContractFactory("CrosschainZKVault");
+  const vault = await Vault.deploy(initialSigners, zkIdentityProvider, layerZero, axelar, connext);
+
+  await vault.deployed();
+  console.log("Vault deployed to:", vault.address);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});
+```
+
+Run deployment:
+
+```bash
+npx hardhat run scripts/deploy.js --network polygonZkEvmTestnet
+```
+
+---
+
+## 🧪 Step 4: Verify + Interact
+
+### Verify Contract on zkEVM Explorer:
+
+* Go to: [https://explorer.public.zkevm-test.net](https://explorer.public.zkevm-test.net)
+* Search contract address
+* Use Hardhat plugin if needed:
+
+```bash
+npx hardhat verify <contract-address> --network polygonZkEvmTestnet
+```
+
+### Test Deposit:
+
+```bash
+npx hardhat console --network polygonZkEvmTestnet
+> const vault = await ethers.getContractAt("CrosschainZKVault", "<your_contract_address>")
+> await vault.deposit({ value: ethers.utils.parseEther("0.1") })
+```
+
+---
+
+## 🛰️ Step 5: Sending Crosschain Payloads
+
+### Example: LayerZero
+
+```js
+await vault.sendViaLayerZero(
+  10106, // Example destination chain ID
+  ethers.utils.defaultAbiCoder.encode(["bytes"], [ethers.utils.hexlify("0x...")]),
+  ethers.utils.toUtf8Bytes("Hello crosschain!")
+)
+```
+
+### Example: Axelar
+
+```js
+await vault.sendViaAxelar("ethereum-2", "0xDestination", ethers.utils.toUtf8Bytes("ZKVault Transfer"))
+```
+
+### Example: Connext
+
+```js
+await vault.sendViaConnext(
+  1735353714, // Destination domain ID
+  "0xDestination",
+  ethers.utils.parseEther("0.1"),
+  500, // 5% slippage
+  ethers.utils.toUtf8Bytes("Vault Call")
+)
+```
+
+---
+
+## 🔒 Final Notes
+
+* Polygon zkEVM supports full EVM compatibility (unlike zkSync or Starknet)
+* Always check **gas costs** and **message limits** on zk rollups
+* Use **OpenZeppelin Defender or Chainlink Automation** for secure orchestration
+
+---   
