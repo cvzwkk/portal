@@ -1,13 +1,10 @@
 # Universal Wisdom  
 
 ---   
-
-![](milkway.jpeg)
 ![](20250724_192222.jpg)
 
- ![Portal](/portal.png)
-
  ![Rainbown](/rainbown.jpg)     
+ ![Portal](/portal.png)
 
 ---    
   
