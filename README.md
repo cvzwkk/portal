@@ -31,7 +31,8 @@
 ![](20250728_162130.jpg)   
 
 # Omni Science  
-- [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)    
+- [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
+  - [Divine Language](/assets/docs/knowledges/AkashicRecords/DivineLanguage/readme.md)  
   - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
     - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)
       - [Laws](/assets/docs/knowledges/SpiritualityConsciousness/laws/readme.md)
