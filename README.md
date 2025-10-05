@@ -111,6 +111,7 @@
         - [Nietzsche vs Utopianism](/assets/docs/knowledges/Transcendence/confluency/readme.md)
          
       - Topics:
+        - [RosiCrucian](/assets/docs/knowledges/AkashicRecords/rosicrucian/readme.md)
         - [Noetic Evolution](/assets/docs/knowledges/Transcendence/topics/Consciousness/NoeticEvolution/readme.md)    
         - [Corpus Hermeticum](/assets/docs/knowledges/Transcendence/topics/CorpusHermeticum/readme..md)   
         - [Aeon's - Cosmic Architect's](/assets/docs/knowledges/Transcendence/topics/Aeons/readme.md)    
