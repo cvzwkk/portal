@@ -33,7 +33,8 @@
 # Omni Science  
 - [OmniScience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
   - [Divine Language](/assets/docs/knowledges/AkashicRecords/DivineLanguage/readme.md)  
-  - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)   
+  - [Embodied Fractal](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/readme.md)
+  - [Divine Geometry](/assets/docs/knowledges/AkashicRecords/DivineGeometry/readme.md)    
     - [Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/embodiedFractal/consciousness/readme.md)
       - [Laws](/assets/docs/knowledges/SpiritualityConsciousness/laws/readme.md)
       - [Realms](/assets/docs/knowledges/SpiritualityConsciousness/realms/readme.md)
