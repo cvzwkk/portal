@@ -1,5 +1,3 @@
----
-
 ## 🧊 Negative Energy Environment Requirement
 
 The **Zero-Point–MDPL Environment** depends on a stabilizing layer of **negative energy density** to counter the compressive curvature of the **MDPL field**.
@@ -76,5 +74,3 @@ This condition defines a **stable spacetime pocket** — the theoretical basis f
 ---
 
 *Status: The negative-energy environment remains a theoretical stabilizing condition within the MDPL model, symbolizing equilibrium between expansion and compression in the curvature of spacetime.*
-
----
