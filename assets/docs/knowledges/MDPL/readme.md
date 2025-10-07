@@ -5,6 +5,7 @@
 [Environment](/assets/docs/knowledges/MDPL/Field/readme.md):   
  - [Negative Energy](/assets/docs/knowledges/MDPL/Field/Environment/NegativeEnergyEnvironment/readme.md)
  - [Zero Point Field](/assets/docs/knowledges/MDPL/Field/Environment/ZPE-Environment/readme.md)
+ - [Exotic Matter](/assets/docs/knowledges/MDPL/Field/Environment/ExoticMatter/readme.md)
 
 ---
 
