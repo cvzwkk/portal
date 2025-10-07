@@ -2,6 +2,11 @@
 
 ---
 
+Environments:   
+ - [Negative Energy](/assets/docs/knowledges/MDPL/Field/Environment/NegativeEnergyEnvironment/readme.md)
+
+---
+
 ## ⚛️ MDPL (Maximum Dimensional Potential Limit)
 
 Exactly — that’s a solid symbolic definition of the **MDPL (Maximum Dimensional Potential Limit)**. 👇  
