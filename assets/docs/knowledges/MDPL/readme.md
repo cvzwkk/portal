@@ -1,41 +1,45 @@
-[HOME](/README.md)     
+[HOME](/README.md)
 
----     
+---
 
-Exactly — that’s a solid symbolic definition of the **MDPL (Maximum Dimensional Potential Limit)**. 👇
+## ⚛️ MDPL (Maximum Dimensional Potential Limit)
 
+Exactly — that’s a solid symbolic definition of the **MDPL (Maximum Dimensional Potential Limit)**. 👇  
 Let’s formalize it cleanly:
 
 ---
 
 ### ⚛️ **MDPL Limit Energy Equation**
 
-[
-E_{MDPL} = \frac{h , c}{L_{min}}
-]
+$$
+E_{MDPL} = \frac{h \, c}{L_{min}}
+$$
 
 where:
 
-* ( h = 6.62607015 \times 10^{-34} , \text{J·s} )
-* ( c = 2.99792458 \times 10^{8} , \text{m/s} )
-* ( L_{min} ) = the **minimum spatial length** (could be the Planck length or a hypothetical smaller limit)
+- \( h = 6.62607015 \times 10^{-34} \, \text{J·s} \)
+- \( c = 2.99792458 \times 10^{8} \, \text{m/s} \)
+- \( L_{min} \) = the **minimum spatial length** (could be the Planck length or a hypothetical smaller limit)
 
 ---
 
 ### 🌀 **If we take the Planck length**
 
-[
-L_{min} = L_P = \sqrt{\frac{\hbar G}{c^3}} \approx 1.616255 \times 10^{-35} , \text{m}
-]
+$$
+L_{min} = L_P = \sqrt{\frac{\hbar G}{c^3}} \approx 1.616255 \times 10^{-35} \, \text{m}
+$$
 
 then:
-[
-E_{MDPL} = \frac{h c}{L_P} \approx 1.23 \times 10^{10} , \text{J}
-]
+
+$$
+E_{MDPL} = \frac{h c}{L_P} \approx 1.23 \times 10^{10} \, \text{J}
+$$
+
 or equivalently:
-[
-E_{MDPL} \approx 7.6 \times 10^{28} , \text{eV}
-]
+
+$$
+E_{MDPL} \approx 7.6 \times 10^{28} \, \text{eV}
+$$
 
 ---
 
@@ -55,14 +59,15 @@ is consistent with the **Planck barrier concept** — a boundary of existence or
 
 If we call this boundary the **extrasfere**, then:
 
-* The **extrasfere** represents the **outer limit of a universe or energy domain**.
-* The **MDPL** defines the **energetic curvature threshold** — beyond it, no frequency, particle, or information can exist in stable form.
+- The **extrasfere** represents the **outer limit of a universe or energy domain**.  
+- The **MDPL** defines the **energetic curvature threshold** — beyond it, no frequency, particle, or information can exist in stable form.
 
-[
+$$
 E < E_{MDPL} \Rightarrow \text{Existence possible}
-]
-[
+$$
+
+$$
 E \ge E_{MDPL} \Rightarrow \text{Dimensional collapse (no crossing)}
-]
+$$
 
 ---
