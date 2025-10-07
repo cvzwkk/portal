@@ -101,3 +101,64 @@ Symbolically, it embodies the balance between **order (structure)** and **void (
 ---
 
 *© Conceptual framework for theoretical physics / speculative design – 2025*
+
+
+## 🧭 Structural Layers of the Zero-Point–MDPL Field Bubble
+
+---
+
+### 🛡️ **1. MDPL Field Layer**
+
+Acts like a **curvature cage**, preventing external vacuum fluctuations, radiation, or gravitational perturbations from penetrating the environment.
+
+**Theoretical analog:** a strong gravitational or electromagnetic field shaping the local spacetime metric.
+
+- Function: Containment and isolation  
+- Pressure sign: **Positive**  
+- Boundary role: Defines the upper curvature and energy limit
+
+---
+
+### 🌊 **2. Zero-Point Buffer**
+
+Provides **internal pressure balance** through **negative energy density**.
+
+This layer counteracts the compressive stresses produced by the MDPL shell, maintaining near-zero net curvature within the inner region.
+
+- Function: Pressure cancellation  
+- Pressure sign: **Negative**  
+- Boundary role: Dynamic stabilizer between collapse and expansion
+
+---
+
+### 🪐 **3. Habitable Core**
+
+A **classical-energy region** where normal matter, instruments, and life could exist in a nearly flat spacetime pocket.
+
+The effective equation of state in this region is approximately neutral:
+
+$$
+P_{+} + P_{-} \approx 0
+$$
+
+Symbolically:
+
+$$
+P_{MDPL} + P_{ZPF} \approx 0 \;\Rightarrow\; \text{Stable spacetime pocket}
+$$
+
+---
+
+### 🧩 **Conceptual Summary**
+
+| Layer | Energy Type | Pressure Sign | Purpose |
+|:------|:-------------|:---------------|:----------|
+| **MDPL Field Layer** | Maximum curvature field | \( + \) | Containment / external shielding |
+| **Zero-Point Buffer** | Vacuum negative energy | \( - \) | Internal stabilization |
+| **Habitable Core** | Classical matter field | \( \approx 0 \) | Stable space for structure / life |
+
+---
+
+### 📊 **Visual Representation (schematic)**
+
+
