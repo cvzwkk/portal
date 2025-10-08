@@ -476,3 +476,115 @@ Would cost millions but **absolutely possible** with current experimental physic
 
 ---   
 
+# ⚙️ Curvature Modulation Drive (CMD) — Warp-Class Integration
+
+The **Curvature Modulation Drive (CMD)** functions as a **warp-drive–class engine**, manipulating **spacetime curvature directly** rather than relying on reaction mass.  
+It refines the concept of the **Alcubierre warp drive** with a dynamically controlled, stabilized, and energy-regulated structure.
+
+---
+
+## 🚀 CMD as a Warp-Drive Engine
+
+### 1. Shared Principle
+
+Both the **Alcubierre Drive** and the **CMD** rely on **metric engineering** — reshaping spacetime itself.
+
+$$
+ds^2 = -c^2 dt^2 + [dx - v_s(t) f(r_s) dt]^2 + dy^2 + dz^2
+$$
+
+- \( f(r_s) \) defines the warp bubble shape in the Alcubierre model.  
+- The **CMD** replaces this with **dynamic curvature modulation**, allowing **real-time control** of warp geometry.
+
+---
+
+### 2. Dynamic Curvature Control
+
+CMD modifies spacetime curvature through time-dependent modulation:
+
+$$
+\frac{\partial g_{\mu\nu}}{\partial t} = k \, \Phi(x,t)
+$$
+
+Where:  
+- \( \Phi(x,t) \): curvature modulation potential  
+- \( k \): coupling coefficient between the **Zero-Point Buffer** and **MDPL Shell**
+
+**Advantages:**
+- Stable curvature field  
+- Directional control  
+- Field self-regulation through feedback loops  
+
+---
+
+### 3. Warp Field Integration
+
+| Warp Concept | CMD Equivalent |
+|:--------------|:----------------|
+| Warp Bubble | MDPL–Zero-Point Containment |
+| Negative Energy Ring | Zero-Point Buffer |
+| Expansion / Compression Zones | Curvature Gradient Control |
+| Bubble Stability | MDPL Feedback System |
+
+Thus, the **CMD** acts as a **warp engine** with **self-stabilizing, tunable curvature layers**, enabling control over the field’s geometry in real time.
+
+---
+
+### 4. Warp-Class Behavior
+
+Inside the **Core**, spacetime remains flat (no time dilation).  
+Externally, curvature gradients form regions of contraction (front) and expansion (rear), moving the bubble through the continuum.
+
+$$
+v_{\text{apparent}} = \frac{d\chi}{dt} \approx c \, \frac{\Delta g}{g_0}
+$$
+
+This results in **apparent faster-than-light motion**, while local spacetime obeys relativity.
+
+---
+
+### 5. Negative Energy Requirement
+
+To sustain the warp field, the CMD utilizes **negative energy density** through the **Zero-Point Buffer**:
+
+$$
+\rho_{\text{neg}} = \frac{-\hbar}{2} \int_0^\infty \omega \, d\omega
+$$
+
+This regulated vacuum field replaces the static “negative energy ring” of the Alcubierre model.
+
+---
+
+## 🧠 Summary Comparison
+
+| Feature | Alcubierre Warp Drive | Curvature Modulation Drive |
+|:----------|:---------------------|:-----------------------------|
+| **Control** | Static metric bubble | Dynamic curvature modulation |
+| **Stability** | Fragile symmetry | MDPL buffer self-regulation |
+| **Energy Source** | Hypothetical exotic matter | Controlled zero-point field |
+| **Navigation** | Linear | Multi-axis modulation |
+| **Feasibility** | Extreme energy demand | Theoretically reduced requirements |
+
+---
+
+## 🌀 Conceptual Visualization (Structure Overview)
+
+1. **Outer Shell (MDPL):** Containment and field structure  
+2. **Zero-Point Buffer:** Negative energy layer regulating curvature  
+3. **Core Zone:** Flat spacetime for occupants  
+4. **Interface Membrane:** Field transition regulator  
+5. **Outer Field:** Coupled with the cosmic spacetime background  
+
+---
+
+### 🌌 Operational Summary
+
+1. CMD forms a **warp bubble** via **curvature modulation**  
+2. Maintains **flat spacetime** inside the Core  
+3. Uses **negative energy control** for sustained curvature gradients  
+4. Achieves **apparent superluminal translation** without local relativistic violation  
+
+---
+
+> **In short:**  
+> The **Curvature Modulation Drive** is a **dynamic warp field engine**, merging zero-point field engineering and MDPL containment to produce **stable, steerable spacetime curvature** — a practical evolution of warp-drive theory.
