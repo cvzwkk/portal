@@ -588,3 +588,144 @@ This regulated vacuum field replaces the static “negative energy ring” of th
 
 > **In short:**  
 > The **Curvature Modulation Drive** is a **dynamic warp field engine**, merging zero-point field engineering and MDPL containment to produce **stable, steerable spacetime curvature** — a practical evolution of warp-drive theory.
+
+# 🌌 Negative-Energy Rings and Buffers in Warp-Class Field Systems
+
+Warp-class field drives — such as the **Alcubierre Drive** and the **Curvature Modulation Drive (CMD)** — both require **regions of negative energy density** to bend spacetime in a controlled way.  
+These regions form the **active curvature zones** that compress and expand spacetime, propelling the craft.
+
+---
+
+## ⚙️ 1. Alcubierre-Type Negative Energy Ring
+
+In the **Alcubierre metric**, spacetime is shaped into a “bubble” that contracts in front of the craft and expands behind it.
+
+### The metric form
+
+$$
+ds^2 = -c^2 dt^2 + [dx - v_s(t) f(r_s) dt]^2 + dy^2 + dz^2
+$$
+
+- \( f(r_s) \): spatial function defining the warp bubble shape  
+- \( v_s(t) \): apparent velocity of the bubble  
+- \( r_s \): distance from the bubble center  
+
+The curvature energy density in this geometry is given by the stress-energy tensor:
+
+$$
+T_{\mu\nu} = \frac{1}{8\pi G} \left( R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} \right)
+$$
+
+Within this, one finds regions where:
+
+$$
+\rho_{\text{eff}} = T_{00} < 0
+$$
+
+These **negative-energy regions** form a **toroidal ring** around the warp bubble — the **negative energy ring** — which enables spacetime contraction ahead and expansion behind.
+
+### Properties
+
+| Property | Description |
+|:----------|:-------------|
+| **Geometry** | Toroidal (ring-like) region encircling the bubble |
+| **Energy sign** | Negative (\( \rho < 0 \)) |
+| **Function** | Induces spacetime curvature differential |
+| **Issue** | Extremely high exotic energy requirement (\( \sim 10^{62}\ \mathrm{J} \) for 1 m bubble in early estimates) |
+
+---
+
+## 🌀 2. CMD Negative-Energy Buffer
+
+The **Curvature Modulation Drive (CMD)** refines this idea.  
+Instead of a single static negative-energy ring, it employs a **layered field architecture** with a **Zero-Point Buffer** that *dynamically maintains* negative energy density.
+
+### Energy structure
+
+$$
+T_{\mu\nu}^{\text{eff}} = 
+T_{\mu\nu}^{\text{matter}} + 
+T_{\mu\nu}^{\text{field}} + 
+T_{\mu\nu}^{\text{neg}}
+$$
+
+Here, the **negative component** arises from vacuum fluctuations suppressed within the buffer zone:
+
+$$
+\rho_{\text{neg}} = \langle 0 | T_{00} | 0 \rangle_{\text{modified}} - \langle 0 | T_{00} | 0 \rangle_{\text{free}} < 0
+$$
+
+This creates a **negative vacuum energy layer** surrounding the **neutral core zone**, balancing the positive stress of the **MDPL shell**.
+
+---
+
+### CMD Layer Configuration
+
+| Layer | Energy Sign | Function |
+|:------|:-------------|:-------------|
+| **Outer Shell (MDPL)** | \( + \) | Containment and field structure |
+| **Zero-Point Buffer** | \( - \) | Balances curvature pressure |
+| **Core Zone** | \( 0 \) | Flat internal spacetime |
+| **Interface Membrane** | Variable | Regulates field exchange |
+| **Outer Field** | — | Background spacetime |
+
+---
+
+### Curvature Dynamics
+
+CMD drives motion by **modulating the curvature potential** \( \Phi(x,t) \):
+
+$$
+\frac{\partial g_{\mu\nu}}{\partial t} = k \, \Phi(x,t)
+$$
+
+This produces controlled curvature gradients:
+
+$$
+\Delta g_{\mu\nu} \propto \frac{\partial \Phi}{\partial x^\mu}
+$$
+
+- **Front field:** positive curvature (compression)  
+- **Rear field:** negative curvature (expansion)  
+- **Net result:** translation of the local spacetime bubble
+
+---
+
+### Energy Source Coupling
+
+The **negative-energy buffer** requires sustained input to maintain the vacuum offset.  
+In advanced CMD models:
+
+$$
+\rho_{\text{neg}} \sim - \frac{\hbar c \pi^2}{720 a^4}
+$$
+
+where \( a \) is the effective cavity separation within the buffer’s Casimir-like structure.
+
+---
+
+### Conceptual Differences
+
+| Feature | Alcubierre-Type | CMD-Type |
+|:---------|:----------------|:----------|
+| **Geometry** | Static ring (toroidal) | Layered field shell |
+| **Energy generation** | Requires exotic matter | Uses zero-point modulation |
+| **Control** | Fixed metric shape | Dynamic curvature tuning |
+| **Stability** | Fragile | Self-regulating via MDPL feedback |
+| **Energy demand** | Extremely high | Reduced by layered regulation |
+
+---
+
+## 🧩 Summary
+
+- **Alcubierre Ring:** Static toroidal negative-energy region shaping spacetime curvature.  
+- **CMD Buffer:** Dynamic layered zone that regulates curvature through zero-point modulation.  
+- **Both** create regions of **negative stress-energy** \( (\rho < 0) \), essential to spacetime expansion–compression balance.  
+- **CMD’s advantage** lies in its **field stability and lower energy threshold**, made possible by continuous curvature modulation rather than static stress.
+
+---
+
+> ⚡ **In essence:**  
+> The **Alcubierre Ring** *creates* curvature through geometry.  
+> The **CMD Buffer** *sustains and controls* it through field resonance.
+> 
