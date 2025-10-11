@@ -48,9 +48,7 @@ Feed Handler → Parser → Logic Pipeline → Risk Filter → Order Encoder
 - Zero software stack between signal and trade
 
 **Mathematically:**
-$$
-t_{execution} \approx t_{signal} + t_{gate} + \epsilon, \quad \epsilon \to 0
-$$
+$$t_{execution} \approx t_{signal} + t_{gate} + \epsilon, \quad \epsilon \to 0$$
 
 ---
 
