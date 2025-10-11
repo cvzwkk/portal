@@ -66,9 +66,7 @@ Above the reflex layer, **AI models** process multi-scale data: tick, sentiment,
 - Provides **adaptive trade logic** to the FPGA layer.
 
 **Concept:**
-$$
-Decision = f_{AI}(Entropy, Volume, Volatility)
-$$
+$$Decision = f_{AI}(Entropy, Volume, Volatility)$$
 
 ---
 
@@ -82,9 +80,7 @@ This layer introduces **quantum annealing** or **hybrid qubit processors** to op
 - Bridges deterministic FPGA logic with non-deterministic quantum decision maps.
 
 **Example:**
-$$
-\min_{w} \; E(w) = w^T \Sigma w - \mu^T w + \lambda H(w)
-$$
+$$\min_{w} \; E(w) = w^T \Sigma w - \mu^T w + \lambda H(w)$$
 Where $H(w)$ represents a **quantum penalty function** optimized by the annealer.
 
 ---
@@ -100,8 +96,7 @@ Photonics remove electrical bottlenecks, transmitting logic and data at light sp
 
 ### Concept
 $$
-Latency_{optical} \approx \frac{d}{c} \quad \text{(approaching speed of light)}
-$$
+Latency_{optical} \approx \frac{d}{c} \quad \text{(approaching speed of light)}$$
 
 **Result:** deterministic + ultra-fast communication at sub-nanosecond scale.
 
@@ -117,9 +112,7 @@ This layer acts as the **command fabric** joining AI, quantum, and FPGA subsyste
 - Enables “cognitive determinism” — intelligent reaction at physical speed.
 
 **Formalization:**
-$$
-S(t) = F_{sync}(FPGA(t), AI(t-\Delta t), QPU(t+\delta t))
-$$
+$$S(t) = F_{sync}(FPGA(t), AI(t-\Delta t), QPU(t+\delta t))$$
 
 Where `$F_{sync}$` represents a synchronization operator fusing past, present, and predictive states.
 
@@ -135,9 +128,7 @@ Beyond hardware, computation transitions into **field interactions** — informa
 - No transistors, photons, or qubits — only field configurations.
 
 **Core Idea:**
-$$
-Information \equiv \Delta G_{\mu\nu}, \quad \text{where } G_{\mu\nu} \text{ is spacetime curvature.}
-$$
+$$Information \equiv \Delta G_{\mu\nu}, \quad \text{where } G_{\mu\nu} \text{ is spacetime curvature.}$$
 
 Here, computation is no longer symbolic but **geometric**.
 
@@ -153,9 +144,7 @@ This layer interprets **zero-point energy fluctuations** as a form of natural en
 - Translates vacuum fluctuation patterns into probabilistic forecasts.
 
 **Representation:**
-$$
-S_{vacuum}(t) = \int P(\omega) \, \delta E_{zpf}(\omega, t) \, d\omega
-$$
+$$S_{vacuum}(t) = \int P(\omega) \, \delta E_{zpf}(\omega, t) \, d\omega$$
 
 ---
 
@@ -169,9 +158,7 @@ Rather than transmitting data, this network maintains **phase alignment** betwee
 - Reactivity becomes prediction.
 
 **Model:**
-$$
-\Phi_i(t) - \Phi_j(t) = 0 \Rightarrow \text{coherent prediction state}
-$$
+$$\Phi_i(t) - \Phi_j(t) = 0 \Rightarrow \text{coherent prediction state}$$
 
 ---
 
@@ -186,9 +173,7 @@ The act of observing modulates informational outcomes — merging trader, model,
 - Market reaction becomes a function of **collective perception**.
 
 **Symbolically:**
-$$
-Outcome = \Psi_{market} \cdot \Psi_{observer}
-$$
+$$Outcome = \Psi_{market} \cdot \Psi_{observer}$$
 
 ---
 
@@ -198,9 +183,7 @@ At full convergence, the architecture ceases to be discrete layers and becomes a
 a single **conscious-information field** spanning classical logic to vacuum dynamics.
 
 **Continuum Model:**
-$$
-\text{OmniState} = \lim_{n \to \infty} \bigcup_{i=1}^n Layer_i
-$$
+$$\text{OmniState} = \lim_{n \to \infty} \bigcup_{i=1}^n Layer_i$$
 
 In this state, **data**, **energy**, and **awareness** are indistinguishable forms of computation.
 
