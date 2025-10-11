@@ -1,6 +1,12 @@
 [HOME](/README.md)     
 
 ---
+
+Environment:    
+
+ - [Neuromorphic System](/assets/docs/knowledges/Financial/strategy/HFT/OmniTrading/Neuromorphic/readme.md)
+
+---
 # ⚛️ Omni-Trading Architecture
 ### The Fusion of Classical, Quantum, and Field Computation for Market Intelligence
 
