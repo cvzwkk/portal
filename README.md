@@ -310,6 +310,7 @@
       - [Tesseract](/assets/docs/universe/dimensions/tesseract/readme.md)   
       - [Oneness](/assets/docs/universe/dimensions/theory/Oneness/readme.md)
       - [Dimensional Travel](/assets/docs/universe/dimensions/theory/DimensionalTravel/readme.md)
+      - [Time Travel](/assets/docs/universe/dimensions/theory/TimeTravel/readme.md)    
 
     - [Quintessence](/assets/docs/knowledges/Quintessence/readme.md)
 
