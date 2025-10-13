@@ -11,9 +11,7 @@
 # Guide to Awakening & Awareness   
 
 ## [Alchemy](/assets/docs/universe/Alchemy/readme.md)  
- - [Transmutation of Temperature:](/assets/docs/universe/Alchemy/transmutation/temperature.md)  
-   - [Uranium/Mercury](/assets/docs/universe/Alchemy/fusion/1/uranium-mercury.md)
-  
+
 ---    
 
 ![](IMG-20250719-WA0001.jpg)   
