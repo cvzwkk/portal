@@ -670,7 +670,12 @@
       - [Elixir Of Life, Quantum Solutions](/assets/docs/knowledges/theories/my-Stuff/Elixir/Life/readme.md)   
     - Devices:   
       - [Alloy sphere, Cluster + Ionisation of sphere / oxidation of air](/assets/docs/knowledges/theories/my-Stuff/Spherical-Cluster/readme.md)   
-      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)        
+      - [Ionisation Of Sphere](/assets/docs/knowledges/clusters/sphere-metallic/readme.md)
+        
+  
+    - Compounds
+     - [Other Life Project](/
+      
     - My Nuclear Theories:   
       - [Reverse Fusion of final result, Helium-3 + Deuterium/Tritium -> Helium-4 ->  Helium-3 Again](/assets/docs/knowledges/theories/my-Stuff/Reverse-Fusion/readme.md)      
 ---   
