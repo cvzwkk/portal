@@ -54,6 +54,7 @@
       - [Ontological Unity](/assets/docs/knowledges/SpiritualityConsciousness/OntologicalUnity/readme.md)
       - [Ground Of Order](/assets/docs/knowledges/SpiritualityConsciousness/GroundOfOrder/readme.md)
       - [Self-Causal Totality](/assets/docs/knowledges/SpiritualityConsciousness/Self-CausalTotality/readme.md)
+      - [Transcend Symmetry](/assets/docs/knowledges/SpiritualityConsciousness/TranscendentSymmetry/readme.md)    
       - [Fluctuator, Aeons, Proto-Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/Fluctuator/readme.md) 
       - [Morphogenic Field](/assets/docs/knowledges/SpiritualityConsciousness/Conscious/MorphogenicField/readme.md)      
       - [Vedic Cosmology](/assets/docs/knowledges/SpiritualityConsciousness/theories/VedicCosmology/readme.md)    
