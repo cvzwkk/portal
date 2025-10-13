@@ -443,7 +443,7 @@
      -  [Tachyons Particles - Tachyonic State of Existance and Reality](/assets/docs/universe/subAtomic/particles/hypothetical/tachyons/readme.md)
      -  [Gravitons](/assets/docs/universe/subAtomic/particles/hypothetical/Gravitons/readme.md)     
     
-  - Exotic QuasiParticles:
+  - Exotic [QuasiParticles](assets/docs/universe/subAtomic/QuasiParticles/readme.md):
     - [Anyons](/assets/docs/universe/subAtomic/QuasiParticles/Anyons/readme.md)    
    
   - Atoms:
