@@ -22,7 +22,7 @@ They can carry **charge, spin, momentum, or topology**, and often reveal new sym
 | **Orbiton**                  | Orbital excitation                    | Carries orbital angular momentum                    | Transition metal oxides        |   |                                  |
 | **Majorana Fermion**         | Self-conjugate quasiparticle          | Non-abelian statistics, zero-energy modes           | Topological superconductors    |   |                                  |
 | **Bogoliubov Quasiparticle** | Fermion superposition (particle–hole) | Appears in superconductors; has mixed identity      | Superconducting states         |   |                                  |
-| **Dirac Quasiparticle**      | Relativistic fermion analog           | Linear dispersion (E = \pm v_F                      | p                              | ) | Graphene, topological insulators |
+| **Dirac Quasiparticle**      | Relativistic fermion analog           | Linear dispersion ($$E = \pm v_F$$                      |                              | Graphene, topological insulators |
 | **Weyl Fermion**             | Chiral massless fermion               | Exhibits monopole-like Berry curvature              | Weyl semimetals                |   |                                  |
 | **Nodal-line Fermion**       | Extended Dirac node line              | Continuous band crossing                            | Dirac line-node semimetals     |   |                                  |
 
