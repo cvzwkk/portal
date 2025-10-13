@@ -14,8 +14,8 @@
 
 ![](IMG-20250719-WA0001.jpg)   
 
-# Hermetic Collection
-**[Alchemy](/assets/docs/universe/Alchemy/readme.md)**
+# Hermetic Collection   
+**[Alchemy](/assets/docs/universe/Alchemy/readme.md)**   
 **Thirdy part collections about occult awareness**   
  - is not writed by me, is shared by another members of Hermetic Order   
    - The content has uploaded in Google Drive containing lot of PDF's about enumerous awarenesse's:   
