@@ -183,7 +183,7 @@ In this new space:
 * The evolution operator ($$U(t) = e^{-i H t}$$) becomes **unitary** in the ($$\eta$$)-metric.
 * Causality and time order are restored internally.
 
-This (\eta)-metric is what **manages time order** mathematically — it defines what “forward” evolution means in the presence of gain and loss.
+This ($$\eta$$)-metric is what **manages time order** mathematically — it defines what “forward” evolution means in the presence of gain and loss.
 
 ---
 
