@@ -52,6 +52,7 @@
     
     - [Metaphysic](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
       - [Ontological Unity](/assets/docs/knowledges/SpiritualityConsciousness/OntologicalUnity/readme.md)
+      - [Ground Of Order](/assets/docs/knowledges/SpiritualityConsciousness/GroundOfOrder/readme.md)   
       - [Fluctuator, Aeons, Proto-Consciousness](/assets/docs/knowledges/SpiritualityConsciousness/Fluctuator/readme.md) 
       - [Morphogenic Field](/assets/docs/knowledges/SpiritualityConsciousness/Conscious/MorphogenicField/readme.md)      
       - [Vedic Cosmology](/assets/docs/knowledges/SpiritualityConsciousness/theories/VedicCosmology/readme.md)    
