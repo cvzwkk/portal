@@ -652,6 +652,7 @@
   - [Syntropic Consciousness + Quantum Mind](/assets/docs/knowledges/theories/SyntropicConsciousness/readme.md)    
 
   - My Stuff Of Thought's:
+    - [Shadow Of Universe](/assets/docs/knowledges/theories/my-Stuff/UniverseShadow/readme.md)   
     - [NeuroPortal, Hive Gaia Model, Transhumanism](/assets/docs/knowledges/theories/my-Stuff/NeuroPortal/readme.md)   
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
     - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)    
