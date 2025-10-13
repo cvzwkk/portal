@@ -317,10 +317,10 @@ At a spacetime scale, this could correspond to:
 
 | Regime                  | PT symmetry state  | Entropic flow                         | Causality behavior                            |
 | :---------------------- | :----------------- | :------------------------------------ | :-------------------------------------------- |
-| **Below MDPL**          | Hermitian (stable) | (dS/dt > 0)                           | Normal time flow                              |
-| **At MDPL**             | PT unbroken        | (dS_\text{gain} + dS_\text{loss} = 0) | Balanced / reversible                         |
+| **Below MDPL**          | Hermitian (stable) | ($$dS/dt > 0$$)                           | Normal time flow                              |
+| **At MDPL**             | PT unbroken        | ($$dS_\text{gain} + dS_\text{loss} = 0$$) | Balanced / reversible                         |
 | **Beyond MDPL (EMDPL)** | PT breaking begins | Oscillatory negentropy                | Local causal inversion, global consistency    |
-| **Far beyond EMDPL**    | Fully broken PT    | (dS_\text{eff} < 0) locally           | Temporal decoherence, causality fragmentation |
+| **Far beyond EMDPL**    | Fully broken PT    | ($$dS_\text{eff} < 0$$) locally           | Temporal decoherence, causality fragmentation |
 
 ---
 
