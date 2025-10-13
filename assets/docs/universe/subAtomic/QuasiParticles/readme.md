@@ -152,7 +152,7 @@ When we say *“aligned with tachyons”*, it can mean several theoretical align
    
    $$E^2 - p^2 c^2 = -m^2 c^4$$
    
-   (Imaginary mass ( m = i m_t )).
+   (Imaginary mass ( $$m = i m_t$$ )).
 
 2. **Phase Alignment:**
    The quasiparticle phase velocity exceeds ( c ), while the group velocity remains subluminal — thus *information* doesn’t break causality, but *phase structure* aligns with tachyonic symmetry.
