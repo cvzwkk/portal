@@ -583,6 +583,9 @@
   - [The Big Crunch](/assets/docs/universe/space/knowledges/bigcrunch/readme.md)   
   - [Cosmic Rays](/assets/docs/universe/space/cosmicrays/readme.md)
   - [Universe Dimensions](/assets/docs/universe/space/knowledges/Dimensions/readme.md)
+ 
+  - Vacuum:
+    - [Anti Vacuum](/assets/docs/universe/space/knowledges/vacuum/theory/anti-vacuum/readme.md)   
      
   - Equations:    
     - [Cauchy Shwarz - Inequality](/assets/docs/knowledges/fields/equations/CauchySchwarz/readme.md)   
