@@ -551,7 +551,8 @@
 # Space  
 
   - [Dark Energy](/assets/docs/universe/space/dark-energy/readme.md)    
-  - [Anti Matter](/assets/docs/antimatter/readme.md)    
+  - [Anti Matter](/assets/docs/antimatter/readme.md)
+  - [Anti Dark Matter](/assets/docs/universe/space/dark-matter/anti-darkmatter/readme.md)   
   - [Dark Matter](/assets/docs/universe/space/dark-matter/readme.md)
   - [Exotic Matter](/assets/docs/earth/elements/materials/exoticMatter/readme.md)
   - [Pulsar's](/assets/docs/universe/space/Pulsar/readme.md)     
