@@ -584,7 +584,7 @@
   - [Cosmic Rays](/assets/docs/universe/space/cosmicrays/readme.md)
   - [Universe Dimensions](/assets/docs/universe/space/knowledges/Dimensions/readme.md)
  
-  - Vacuum:
+  - [Vacuum](/assets/docs/universe/space/knowledges/vacuum/readme.md):   
     - [Anti Vacuum](/assets/docs/universe/space/knowledges/vacuum/theory/anti-vacuum/readme.md)   
      
   - Equations:    
