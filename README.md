@@ -453,7 +453,10 @@
     - [Anyons](/assets/docs/universe/subAtomic/QuasiParticles/Anyons/readme.md)    
    
   - Atoms:
-    - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)   
+    - [Ions](/assets/docs/universe/subAtomic/molAtoms/ions/readme.md)
+
+    - Theory about atoms:
+      - [Dark Atoms](/assets/docs/universe/subAtomic/molAtoms/theory/DarkAtoms/readme.md)
 
   - Electromagnetic devices:   
     - [Selenoids](/assets/docs/knowledges/Electromagnetism/Electromagnetic-Devices/readme.md)
