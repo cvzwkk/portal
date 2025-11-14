@@ -778,10 +778,6 @@
 
 ---   
 
-Portal Maded By: c2v2zw4k or cvzwk
-two identity of same person.
-
----  
 
 ![img](/assets/imgs/alchemy/971fe61d-a4a3-40b1-b652-0e15afee9185.webp)     
 
@@ -798,10 +794,10 @@ two identity of same person.
   - [Gustavo Joel De Souza](https://x.com/gustavojoel_)   
    
 - Facebook:   
-  - [cvzwk](https://facebook.com/cvzwkz)     
+  - [cvzwk](https://facebook.com/cvzwk)     
    
 - Instagram:   
-  - [cvzwk1111](https://instagram.com/cvzwk1111)   
+  - [cvzwk](https://instagram.com/cvzwk)   
   - [c2v2zw4k](https://instagram.com/c2v2zw4k)    
 
 ---   
