@@ -119,7 +119,8 @@
         - [Noetic Evolution](/assets/docs/knowledges/Transcendence/topics/Consciousness/NoeticEvolution/readme.md)    
         - [Corpus Hermeticum](/assets/docs/knowledges/Transcendence/topics/CorpusHermeticum/readme..md)   
         - [Aeon's - Cosmic Architect's](/assets/docs/knowledges/Transcendence/topics/Aeons/readme.md)    
-        - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)
+        - [Amor Fati](/assets/docs/knowledges/Transcendence/topics/AmorFati/readme.md)  
+        - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)  
         - [Immortality, Eternal environment](/assets/docs/knowledges/Transcendence/topics/Immortality/readme.md)
           -  [Safe Places, Environments](/assets/docs/knowledges/Transcendence/topics/Immortality/places/readme.md)
          
@@ -130,16 +131,8 @@
         - Earth:
           - [Evolutionary Spheres](/assets/docs/knowledges/Transcendence/topics/Earth/environment/spheres/readme.md)      
      - [Transdimensional](/assets/docs/knowledges/Transcendence/Transdimensional/readme.md)
-           
----   
-
-![](Screenshot_20250724-192540.X.png)     
-
-   **Love**    
-   - [Love Described, with/without Dogmatics](/assets/docs/knowledges/SpiritualityConsciousness/emotions/Love/readme.md)
-
----   
-        
+    
+    
    **HyperMind**   
   
    - [Unlocking Brain](/assets/docs/knowledges/SpiritualityConsciousness/unlockingBrain/readme.md)    
@@ -166,7 +159,11 @@
         - ElectroKinesis
      
       - [Consciousness After Dead - Quantum Destin](/assets/docs/knowledges/SpiritualityConsciousness/AfterDead/readme.md)    
-    
+           
+---   
+
+![](Screenshot_20250724-192540.X.png)     
+  
 ---   
 
 ![](20250728_162039.jpg)   
