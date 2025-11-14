@@ -486,7 +486,7 @@
 ---   
    
    - [Equations](/assets/docs/universe/equations/Heat-Energy/Nuclear/readme.md)    
-   - [Nuclear Oxygen](/assets/docs/nuclear/knowledges/nuclear-oxygen.md) / [Nuclear Oxygen Tritium](/assets/docs/nuclear/knowledges/nuclear-oxygen-tritium.md)   
+
     
 ---   
  
