@@ -665,7 +665,8 @@
     - [Shadow Of Universe](/assets/docs/knowledges/theories/my-Stuff/UniverseShadow/readme.md)   
     - [NeuroPortal, Hive Gaia Model, Transhumanism](/assets/docs/knowledges/theories/my-Stuff/NeuroPortal/readme.md)   
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
-    - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)    
+    - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)
+    - [New Internet, From Proximity to Planetary Scales](/assets/docs/knowledges/theories/my-Stuff/NewInternet/readme.md)   
    
     - My books:   
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
