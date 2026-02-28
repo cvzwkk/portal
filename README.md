@@ -180,7 +180,8 @@
   - [Oppenheimer](/assets/docs/knowledges/Oppenheimer/readme.md)
   - [Heisenberg](/assets/docs/knowledges/Heisenberg/readme.md)
   - [Bob Lazar](/assets/docs/knowledges/BobLazar/readme.md)
-  - [Mike McCulloch](/assets/docs/knowledges/MikeMcCulloch/readme.md)    
+  - [Mike McCulloch](/assets/docs/knowledges/MikeMcCulloch/readme.md)
+  - [Max Tegmark](/assets/docs/knowledges/MaxTegmark/readme.md)  
          
   - [Anti Neutrino](/assets/docs/knowledges/anti-neutrino/readme.md)
   - [Spallation Process](/assets/docs/knowledges/spallation-process/readme.md)
