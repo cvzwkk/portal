@@ -660,7 +660,8 @@
   - [Omega Point Theory](/assets/docs/knowledges/theories/OmegaPoint/readme.md)
   - [Penrose–Hameroff Orchestrated Objective Reduction (Orch-OR) theory](/assets/docs/knowledges/theories/Orch-OR/readme.md)
   - [Syntropic Consciousness + Quantum Mind](/assets/docs/knowledges/theories/SyntropicConsciousness/readme.md)
-  - [Ultra-Terrestrials](/assets/docs/knowledges/theories/UltraTerrestrials/readme.md)      
+  - [Ultra-Terrestrials](/assets/docs/knowledges/theories/UltraTerrestrials/readme.md)
+  - [ChaosLess-Vacuum](/assets/docs/knowledges/theories/LessChaosVacuum/readme.md)   
 
   - My Stuff Of Thought's:
     - [Shadow Of Universe](/assets/docs/knowledges/theories/my-Stuff/UniverseShadow/readme.md)   
