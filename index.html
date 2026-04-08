@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global AI Markdown Architect</title>
+    <title>Ultra Markdown & LaTeX Optimizer</title>
     
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -11,228 +11,219 @@
 
     <style>
         :root {
-            --bg: #0d1117; --panel: #161b22; --border: #30363d;
-            --text: #c9d1d9; --accent: #238636; --hf-purple: #8957e5;
+            --bg: #0d1117;
+            --panel-bg: #161b22;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --accent: #238636;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            margin: 0; background: var(--bg); color: var(--text);
-            display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+            font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+            margin: 0;
+            background: var(--bg);
+            color: var(--text);
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
         }
 
-        /* Header & Settings */
-        header {
-            padding: 10px 20px; background: var(--panel); border-bottom: 1px solid var(--border);
-            display: flex; justify-content: space-between; align-items: center;
+        .app-header {
+            padding: 1rem 2rem;
+            background: var(--panel-bg);
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
-        .api-settings { display: flex; gap: 10px; align-items: center; }
-        input[type="password"] {
-            background: var(--bg); border: 1px solid var(--border); color: var(--text);
-            padding: 5px 10px; border-radius: 4px; width: 220px; font-size: 12px;
+        .main-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            flex: 1;
+            overflow: hidden;
+            gap: 1px;
+            background: var(--border);
         }
 
-        /* Model Selector Sidebar */
-        .model-list {
-            max-height: 80px; overflow-y: auto; border: 1px solid var(--border);
-            background: var(--bg); border-radius: 4px; padding: 5px; width: 300px;
+        .column {
+            display: flex;
+            flex-direction: column;
+            background: var(--bg);
+            overflow: hidden;
         }
-        .model-item {
-            display: flex; align-items: center; gap: 8px; font-size: 11px;
-            padding: 4px; cursor: pointer; border-radius: 3px;
-        }
-        .model-item:hover { background: var(--panel); }
-        .model-item input { cursor: pointer; }
 
-        /* Tabs */
-        .tabs { display: flex; background: var(--panel); border-bottom: 1px solid var(--border); }
-        .tab {
-            padding: 10px 20px; cursor: pointer; font-size: 13px; font-weight: 600;
-            border-bottom: 2px solid transparent; color: #8b949e;
+        .column-header {
+            padding: 10px 20px;
+            background: var(--panel-bg);
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        .tab.active { color: var(--text); border-bottom-color: #f78166; background: var(--bg); }
-
-        /* Main Content */
-        .content-area { flex: 1; display: flex; overflow: hidden; }
-        .view { display: none; width: 100%; height: 100%; }
-        .view.active { display: flex; }
 
         textarea {
-            flex: 1; background: var(--bg); color: var(--text); border: none;
-            padding: 25px; font-family: "SFMono-Regular", Consolas, monospace;
-            font-size: 14px; line-height: 1.6; outline: none; resize: none;
+            flex: 1;
+            background: var(--bg);
+            color: var(--text);
+            border: none;
+            padding: 20px;
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+            font-size: 14px;
+            line-height: 1.6;
+            outline: none;
+            resize: none;
         }
 
-        #preview-pane {
-            flex: 1; padding: 40px; overflow-y: auto; background: white; color: #24292f;
+        #preview-area {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            background: #ffffff; /* White background for true GitHub preview */
+            color: #24292f;
         }
 
-        /* Footer Toolbar */
-        footer {
-            padding: 12px 20px; background: var(--panel); border-top: 1px solid var(--border);
-            display: flex; gap: 12px; align-items: center;
+        .toolbar {
+            padding: 15px 20px;
+            background: var(--panel-bg);
+            border-top: 1px solid var(--border);
+            display: flex;
+            gap: 15px;
         }
 
         button {
-            padding: 8px 16px; border-radius: 6px; font-weight: 600; cursor: pointer;
-            border: 1px solid var(--border); transition: 0.2s;
+            background: var(--accent);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 8px 18px;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.2s;
         }
-        .btn-ai { background: var(--hf-purple); color: white; border: none; }
-        .btn-save { background: var(--accent); color: white; border: none; }
-        .btn-sec { background: transparent; color: var(--text); }
-        button:disabled { opacity: 0.5; cursor: not-allowed; }
 
-        #status-indicator { font-size: 12px; font-weight: bold; color: #8b949e; }
-        
-        /* Scrollbar Styling */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: var(--bg); }
-        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 10px; }
+        button:hover { background: #2ea043; }
+        button.secondary { background: transparent; border: 1px solid var(--border); }
+        button.secondary:hover { border-color: #8b949e; }
+
+        .stats { font-size: 11px; color: #8b949e; }
     </style>
 </head>
 <body>
 
-<header>
-    <div style="font-weight: bold; font-size: 1.1rem;">🏗️ GLOBAL ARCHITECT</div>
-    
-    <div class="api-settings">
-        <div class="model-list" id="model-selector">
-            <div class="model-item"><input type="radio" name="model" value="mistralai/Mistral-7B-Instruct-v0.3" checked> Mistral 7B (Fastest)</div>
-            <div class="model-item"><input type="radio" name="model" value="meta-llama/Meta-Llama-3-8B-Instruct"> Llama 3 8B (Smartest)</div>
-            <div class="model-item"><input type="radio" name="model" value="microsoft/Phi-3-mini-4k-instruct"> Phi-3 Mini (Ultra Light)</div>
-            <div class="model-item"><input type="radio" name="model" value="google/gemma-7b-it"> Gemma 7B (Balanced)</div>
-        </div>
-        <input type="password" id="hf-token" placeholder="Paste Hugging Face Token (hf_...)">
+<div class="app-header">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="font-size: 1.5rem;">🚀</span>
+        <strong style="font-size: 1.1rem;">ULTRA Markdown Optimizer</strong>
     </div>
-</header>
-
-<div class="tabs">
-    <div class="tab active" onclick="switchTab('editor')">EDITOR</div>
-    <div class="tab" onclick="switchTab('preview')">GITHUB PREVIEW</div>
+    <div class="stats" id="char-count">0 Characters processed</div>
 </div>
 
-<div class="content-area">
-    <div id="editor-view" class="view active">
-        <textarea id="main-editor" placeholder="Paste messy text, fragmented equations, or unorganized thoughts..."></textarea>
+<div class="main-container">
+    <div class="column">
+        <div class="column-header">Input Source (Raw / Messy)</div>
+        <textarea id="editor" placeholder="Paste your messy text, messy LaTeX (\(\alpha\)), or unformatted markdown here..."></textarea>
     </div>
-    <div id="preview-view" class="view">
-        <div id="preview-pane" class="markdown-body"></div>
+
+    <div class="column">
+        <div class="column-header">GitHub Render View (Simulated)</div>
+        <div id="preview-area" class="markdown-body"></div>
     </div>
 </div>
 
-<footer>
-    <button class="btn-ai" id="run-btn" onclick="executeFullProcess()">🚀 RUN GLOBAL AI FIX</button>
-    <button class="btn-sec" onclick="localRegexFix()">⚡ Fast Local Clean</button>
-    <button class="btn-sec" onclick="copyResult()">📋 Copy .md</button>
-    <button class="btn-save" onclick="downloadResult()">💾 Download</button>
-    <div id="status-indicator">Ready</div>
-</footer>
+<div class="toolbar">
+    <button onclick="optimizeContent()">✨ Run Global Optimization</button>
+    <button class="secondary" onclick="copyToClipboard()">📋 Copy Optimized .md</button>
+    <button class="secondary" onclick="downloadFile()">💾 Download .md</button>
+    <button class="secondary" style="margin-left: auto; color: #ff7b72;" onclick="document.getElementById('editor').value=''">Clear</button>
+</div>
 
 <script>
-    let mathVault = [];
+    function optimizeContent() {
+        let text = document.getElementById('editor').value;
+        if (!text.trim()) return;
 
-    // --- 1. THE MATH VAULT & REGEX SYSTEM ---
-    function vaultMath(text) {
-        mathVault = [];
-        // Fix Shattered Equation Fragments FIRST
-        text = text.replace(/\$\$[\s\S]*?\[([\s\S]*?)\][\s\S]*?\$\$/g, '\n\n$$\n$1\n$$\n\n');
-        text = text.replace(/\$\$\[\s*([\s\S]*?)\s*\]\$\$/g, '\n\n$$\n$1\n$$\n\n');
+        // --- STEP 1: PROTECT CODE BLOCKS ---
+        const codeBlocks = [];
+        text = text.replace(/```[\s\S]*?```/g, (match) => {
+            codeBlocks.push(match);
+            return `__CODE_BLOCK_${codeBlocks.length - 1}__`;
+        });
+
+        // --- STEP 2: GLOBAL LATEX REPAIR ENGINE ---
+        // Handles: (\ , (\( , \( , \[ , [[ , and variants
+        const openPatterns = /(\(\s?\\|\(\s?\(|\\\[|\\\s?\(|\[\s?\[|\[\s?\\)/g;
+        text = text.replace(openPatterns, '\n\n$$$$\\[\n');
+
+        // Handles: \) , \) ) , \] , ]] , ] )
+        const closePatterns = /(\\\s?\)|\\\]|\]\s?\]|\\\s?\]|\)\s?\s?\)\s?|\]\s?\))/g;
+        text = text.replace(closePatterns, '\n\\]$$$$\n\n');
+
+        // Fix potential $$$$ artifacting
+        text = text.replace(/\${4}/g, '$$');
+
+        // --- STEP 3: MARKDOWN FORMATTING UPGRADE ---
         
-        // Fix Inline Variable Brackets [d+1]
-        text = text.replace(/(^|\s)\[([\p{L}\p{N}+\-_]{1,10})\](?=\s|[.,:;!?]|$)/gu, '$1$$$2$$');
+        // Clean "Detentation" - leading spaces on lines that aren't lists
+        text = text.split('\n').map(line => {
+            return line.replace(/^\s+(?![*-]|\d\.)/, ''); 
+        }).join('\n');
 
-        // Vault Display Blocks
-        text = text.replace(/\$\$([\s\S]*?)\$\$/g, (m) => {
-            mathVault.push(m);
-            return `__BLOCK_MATH_${mathVault.length - 1}__`;
+        // Header Standardization: #Title -> # Title
+        text = text.replace(/^(#+)([A-Za-z0-9])/gm, '$1 $2');
+
+        // Punctuation Spacing Logic
+        text = text.replace(/\s+([,.!?;:])/g, '$1');
+
+        // Correct Lowercase 'i' at start of sentences
+        text = text.replace(/(^|[.!?]\s+)(i)(?=\s)/g, (m, p1, p2) => p1 + "I");
+
+        // Ensure exactly one blank line between paragraphs
+        text = text.replace(/\n{3,}/g, '\n\n');
+
+        // --- STEP 4: RESTORE CODE BLOCKS ---
+        codeBlocks.forEach((block, i) => {
+            text = text.replace(`__CODE_BLOCK_${i}__`, block);
         });
-        // Vault Inline Blocks
-        text = text.replace(/\$([\s\S]*?)\$/g, (m) => {
-            mathVault.push(m);
-            return `__INLINE_MATH_${mathVault.length - 1}__`;
-        });
-        return text;
-    }
 
-    function unvaultMath(text) {
-        text = text.replace(/__BLOCK_MATH_(\d+)__/g, (m, i) => `\n\n${mathVault[i]}\n\n`);
-        text = text.replace(/__INLINE_MATH_(\d+)__/g, (m, i) => mathVault[i]);
-        return text.replace(/\n{3,}/g, '\n\n').trim();
-    }
+        // --- STEP 5: OUTPUT & RENDER ---
+        document.getElementById('editor').value = text;
+        
+        const preview = document.getElementById('preview-area');
+        preview.innerHTML = marked.parse(text);
+        
+        document.getElementById('char-count').innerText = `${text.length} Characters processed`;
 
-    // --- 2. AI EXECUTION PIPELINE ---
-    async function executeFullProcess() {
-        const token = document.getElementById('hf-token').value.trim();
-        const editor = document.getElementById('main-editor');
-        const status = document.getElementById('status-indicator');
-        const model = document.querySelector('input[name="model"]:checked').value;
-
-        if (!token) { alert("Please provide a Hugging Face Token."); return; }
-        if (!editor.value) return;
-
-        status.innerText = "⏳ VAULTING MATH...";
-        let rawText = editor.value;
-        let safeText = vaultMath(rawText);
-
-        status.innerText = "🧠 AI REORGANIZING...";
-        const prompt = `<|system|>You are a GitHub Documentation Expert. Organize the text into logical categories, add professional headers (#), fix all punctuation, and ensure clear flow. DO NOT modify the placeholders like __BLOCK_MATH_X__. Return ONLY markdown.</s><|user|>${safeText}</s><|assistant|>`;
-
-        try {
-            const response = await fetch(`https://api-inference.huggingface.co/models/${model}`, {
-                method: "POST",
-                headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-                body: JSON.stringify({ inputs: prompt, parameters: { max_new_tokens: 2500, return_full_text: false } })
-            });
-
-            const data = await response.json();
-            let aiOutput = data[0]?.generated_text || data.generated_text || (data.error ? "Error: " + data.error : "");
-
-            if (aiOutput.startsWith("Error")) throw new Error(aiOutput);
-
-            status.innerText = "✨ RESTORING MATH...";
-            editor.value = unvaultMath(aiOutput);
-            renderPreview();
-            status.innerText = "✅ DONE";
-        } catch (e) {
-            status.innerText = "❌ ERROR - USING LOCAL FIX";
-            localRegexFix();
+        // Trigger MathJax
+        if (window.MathJax) {
+            MathJax.typesetPromise([preview]);
         }
     }
 
-    // --- 3. UI & UTILITIES ---
-    function localRegexFix() {
-        let t = document.getElementById('main-editor').value;
-        t = vaultMath(t);
-        t = t.replace(/^(#+)([A-Za-z])/gm, '$1 $2');
-        t = t.replace(/\s+([,.!?;:])/g, '$1');
-        document.getElementById('main-editor').value = unvaultMath(t);
-        renderPreview();
+    function copyToClipboard() {
+        const text = document.getElementById('editor').value;
+        navigator.clipboard.writeText(text).then(() => alert("Optimized Markdown copied!"));
     }
 
-    function switchTab(tab) {
-        document.querySelectorAll('.tab, .view').forEach(el => el.classList.remove('active'));
-        document.querySelector(`.tab[onclick*="${tab}"]`).classList.add('active');
-        document.getElementById(`${tab}-view`).classList.add('active');
-        if (tab === 'preview') renderPreview();
+    function downloadFile() {
+        const text = document.getElementById('editor').value;
+        const blob = new Blob([text], { type: 'text/markdown' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = "README_OPTIMIZED.md";
+        a.click();
     }
 
-    function renderPreview() {
-        const text = document.getElementById('main-editor').value;
-        const pane = document.getElementById('preview-pane');
-        pane.innerHTML = marked.parse(text);
-        if (window.MathJax) MathJax.typesetPromise([pane]);
-    }
-
-    function copyResult() { navigator.clipboard.writeText(document.getElementById('main-editor').value); alert("Copied!"); }
-    function downloadResult() {
-        const blob = new Blob([document.getElementById('main-editor').value], {type: 'text/markdown'});
-        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = "README.md"; a.click();
-    }
-
-    // Configure MathJax for the preview
-    window.MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] } };
-    document.getElementById('main-editor').addEventListener('input', renderPreview);
+    // Live update preview on change (Optional, can be CPU heavy)
+    let timeout = null;
+    document.getElementById('editor').addEventListener('input', () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(optimizeContent, 1000);
+    });
 </script>
 
 </body>
