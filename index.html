@@ -3,237 +3,248 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global AI Markdown Architect</title>
-    
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
-
+    <title>Mobile AI Runner</title>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@0.321.0/font/lucide.min.js"></script>
     <style>
         :root {
-            --bg: #0d1117; --panel: #161b22; --border: #30363d;
-            --text: #c9d1d9; --accent: #238636; --hf-purple: #8957e5;
+            --bg: #0f172a;
+            --card: #1e293b;
+            --text: #f8fafc;
+            --primary: #3b82f6;
+            --accent: #10b981;
+            --border: #334155;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            margin: 0; background: var(--bg); color: var(--text);
-            display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            max-width: 800px;
+            margin: auto;
         }
 
-        /* Header & Settings */
-        header {
-            padding: 10px 20px; background: var(--panel); border-bottom: 1px solid var(--border);
-            display: flex; justify-content: space-between; align-items: center;
+        .section {
+            background: var(--card);
+            padding: 15px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
         }
 
-        .api-settings { display: flex; gap: 10px; align-items: center; }
-        input[type="password"] {
-            background: var(--bg); border: 1px solid var(--border); color: var(--text);
-            padding: 5px 10px; border-radius: 4px; width: 220px; font-size: 12px;
-        }
+        label { font-size: 0.85rem; font-weight: 600; color: #94a3b8; }
 
-        /* Model Selector Sidebar */
-        .model-list {
-            max-height: 80px; overflow-y: auto; border: 1px solid var(--border);
-            background: var(--bg); border-radius: 4px; padding: 5px; width: 300px;
-        }
-        .model-item {
-            display: flex; align-items: center; gap: 8px; font-size: 11px;
-            padding: 4px; cursor: pointer; border-radius: 3px;
-        }
-        .model-item:hover { background: var(--panel); }
-        .model-item input { cursor: pointer; }
-
-        /* Tabs */
-        .tabs { display: flex; background: var(--panel); border-bottom: 1px solid var(--border); }
-        .tab {
-            padding: 10px 20px; cursor: pointer; font-size: 13px; font-weight: 600;
-            border-bottom: 2px solid transparent; color: #8b949e;
-        }
-        .tab.active { color: var(--text); border-bottom-color: #f78166; background: var(--bg); }
-
-        /* Main Content */
-        .content-area { flex: 1; display: flex; overflow: hidden; }
-        .view { display: none; width: 100%; height: 100%; }
-        .view.active { display: flex; }
-
-        textarea {
-            flex: 1; background: var(--bg); color: var(--text); border: none;
-            padding: 25px; font-family: "SFMono-Regular", Consolas, monospace;
-            font-size: 14px; line-height: 1.6; outline: none; resize: none;
-        }
-
-        #preview-pane {
-            flex: 1; padding: 40px; overflow-y: auto; background: white; color: #24292f;
-        }
-
-        /* Footer Toolbar */
-        footer {
-            padding: 12px 20px; background: var(--panel); border-top: 1px solid var(--border);
-            display: flex; gap: 12px; align-items: center;
+        select, input, textarea {
+            background: #0f172a;
+            border: 1px solid var(--border);
+            color: white;
+            padding: 10px;
+            border-radius: 6px;
+            width: 100%;
+            box-sizing: border-box;
+            font-family: inherit;
         }
 
         button {
-            padding: 8px 16px; border-radius: 6px; font-weight: 600; cursor: pointer;
-            border: 1px solid var(--border); transition: 0.2s;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 6px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: opacity 0.2s;
         }
-        .btn-ai { background: var(--hf-purple); color: white; border: none; }
-        .btn-save { background: var(--accent); color: white; border: none; }
-        .btn-sec { background: transparent; color: var(--text); }
+
         button:disabled { opacity: 0.5; cursor: not-allowed; }
 
-        #status-indicator { font-size: 12px; font-weight: bold; color: #8b949e; }
-        
-        /* Scrollbar Styling */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: var(--bg); }
-        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 10px; }
+        #progress-container {
+            height: 8px;
+            background: #334155;
+            border-radius: 4px;
+            overflow: hidden;
+            display: none;
+        }
+
+        #progress-bar {
+            height: 100%;
+            background: var(--accent);
+            width: 0%;
+            transition: width 0.3s;
+        }
+
+        textarea {
+            min-height: 120px;
+            resize: vertical;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        #console {
+            background: #000;
+            color: #00ff00;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 11px;
+            padding: 10px;
+            height: 150px;
+            overflow-y: auto;
+            border-radius: 6px;
+            white-space: pre-wrap;
+            border: 1px solid #334155;
+        }
+
+        .status-tag {
+            font-size: 10px;
+            text-transform: uppercase;
+            padding: 2px 6px;
+            border-radius: 4px;
+            background: #334155;
+            align-self: flex-start;
+        }
     </style>
 </head>
 <body>
 
-<header>
-    <div style="font-weight: bold; font-size: 1.1rem;">🏗️ GLOBAL ARCHITECT</div>
-    
-    <div class="api-settings">
-        <div class="model-list" id="model-selector">
-            <div class="model-item"><input type="radio" name="model" value="mistralai/Mistral-7B-Instruct-v0.3" checked> Mistral 7B (Fastest)</div>
-            <div class="model-item"><input type="radio" name="model" value="meta-llama/Meta-Llama-3-8B-Instruct"> Llama 3 8B (Smartest)</div>
-            <div class="model-item"><input type="radio" name="model" value="microsoft/Phi-3-mini-4k-instruct"> Phi-3 Mini (Ultra Light)</div>
-            <div class="model-item"><input type="radio" name="model" value="google/gemma-7b-it"> Gemma 7B (Balanced)</div>
-        </div>
-        <input type="password" id="hf-token" placeholder="Paste Hugging Face Token (hf_...)">
-    </div>
-</header>
-
-<div class="tabs">
-    <div class="tab active" onclick="switchTab('editor')">EDITOR</div>
-    <div class="tab" onclick="switchTab('preview')">GITHUB PREVIEW</div>
-</div>
-
-<div class="content-area">
-    <div id="editor-view" class="view active">
-        <textarea id="main-editor" placeholder="Paste messy text, fragmented equations, or unorganized thoughts..."></textarea>
-    </div>
-    <div id="preview-view" class="view">
-        <div id="preview-pane" class="markdown-body"></div>
-    </div>
-</div>
-
-<footer>
-    <button class="btn-ai" id="run-btn" onclick="executeFullProcess()">🚀 RUN GLOBAL AI FIX</button>
-    <button class="btn-sec" onclick="localRegexFix()">⚡ Fast Local Clean</button>
-    <button class="btn-sec" onclick="copyResult()">📋 Copy .md</button>
-    <button class="btn-save" onclick="downloadResult()">💾 Download</button>
-    <div id="status-indicator">Ready</div>
-</footer>
-
-<script>
-    let mathVault = [];
-
-    // --- 1. THE MATH VAULT & REGEX SYSTEM ---
-    function vaultMath(text) {
-        mathVault = [];
-        // Fix Shattered Equation Fragments FIRST
-        text = text.replace(/\$\$[\s\S]*?\[([\s\S]*?)\][\s\S]*?\$\$/g, '\n\n$$\n$1\n$$\n\n');
-        text = text.replace(/\$\$\[\s*([\s\S]*?)\s*\]\$\$/g, '\n\n$$\n$1\n$$\n\n');
+    <div class="section">
+        <label>Configuration</label>
+        <select id="model-select">
+            <option value="Xenova/Qwen1.5-0.5B-Chat">Qwen 1.5 (0.5B) - Fastest</option>
+            <option value="Xenova/phi-1_5_dev">Phi 1.5 - High Quality</option>
+            <option value="Xenova/LaMini-Flan-T5-77M">LaMini 77M - Super Light</option>
+            <option value="Xenova/gpt2">GPT-2 (Classic)</option>
+        </select>
+        <input type="password" id="hf-token" placeholder="HuggingFace Token (Optional for public models)">
+        <button id="load-btn">Initialize Model</button>
         
-        // Fix Inline Variable Brackets [d+1]
-        text = text.replace(/(^|\s)\[([\p{L}\p{N}+\-_]{1,10})\](?=\s|[.,:;!?]|$)/gu, '$1$$$2$$');
+        <div id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
+        <div id="load-status" class="status-tag">Ready</div>
+    </div>
 
-        // Vault Display Blocks
-        text = text.replace(/\$\$([\s\S]*?)\$\$/g, (m) => {
-            mathVault.push(m);
-            return `__BLOCK_MATH_${mathVault.length - 1}__`;
-        });
-        // Vault Inline Blocks
-        text = text.replace(/\$([\s\S]*?)\$/g, (m) => {
-            mathVault.push(m);
-            return `__INLINE_MATH_${mathVault.length - 1}__`;
-        });
-        return text;
-    }
+    <div class="section">
+        <label>Input</label>
+        <textarea id="input-text" placeholder="Type your prompt here..."></textarea>
+        <button id="gen-btn" disabled>Generate Output</button>
+    </div>
 
-    function unvaultMath(text) {
-        text = text.replace(/__BLOCK_MATH_(\d+)__/g, (m, i) => `\n\n${mathVault[i]}\n\n`);
-        text = text.replace(/__INLINE_MATH_(\d+)__/g, (m, i) => mathVault[i]);
-        return text.replace(/\n{3,}/g, '\n\n').trim();
-    }
+    <div class="section">
+        <label>Output</label>
+        <textarea id="output-text" readonly placeholder="Result will appear here..."></textarea>
+    </div>
 
-    // --- 2. AI EXECUTION PIPELINE ---
-    async function executeFullProcess() {
-        const token = document.getElementById('hf-token').value.trim();
-        const editor = document.getElementById('main-editor');
-        const status = document.getElementById('status-indicator');
-        const model = document.querySelector('input[name="model"]:checked').value;
+    <div class="section">
+        <label>Debug Console</label>
+        <div id="console"></div>
+    </div>
 
-        if (!token) { alert("Please provide a Hugging Face Token."); return; }
-        if (!editor.value) return;
+    <script type="module">
+        import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
 
-        status.innerText = "⏳ VAULTING MATH...";
-        let rawText = editor.value;
-        let safeText = vaultMath(rawText);
+        // Elements
+        const consoleEl = document.getElementById('console');
+        const loadBtn = document.getElementById('load-btn');
+        const genBtn = document.getElementById('gen-btn');
+        const progressBar = document.getElementById('progress-bar');
+        const progressContainer = document.getElementById('progress-container');
+        const outputText = document.getElementById('output-text');
+        const inputText = document.getElementById('input-text');
+        const modelSelect = document.getElementById('model-select');
+        const hfToken = document.getElementById('hf-token');
+        const loadStatus = document.getElementById('load-status');
 
-        status.innerText = "🧠 AI REORGANIZING...";
-        const prompt = `<|system|>You are a GitHub Documentation Expert. Organize the text into logical categories, add professional headers (#), fix all punctuation, and ensure clear flow. DO NOT modify the placeholders like __BLOCK_MATH_X__. Return ONLY markdown.</s><|user|>${safeText}</s><|assistant|>`;
+        let generator = null;
 
-        try {
-            const response = await fetch(`https://api-inference.huggingface.co/models/${model}`, {
-                method: "POST",
-                headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
-                body: JSON.stringify({ inputs: prompt, parameters: { max_new_tokens: 2500, return_full_text: false } })
-            });
+        // --- Debug Console Interceptor ---
+        const log = (msg, type = 'INFO') => {
+            const time = new Date().toLocaleTimeString().split(' ')[0];
+            const line = document.createElement('div');
+            line.textContent = `[${time}] [${type}] ${msg}`;
+            consoleEl.appendChild(line);
+            consoleEl.scrollTop = consoleEl.scrollHeight;
+            console.log(`[${type}] ${msg}`);
+        };
 
-            const data = await response.json();
-            let aiOutput = data[0]?.generated_text || data.generated_text || (data.error ? "Error: " + data.error : "");
+        // Catch global errors
+        window.onerror = (m, s, l, c, e) => log(`${m} at ${l}:${c}`, 'ERROR');
 
-            if (aiOutput.startsWith("Error")) throw new Error(aiOutput);
+        // --- Model Management ---
+        loadBtn.onclick = async () => {
+            const modelId = modelSelect.value;
+            const token = hfToken.value;
+            
+            try {
+                loadBtn.disabled = true;
+                progressContainer.style.display = 'block';
+                log(`Starting download/load for ${modelId}...`);
+                loadStatus.textContent = "Loading...";
 
-            status.innerText = "✨ RESTORING MATH...";
-            editor.value = unvaultMath(aiOutput);
-            renderPreview();
-            status.innerText = "✅ DONE";
-        } catch (e) {
-            status.innerText = "❌ ERROR - USING LOCAL FIX";
-            localRegexFix();
-        }
-    }
+                // Configure environment for mobile/browser
+                env.allowLocalModels = false;
+                if(token) env.remoteToken = token;
 
-    // --- 3. UI & UTILITIES ---
-    function localRegexFix() {
-        let t = document.getElementById('main-editor').value;
-        t = vaultMath(t);
-        t = t.replace(/^(#+)([A-Za-z])/gm, '$1 $2');
-        t = t.replace(/\s+([,.!?;:])/g, '$1');
-        document.getElementById('main-editor').value = unvaultMath(t);
-        renderPreview();
-    }
+                generator = await pipeline('text-generation', modelId, {
+                    progress_callback: (data) => {
+                        if (data.status === 'progress') {
+                            progressBar.style.width = `${data.progress}%`;
+                            log(`Downloading ${data.file}: ${Math.round(data.progress)}%`, 'DL');
+                        } else if (data.status === 'done') {
+                            log(`Finished downloading ${data.file}`, 'DL');
+                        }
+                    }
+                });
 
-    function switchTab(tab) {
-        document.querySelectorAll('.tab, .view').forEach(el => el.classList.remove('active'));
-        document.querySelector(`.tab[onclick*="${tab}"]`).classList.add('active');
-        document.getElementById(`${tab}-view`).classList.add('active');
-        if (tab === 'preview') renderPreview();
-    }
+                log('Model loaded successfully!', 'SUCCESS');
+                loadStatus.textContent = "Loaded";
+                loadStatus.style.background = "#10b981";
+                genBtn.disabled = false;
+                progressContainer.style.display = 'none';
 
-    function renderPreview() {
-        const text = document.getElementById('main-editor').value;
-        const pane = document.getElementById('preview-pane');
-        pane.innerHTML = marked.parse(text);
-        if (window.MathJax) MathJax.typesetPromise([pane]);
-    }
+            } catch (err) {
+                log(err.message, 'ERROR');
+                loadBtn.disabled = false;
+                loadStatus.textContent = "Error";
+            }
+        };
 
-    function copyResult() { navigator.clipboard.writeText(document.getElementById('main-editor').value); alert("Copied!"); }
-    function downloadResult() {
-        const blob = new Blob([document.getElementById('main-editor').value], {type: 'text/markdown'});
-        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = "README.md"; a.click();
-    }
+        // --- Generation ---
+        genBtn.onclick = async () => {
+            const prompt = inputText.value;
+            if (!prompt) return log('Input is empty', 'WARN');
 
-    // Configure MathJax for the preview
-    window.MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] } };
-    document.getElementById('main-editor').addEventListener('input', renderPreview);
-</script>
+            try {
+                genBtn.disabled = true;
+                outputText.value = "Generating...";
+                log('Processing generation request...');
 
+                const start = performance.now();
+                const result = await generator(prompt, { 
+                    max_new_tokens: 256,
+                    temperature: 0.7,
+                    callback_function: (beams) => {
+                        // This updates the UI as the model "thinks"
+                        const decoded = generator.tokenizer.decode(beams[0].output_token_ids, { skip_special_tokens: true });
+                        outputText.value = decoded;
+                    }
+                });
+
+                const end = performance.now();
+                log(`Generation complete in ${((end - start)/1000).toFixed(2)}s`, 'SUCCESS');
+                
+            } catch (err) {
+                log(err.message, 'ERROR');
+            } finally {
+                genBtn.disabled = false;
+            }
+        };
+
+        log('System initialized. Select a model and click Load.');
+    </script>
 </body>
 </html>
