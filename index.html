@@ -4,247 +4,224 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mobile AI Runner</title>
-    <script src="https://cdn.jsdelivr.net/npm/lucide@0.321.0/font/lucide.min.js"></script>
     <style>
         :root {
-            --bg: #0f172a;
-            --card: #1e293b;
-            --text: #f8fafc;
-            --primary: #3b82f6;
-            --accent: #10b981;
-            --border: #334155;
+            --bg: #0b0e14;
+            --panel: #161b22;
+            --text: #c9d1d9;
+            --accent: #238636;
+            --debug: #00ff41;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: var(--bg);
+            font-family: -apple-system, sans-serif;
+            background: var(--bg);
             color: var(--text);
             margin: 0;
-            padding: 15px;
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            max-width: 800px;
-            margin: auto;
-        }
-
-        .section {
-            background: var(--card);
-            padding: 15px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
+            padding: 10px;
             display: flex;
             flex-direction: column;
             gap: 10px;
+            height: 100vh;
+            box-sizing: border-box;
         }
 
-        label { font-size: 0.85rem; font-weight: 600; color: #94a3b8; }
+        /* Settings Panel */
+        .card {
+            background: var(--panel);
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
 
         select, input, textarea {
-            background: #0f172a;
-            border: 1px solid var(--border);
-            color: white;
-            padding: 10px;
-            border-radius: 6px;
             width: 100%;
+            background: #0d1117;
+            color: white;
+            border: 1px solid #30363d;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 5px;
             box-sizing: border-box;
-            font-family: inherit;
         }
 
         button {
-            background: var(--primary);
+            width: 100%;
+            padding: 12px;
+            background: var(--accent);
             color: white;
             border: none;
-            padding: 12px;
-            border-radius: 6px;
+            border-radius: 5px;
             font-weight: bold;
+            margin-top: 8px;
             cursor: pointer;
-            transition: opacity 0.2s;
         }
 
-        button:disabled { opacity: 0.5; cursor: not-allowed; }
+        button:disabled { opacity: 0.4; }
 
-        #progress-container {
-            height: 8px;
-            background: #334155;
-            border-radius: 4px;
-            overflow: hidden;
+        /* Progress Bar */
+        #progress-wrap {
+            height: 6px;
+            background: #30363d;
+            border-radius: 3px;
+            margin: 10px 0;
             display: none;
+            overflow: hidden;
         }
-
-        #progress-bar {
+        #progress-fill {
             height: 100%;
-            background: var(--accent);
+            background: #58a6ff;
             width: 0%;
-            transition: width 0.3s;
+            transition: width 0.2s;
         }
 
-        textarea {
-            min-height: 120px;
-            resize: vertical;
-            font-size: 14px;
-            line-height: 1.5;
+        /* Chat Areas */
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            flex-grow: 1;
+            overflow: hidden;
         }
 
-        #console {
-            background: #000;
-            color: #00ff00;
-            font-family: 'Courier New', Courier, monospace;
-            font-size: 11px;
+        textarea { font-size: 16px; } /* Prevent mobile zoom */
+        #output-box {
+            flex-grow: 1;
+            background: #0d1117;
             padding: 10px;
-            height: 150px;
+            border-radius: 5px;
+            border: 1px solid #30363d;
             overflow-y: auto;
-            border-radius: 6px;
             white-space: pre-wrap;
-            border: 1px solid #334155;
+            font-size: 14px;
         }
 
-        .status-tag {
+        /* Debug Console */
+        #debug-console {
+            height: 120px;
+            background: black;
+            color: var(--debug);
+            font-family: monospace;
             font-size: 10px;
-            text-transform: uppercase;
-            padding: 2px 6px;
-            border-radius: 4px;
-            background: #334155;
-            align-self: flex-start;
+            padding: 8px;
+            overflow-y: auto;
+            border: 1px solid #333;
         }
     </style>
 </head>
 <body>
 
-    <div class="section">
-        <label>Configuration</label>
+    <div class="card">
+        <label>Select Model (Lightweight)</label>
         <select id="model-select">
-            <option value="Xenova/Qwen1.5-0.5B-Chat">Qwen 1.5 (0.5B) - Fastest</option>
-            <option value="Xenova/phi-1_5_dev">Phi 1.5 - High Quality</option>
-            <option value="Xenova/LaMini-Flan-T5-77M">LaMini 77M - Super Light</option>
-            <option value="Xenova/gpt2">GPT-2 (Classic)</option>
+            <option value="Xenova/Qwen1.5-0.5B-Chat">Qwen 1.5 0.5B (Fastest)</option>
+            <option value="Xenova/phi-1_5_dev">Phi 1.5 (High Logic)</option>
+            <option value="Xenova/TinyLlama-1.1B-Chat-v1.0">TinyLlama 1.1B</option>
+            <option value="Xenova/LaMini-Flan-T5-77M">LaMini 77M (Ultra Light)</option>
         </select>
-        <input type="password" id="hf-token" placeholder="HuggingFace Token (Optional for public models)">
-        <button id="load-btn">Initialize Model</button>
         
-        <div id="progress-container">
-            <div id="progress-bar"></div>
+        <input type="password" id="hf-token" placeholder="HuggingFace Token (Optional)">
+        
+        <button id="load-btn">LOAD MODEL</button>
+
+        <div id="progress-wrap">
+            <div id="progress-fill"></div>
         </div>
-        <div id="load-status" class="status-tag">Ready</div>
     </div>
 
-    <div class="section">
-        <label>Input</label>
-        <textarea id="input-text" placeholder="Type your prompt here..."></textarea>
-        <button id="gen-btn" disabled>Generate Output</button>
+    <div class="chat-container">
+        <textarea id="input-box" rows="3" placeholder="Ask something..."></textarea>
+        <button id="send-btn" disabled>GENERATE RESPONSE</button>
+        <div id="output-box">Waiting for model...</div>
     </div>
 
-    <div class="section">
-        <label>Output</label>
-        <textarea id="output-text" readonly placeholder="Result will appear here..."></textarea>
-    </div>
-
-    <div class="section">
-        <label>Debug Console</label>
-        <div id="console"></div>
-    </div>
+    <div id="debug-console"></div>
 
     <script type="module">
         import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
 
-        // Elements
-        const consoleEl = document.getElementById('console');
-        const loadBtn = document.getElementById('load-btn');
-        const genBtn = document.getElementById('gen-btn');
-        const progressBar = document.getElementById('progress-bar');
-        const progressContainer = document.getElementById('progress-container');
-        const outputText = document.getElementById('output-text');
-        const inputText = document.getElementById('input-text');
-        const modelSelect = document.getElementById('model-select');
-        const hfToken = document.getElementById('hf-token');
-        const loadStatus = document.getElementById('load-status');
-
+        const consoleBox = document.getElementById('debug-console');
+        const outputBox = document.getElementById('output-box');
+        const progressFill = document.getElementById('progress-fill');
+        const progressWrap = document.getElementById('progress-wrap');
+        
         let generator = null;
 
-        // --- Debug Console Interceptor ---
-        const log = (msg, type = 'INFO') => {
-            const time = new Date().toLocaleTimeString().split(' ')[0];
-            const line = document.createElement('div');
-            line.textContent = `[${time}] [${type}] ${msg}`;
-            consoleEl.appendChild(line);
-            consoleEl.scrollTop = consoleEl.scrollHeight;
+        // Custom Logger Function
+        function log(msg, type = 'EVENT') {
+            const time = new Date().toLocaleTimeString();
+            const entry = document.createElement('div');
+            entry.textContent = `[${time}] [${type}] ${msg}`;
+            consoleBox.appendChild(entry);
+            consoleBox.scrollTop = consoleBox.scrollHeight;
             console.log(`[${type}] ${msg}`);
-        };
+        }
 
-        // Catch global errors
-        window.onerror = (m, s, l, c, e) => log(`${m} at ${l}:${c}`, 'ERROR');
-
-        // --- Model Management ---
-        loadBtn.onclick = async () => {
-            const modelId = modelSelect.value;
-            const token = hfToken.value;
+        // --- Load Model Logic ---
+        document.getElementById('load-btn').onclick = async () => {
+            const modelId = document.getElementById('model-select').value;
+            const token = document.getElementById('hf-token').value;
             
             try {
-                loadBtn.disabled = true;
-                progressContainer.style.display = 'block';
-                log(`Starting download/load for ${modelId}...`);
-                loadStatus.textContent = "Loading...";
+                log(`Initializing ${modelId}...`, 'INIT');
+                progressWrap.style.display = 'block';
+                document.getElementById('load-btn').disabled = true;
 
-                // Configure environment for mobile/browser
-                env.allowLocalModels = false;
                 if(token) env.remoteToken = token;
 
                 generator = await pipeline('text-generation', modelId, {
                     progress_callback: (data) => {
                         if (data.status === 'progress') {
-                            progressBar.style.width = `${data.progress}%`;
-                            log(`Downloading ${data.file}: ${Math.round(data.progress)}%`, 'DL');
-                        } else if (data.status === 'done') {
-                            log(`Finished downloading ${data.file}`, 'DL');
+                            progressFill.style.width = `${data.progress}%`;
+                            log(`Downloading ${data.file}: ${data.progress.toFixed(1)}%`, 'LOAD');
                         }
                     }
                 });
 
-                log('Model loaded successfully!', 'SUCCESS');
-                loadStatus.textContent = "Loaded";
-                loadStatus.style.background = "#10b981";
-                genBtn.disabled = false;
-                progressContainer.style.display = 'none';
+                log('Model loaded and ready!', 'SUCCESS');
+                document.getElementById('send-btn').disabled = false;
+                outputBox.textContent = "Model ready. Type below to chat.";
+                progressWrap.style.display = 'none';
 
-            } catch (err) {
-                log(err.message, 'ERROR');
-                loadBtn.disabled = false;
-                loadStatus.textContent = "Error";
+            } catch (e) {
+                log(e.message, 'ERROR');
+                document.getElementById('load-btn').disabled = false;
             }
         };
 
-        // --- Generation ---
-        genBtn.onclick = async () => {
-            const prompt = inputText.value;
-            if (!prompt) return log('Input is empty', 'WARN');
+        // --- Generation Logic ---
+        document.getElementById('send-btn').onclick = async () => {
+            const input = document.getElementById('input-box').value;
+            if (!input) return;
 
             try {
-                genBtn.disabled = true;
-                outputText.value = "Generating...";
-                log('Processing generation request...');
+                document.getElementById('send-btn').disabled = true;
+                outputBox.textContent = "";
+                log('Generating response...', 'TASK');
 
-                const start = performance.now();
-                const result = await generator(prompt, { 
-                    max_new_tokens: 256,
+                let fullText = "";
+                const result = await generator(input, {
+                    max_new_tokens: 512,
                     temperature: 0.7,
                     callback_function: (beams) => {
-                        // This updates the UI as the model "thinks"
-                        const decoded = generator.tokenizer.decode(beams[0].output_token_ids, { skip_special_tokens: true });
-                        outputText.value = decoded;
+                        // Stream output to the box
+                        const decoded = generator.tokenizer.decode(beams[0].output_token_ids, {
+                            skip_special_tokens: true
+                        });
+                        outputBox.textContent = decoded;
+                        outputBox.scrollTop = outputBox.scrollHeight;
                     }
                 });
 
-                const end = performance.now();
-                log(`Generation complete in ${((end - start)/1000).toFixed(2)}s`, 'SUCCESS');
-                
-            } catch (err) {
-                log(err.message, 'ERROR');
+                log('Generation finished.', 'SUCCESS');
+            } catch (e) {
+                log(e.message, 'ERROR');
             } finally {
-                genBtn.disabled = false;
+                document.getElementById('send-btn').disabled = false;
             }
         };
 
-        log('System initialized. Select a model and click Load.');
+        log('System online. Awaiting user command.');
     </script>
 </body>
 </html>
