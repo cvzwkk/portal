@@ -3,183 +3,130 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autonomous Neural Runner</title>
+    <title>Qwen 2.5 Dedicated Runner</title>
     <style>
-        :root { --bg: #010409; --card: #0d1117; --text: #e6edf3; --glow: #238636; --fail: #f85149; }
-        body { font-family: 'Consolas', monospace; background: var(--bg); color: var(--text); margin: 0; padding: 10px; display: flex; flex-direction: column; height: 100vh; overflow: hidden; box-sizing: border-box; }
+        :root { --line: #00ff41; --bg: #050505; }
+        body { font-family: 'Courier New', monospace; background: var(--bg); color: var(--line); margin: 0; padding: 15px; display: flex; flex-direction: column; height: 100vh; box-sizing: border-box; }
         
-        /* GUI Layout */
-        .panel { background: var(--card); border: 1px solid #30363d; padding: 12px; border-radius: 8px; margin-bottom: 10px; }
-        .row { display: flex; gap: 8px; margin-bottom: 8px; }
+        .terminal-border { border: 1px solid var(--line); padding: 15px; background: #000; display: flex; flex-direction: column; gap: 10px; }
         
-        select, input, textarea { width: 100%; background: #000; color: #39ff14; border: 1px solid #333; padding: 12px; border-radius: 4px; font-size: 14px; }
+        #progress-container { width: 100%; height: 15px; border: 1px solid var(--line); position: relative; display: none; }
+        #progress-bar { height: 100%; background: var(--line); width: 0%; transition: width 0.1s; }
         
-        button { flex: 1; padding: 12px; font-weight: bold; border-radius: 4px; cursor: pointer; border: none; text-transform: uppercase; transition: 0.2s; }
-        .btn-load { background: #1f6feb; color: white; }
-        .btn-force { background: #8957e5; color: white; }
-        .btn-gen { background: var(--glow); color: white; margin-top: 10px; }
-        button:disabled { opacity: 0.2; cursor: not-allowed; filter: grayscale(1); }
+        textarea { width: 100%; background: #000; color: #fff; border: 1px solid var(--line); padding: 10px; font-family: inherit; resize: none; box-sizing: border-box; }
+        
+        button { background: transparent; color: var(--line); border: 1px solid var(--line); padding: 12px; font-weight: bold; cursor: pointer; text-transform: uppercase; width: 100%; }
+        button:hover { background: var(--line); color: #000; }
+        button:disabled { opacity: 0.3; border-color: #333; color: #333; }
 
-        /* Progress & Console */
-        #progress-wrap { height: 4px; background: #161b22; margin-top: 10px; border-radius: 2px; display: none; overflow: hidden; }
-        #progress-fill { height: 100%; background: #58a6ff; width: 0%; transition: width 0.1s; }
-
-        #output-area { flex-grow: 1; background: #000; border: 1px solid #30363d; padding: 15px; overflow-y: auto; white-space: pre-wrap; color: #fff; font-size: 14px; line-height: 1.6; border-radius: 4px; }
+        #output-display { flex-grow: 1; border: 1px solid var(--line); margin-top: 10px; padding: 15px; overflow-y: auto; white-space: pre-wrap; color: #fff; font-size: 14px; background: #080808; }
         
-        /* Custom Scrollbar Debug Console */
-        #debug-console { height: 120px; background: #000; color: #888; font-size: 11px; padding: 10px; overflow-y: scroll; border-top: 2px solid #30363d; margin-top: 10px; }
-        #debug-console::-webkit-scrollbar { width: 8px; }
-        #debug-console::-webkit-scrollbar-track { background: #050505; }
-        #debug-console::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
-        #debug-console::-webkit-scrollbar-thumb:hover { background: #444; }
-
-        .log-sys { color: #58a6ff; }
-        .log-work { color: #39ff14; }
-        .log-err { color: var(--fail); }
+        #console-log { height: 120px; border: 1px solid #333; margin-top: 10px; padding: 8px; overflow-y: scroll; font-size: 10px; color: #888; background: #000; }
+        #console-log::-webkit-scrollbar { width: 5px; }
+        #console-log::-webkit-scrollbar-thumb { background: var(--line); }
+        .err { color: #ff3e3e; }
     </style>
 </head>
 <body>
 
-    <div class="panel">
-        <div class="row">
-            <select id="model-select">
-                <option value="TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ"> Tiny Llama (Fastest)</option>
-                <option value="onnx-community/Phi-3-mini-4k-instruct-onnx-v2">Phi-3 Mini (Logic Engine)</option>
-                <option value="Xenova/TinyLlama-1.1B-Chat-v1.0">TinyLlama 1.1B</option>
-            </select>
-            <input type="password" id="hf-token" placeholder="HF_TOKEN" style="max-width: 120px;">
-        </div>
-        <div class="row">
-            <button id="load-btn" class="btn-load">Manual Load</button>
-            <button id="force-btn" class="btn-force">Force Load (Auto-Retry)</button>
-        </div>
-        <div id="progress-wrap">
-            <div id="progress-fill"></div>
+    <div class="terminal-border">
+        <div style="font-size: 12px;">TARGET_MODEL: Qwen2.5-0.5B-Instruct (Quantized)</div>
+        <input type="password" id="hf-token" placeholder="HF_TOKEN (Leave empty if public)">
+        <button id="init-btn">Initialize Dedicated Model</button>
+        
+        <div id="progress-container">
+            <div id="progress-bar"></div>
         </div>
     </div>
 
-    <textarea id="input-box" rows="2" placeholder="System command input..."></textarea>
-    <button id="gen-btn" class="btn-gen" disabled>Execute Neural Logic</button>
+    <textarea id="user-input" rows="3" placeholder="Input system instructions or query..."></textarea>
+    <button id="run-btn" disabled>Execute Generation</button>
 
-    <div id="output-area">CORE_IDLE: Awaiting initialization...</div>
-    
-    <div id="debug-console"></div>
+    <div id="output-display">Awaiting hardware initialization...</div>
+    <div id="console-log"></div>
 
     <script type="module">
         import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
 
-        const models = [
-            "TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ",
-            "Xenova/distilgpt2"
-        ];
-
-        const consoleBox = document.getElementById('debug-console');
-        const outputArea = document.getElementById('output-area');
-        const progFill = document.getElementById('progress-fill');
-        const progWrap = document.getElementById('progress-wrap');
-        const genBtn = document.getElementById('gen-btn');
+        const modelPath = 'onnx-community/Qwen2.5-0.5B-Instruct-ONNX';
+        const logBox = document.getElementById('console-log');
+        const output = document.getElementById('output-display');
+        const progBar = document.getElementById('progress-bar');
+        const progCont = document.getElementById('progress-container');
         
-        let runner = null;
-        let activeModelId = "";
+        let generator = null;
 
-        function log(msg, type = 'sys') {
-            const div = document.createElement('div');
-            div.className = `log-${type}`;
-            div.textContent = `[${new Date().toLocaleTimeString()}] [${type.toUpperCase()}] ${msg}`;
-            consoleBox.appendChild(div);
-            consoleBox.scrollTop = consoleBox.scrollHeight;
+        function debug(msg, isErr = false) {
+            const entry = document.createElement('div');
+            if(isErr) entry.className = 'err';
+            entry.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+            logBox.appendChild(entry);
+            logBox.scrollTop = logBox.scrollHeight;
         }
 
-        async function initModel(modelId, isAuto = false) {
-            try {
-                progWrap.style.display = 'block';
-                log(`Attempting load: ${modelId}`, 'sys');
-                
-                const token = document.getElementById('hf-token').value;
-                if(token) env.remoteToken = token;
+        document.getElementById('init-btn').onclick = async () => {
+            const token = document.getElementById('hf-token').value;
+            const initBtn = document.getElementById('init-btn');
 
-                runner = await pipeline('text-generation', modelId, {
-                    progress_callback: (d) => {
-                        if(d.status === 'progress') {
-                            progFill.style.width = `${d.progress}%`;
+            try {
+                initBtn.disabled = true;
+                progCont.style.display = 'block';
+                debug("Establishing handshake with HuggingFace...");
+
+                if(token) env.remoteToken = token;
+                env.allowLocalModels = false;
+
+                // Targeting the specific quantized model file in the repository
+                generator = await pipeline('text-generation', modelPath, {
+                    model_file: 'onnx/model_quantized.onnx',
+                    progress_callback: (p) => {
+                        if(p.status === 'progress') {
+                            progBar.style.width = `${p.progress}%`;
+                            debug(`DOWNLOADING_${p.file}: ${Math.round(p.progress)}%`);
                         }
                     }
                 });
 
-                // STRESS TEST / VALIDATION
-                log(`Validating coherence for ${modelId}...`, 'sys');
-                const test = await runner("Say 'READY'", { max_new_tokens: 5, temperature: 0.1 });
-                const response = test[0].generated_text.toUpperCase();
-                
-                if(response.length > 0) {
-                    log(`Model ${modelId} verified and responding.`, 'work');
-                    activeModelId = modelId;
-                    outputArea.textContent = `CORE_ACTIVE: ${modelId}\nSYSTEM STATUS: Ready for complex instructions.`;
-                    genBtn.disabled = false;
-                    progWrap.style.display = 'none';
-                    return true;
-                }
-                return false;
+                debug("Model loaded into local device capability.");
+                output.textContent = "READY_FOR_INPUT";
+                document.getElementById('run-btn').disabled = false;
+                progCont.style.display = 'none';
 
             } catch (e) {
-                log(`Failure on ${modelId}: ${e.message}`, 'err');
-                return false;
+                debug(`INITIALIZATION_FAILED: ${e.message}`, true);
+                initBtn.disabled = false;
             }
-        }
-
-        // AUTO-RETRY LOGIC
-        document.getElementById('force-btn').onclick = async () => {
-            document.getElementById('force-btn').disabled = true;
-            log("Starting Autonomous Resource Acquisition...", "sys");
-
-            for (const mId of models) {
-                const success = await initModel(mId, true);
-                if (success) {
-                    log(`Auto-selection successful. Resource: ${mId}`, "work");
-                    document.getElementById('model-select').value = mId;
-                    break;
-                }
-                log(`Model ${mId} rejected. Switching resources...`, "err");
-            }
-            document.getElementById('force-btn').disabled = false;
         };
 
-        // MANUAL LOAD
-        document.getElementById('load-btn').onclick = () => initModel(document.getElementById('model-select').value);
-
-        // GENERATE
-        document.getElementById('gen-btn').onclick = async () => {
-            const prompt = document.getElementById('input-box').value;
-            if(!prompt) return;
+        document.getElementById('run-btn').onclick = async () => {
+            const text = document.getElementById('user-input').value;
+            if(!text) return;
 
             try {
-                genBtn.disabled = true;
-                outputArea.textContent = "";
-                log("Executing high-entropy generation cycle...", "sys");
+                document.getElementById('run-btn').disabled = true;
+                output.textContent = "THINKING...";
+                debug("Inference cycle started.");
 
-                // Resource Overload Settings
-                await runner(prompt, {
+                await generator(text, {
                     max_new_tokens: 1024,
-                    temperature: 1.1,      // Increased entropy
+                    temperature: 0.8,
                     do_sample: true,
-                    top_p: 0.9,
-                    repetition_penalty: 1.2,
+                    top_k: 40,
                     callback_function: (beams) => {
-                        const decoded = runner.tokenizer.decode(beams[0].output_token_ids, { skip_special_tokens: true });
-                        outputArea.textContent = decoded;
-                        outputArea.scrollTop = outputArea.scrollHeight;
+                        const decoded = generator.tokenizer.decode(beams[0].output_token_ids, { skip_special_tokens: true });
+                        output.textContent = decoded;
                     }
                 });
 
-                log("Generation sequence finalized.", "work");
+                debug("Inference cycle complete.");
             } catch (e) {
-                log(`Buffer error: ${e.message}`, "err");
+                debug(`RUNTIME_ERROR: ${e.message}`, true);
             } finally {
-                genBtn.disabled = false;
+                document.getElementById('run-btn').disabled = false;
             }
         };
 
-        log("Neural Interface Loaded. Use Force Load if resources hang.");
+        debug("System Online. Awaiting Manual Trigger.");
     </script>
 </body>
 </html>
