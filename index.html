@@ -1,100 +1,100 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-  <h1>Welcome to the ManyVerses Land</h1>
-  <h2>All Is Possible and All is analyzed</h2>
-  <h3>Your private universe that you can make anything without cause interference in many other verses/branches</h3>
-
-  <p></p><p></p><p></p>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Public AI Markdown Architect</title>
+    <title>Hybrid AI Markdown Architect</title>
     
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
 
+    <script>
+        window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']] } };
+    </script>
+
     <style>
         :root {
-            --bg: #0d1117;
-            --panel-bg: #161b22;
-            --border: #30363d;
-            --text: #c9d1d9;
-            --accent: #238636;
-            --ai-glow: #bc8cff;
+            --bg: #0d1117; var(--panel-bg): #161b22; var(--border): #30363d;
+            --text: #c9d1d9; var(--accent): #238636; var(--ai-glow): #ff7b72;
         }
 
         body {
-            font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
-            margin: 0; background: var(--bg); color: var(--text);
+            font-family: -apple-system, system-ui, sans-serif;
+            margin: 0; background: #0d1117; color: #c9d1d9;
             display: flex; flex-direction: column; height: 100vh;
         }
 
         .app-header {
-            padding: 0.8rem 2rem; background: var(--panel-bg);
-            border-bottom: 1px solid var(--border);
+            padding: 0.8rem 2rem; background: #161b22; border-bottom: 1px solid #30363d;
             display: flex; justify-content: space-between; align-items: center;
+        }
+
+        .api-box {
+            display: flex; gap: 10px; align-items: center;
+            background: #0d1117; padding: 5px 15px; border-radius: 6px; border: 1px solid #30363d;
+        }
+
+        .api-box input {
+            background: transparent; border: none; color: #79c0ff; outline: none; width: 180px; font-size: 12px;
         }
 
         .main-container {
             display: grid; grid-template-columns: 1fr 1fr;
-            flex: 1; overflow: hidden; gap: 1px; background: var(--border);
+            flex: 1; overflow: hidden; gap: 1px; background: #30363d;
         }
 
-        .column { display: flex; flex-direction: column; background: var(--bg); overflow: hidden; }
+        .column { display: flex; flex-direction: column; background: #0d1117; overflow: hidden; }
 
         .column-header {
-            padding: 10px 20px; background: var(--panel-bg);
+            padding: 10px 20px; background: #161b22;
             font-size: 11px; font-weight: 700; text-transform: uppercase;
-            display: flex; justify-content: space-between; align-items: center;
         }
 
         textarea {
-            flex: 1; background: var(--bg); color: var(--text); border: none;
-            padding: 20px; font-family: "SFMono-Regular", monospace;
-            font-size: 14px; line-height: 1.6; outline: none; resize: none;
+            flex: 1; background: #0d1117; color: #c9d1d9; border: none;
+            padding: 20px; font-family: monospace; font-size: 14px; line-height: 1.6; outline: none; resize: none;
         }
 
         #preview-area {
-            flex: 1; padding: 30px; overflow-y: auto;
-            background: #ffffff; color: #24292f;
+            flex: 1; padding: 30px; overflow-y: auto; background: #ffffff; color: #24292f;
         }
 
         .toolbar {
-            padding: 12px 20px; background: var(--panel-bg);
-            border-top: 1px solid var(--border); display: flex; gap: 12px; align-items: center;
+            padding: 12px 20px; background: #161b22; border-top: 1px solid #30363d;
+            display: flex; gap: 12px; align-items: center;
         }
 
         button {
-            background: var(--accent); color: white; border: none;
-            padding: 10px 20px; border-radius: 6px; font-weight: 600; cursor: pointer;
+            background: #238636; color: white; border: none;
+            padding: 10px 20px; border-radius: 6px; font-weight: 600; cursor: pointer; transition: 0.2s;
         }
+        
+        button:hover { filter: brightness(1.2); }
+        button.primary-btn { background: #8957e5; box-shadow: 0 0 10px rgba(137, 87, 229, 0.4); }
+        button.secondary { background: transparent; border: 1px solid #30363d; font-size: 12px; }
 
-        button.ai-btn { background: #8957e5; border: 1px solid var(--ai-glow); }
-        button.secondary { background: transparent; border: 1px solid var(--border); font-size: 12px; }
-
-        .loader {
-            display: none; color: var(--ai-glow); font-size: 12px; font-weight: bold;
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; } 100% { opacity: 0.5; } }
+        #aiStatus { display: none; color: #ff7b72; font-weight: bold; font-size: 12px; animation: pulse 1s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
     </style>
 </head>
 <body>
 
 <div class="app-header">
     <div style="display: flex; align-items: center; gap: 10px;">
-        <span>🔮</span><strong>PUBLIC AI ARCHITECT</strong>
+        <span>🤖</span><strong>HYBRID AI ARCHITECT</strong>
     </div>
-    <div class="loader" id="aiStatus">AI AGENT IS THINKING...</div>
-    <div style="font-size: 10px; color: #8b949e;">No Key Required (Public Inference)</div>
+    <div id="aiStatus">⏳ AI is processing text & formatting... (May take 30s)</div>
+    <div class="api-box">
+        <span style="font-size: 10px; color: #8b949e;">HF Token (Optional):</span>
+        <input type="password" id="hfToken" placeholder="hf_xxxxxxxxxxxxxxxxxxx">
+    </div>
 </div>
 
 <div class="main-container">
     <div class="column">
-        <div class="column-header">Input Source</div>
-        <textarea id="editor" placeholder="Paste messy text here..."></textarea>
+        <div class="column-header">Raw Input (Messy Text & Math)</div>
+        <textarea id="editor" placeholder="Paste your shattered text and equations here..."></textarea>
     </div>
     <div class="column">
         <div class="column-header">GitHub Render Preview</div>
@@ -103,65 +103,127 @@
 </div>
 
 <div class="toolbar">
-    <button class="ai-btn" onclick="runPublicAI()">🧠 AI Global Reorganize</button>
-    <button class="secondary" onclick="regexOnly()">✨ Fast Regex Fix</button>
-    <button class="secondary" onclick="copyText()">📋 Copy</button>
-    <button class="secondary" onclick="downloadMD()">💾 Download .md</button>
+    <button class="primary-btn" onclick="runHybridAI()">🧠 AI Deep Reorganize (Hybrid)</button>
+    <button class="secondary" onclick="fastRegexClean()">⚡ Fast Math Clean (No AI)</button>
+    <button class="secondary" onclick="copyText()">📋 Copy .md</button>
+    <button class="secondary" onclick="downloadMD()">💾 Download</button>
     <button class="secondary" style="margin-left: auto; color: #ff7b72;" onclick="clearEditor()">Clear</button>
 </div>
 
 <script>
-    // --- PUBLIC AI CONFIGURATION ---
-    // Using Mistral-7B via Hugging Face Public Inference
+    // --- 1. CORE MATH CLEANER & VAULT SYSTEM ---
+    let mathVault = [];
+
+    function protectAndCleanMath(text) {
+        mathVault = []; // Reset vault
+        
+        // Fix Massive Broken Blocks: $$ \n $$[ \n CONTENT \n ]$$ \n $$
+        text = text.replace(/\$\$\s*\$\$\[\s*([\s\S]*?)\s*\]\$\$\s*\$\$/g, '\n\n$$\n$1\n$$\n\n');
+        
+        // Fix Standard Broken Blocks: $$[ \n CONTENT \n ]$$
+        text = text.replace(/\$\$\[\s*([\s\S]*?)\s*\]\$\$/g, '\n\n$$\n$1\n$$\n\n');
+        
+        // Fix Inline Bracket Variables: [d+1] -> $d+1$
+        text = text.replace(/(^|\s)\[([\p{L}\p{N}+\-_]{1,10})\](?=\s|[.,:;!?]|$)/gu, '$1$$$2$$');
+
+        // Vault Display Math ($$ ... $$)
+        text = text.replace(/\$\$([\s\S]*?)\$\$/g, (match) => {
+            mathVault.push(match);
+            return ` __MATH_BLOCK_${mathVault.length - 1}__ `;
+        });
+
+        // Vault Inline Math ($ ... $)
+        text = text.replace(/\$([\s\S]*?)\$/g, (match) => {
+            mathVault.push(match);
+            return ` __INLINE_MATH_${mathVault.length - 1}__ `;
+        });
+
+        return text;
+    }
+
+    function restoreMath(text) {
+        // Put the math exactly back where it belongs
+        text = text.replace(/__MATH_BLOCK_(\d+)__/g, (match, p1) => {
+            return `\n\n${mathVault[parseInt(p1)]}\n\n`;
+        });
+        
+        text = text.replace(/__INLINE_MATH_(\d+)__/g, (match, p1) => {
+            return mathVault[parseInt(p1)];
+        });
+
+        // Final cleanup of extra lines created by splicing
+        return text.replace(/\n{3,}/g, '\n\n').trim();
+    }
+
+
+    // --- 2. HUGGING FACE AI PIPELINE ---
+    // Using Mistral as it handles structural markdown requests beautifully
     const MODEL_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2";
 
-    async function runPublicAI() {
-        const inputText = document.getElementById('editor').value;
-        if (!inputText) return;
+    async function runHybridAI() {
+        let rawText = document.getElementById('editor').value;
+        if (!rawText.trim()) return;
 
         const status = document.getElementById('aiStatus');
+        const token = document.getElementById('hfToken').value.trim();
         status.style.display = 'block';
 
+        // Step 1: Clean and Vault the Math
+        let safeText = protectAndCleanMath(rawText);
+
         try {
-            // We use a specific prompt to ensure it returns ONLY the markdown
-            const prompt = `<s>[INST] Reorganize this messy text into professional GitHub Markdown. 
-            Fix all punctuation, commas, and periods. Add logical Headers (#), Introductions, and Categories. 
-            Ensure LaTeX equations are wrapped in $$[ equation ]$$. 
-            Return ONLY the corrected markdown. Text to fix: ${inputText} [/INST]`;
+            const prompt = `<s>[INST] You are an expert Markdown architect. Reorganize the following text logically. 
+            1. Add appropriate Header titles (#).
+            2. Fix grammar, punctuation, and commas. 
+            3. Group text into clean paragraphs.
+            4. DO NOT modify, delete, or translate any tags that look like __MATH_BLOCK_X__ or __INLINE_MATH_X__. Leave them exactly where they belong in the sentences.
+            
+            Text to organize:
+            ${safeText} [/INST]`;
+
+            let headers = { "Content-Type": "application/json" };
+            if (token) headers["Authorization"] = `Bearer ${token}`; // Use token if provided
 
             const response = await fetch(MODEL_URL, {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ inputs: prompt, parameters: { max_new_tokens: 2000, return_full_text: false } })
+                method: "POST", headers: headers,
+                body: JSON.stringify({ 
+                    inputs: prompt, 
+                    parameters: { max_new_tokens: 3000, return_full_text: false, temperature: 0.2 } 
+                })
             });
 
+            if (!response.ok) {
+                if (response.status === 503) throw new Error("Hugging Face model is currently loading into server memory. Wait 20 seconds and try again.");
+                if (response.status === 429) throw new Error("Rate limit hit. Paste a free Hugging Face API token in the top right box.");
+                throw new Error("API Error: " + response.statusText);
+            }
+
             const data = await response.json();
-            
-            // Hugging Face returns an array of results
-            let result = data[0].generated_text || data.generated_text;
-            
-            if (result) {
-                document.getElementById('editor').value = result.trim();
+            let aiResult = data[0].generated_text || data.generated_text;
+
+            if (aiResult) {
+                // Step 2: Restore Math into the AI's organized text
+                let finalText = restoreMath(aiResult);
+                document.getElementById('editor').value = finalText;
                 renderMarkdown();
             }
+
         } catch (error) {
             console.error(error);
-            alert("Public AI is busy. Please try again in a few seconds or use 'Fast Regex Fix'.");
+            alert(error.message + "\n\nFalling back to Fast Math Clean...");
+            fastRegexClean(); // Auto-fallback if AI crashes
         } finally {
             status.style.display = 'none';
         }
     }
 
-    function regexOnly() {
+    // --- 3. UTILITIES & RENDER ---
+    function fastRegexClean() {
         let text = document.getElementById('editor').value;
-        // Global Regex Fixes
-        text = text.replace(/(\(\s?\\|\\\s?\(|\\\[)/g, '\n\n$$$$\\[\n');
-        text = text.replace(/(\\\s?\)|\\\]|\)\s?\s?\))/g, '\n\\]$$$$\n\n');
-        text = text.replace(/\${4}/g, '$$');
-        text = text.replace(/^(#+)([A-Za-z0-9])/gm, '$1 $2');
-        text = text.replace(/\s+([,.!?;:])/g, '$1');
-        
-        document.getElementById('editor').value = text;
+        text = protectAndCleanMath(text); 
+        text = text.replace(/^(#+)([A-Za-z0-9])/gm, '$1 $2'); // Fix headers
+        text = text.replace(/\s+([,.!?;:])/g, '$1'); // Fix punctuation
+        document.getElementById('editor').value = restoreMath(text);
         renderMarkdown();
     }
 
@@ -169,9 +231,7 @@
         const text = document.getElementById('editor').value;
         const preview = document.getElementById('preview-area');
         preview.innerHTML = marked.parse(text);
-        if (window.MathJax) {
-            MathJax.typesetPromise([preview]);
-        }
+        if (window.MathJax) MathJax.typesetPromise([preview]);
     }
 
     function copyText() { navigator.clipboard.writeText(document.getElementById('editor').value); alert("Copied!"); }
@@ -181,7 +241,6 @@
         const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = "README.md"; a.click();
     }
 
-    // Initialize Preview
     document.getElementById('editor').addEventListener('input', renderMarkdown);
 </script>
 
