@@ -3,164 +3,148 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extreme Mobile AI Runner</title>
+    <title>Resilient Mobile AI</title>
     <style>
-        :root { --bg: #05070a; --panel: #111418; --text: #e6edf3; --glow: #58a6ff; --danger: #ff7b72; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 15px; display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+        :root { --bg: #0d1117; --card: #161b22; --text: #c9d1d9; --primary: #238636; --warn: #d29922; }
+        body { font-family: -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 10px; display: flex; flex-direction: column; height: 100vh; gap: 10px; box-sizing: border-box; }
         
-        .header { border-left: 4px solid var(--glow); padding-left: 15px; margin-bottom: 10px; }
-        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+        .panel { background: var(--card); border: 1px solid #30363d; padding: 12px; border-radius: 8px; }
+        .row { display: flex; gap: 8px; margin-bottom: 8px; }
         
-        .card { background: var(--panel); padding: 12px; border-radius: 8px; border: 1px solid #30363d; box-shadow: 0 4px 15px rgba(0,0,0,0.5); }
+        select, input, textarea { flex: 1; background: #010409; color: white; border: 1px solid #30363d; padding: 10px; border-radius: 6px; font-size: 14px; }
         
-        select, input, textarea { width: 100%; background: #0d1117; color: #fff; border: 1px solid #444c56; padding: 12px; border-radius: 6px; box-sizing: border-box; font-size: 14px; transition: border 0.3s; }
-        select:focus, input:focus { border-color: var(--glow); outline: none; }
+        button { background: var(--primary); color: white; border: none; padding: 12px; border-radius: 6px; font-weight: bold; cursor: pointer; }
+        button:disabled { opacity: 0.3; cursor: not-allowed; }
+        .btn-reset { background: #8b1111; font-size: 10px; padding: 5px; }
 
-        button { width: 100%; padding: 14px; background: #238636; color: white; border: none; border-radius: 6px; font-weight: 800; cursor: pointer; text-transform: uppercase; letter-spacing: 1px; }
-        button:active { transform: scale(0.98); }
-        button:disabled { background: #161b22; color: #484f58; cursor: not-allowed; }
+        #progress-wrap { height: 8px; background: #30363d; border-radius: 4px; margin: 10px 0; display: none; overflow: hidden; }
+        #progress-fill { height: 100%; background: #58a6ff; width: 0%; transition: width 0.2s; }
 
-        #progress-container { width: 100%; height: 12px; background: #21262d; border-radius: 10px; margin: 10px 0; display: none; overflow: hidden; border: 1px solid #30363d; }
-        #progress-bar { width: 0%; height: 100%; background: linear-gradient(90deg, #1f6feb, #58a6ff); transition: width 0.4s ease; }
-
-        #main-container { flex: 1; display: flex; flex-direction: column; gap: 10px; overflow: hidden; }
-        #input-area { height: 120px; flex-shrink: 0; border-color: var(--glow); font-family: monospace; }
+        #output-box { flex-grow: 1; background: #010409; border: 1px solid #30363d; border-radius: 6px; padding: 10px; overflow-y: auto; white-space: pre-wrap; font-family: monospace; font-size: 13px; line-height: 1.5; }
         
-        #output-area { flex: 1; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; overflow-y: auto; font-family: 'Consolas', monospace; white-space: pre-wrap; line-height: 1.6; color: #d1d5db; position: relative; }
-        #output-area::before { content: "MODEL_RESPONSE"; position: sticky; top: 0; font-size: 10px; color: var(--glow); opacity: 0.5; }
-
-        #console { height: 100px; background: #000; border: 1px solid var(--danger); border-radius: 4px; padding: 8px; font-family: monospace; font-size: 11px; overflow-y: auto; color: #84f084; }
-        .log-error { color: var(--danger); }
-        .log-warn { color: #d29922; }
+        #console { height: 100px; background: black; color: #00ff41; font-family: monospace; font-size: 10px; padding: 8px; overflow-y: auto; border: 1px solid #333; }
+        .log-err { color: #ff7b72; }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h2 style="margin:0; font-size: 1.2rem;">CORE_ENGINE_V2</h2>
-        <span style="font-size: 10px; opacity: 0.6;">RESOURCE_OVERLOAD_ENABLED | WEBGPU_PRIORITY</span>
-    </div>
-
-    <div class="card">
-        <div class="grid">
+    <div class="panel">
+        <div class="row">
             <select id="model-select">
-                <option value="Xenova/Phi-3-mini-4k-instruct">Phi-3 Mini (Heavy/Smart)</option>
-                <option value="Xenova/Qwen2-1.5B-Instruct">Qwen-2 1.5B (Fast/Stable)</option>
-                <option value="Xenova/Llama-3-8B-Instruct" disabled>Llama-3 (High RAM Req)</option>
+                <option value="onnx-community/Qwen2.5-0.5B-Instruct-ONNX">Qwen 2.5 0.5B (Small & Fast)</option>
+                <option value="onnx-community/Phi-3-mini-4k-instruct-onnx-v2">Phi-3 Mini (Better Logic)</option>
+                <option value="Xenova/Llama-v2-7b-chat-hf-onnx">Llama 2 (Heavy - Might Crash)</option>
             </select>
-            <input type="password" id="hf-token" placeholder="HF_AUTH_TOKEN">
+            <button class="btn-reset" onclick="clearModelCache()">CLEAR CACHE</button>
         </div>
-        <button id="load-btn">Initialize Hyper-Resources</button>
-        <div id="progress-container">
-            <div id="progress-bar"></div>
+        <input type="password" id="hf-token" placeholder="HF Token (Optional)">
+        <button id="load-btn" style="width:100%; margin-top:8px;">INITIALIZE RESOURCE</button>
+        
+        <div id="progress-wrap">
+            <div id="progress-fill"></div>
         </div>
     </div>
 
-    <div id="main-container">
-        <textarea id="input-area" placeholder="SYSTEM_INPUT: Enter complex prompt or coding task..."></textarea>
-        <button id="gen-btn" disabled>EXECUTE GENERATION</button>
-        <div id="output-area">Awaiting model load...</div>
-        <div id="console"></div>
-    </div>
+    <textarea id="input-box" rows="3" placeholder="Write a python script to..."></textarea>
+    <button id="gen-btn" disabled>EXECUTE GENERATION</button>
+
+    <div id="output-box">System Idle...</div>
+    <div id="console"></div>
 
     <script type="module">
         import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
 
         const consoleBox = document.getElementById('console');
-        const outputBox = document.getElementById('output-area');
-        const progBar = document.getElementById('progress-bar');
-        const progCont = document.getElementById('progress-container');
+        const outputBox = document.getElementById('output-box');
+        const progFill = document.getElementById('progress-fill');
+        const progWrap = document.getElementById('progress-wrap');
+        const genBtn = document.getElementById('gen-btn');
         
-        let runner = null;
+        let generator = null;
 
-        // Custom Debugger
-        function debug(msg, type = 'INFO') {
-            const entry = document.createElement('div');
-            entry.className = type === 'ERROR' ? 'log-error' : (type === 'WARN' ? 'log-warn' : '');
-            entry.innerHTML = `[${new Date().toLocaleTimeString()}] [${type}] ${msg}`;
-            consoleBox.appendChild(entry);
+        function log(msg, isErr = false) {
+            const div = document.createElement('div');
+            if(isErr) div.className = 'log-err';
+            div.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+            consoleBox.appendChild(div);
             consoleBox.scrollTop = consoleBox.scrollHeight;
         }
 
-        // Init Load
+        // Global cache clearer to fix "Infinite Loading"
+        window.clearModelCache = async () => {
+            const dbs = await window.indexedDB.databases();
+            dbs.forEach(db => window.indexedDB.deleteDatabase(db.name));
+            log("CACHE PURGED. Refresh the page and try again.", true);
+            alert("Cache cleared. Please refresh the page.");
+        };
+
         document.getElementById('load-btn').onclick = async () => {
             const mId = document.getElementById('model-select').value;
             const token = document.getElementById('hf-token').value;
 
             try {
-                debug(`Requesting resources for ${mId}`, 'SYSTEM');
+                log(`Bootstrapping ${mId}...`);
                 document.getElementById('load-btn').disabled = true;
-                progCont.style.display = 'block';
+                progWrap.style.display = 'block';
 
-                // Force local capabilities
+                // Mobile Optimization Settings
                 env.allowLocalModels = false;
+                env.useBrowserCache = true; 
                 if(token) env.remoteToken = token;
-                
-                // Set backend to WebGPU if available, fallback to WASM
-                env.backends.onnx.wasm.numThreads = navigator.hardwareConcurrency || 4;
 
-                runner = await pipeline('text-generation', mId, {
+                generator = await pipeline('text-generation', mId, {
                     progress_callback: (d) => {
                         if(d.status === 'progress') {
-                            progBar.style.width = `${d.progress}%`;
-                            debug(`FETCHING_SHARD: ${d.file} (${Math.round(d.progress)}%)`, 'NETWORK');
+                            progFill.style.width = `${d.progress}%`;
+                            if(d.file.endsWith('.onnx')) log(`Loading Engine: ${Math.round(d.progress)}%`);
                         }
+                        if(d.status === 'ready') log(`Fragment ${d.file} integrated.`);
                     }
                 });
 
-                debug('Core loaded. Hardware acceleration active.', 'SUCCESS');
-                document.getElementById('gen-btn').disabled = false;
-                outputBox.textContent = "READY_FOR_COMMANDS";
-                progCont.style.display = 'none';
+                log('CORE READY. Hardware handshake complete.');
+                genBtn.disabled = false;
+                outputBox.textContent = "Awaiting instructions...";
+                progWrap.style.display = 'none';
 
             } catch (e) {
-                debug(e.message, 'ERROR');
+                log(`CRITICAL ERROR: ${e.message}`, true);
                 document.getElementById('load-btn').disabled = false;
             }
         };
 
-        // Generation with High Entropy
-        document.getElementById('gen-btn').onclick = async () => {
-            const prompt = document.getElementById('input-area').value;
-            if(!prompt) return debug('Input null', 'WARN');
+        genBtn.onclick = async () => {
+            const input = document.getElementById('input-box').value;
+            if(!input) return;
 
             try {
-                document.getElementById('gen-btn').disabled = true;
-                outputBox.textContent = "";
-                debug('Overloading local buffers for generation...', 'TASK');
+                genBtn.disabled = true;
+                outputBox.textContent = "Generating...";
+                log("Processing request via local device capability...");
 
-                // Advanced Chat Template for Instructions
-                const formattedPrompt = `<|system|>\nYou are an expert developer and logic engine. Generate high-quality, coherent, and detailed answers. If asked for code, provide full functional scripts.\n<|user|>\n${prompt}\n<|assistant|>\n`;
-
-                const start = performance.now();
-                
-                await runner(formattedPrompt, {
-                    max_new_tokens: 1024, // Deep reasoning requires more tokens
-                    temperature: 1.2,     // High entropy for creativity
-                    top_k: 40,            // Limits vocabulary to top candidates
-                    repetition_penalty: 1.1, // Prevent loops
+                const result = await generator(input, {
+                    max_new_tokens: 512,
+                    temperature: 0.9,
                     do_sample: true,
+                    top_k: 30,
                     callback_function: (beams) => {
-                        const decoded = runner.tokenizer.decode(beams[0].output_token_ids, {
+                        const decoded = generator.tokenizer.decode(beams[0].output_token_ids, {
                             skip_special_tokens: true
                         });
-                        // Remove the system prompt from display
-                        outputBox.textContent = decoded.split('<|assistant|>').pop();
+                        outputBox.textContent = decoded;
                         outputBox.scrollTop = outputBox.scrollHeight;
                     }
                 });
 
-                const time = ((performance.now() - start) / 1000).toFixed(2);
-                debug(`Generation finished in ${time}s`, 'SUCCESS');
-
+                log("Generation cycle complete.");
             } catch (e) {
-                debug(e.message, 'ERROR');
+                log(`EXECUTION ERROR: ${e.message}`, true);
             } finally {
-                document.getElementById('gen-btn').disabled = false;
+                genBtn.disabled = false;
             }
         };
 
-        debug('Hyper-Runner Online. Waiting for hardware handshake.');
+        log("Hyper-v2 Layer Online.");
     </script>
 </body>
 </html>
