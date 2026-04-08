@@ -3,117 +3,236 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zero-API Local AI Architect</title>
+    <title>Global AI Markdown Architect</title>
     
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
-    
-    <script type="module">
-        import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.1';
-        window.pipeline = pipeline;
-    </script>
 
     <style>
-        :root { --bg: #0d1117; --panel: #161b22; --border: #30363d; --text: #c9d1d9; --accent: #238636; }
-        body { font-family: sans-serif; margin: 0; background: var(--bg); color: var(--text); display: flex; flex-direction: column; height: 100vh; }
-        .app-header { padding: 15px 20px; background: var(--panel); border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; }
-        .main { display: grid; grid-template-columns: 1fr 1fr; flex: 1; overflow: hidden; background: var(--border); gap: 1px; }
-        textarea { background: var(--bg); color: var(--text); border: none; padding: 20px; font-family: monospace; resize: none; outline: none; }
-        #preview { padding: 30px; overflow-y: auto; background: white; color: #24292f; }
-        .toolbar { padding: 15px; background: var(--panel); display: flex; gap: 10px; align-items: center; }
-        button { background: var(--accent); color: white; border: none; padding: 10px 18px; border-radius: 6px; cursor: pointer; font-weight: bold; }
-        #status { font-size: 12px; color: #8b949e; }
-        .progress-bar { height: 4px; background: #238636; width: 0%; transition: width 0.3s; position: absolute; top: 0; left: 0; }
+        :root {
+            --bg: #0d1117; --panel: #161b22; --border: #30363d;
+            --text: #c9d1d9; --accent: #238636; --hf-purple: #8957e5;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            margin: 0; background: var(--bg); color: var(--text);
+            display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+        }
+
+        /* Header & Settings */
+        header {
+            padding: 10px 20px; background: var(--panel); border-bottom: 1px solid var(--border);
+            display: flex; justify-content: space-between; align-items: center;
+        }
+
+        .api-settings { display: flex; gap: 10px; align-items: center; }
+        input[type="password"] {
+            background: var(--bg); border: 1px solid var(--border); color: var(--text);
+            padding: 5px 10px; border-radius: 4px; width: 220px; font-size: 12px;
+        }
+
+        /* Model Selector Sidebar */
+        .model-list {
+            max-height: 80px; overflow-y: auto; border: 1px solid var(--border);
+            background: var(--bg); border-radius: 4px; padding: 5px; width: 300px;
+        }
+        .model-item {
+            display: flex; align-items: center; gap: 8px; font-size: 11px;
+            padding: 4px; cursor: pointer; border-radius: 3px;
+        }
+        .model-item:hover { background: var(--panel); }
+        .model-item input { cursor: pointer; }
+
+        /* Tabs */
+        .tabs { display: flex; background: var(--panel); border-bottom: 1px solid var(--border); }
+        .tab {
+            padding: 10px 20px; cursor: pointer; font-size: 13px; font-weight: 600;
+            border-bottom: 2px solid transparent; color: #8b949e;
+        }
+        .tab.active { color: var(--text); border-bottom-color: #f78166; background: var(--bg); }
+
+        /* Main Content */
+        .content-area { flex: 1; display: flex; overflow: hidden; }
+        .view { display: none; width: 100%; height: 100%; }
+        .view.active { display: flex; }
+
+        textarea {
+            flex: 1; background: var(--bg); color: var(--text); border: none;
+            padding: 25px; font-family: "SFMono-Regular", Consolas, monospace;
+            font-size: 14px; line-height: 1.6; outline: none; resize: none;
+        }
+
+        #preview-pane {
+            flex: 1; padding: 40px; overflow-y: auto; background: white; color: #24292f;
+        }
+
+        /* Footer Toolbar */
+        footer {
+            padding: 12px 20px; background: var(--panel); border-top: 1px solid var(--border);
+            display: flex; gap: 12px; align-items: center;
+        }
+
+        button {
+            padding: 8px 16px; border-radius: 6px; font-weight: 600; cursor: pointer;
+            border: 1px solid var(--border); transition: 0.2s;
+        }
+        .btn-ai { background: var(--hf-purple); color: white; border: none; }
+        .btn-save { background: var(--accent); color: white; border: none; }
+        .btn-sec { background: transparent; color: var(--text); }
+        button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        #status-indicator { font-size: 12px; font-weight: bold; color: #8b949e; }
+        
+        /* Scrollbar Styling */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: var(--bg); }
+        ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 10px; }
     </style>
 </head>
 <body>
 
-<div id="loading-bar" class="progress-bar"></div>
+<header>
+    <div style="font-weight: bold; font-size: 1.1rem;">🏗️ GLOBAL ARCHITECT</div>
+    
+    <div class="api-settings">
+        <div class="model-list" id="model-selector">
+            <div class="model-item"><input type="radio" name="model" value="mistralai/Mistral-7B-Instruct-v0.3" checked> Mistral 7B (Fastest)</div>
+            <div class="model-item"><input type="radio" name="model" value="meta-llama/Meta-Llama-3-8B-Instruct"> Llama 3 8B (Smartest)</div>
+            <div class="model-item"><input type="radio" name="model" value="microsoft/Phi-3-mini-4k-instruct"> Phi-3 Mini (Ultra Light)</div>
+            <div class="model-item"><input type="radio" name="model" value="google/gemma-7b-it"> Gemma 7B (Balanced)</div>
+        </div>
+        <input type="password" id="hf-token" placeholder="Paste Hugging Face Token (hf_...)">
+    </div>
+</header>
 
-<div class="app-header">
-    <div>🌐 <strong>STATIC LOCAL AI</strong> <span id="status">| Ready</span></div>
-    <div style="font-size: 11px;">Runs in Browser (No API Key Needed)</div>
+<div class="tabs">
+    <div class="tab active" onclick="switchTab('editor')">EDITOR</div>
+    <div class="tab" onclick="switchTab('preview')">GITHUB PREVIEW</div>
 </div>
 
-<div class="main">
-    <textarea id="input" placeholder="Paste messy text here..."></textarea>
-    <div id="preview" class="markdown-body"></div>
+<div class="content-area">
+    <div id="editor-view" class="view active">
+        <textarea id="main-editor" placeholder="Paste messy text, fragmented equations, or unorganized thoughts..."></textarea>
+    </div>
+    <div id="preview-view" class="view">
+        <div id="preview-pane" class="markdown-body"></div>
+    </div>
 </div>
 
-<div class="toolbar">
-    <button onclick="runLocalAI()">🧠 Run Browser-AI (Mistral-Lite)</button>
-    <button style="background:#30363d" onclick="fastFix()">⚡ Fast Regex Fix</button>
-    <button style="background:#30363d" onclick="download()">💾 Save .md</button>
-</div>
+<footer>
+    <button class="btn-ai" id="run-btn" onclick="executeFullProcess()">🚀 RUN GLOBAL AI FIX</button>
+    <button class="btn-sec" onclick="localRegexFix()">⚡ Fast Local Clean</button>
+    <button class="btn-sec" onclick="copyResult()">📋 Copy .md</button>
+    <button class="btn-save" onclick="downloadResult()">💾 Download</button>
+    <div id="status-indicator">Ready</div>
+</footer>
 
 <script>
-    let generator = null;
     let mathVault = [];
 
-    // --- 1. LOCAL REGEX ENGINE (Fallback) ---
-    function fastFix() {
-        let t = document.getElementById('input').value;
-        // Clean math first
-        t = t.replace(/\$\$[\s\S]*?\[([\s\S]*?)\][\s\S]*?\$\$/g, '$$\n$1\n$$');
-        t = t.replace(/(^|\s)\[([\w+-\d]{1,7})\]/g, '$1$$$2$$');
-        // Clean text
-        t = t.replace(/^(#+)([A-Za-z])/gm, '$1 $2');
-        t = t.replace(/\s+([,.!?;:])/g, '$1');
-        document.getElementById('input').value = t;
-        render();
+    // --- 1. THE MATH VAULT & REGEX SYSTEM ---
+    function vaultMath(text) {
+        mathVault = [];
+        // Fix Shattered Equation Fragments FIRST
+        text = text.replace(/\$\$[\s\S]*?\[([\s\S]*?)\][\s\S]*?\$\$/g, '\n\n$$\n$1\n$$\n\n');
+        text = text.replace(/\$\$\[\s*([\s\S]*?)\s*\]\$\$/g, '\n\n$$\n$1\n$$\n\n');
+        
+        // Fix Inline Variable Brackets [d+1]
+        text = text.replace(/(^|\s)\[([\p{L}\p{N}+\-_]{1,10})\](?=\s|[.,:;!?]|$)/gu, '$1$$$2$$');
+
+        // Vault Display Blocks
+        text = text.replace(/\$\$([\s\S]*?)\$\$/g, (m) => {
+            mathVault.push(m);
+            return `__BLOCK_MATH_${mathVault.length - 1}__`;
+        });
+        // Vault Inline Blocks
+        text = text.replace(/\$([\s\S]*?)\$/g, (m) => {
+            mathVault.push(m);
+            return `__INLINE_MATH_${mathVault.length - 1}__`;
+        });
+        return text;
     }
 
-    // --- 2. IN-BROWSER AI ENGINE ---
-    async function runLocalAI() {
-        const status = document.getElementById('status');
-        const input = document.getElementById('input').value;
-        if (!input) return;
+    function unvaultMath(text) {
+        text = text.replace(/__BLOCK_MATH_(\d+)__/g, (m, i) => `\n\n${mathVault[i]}\n\n`);
+        text = text.replace(/__INLINE_MATH_(\d+)__/g, (m, i) => mathVault[i]);
+        return text.replace(/\n{3,}/g, '\n\n').trim();
+    }
+
+    // --- 2. AI EXECUTION PIPELINE ---
+    async function executeFullProcess() {
+        const token = document.getElementById('hf-token').value.trim();
+        const editor = document.getElementById('main-editor');
+        const status = document.getElementById('status-indicator');
+        const model = document.querySelector('input[name="model"]:checked').value;
+
+        if (!token) { alert("Please provide a Hugging Face Token."); return; }
+        if (!editor.value) return;
+
+        status.innerText = "⏳ VAULTING MATH...";
+        let rawText = editor.value;
+        let safeText = vaultMath(rawText);
+
+        status.innerText = "🧠 AI REORGANIZING...";
+        const prompt = `<|system|>You are a GitHub Documentation Expert. Organize the text into logical categories, add professional headers (#), fix all punctuation, and ensure clear flow. DO NOT modify the placeholders like __BLOCK_MATH_X__. Return ONLY markdown.</s><|user|>${safeText}</s><|assistant|>`;
 
         try {
-            if (!generator) {
-                status.innerText = "| ⏳ Downloading Model (~150MB)...";
-                // Loading the ultra-lightweight SmolLM-135M model
-                generator = await window.pipeline('text-generation', 'Xenova/SmolLM-135M-Instruct');
-                status.innerText = "| ✅ Model Loaded";
-            }
-
-            status.innerText = "| 🧠 AI Processing...";
-            const prompt = `Clean punctuation and add markdown headers to this text: ${input.substring(0, 500)}`;
-            
-            const output = await generator(prompt, {
-                max_new_tokens: 500,
-                temperature: 0.2,
-                callback_function: (x) => {
-                    document.getElementById('loading-bar').style.width = "50%";
-                }
+            const response = await fetch(`https://api-inference.huggingface.co/models/${model}`, {
+                method: "POST",
+                headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
+                body: JSON.stringify({ inputs: prompt, parameters: { max_new_tokens: 2500, return_full_text: false } })
             });
 
-            document.getElementById('input').value = output[0].generated_text;
-            render();
-            status.innerText = "| ✨ Done";
+            const data = await response.json();
+            let aiOutput = data[0]?.generated_text || data.generated_text || (data.error ? "Error: " + data.error : "");
+
+            if (aiOutput.startsWith("Error")) throw new Error(aiOutput);
+
+            status.innerText = "✨ RESTORING MATH...";
+            editor.value = unvaultMath(aiOutput);
+            renderPreview();
+            status.innerText = "✅ DONE";
         } catch (e) {
-            console.error(e);
-            status.innerText = "| ❌ Browser too weak. Using Fast Fix.";
-            fastFix();
+            status.innerText = "❌ ERROR - USING LOCAL FIX";
+            localRegexFix();
         }
     }
 
-    function render() {
-        const raw = document.getElementById('input').value;
-        document.getElementById('preview').innerHTML = marked.parse(raw);
-        if (window.MathJax) MathJax.typesetPromise();
+    // --- 3. UI & UTILITIES ---
+    function localRegexFix() {
+        let t = document.getElementById('main-editor').value;
+        t = vaultMath(t);
+        t = t.replace(/^(#+)([A-Za-z])/gm, '$1 $2');
+        t = t.replace(/\s+([,.!?;:])/g, '$1');
+        document.getElementById('main-editor').value = unvaultMath(t);
+        renderPreview();
     }
 
-    function download() {
-        const blob = new Blob([document.getElementById('input').value], {type: 'text/markdown'});
-        const a = document.createElement('a');
-        a.href = URL.createObjectURL(blob);
-        a.download = "readme.md";
-        a.click();
+    function switchTab(tab) {
+        document.querySelectorAll('.tab, .view').forEach(el => el.classList.remove('active'));
+        document.querySelector(`.tab[onclick*="${tab}"]`).classList.add('active');
+        document.getElementById(`${tab}-view`).classList.add('active');
+        if (tab === 'preview') renderPreview();
     }
 
-    document.getElementById('input').addEventListener('input', render);
+    function renderPreview() {
+        const text = document.getElementById('main-editor').value;
+        const pane = document.getElementById('preview-pane');
+        pane.innerHTML = marked.parse(text);
+        if (window.MathJax) MathJax.typesetPromise([pane]);
+    }
+
+    function copyResult() { navigator.clipboard.writeText(document.getElementById('main-editor').value); alert("Copied!"); }
+    function downloadResult() {
+        const blob = new Blob([document.getElementById('main-editor').value], {type: 'text/markdown'});
+        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = "README.md"; a.click();
+    }
+
+    // Configure MathJax for the preview
+    window.MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] } };
+    document.getElementById('main-editor').addEventListener('input', renderPreview);
 </script>
 
 </body>
