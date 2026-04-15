@@ -37,7 +37,7 @@ state = {
     "fidelity": 0.0,
     "params": torch.tensor([0.5, 1.0, 0.8], requires_grad=True, dtype=torch.float32),
     "agent_log": "🤖 Agent initialized — waiting for desire encoding...",
-    "desire": "Achieve career breakthrough + financial freedom",
+    "desire": "Breakout existential + new quantum states",
     "target": torch.tensor([0.0, 0.0, 0.0, 1.0], dtype=torch.complex128)  # |11⟩ = solution
 }
 
@@ -231,7 +231,7 @@ with gr.Blocks(title="QuantumSelf — Autonomous Quantum Network", theme=gr.them
                 label="Encode your desire as quantum state",
                 value=state["desire"],
                 lines=2,
-                placeholder="e.g. Achieve financial freedom and career breakthrough"
+                placeholder="e.g. Quantum informations, Existential/Non-Existential, Vibrational, Fluctuator, ZeroPoint"
             )
             with gr.Row():
                 start_btn = gr.Button("🔥 ENCODE & START SELF-EVOLUTION", variant="primary", size="large")
