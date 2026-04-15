@@ -732,7 +732,10 @@
          - [Chart about Moon Mass](/assets/addons/python/dev/moon/plot/moon_mass.py)  
     
 3. Planet Tools     
- - 1. [Planets Mass Calculator](/assets/addons/python/Reactor)   
+ - 1. [Planets Mass Calculator](/assets/addons/python/Reactor)
+  
+4. Quantum Alchemyst
+ - [Alchemyst v0.0.1](/assets/addons/python/AlchemystQuantum/Alchemyst-v0.0.1.md)    
      
 ---  
 
