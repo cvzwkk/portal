@@ -665,6 +665,7 @@
   - [Mirror Singularity - Multiverses,Big Bounces](/assets/docs/knowledges/theories/MirrorSingularity/readme.md)   
 
   - My Stuff Of Thought's:
+    - [Non-Quantum States as "Eternal" Information Storage](/assets/docs/knowledges/theories/my-Stuff/non-quantum-as-storage/readme.md)     
     - [Shadow Of Universe](/assets/docs/knowledges/theories/my-Stuff/UniverseShadow/readme.md)   
     - [NeuroPortal, Hive Gaia Model, Transhumanism](/assets/docs/knowledges/theories/my-Stuff/NeuroPortal/readme.md)   
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
