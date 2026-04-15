@@ -1,4 +1,11 @@
-![](
+# Alchemyst 
+
+---    
+
+![](https://i.postimg.cc/PqpjjWp1/Screenshot-20260414-221208-Chrome.png)    
+
+---   
+
 
 ```# 1. INSTALL DEPENDENCIES
 !pip install -q -U transformers bitsandbytes accelerate rich
