@@ -1,5 +1,7 @@
 [HOME](/README.md)    
 
+- [onsciousness compacted in microfluis,substrates](/assets/docs/knowledges/theories/my-Stuff/non-quantum-as-storage/ConsciousnessAsSubstrate.md)    
+
 **in hypothesis, non-quantum (classical) states can absolutely be used to encode and preserve information in a way that is effectively *immutable* and potentially *eternal*, provided the management occurs within the fundamental “fabrics, fields, and tissues” of existence itself.**
 
 Here’s why this works, stripped down to the physics and logic without mysticism:
