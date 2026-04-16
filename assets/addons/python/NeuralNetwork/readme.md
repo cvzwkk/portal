@@ -95,10 +95,12 @@ with gr.Blocks(title="Quantum-Enhanced Topological consciousness") as demo:
 
         start_btn.click(run_evolution_generator, inputs=[], outputs=[live_plot, status_text])
 
-demo.launch(share=True, inline=True)```
+demo.launch(share=True, inline=True)
+```
 
-# v0.0.2
+# v0.0.3
 
+```
 import numpy as np
 import torch
 import matplotlib.pyplot as plt
@@ -216,6 +218,6 @@ if __name__ == "__main__":
     try:
         while True: time.sleep(60)
     except KeyboardInterrupt:
-        print("\nShutting down..."); ngrok.disconnect(tunnel.public_url)```
+        print("\nShutting down..."); ngrok.disconnect(tunnel.public_url)
 
 ```
