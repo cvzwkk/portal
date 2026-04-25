@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BN2S Genesis Cascade - Something from Nothing</title>
+  <style>
+    body { margin:0; overflow:hidden; background:#000; font-family:Arial, sans-serif; color:#0ff; }
+    canvas { display:block; }
+    #controls {
+      position: absolute; top: 10px; left: 10px; background:rgba(0,0,30,0.85); padding:15px; border-radius:10px;
+      border:1px solid #0ff; width:280px; box-shadow:0 0 20px rgba(0,255,255,0.3);
+    }
+    h1 { margin:0 0 15px 0; font-size:18px; text-align:center; text-shadow:0 0 10px #0ff; }
+    label { display:block; margin:12px 0 5px; font-size:14px; }
+    input[type="range"] { width:100%; accent-color:#0ff; }
+    button {
+      margin-top:10px; padding:10px 15px; width:100%; background:#001122; color:#0ff;
+      border:1px solid #0ff; border-radius:5px; cursor:pointer; font-weight:bold;
+    }
+    button:disabled { opacity:0.4; cursor:not-allowed; }
+    button:hover:not(:disabled) { background:#003355; }
+    #status {
+      margin-top:15px; padding:10px; background:rgba(0,255,255,0.1); border:1px solid #0ff;
+      text-align:center; font-size:15px; min-height:22px;
+    }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <h1>Genesis Cascade Simulator</h1>
+    
+    <label>Thermal Injection (Energy): <span id="thermalVal">0</span>%</label>
+    <input type="range" id="thermal" min="0" max="100" value="0">
+
+    <label>Containment Field Pressure: <span id="pressureVal">0</span>%</label>
+    <input type="range" id="pressure" min="0" max="100" value="0">
+
+    <button id="triggerBtn" disabled>Trigger Genesis Cascade</button>
+    <button id="resetBtn">Reset Chamber</button>
+
+    <div id="status">Phase: Null-Space Confinement</div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+  <script>
+    // Scene setup
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setPixelRatio(window.devicePixelRatio);
+    document.body.appendChild(renderer.domElement);
+
+    camera.position.z = 80;
+
+    // Lighting
+    const ambient = new THREE.AmbientLight(0x112233, 0.6);
+    scene.add(ambient);
+    const pointLight = new THREE.PointLight(0x00ffff, 2, 200);
+    pointLight.position.set(0, 0, 50);
+    scene.add(pointLight);
+
+    // Containment Sphere (wireframe)
+    let containment;
+    function createContainment() {
+      const geometry = new THREE.SphereGeometry(30, 32, 32);
+      const material = new THREE.MeshBasicMaterial({
+        color: 0x00ffff,
+        wireframe: true,
+        transparent: true,
+        opacity: 0.6
+      });
+      containment = new THREE.Mesh(geometry, material);
+      scene.add(containment);
+    }
+    createContainment();
+
+    // Gravifluid Particle System
+    let particles, particlePositions, particleVelocities, particleColors;
+    const particleCount = 8000;
+
+    function createParticles() {
+      const geometry = new THREE.BufferGeometry();
+      particlePositions = new Float32Array(particleCount * 3);
+      particleVelocities = new Float32Array(particleCount * 3);
+      particleColors = new Float32Array(particleCount * 3);
+
+      for (let i = 0; i < particleCount * 3; i += 3) {
+        // Start inside sphere, clustered near center
+        const radius = Math.random() * 8 + 2;
+        const theta = Math.random() * Math.PI * 2;
+        const phi = Math.acos(2 * Math.random() - 1);
+        particlePositions[i]     = radius * Math.sin(phi) * Math.cos(theta);
+        particlePositions[i + 1] = radius * Math.sin(phi) * Math.sin(theta);
+        particlePositions[i + 2] = radius * Math.cos(phi);
+
+        particleVelocities[i] = (Math.random() - 0.5) * 0.2;
+        particleVelocities[i + 1] = (Math.random() - 0.5) * 0.2;
+        particleVelocities[i + 2] = (Math.random() - 0.5) * 0.2;
+
+        particleColors[i] = 0.2; particleColors[i+1] = 0.6; particleColors[i+2] = 1.0;
+      }
+
+      geometry.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
+      geometry.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
+
+      const material = new THREE.PointsMaterial({
+        size: 0.35,
+        vertexColors: true,
+        transparent: true,
+        opacity: 0.9,
+        blending: THREE.AdditiveBlending
+      });
+
+      particles = new THREE.Points(geometry, material);
+      scene.add(particles);
+    }
+    createParticles();
+
+    // Controls
+    const thermalSlider = document.getElementById('thermal');
+    const pressureSlider = document.getElementById('pressure');
+    const thermalVal = document.getElementById('thermalVal');
+    const pressureVal = document.getElementById('pressureVal');
+    const triggerBtn = document.getElementById('triggerBtn');
+    const resetBtn = document.getElementById('resetBtn');
+    const status = document.getElementById('status');
+
+    let thermal = 0, pressure = 0;
+    let phase = 'null'; // null, compression, inflation, plasma, cooling
+
+    function updateUI() {
+      thermalVal.textContent = thermal;
+      pressureVal.textContent = pressure;
+      triggerBtn.disabled = !(thermal >= 99 && pressure >= 99);
+    }
+
+    thermalSlider.addEventListener('input', () => {
+      thermal = parseInt(thermalSlider.value);
+      updateUI();
+      updateParticles();
+    });
+
+    pressureSlider.addEventListener('input', () => {
+      pressure = parseInt(pressureSlider.value);
+      updateUI();
+      updateParticles();
+    });
+
+    function updateParticles() {
+      if (!particles) return;
+      const pos = particles.geometry.attributes.position.array;
+      const col = particles.geometry.attributes.color.array;
+
+      const turbulence = thermal / 30;
+      const compression = pressure / 120;
+
+      for (let i = 0; i < particleCount * 3; i += 3) {
+        // Compress toward center when pressure rises
+        pos[i]     *= (1 - compression * 0.015);
+        pos[i + 1] *= (1 - compression * 0.015);
+        pos[i + 2] *= (1 - compression * 0.015);
+
+        // Add turbulence
+        pos[i]     += (Math.random() - 0.5) * turbulence * 0.08;
+        pos[i + 1] += (Math.random() - 0.5) * turbulence * 0.08;
+        pos[i + 2] += (Math.random() - 0.5) * turbulence * 0.08;
+
+        // Brightness & color shift with energy
+        const brightness = 0.3 + thermal / 120;
+        col[i]     = 0.4 * brightness;
+        col[i + 1] = 0.7 * brightness;
+        col[i + 2] = 1.0 * brightness;
+      }
+      particles.geometry.attributes.position.needsUpdate = true;
+      particles.geometry.attributes.color.needsUpdate = true;
+    }
+
+    // Trigger Genesis Cascade
+    triggerBtn.addEventListener('click', () => {
+      if (phase !== 'null') return;
+      phase = 'inflation';
+      status.textContent = 'Phase: INFLATION';
+      status.style.color = '#ff0';
+
+      // Shatter containment
+      if (containment) {
+        containment.material.opacity = 0.1;
+        setTimeout(() => { if (containment) scene.remove(containment); }, 800);
+      }
+
+      // Violent explosion
+      const pos = particles.geometry.attributes.position.array;
+      for (let i = 0; i < particleCount * 3; i += 3) {
+        const speed = 0.8 + Math.random() * 1.2;
+        particleVelocities[i]     = pos[i] * speed / 25;
+        particleVelocities[i + 1] = pos[i + 1] * speed / 25;
+        particleVelocities[i + 2] = pos[i + 2] * speed / 25;
+      }
+
+      setTimeout(() => {
+        phase = 'plasma';
+        status.textContent = 'Phase: Primordial Plasma';
+        status.style.color = '#f80';
+      }, 1200);
+
+      setTimeout(() => {
+        phase = 'cooling';
+        status.textContent = 'Phase: Nucleosynthesis';
+        status.style.color = '#0f0';
+      }, 3500);
+    });
+
+    resetBtn.addEventListener('click', () => {
+      location.reload(); // Simple full reset
+    });
+
+    // Animation loop
+    let time = 0;
+    function animate() {
+      requestAnimationFrame(animate);
+      time += 0.016;
+
+      if (particles) {
+        const pos = particles.geometry.attributes.position.array;
+
+        if (phase === 'inflation' || phase === 'plasma' || phase === 'cooling') {
+          for (let i = 0; i < particleCount * 3; i += 3) {
+            pos[i]     += particleVelocities[i];
+            pos[i + 1] += particleVelocities[i + 1];
+            pos[i + 2] += particleVelocities[i + 2];
+
+            // Slow down in cooling phase
+            if (phase === 'cooling') {
+              particleVelocities[i]     *= 0.985;
+              particleVelocities[i + 1] *= 0.985;
+              particleVelocities[i + 2] *= 0.985;
+            }
+          }
+          particles.geometry.attributes.position.needsUpdate = true;
+        } else {
+          // Gentle undulation in confinement
+          for (let i = 0; i < particleCount * 3; i += 3) {
+            pos[i + 1] += Math.sin(time * 2 + i) * 0.008;
+          }
+          particles.geometry.attributes.position.needsUpdate = true;
+        }
+      }
+
+      // Slow rotation
+      if (containment) containment.rotation.y = time * 0.1;
+
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    // Resize handler
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+  </script>
+</body>
+</html>
