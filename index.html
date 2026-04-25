@@ -1,400 +1,109 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced LaTeX Fixer</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script>
-        // MathJax configuration (must be before loading the script)
-        window.MathJax = {
-            tex: {
-                inlineMath: [['$', '$'], ['\\(', '\\)']],
-                displayMath: [['$$', '$$'], ['\\[', '\\]']],
-                processEscapes: true,
-                processEnvironments: true
-            },
-            svg: {
-                fontCache: 'global'
-            },
-            startup: {
-                typeset: false
-            }
-        };
-    </script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&amp;family=Space+Grotesk:wght@500&amp;display=swap');
-        
-        :root {
-            --tw-color-primary: #3b82f6;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        .scroll-box {
-            height: 500px !important;
-            overflow-y: auto !important;
-            font-family: 'Courier New', monospace;
-            scrollbar-width: thin;
-            scrollbar-color: #3b82f6 #f1f5f9;
-        }
-        
-        .scroll-box::-webkit-scrollbar {
-            height: 6px;
-            width: 6px;
-        }
-        
-        .scroll-box::-webkit-scrollbar-thumb {
-            background-color: #3b82f6;
-            border-radius: 20px;
-        }
-        
-        .tab-active {
-            border-bottom: 3px solid #3b82f6;
-            color: #1e40af;
-            font-weight: 600;
-        }
-        
-        .gr-button {
-            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        
-        .markdown-preview {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-        }
-        
-        .markdown-preview h1, .markdown-preview h2, .markdown-preview h3 {
-            font-family: 'Space Grotesk', sans-serif;
-        }
-        
-        footer {
-            visibility: hidden;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <title>Quantum Universal Navigator</title>
+  <style>
+    :root {
+      --bg: #000;
+      --text: #00f0ff;
+      --accent: #00b0ff;
+      --glow: 0 0 8px rgba(0, 180, 255, 0.5);
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Segoe UI", "Roboto", sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    header {
+      background: linear-gradient(135deg, #000020, #000520);
+      padding: 1rem 2rem;
+      text-align: center;
+      border-bottom: 1px solid var(--accent);
+      box-shadow: var(--glow);
+      width: 90%;
+      max-width: 600px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+      letter-spacing: 0.1rem;
+      text-shadow: 0 0 8px var(--accent);
+    }
+
+    header p {
+      margin: 0.4rem 0 0;
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+
+    .centered-btn {
+      margin-top: 2rem;
+    }
+
+    .gravifluid-btn {
+      padding: 1rem 2rem;
+      background: rgba(10, 50, 100, 0.4);
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      color: var(--text);
+      font-size: 1.1rem;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 12px rgba(0, 120, 200, 0.3);
+    }
+
+    .gravifluid-btn:hover {
+      background: rgba(0, 120, 200, 0.6);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0, 150, 230, 0.5);
+    }
+
+    footer {
+      margin-top: auto;
+      padding: 0.8rem 1rem;
+      text-align: center;
+      font-size: 0.8rem;
+      color: #4a4a4a;
+      border-top: 1px solid #004;
+      width: 100%;
+      max-width: 600px;
+    }
+  </style>
 </head>
-<body class="bg-slate-50">
-    <div class="container px-6 py-8">
-        <!-- Header -->
-        <div class="flex items-center gap-x-3 mb-2">
-            <div class="text-4xl">🚀</div>
-            <h1 class="text-4xl font-semibold tracking-tight text-slate-900">Universal LaTeX &amp; Markdown Formatter</h1>
-        </div>
-        <p class="text-slate-600 text-lg mb-8 max-w-2xl">
-            This tool converts messy delimiters like <span class="font-mono bg-slate-100 px-1.5 py-0.5 rounded">(\</span> or 
-            <span class="font-mono bg-slate-100 px-1.5 py-0.5 rounded">\)</span> into GitHub-ready 
-            <span class="font-mono bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded">$$\[ ... \]$$</span> blocks.
-        </p>
+<body>
 
-        <!-- Tabs -->
-        <div class="flex border-b border-slate-200 mb-6">
-            <button onclick="switchTab(0)" 
-                    id="tab-editor"
-                    class="tab-active px-8 py-4 text-lg flex items-center gap-x-2 hover:text-slate-900 transition-colors">
-                <span class="text-xl">✏️</span>
-                Editor
-            </button>
-            <button onclick="switchTab(1)" 
-                    id="tab-preview"
-                    class="px-8 py-4 text-lg flex items-center gap-x-2 hover:text-slate-900 transition-colors">
-                <span class="text-xl">👀</span>
-                GitHub Preview
-            </button>
-        </div>
+  <header>
+    <h1>Quantum Knowledge Portal</h1>
+    <p>Access specialized theories with one click</p>
+  </header>
 
-        <!-- EDITOR TAB -->
-        <div id="panel-editor" class="block">
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                <!-- Input Column -->
-                <div class="flex flex-col">
-                    <label class="block text-sm font-medium text-slate-700 mb-2 flex items-center gap-x-2">
-                        <span>Source Text (Messy Equations)</span>
-                        <span class="text-xs bg-slate-200 text-slate-600 px-2 py-0.5 rounded-full font-mono">Paste here</span>
-                    </label>
-                    <textarea id="input-box"
-                              class="scroll-box w-full border border-slate-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 rounded-2xl p-6 text-slate-800 text-base resize-none"
-                              placeholder="Paste text with (\ \alpha ) or \( \beta \) here..."></textarea>
-                    
-                    <div class="flex gap-3 mt-6">
-                        <button onclick="clearAll()"
-                                class="gr-button flex-1 bg-slate-200 hover:bg-slate-300 text-slate-700 font-medium py-4 px-8 rounded-2xl flex items-center justify-center gap-x-2 text-lg">
-                            <span class="text-2xl">🗑️</span>
-                            Clear
-                        </button>
-                        <button onclick="runFix()"
-                                class="gr-button flex-1 bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-8 rounded-2xl flex items-center justify-center gap-x-2 text-lg shadow-lg shadow-blue-500/30">
-                            <span class="text-2xl">✨</span>
-                            Fix All Equations
-                        </button>
-                    </div>
-                </div>
+  <div class="centered-btn">
+    <button id="gravifluid-btn" class="gravifluid-btn">
+      Gravifluids
+    </button>
+  </div>
 
-                <!-- Output Column -->
-                <div class="flex flex-col">
-                    <label class="block text-sm font-medium text-slate-700 mb-2 flex items-center justify-between">
-                        <span>Cleaned Markdown</span>
-                        <span onclick="copyOutput()" class="cursor-pointer flex items-center gap-x-1 text-blue-600 hover:text-blue-700 text-sm font-medium">
-                            📋 Copy
-                        </span>
-                    </label>
-                    <div class="relative">
-                        <textarea id="output-box" readonly
-                                  class="scroll-box w-full border border-slate-300 rounded-2xl p-6 text-slate-800 text-base resize-none"></textarea>
-                    </div>
-                    
-                    <button onclick="downloadMD()"
-                            class="gr-button mt-6 bg-emerald-600 hover:bg-emerald-700 text-white font-medium py-4 px-8 rounded-2xl flex items-center justify-center gap-x-3 text-lg w-full shadow-lg shadow-emerald-500/30">
-                        <span class="text-2xl">📥</span>
-                        Download .md
-                    </button>
-                </div>
-            </div>
-        </div>
+  <footer>
+    Quantum Knowledge Portal © 2026 — Theory Navigation
+  </footer>
 
-        <!-- PREVIEW TAB -->
-        <div id="panel-preview" class="hidden">
-            <div class="bg-white border border-slate-200 rounded-3xl p-8 shadow-inner markdown-preview min-h-[560px] prose prose-slate max-w-none">
-                <div id="preview-content" class="text-slate-400 italic text-center py-12">
-                    *The rendered equations will appear here...*
-                </div>
-            </div>
-        </div>
+  <script>
+    document.getElementById("gravifluid-btn").onclick = () => {
+      const href = "assets/docs/knowledges/theories/Gravifluid/std1/index.html";
+      window.open(href, "_blank");
+    };
+  </script>
 
-        <!-- Footer info -->
-        <div class="mt-12 text-center text-xs text-slate-400 flex items-center justify-center gap-x-4">
-            <div>✅ Every function from the original script preserved in pure JavaScript</div>
-            <div class="w-px h-3 bg-slate-300"></div>
-            <div>✅ Exact same cleaning logic, tabs, buttons &amp; style</div>
-            <div class="w-px h-3 bg-slate-300"></div>
-            <div>✅ Works 100% offline on GitHub Pages</div>
-        </div>
-    </div>
-
-    <script>
-        // =============================================
-        // EXACT SAME CLEANING LOGIC AS THE ORIGINAL PYTHON FUNCTION
-        // =============================================
-        function universalLatexCleaner(text) {
-            if (!text || !text.trim()) {
-                return { cleaned: "", preview: "" };
-            }
-
-            // 1. STRUCTURAL CLEANUP
-            // Fix "detentation" and normalize line endings
-            let lines = text.split('\n').map(line => line.trim());
-            text = lines.join('\n');
-
-            // 2. THE "MESSY DELIMITER" FIX
-            // Step A: Clean up Opening Delimiters to a standard $$[
-            // Matches: (\ , (\( , \( , or just \[
-            const openingPattern = /(\(\s?\\|\(\s?\(|\\\[|\\\()/g;
-            text = text.replace(openingPattern, '$$\\[');
-
-            // Step B: Clean up Closing Delimiters to a standard ]$$
-            // Matches: \)\ , \)\) , \) , or just \]
-            const closingPattern = /(\\\s?\)|\\\]|\)\s?\)|\\?\)\s?\))/g;
-            text = text.replace(closingPattern, '\\]$$');
-
-            // 3. GLOBAL TEXTUAL IMPROVEMENTS
-            // Fix spacing around punctuation (comma, period, etc)
-            text = text.replace(/\s+([,.!?;:])/g, '$1');
-
-            // Ensure Markdown headers have exactly one space: #Title -> # Title
-            text = text.replace(/^(#+)([A-Za-z0-9])/gm, '$1 $2');
-
-            // Cleanup: Prevent triple $$$ if the user already had some formatting
-            text = text.replace(/\$\$\$\$\$/g, '$$');
-
-            // Cleanup: Ensure no empty math blocks like $$[ ]$$
-            text = text.replace(/\$\$\[\s+\]\$\$/g, '');
-
-            return {
-                cleaned: text,
-                preview: text
-            };
-        }
-
-        // =============================================
-        // GLOBAL STATE
-        // =============================================
-        let currentCleanedText = "";
-
-        // =============================================
-        // TAB SWITCHING (identical to Gradio Tabs)
-        // =============================================
-        function switchTab(tabIndex) {
-            // Remove active from all tabs
-            document.getElementById('tab-editor').classList.remove('tab-active');
-            document.getElementById('tab-preview').classList.remove('tab-active');
-            
-            // Hide all panels
-            document.getElementById('panel-editor').classList.add('hidden');
-            document.getElementById('panel-preview').classList.add('hidden');
-            
-            if (tabIndex === 0) {
-                // Editor
-                document.getElementById('tab-editor').classList.add('tab-active');
-                document.getElementById('panel-editor').classList.remove('hidden');
-            } else {
-                // Preview
-                document.getElementById('tab-preview').classList.add('tab-active');
-                document.getElementById('panel-preview').classList.remove('hidden');
-                
-                // Render preview if we have content
-                if (currentCleanedText) {
-                    renderPreview(currentCleanedText);
-                }
-            }
-        }
-
-        // =============================================
-        // RENDER PREVIEW (Markdown + MathJax exactly like Gradio Markdown)
-        // =============================================
-        async function renderPreview(text) {
-            const previewEl = document.getElementById('preview-content');
-            
-            if (!text.trim()) {
-                previewEl.innerHTML = `<p class="text-slate-400 italic text-center py-12">*The rendered equations will appear here...*</p>`;
-                return;
-            }
-            
-            // Use marked to convert Markdown → HTML (exact same as Gradio Markdown)
-            let html = marked.parse(text);
-            
-            // Put the rendered HTML
-            previewEl.innerHTML = html;
-            
-            // Trigger MathJax typesetting (renders $$ \[ ... \] $$ blocks)
-            if (window.MathJax && window.MathJax.typesetPromise) {
-                try {
-                    await window.MathJax.typesetPromise([previewEl]);
-                } catch (err) {
-                    console.warn("MathJax typesetting warning:", err);
-                }
-            }
-        }
-
-        // =============================================
-        // FIX BUTTON - runs the exact same function
-        // =============================================
-        function runFix() {
-            const inputEl = document.getElementById('input-box');
-            const outputEl = document.getElementById('output-box');
-            
-            const result = universalLatexCleaner(inputEl.value);
-            
-            // Update output box (exactly like Gradio)
-            outputEl.value = result.cleaned;
-            
-            // Store for preview
-            currentCleanedText = result.preview;
-            
-            // If we are currently on the preview tab, update it immediately
-            if (!document.getElementById('panel-preview').classList.contains('hidden')) {
-                renderPreview(currentCleanedText);
-            }
-            
-            // Subtle success animation
-            const fixBtn = document.querySelector('button[onclick="runFix()"]');
-            fixBtn.style.transform = 'scale(0.95)';
-            setTimeout(() => fixBtn.style.transform = 'scale(1)', 150);
-        }
-
-        // =============================================
-        // CLEAR BUTTON (resets everything)
-        // =============================================
-        function clearAll() {
-            document.getElementById('input-box').value = "";
-            document.getElementById('output-box').value = "";
-            currentCleanedText = "";
-            document.getElementById('preview-content').innerHTML = 
-                `<p class="text-slate-400 italic text-center py-12">*The rendered equations will appear here...*</p>`;
-        }
-
-        // =============================================
-        // COPY BUTTON (exactly like Gradio show_copy_button)
-        // =============================================
-        function copyOutput() {
-            const outputEl = document.getElementById('output-box');
-            if (!outputEl.value) return;
-            
-            navigator.clipboard.writeText(outputEl.value).then(() => {
-                const originalText = event.currentTarget.innerHTML;
-                event.currentTarget.innerHTML = '✅ Copied!';
-                setTimeout(() => {
-                    event.currentTarget.innerHTML = originalText;
-                }, 1800);
-            });
-        }
-
-        // =============================================
-        // DOWNLOAD BUTTON (exact same as original save_md)
-        // =============================================
-        function downloadMD() {
-            const outputEl = document.getElementById('output-box');
-            const text = outputEl.value;
-            if (!text) return;
-            
-            const blob = new Blob([text], { type: 'text/markdown;charset=utf-8' });
-            const url = URL.createObjectURL(blob);
-            
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'github_clean.md';
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            URL.revokeObjectURL(url);
-        }
-
-        // =============================================
-        // TAILWIND INITIALIZATION
-        // =============================================
-        function initializeTailwind() {
-            return {
-                config(userConfig = {}) {
-                    return {
-                        content: [],
-                        theme: {
-                            extend: {},
-                        },
-                        plugins: [],
-                        ...userConfig,
-                    };
-                },
-                theme: {
-                    extend: {},
-                },
-            };
-        }
-
-        // =============================================
-        // BOOTSTRAP EVERYTHING
-        // =============================================
-        document.addEventListener('DOMContentLoaded', () => {
-            // Tailwind
-            const config = initializeTailwind().config();
-            document.documentElement.setAttribute('data-tailwind-config', JSON.stringify(config));
-            
-            // Make sure MathJax is ready
-            console.log('%c🚀 Universal LaTeX Fixer loaded — 100% HTML/JS/CSS replica of the Gradio script', 'color:#3b82f6; font-family:monospace;');
-            
-            // Keyboard shortcut: Ctrl/Cmd + K to fix
-            document.addEventListener('keydown', (e) => {
-                if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-                    e.preventDefault();
-                    runFix();
-                }
-            });
-            
-            console.log('✅ All original Gradio features ported: cleaning logic, tabs, buttons, download, copy, scroll-box style, preview rendering');
-        });
-    </script>
 </body>
 </html>
-```
