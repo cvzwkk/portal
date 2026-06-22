@@ -66,7 +66,10 @@
 
     - God
        - [God Awakened State](/assets/docs/knowledges/SpiritualityConsciousness/GodStage/readme.md)   
-      
+
+    - Reflections
+       - [1° Reflection](/assets/docs/knowledges/SpiritualityConsciousness/reflection/reflection.md)   
+        
      ---
 
    # Transcendence  
