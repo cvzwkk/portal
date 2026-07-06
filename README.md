@@ -1,6 +1,9 @@
+---   
+
 # Universal Wisdom  
   
 ---   
+
 ![](20250724_192222.jpg)
 
  ![Rainbown](/rainbown.jpg)     
@@ -827,8 +830,8 @@
 
 ---   
   
-Original Source of Research: @ChatGPT  
-All Rights Reserved from OpenSource copyright  
+Original Source of Research: @ChatGPT & @Grok   
+All Rights Reserved from OpenSource copyright    
 
 
 ---
@@ -836,3 +839,5 @@ All Rights Reserved from OpenSource copyright
 ![](20250719_165217.jpg)    
    
 ---   
+
+![](/assets/imgs/alchemy/Baphomet_by_Éliphas_Lévi.jpg)   
