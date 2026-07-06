@@ -214,10 +214,13 @@
 # Paradox   
   - [Fermi Paradox](/assets/docs/knowledges/Paradox/FermiParadox/readme.md)
   - [Boltzman Brains Paradox](/assets/docs/knowledges/Paradox/BoltzmanBrain/readme.md)
+  - [Existential Paradox](/assets/docs/knowledges/Paradox/Principles/Existencial/readme.md)
+  - 
     
   - Principles:
     - [Bekenstein Bond](/assets/docs/knowledges/Paradox/Principles/BekensteinBond/readme.md)   
-    - [Launder's Principle](/assets/docs/knowledges/Paradox/Principles/Landauers/readme.md)   
+    - [Launder's Principle](/assets/docs/knowledges/Paradox/Principles/Landauers/readme.md)
+    - [Participatory Anthropic Principle (PAP)](/assets/docs/knowledges/Paradox/Principles/ParticipatoryAnthropic/readme.md)   
 
      
 ---   
