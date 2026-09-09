@@ -2,259 +2,486 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BN2S Genesis Cascade - Something from Nothing</title>
+  <title>BN2S Genesis Cascade - Civilization Space Program</title>
   <style>
     body { margin:0; overflow:hidden; background:#000; font-family:Arial, sans-serif; color:#0ff; }
     canvas { display:block; }
     #controls {
-      position: absolute; top: 10px; left: 10px; background:rgba(0,0,30,0.85); padding:15px; border-radius:10px;
-      border:1px solid #0ff; width:280px; box-shadow:0 0 20px rgba(0,255,255,0.3);
+      position: absolute; top: 10px; left: 10px; background:rgba(0,0,30,0.86); padding:14px; border-radius:10px;
+      border:1px solid #0ff; width:320px; box-shadow:0 0 20px rgba(0,255,255,0.3); max-height: calc(100vh - 40px); overflow:auto;
     }
-    h1 { margin:0 0 15px 0; font-size:18px; text-align:center; text-shadow:0 0 10px #0ff; }
-    label { display:block; margin:12px 0 5px; font-size:14px; }
+    h1 { margin:0 0 12px 0; font-size:17px; text-align:center; text-shadow:0 0 10px #0ff; }
+    h2 { margin:14px 0 8px; font-size:14px; color:#8ef; border-bottom:1px solid rgba(0,255,255,0.25); padding-bottom:3px; }
+    label { display:block; margin:9px 0 4px; font-size:13px; }
     input[type="range"] { width:100%; accent-color:#0ff; }
     button {
-      margin-top:10px; padding:10px 15px; width:100%; background:#001122; color:#0ff;
+      margin-top:6px; padding:8px 10px; width:100%; background:#001122; color:#0ff;
       border:1px solid #0ff; border-radius:5px; cursor:pointer; font-weight:bold;
     }
-    button:disabled { opacity:0.4; cursor:not-allowed; }
     button:hover:not(:disabled) { background:#003355; }
+    button:disabled { opacity:0.45; cursor:not-allowed; }
     #status {
-      margin-top:15px; padding:10px; background:rgba(0,255,255,0.1); border:1px solid #0ff;
-      text-align:center; font-size:15px; min-height:22px;
+      margin-top:10px; padding:9px; background:rgba(0,255,255,0.1); border:1px solid #0ff;
+      text-align:center; font-size:14px; min-height:18px;
     }
+    .tracker, .list {
+      margin-top:8px; padding:9px; border:1px solid rgba(0,255,255,0.4); background:rgba(0,40,80,0.2); font-size:12px;
+    }
+    .tracker div, .list div { margin:4px 0; }
+    .pill {
+      display:inline-block; padding:2px 6px; border:1px solid #0ff; border-radius:12px;
+      font-size:11px; margin-right:6px; margin-top:4px;
+    }
+    #missionType { width:100%; background:#001122; color:#0ff; border:1px solid #0ff; padding:6px; border-radius:4px; }
   </style>
 </head>
 <body>
   <div id="controls">
-    <h1>Genesis Cascade Simulator</h1>
-    
-    <label>Thermal Injection (Energy): <span id="thermalVal">0</span>%</label>
-    <input type="range" id="thermal" min="0" max="100" value="0">
+    <h1>Genesis Civilization Mission Control</h1>
 
-    <label>Containment Field Pressure: <span id="pressureVal">0</span>%</label>
-    <input type="range" id="pressure" min="0" max="100" value="0">
+    <h2>Technology & Reliability</h2>
+    <label>Tech Level: <span id="techVal">62</span>%</label>
+    <input type="range" id="tech" min="10" max="100" value="62">
 
-    <button id="triggerBtn" disabled>Trigger Genesis Cascade</button>
-    <button id="resetBtn">Reset Chamber</button>
+    <label>Spacecraft Reliability: <span id="reliabilityVal">58</span>%</label>
+    <input type="range" id="reliability" min="10" max="100" value="58">
 
-    <div id="status">Phase: Null-Space Confinement</div>
+    <h2>Space Agency Manager</h2>
+    <button id="recruitBtn">Recruit Astronaut</button>
+    <button id="trainBtn">Train Candidate Pool</button>
+    <button id="assignBtn">Assign Crew to Selected Mission</button>
+    <button id="retireBtn">Retire Veteran Astronaut</button>
+
+    <h2>Mission Planner</h2>
+    <select id="missionType">
+      <option value="orbital_station">Orbital Station Mission</option>
+      <option value="lunar_flyby_base">Lunar Flyby/Base Mission</option>
+      <option value="mars_transit_colony">Mars Transit/Colony Support</option>
+      <option value="asteroid_survey">Asteroid Survey</option>
+    </select>
+    <button id="planMissionBtn">Plan Mission</button>
+    <button id="launchMissionBtn">Launch Next Mission</button>
+
+    <div id="status">Status: Awaiting orders.</div>
+
+    <h2>Exploration Progress Tracker</h2>
+    <div class="tracker" id="progressTracker"></div>
+
+    <h2>Civilization Feedback Loop</h2>
+    <div class="tracker" id="civTracker"></div>
+
+    <h2>Crew Roster</h2>
+    <div class="list" id="crewList"></div>
+
+    <h2>Mission Queue</h2>
+    <div class="list" id="missionList"></div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
   <script>
-    // Scene setup
+    // ---------- Scene ----------
     const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 2000);
     const renderer = new THREE.WebGLRenderer({ antialias: true });
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.setPixelRatio(window.devicePixelRatio);
     document.body.appendChild(renderer.domElement);
 
-    camera.position.z = 80;
+    camera.position.set(0, 110, 230);
+    camera.lookAt(0, 0, 0);
 
-    // Lighting
-    const ambient = new THREE.AmbientLight(0x112233, 0.6);
-    scene.add(ambient);
-    const pointLight = new THREE.PointLight(0x00ffff, 2, 200);
-    pointLight.position.set(0, 0, 50);
-    scene.add(pointLight);
+    scene.add(new THREE.AmbientLight(0x224466, 0.8));
+    const sunLight = new THREE.PointLight(0xffe8b0, 1.8, 2000);
+    scene.add(sunLight);
 
-    // Containment Sphere (wireframe)
-    let containment;
-    function createContainment() {
-      const geometry = new THREE.SphereGeometry(30, 32, 32);
-      const material = new THREE.MeshBasicMaterial({
-        color: 0x00ffff,
-        wireframe: true,
-        transparent: true,
-        opacity: 0.6
-      });
-      containment = new THREE.Mesh(geometry, material);
-      scene.add(containment);
+    // ---------- Solar system view ----------
+    const orbitGroup = new THREE.Group();
+    scene.add(orbitGroup);
+
+    function ring(radius, color = 0x223344) {
+      const curve = new THREE.EllipseCurve(0, 0, radius, radius, 0, 2 * Math.PI);
+      const points = curve.getPoints(120).map((p) => new THREE.Vector3(p.x, 0, p.y));
+      const g = new THREE.BufferGeometry().setFromPoints(points);
+      return new THREE.LineLoop(g, new THREE.LineBasicMaterial({ color, transparent: true, opacity: 0.55 }));
     }
-    createContainment();
 
-    // Gravifluid Particle System
-    let particles, particlePositions, particleVelocities, particleColors;
-    const particleCount = 8000;
+    const sun = new THREE.Mesh(new THREE.SphereGeometry(8, 24, 24), new THREE.MeshBasicMaterial({ color: 0xffcc55 }));
+    orbitGroup.add(sun);
 
-    function createParticles() {
-      const geometry = new THREE.BufferGeometry();
-      particlePositions = new Float32Array(particleCount * 3);
-      particleVelocities = new Float32Array(particleCount * 3);
-      particleColors = new Float32Array(particleCount * 3);
+    const bodies = {
+      earth: { radius: 42, color: 0x4b88ff, mesh: null, angle: 0.3, speed: 0.0045 },
+      moon: { radius: 55, color: 0xbfbfbf, mesh: null, angle: 0.2, speed: 0.0075 },
+      mars: { radius: 76, color: 0xd2694a, mesh: null, angle: 1.2, speed: 0.0036 },
+      asteroidBelt: { radius: 102, color: 0x9c8f75, mesh: null, angle: 0.7, speed: 0.0028 }
+    };
 
-      for (let i = 0; i < particleCount * 3; i += 3) {
-        // Start inside sphere, clustered near center
-        const radius = Math.random() * 8 + 2;
-        const theta = Math.random() * Math.PI * 2;
-        const phi = Math.acos(2 * Math.random() - 1);
-        particlePositions[i]     = radius * Math.sin(phi) * Math.cos(theta);
-        particlePositions[i + 1] = radius * Math.sin(phi) * Math.sin(theta);
-        particlePositions[i + 2] = radius * Math.cos(phi);
+    orbitGroup.add(ring(bodies.earth.radius));
+    orbitGroup.add(ring(bodies.moon.radius));
+    orbitGroup.add(ring(bodies.mars.radius));
+    orbitGroup.add(ring(bodies.asteroidBelt.radius));
 
-        particleVelocities[i] = (Math.random() - 0.5) * 0.2;
-        particleVelocities[i + 1] = (Math.random() - 0.5) * 0.2;
-        particleVelocities[i + 2] = (Math.random() - 0.5) * 0.2;
+    function makeBody(size, color) {
+      return new THREE.Mesh(new THREE.SphereGeometry(size, 18, 18), new THREE.MeshStandardMaterial({ color, emissive: color, emissiveIntensity: 0.2 }));
+    }
 
-        particleColors[i] = 0.2; particleColors[i+1] = 0.6; particleColors[i+2] = 1.0;
+    bodies.earth.mesh = makeBody(3.5, bodies.earth.color);
+    bodies.moon.mesh = makeBody(2.1, bodies.moon.color);
+    bodies.mars.mesh = makeBody(2.8, bodies.mars.color);
+    bodies.asteroidBelt.mesh = makeBody(3.0, bodies.asteroidBelt.color);
+
+    orbitGroup.add(bodies.earth.mesh, bodies.moon.mesh, bodies.mars.mesh, bodies.asteroidBelt.mesh);
+
+    function bodyPosition(def) {
+      return new THREE.Vector3(Math.cos(def.angle) * def.radius, 0, Math.sin(def.angle) * def.radius);
+    }
+
+    // ---------- Astronaut + Mission models ----------
+    class Astronaut {
+      constructor(name, skills = 45, health = 88) {
+        this.name = name;
+        this.skills = skills;
+        this.health = health;
+        this.assignedMissionId = null;
+        this.status = 'candidate';
       }
 
-      geometry.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
-      geometry.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
+      get available() {
+        return this.status !== 'retired' && this.assignedMissionId === null;
+      }
+    }
 
-      const material = new THREE.PointsMaterial({
-        size: 0.35,
-        vertexColors: true,
-        transparent: true,
-        opacity: 0.9,
-        blending: THREE.AdditiveBlending
+    class Mission {
+      constructor(type, destination, durationDays, risk, payloadKg) {
+        this.id = `M-${Math.floor(Math.random() * 90000 + 10000)}`;
+        this.type = type;
+        this.destination = destination;
+        this.durationDays = durationDays;
+        this.risk = risk;
+        this.payloadKg = payloadKg;
+        this.crew = [];
+        this.status = 'planned';
+        this.successProbability = 0;
+      }
+    }
+
+    class SpaceAgencyManager {
+      constructor() {
+        this.astronauts = [];
+      }
+
+      recruit() {
+        const id = this.astronauts.length + 1;
+        const skills = 30 + Math.random() * 30;
+        const health = 80 + Math.random() * 18;
+        const astro = new Astronaut(`AST-${String(id).padStart(3, '0')}`, Math.round(skills), Math.round(health));
+        this.astronauts.push(astro);
+        return astro;
+      }
+
+      train() {
+        this.astronauts.forEach((a) => {
+          if (a.status !== 'retired') {
+            a.skills = Math.min(100, a.skills + 5 + Math.random() * 6);
+            a.health = Math.max(50, a.health - Math.random() * 1.8);
+            if (a.status === 'candidate') a.status = 'trained';
+          }
+        });
+      }
+
+      assign(mission, crewSize = 3) {
+        const available = this.astronauts.filter((a) => a.available).sort((a, b) => b.skills - a.skills);
+        const selected = available.slice(0, crewSize);
+        selected.forEach((a) => {
+          a.assignedMissionId = mission.id;
+          a.status = 'assigned';
+        });
+        mission.crew = selected;
+        mission.status = selected.length ? 'assigned' : 'planned';
+        return selected;
+      }
+
+      retire() {
+        const veteran = this.astronauts
+          .filter((a) => a.status !== 'retired')
+          .sort((a, b) => b.skills - a.skills)[0];
+        if (!veteran) return null;
+        veteran.status = 'retired';
+        veteran.assignedMissionId = null;
+        return veteran;
+      }
+
+      activeCrew() {
+        return this.astronauts.filter((a) => a.assignedMissionId !== null && a.status !== 'retired').length;
+      }
+    }
+
+    const manager = new SpaceAgencyManager();
+
+    // ---------- Civilization state + missions ----------
+    const civ = {
+      science: 40,
+      tech: 62,
+      resources: 70,
+      confidence: 72,
+      mappedPercent: 7,
+      activeMissions: 0,
+      crewInSpace: 0
+    };
+
+    const missionDefinitions = {
+      orbital_station: { label: 'Orbital Station Mission', destination: 'earth', durationDays: 180, risk: 0.28, payloadKg: 8500, crewSize: 3 },
+      lunar_flyby_base: { label: 'Lunar Flyby/Base Mission', destination: 'moon', durationDays: 45, risk: 0.35, payloadKg: 12000, crewSize: 4 },
+      mars_transit_colony: { label: 'Mars Transit/Colony Support', destination: 'mars', durationDays: 420, risk: 0.58, payloadKg: 30000, crewSize: 5 },
+      asteroid_survey: { label: 'Asteroid Survey', destination: 'asteroidBelt', durationDays: 210, risk: 0.42, payloadKg: 6500, crewSize: 3 }
+    };
+
+    const missionQueue = [];
+    const activeMissionVisuals = [];
+
+    function computeMissionSuccessProbability(techLevel, crewSkill, reliability, missionRisk) {
+      const techFactor = techLevel / 100;
+      const crewFactor = crewSkill / 100;
+      const reliabilityFactor = reliability / 100;
+      const weighted = 0.4 * techFactor + 0.35 * crewFactor + 0.25 * reliabilityFactor;
+      return Math.max(0.05, Math.min(0.97, weighted * (1 - missionRisk * 0.82)));
+    }
+
+    function planMission(typeKey) {
+      const def = missionDefinitions[typeKey];
+      const mission = new Mission(typeKey, def.destination, def.durationDays, def.risk, def.payloadKg);
+      missionQueue.push(mission);
+      return mission;
+    }
+
+    function evaluateMission(mission) {
+      const crewSkill = mission.crew.length
+        ? mission.crew.reduce((sum, a) => sum + a.skills, 0) / mission.crew.length
+        : 25;
+      mission.successProbability = computeMissionSuccessProbability(civ.tech, crewSkill, reliability, mission.risk);
+      const success = Math.random() < mission.successProbability;
+
+      if (success) {
+        civ.science = Math.min(100, civ.science + 3 + mission.crew.length * 1.2);
+        civ.tech = Math.min(100, civ.tech + 2 + mission.risk * 8);
+        civ.mappedPercent = Math.min(100, civ.mappedPercent + 2 + mission.risk * 10);
+        civ.resources = Math.min(100, civ.resources + (mission.type === 'asteroid_survey' ? 4 : 1));
+        civ.confidence = Math.min(100, civ.confidence + 2.5);
+      } else {
+        civ.resources = Math.max(0, civ.resources - (4 + mission.risk * 10));
+        civ.confidence = Math.max(0, civ.confidence - (6 + mission.risk * 12));
+        civ.mappedPercent = Math.max(0, civ.mappedPercent - 0.4);
+      }
+
+      mission.crew.forEach((a) => {
+        if (a.status !== 'retired') {
+          a.health = Math.max(35, a.health - (success ? 3 : 11));
+          a.assignedMissionId = null;
+          a.status = a.health < 45 ? 'recovering' : 'trained';
+        }
       });
 
-      particles = new THREE.Points(geometry, material);
-      scene.add(particles);
+      return { success, crewSkill };
     }
-    createParticles();
 
-    // Controls
-    const thermalSlider = document.getElementById('thermal');
-    const pressureSlider = document.getElementById('pressure');
-    const thermalVal = document.getElementById('thermalVal');
-    const pressureVal = document.getElementById('pressureVal');
-    const triggerBtn = document.getElementById('triggerBtn');
-    const resetBtn = document.getElementById('resetBtn');
+    // ---------- Transfer arc visualization ----------
+    function createTransferArc(destinationKey) {
+      const earthPos = bodyPosition(bodies.earth);
+      const destinationPos = bodyPosition(bodies[destinationKey]);
+      const midpoint = earthPos.clone().lerp(destinationPos, 0.5);
+      midpoint.y += 14 + earthPos.distanceTo(destinationPos) * 0.08;
+
+      const curve = new THREE.QuadraticBezierCurve3(earthPos, midpoint, destinationPos);
+      const points = curve.getPoints(120);
+      const geometry = new THREE.BufferGeometry().setFromPoints(points);
+      const line = new THREE.Line(geometry, new THREE.LineBasicMaterial({ color: 0x33ffee, transparent: true, opacity: 0.9 }));
+
+      const craft = new THREE.Mesh(
+        new THREE.SphereGeometry(1.2, 10, 10),
+        new THREE.MeshBasicMaterial({ color: 0xffffff })
+      );
+
+      scene.add(line, craft);
+      return { line, craft, curve, t: 0 };
+    }
+
+    function launchNextMission() {
+      if (!missionQueue.length) return null;
+      const mission = missionQueue.shift();
+      const def = missionDefinitions[mission.type];
+      const assignedCrew = manager.assign(mission, def.crewSize);
+      if (!assignedCrew.length) {
+        mission.status = 'aborted';
+        status.textContent = `Status: Mission ${mission.id} aborted (no crew available).`;
+        return null;
+      }
+
+      mission.status = 'in_flight';
+      civ.activeMissions += 1;
+      civ.crewInSpace = manager.activeCrew();
+
+      const visual = createTransferArc(mission.destination);
+      activeMissionVisuals.push({ mission, visual });
+
+      status.textContent = `Status: ${def.label} launched (${mission.id}) with ${assignedCrew.length} crew.`;
+      return mission;
+    }
+
+    // ---------- UI ----------
+    const techSlider = document.getElementById('tech');
+    const reliabilitySlider = document.getElementById('reliability');
+    const techVal = document.getElementById('techVal');
+    const reliabilityVal = document.getElementById('reliabilityVal');
+    const missionType = document.getElementById('missionType');
     const status = document.getElementById('status');
 
-    let thermal = 0, pressure = 0;
-    let phase = 'null'; // null, compression, inflation, plasma, cooling
+    const recruitBtn = document.getElementById('recruitBtn');
+    const trainBtn = document.getElementById('trainBtn');
+    const assignBtn = document.getElementById('assignBtn');
+    const retireBtn = document.getElementById('retireBtn');
+    const planMissionBtn = document.getElementById('planMissionBtn');
+    const launchMissionBtn = document.getElementById('launchMissionBtn');
 
-    function updateUI() {
-      thermalVal.textContent = thermal;
-      pressureVal.textContent = pressure;
-      triggerBtn.disabled = !(thermal >= 99 && pressure >= 99);
+    const progressTracker = document.getElementById('progressTracker');
+    const civTracker = document.getElementById('civTracker');
+    const crewList = document.getElementById('crewList');
+    const missionList = document.getElementById('missionList');
+
+    let reliability = 58;
+
+    techSlider.addEventListener('input', () => {
+      civ.tech = Number(techSlider.value);
+      techVal.textContent = civ.tech;
+    });
+
+    reliabilitySlider.addEventListener('input', () => {
+      reliability = Number(reliabilitySlider.value);
+      reliabilityVal.textContent = reliability;
+    });
+
+    recruitBtn.addEventListener('click', () => {
+      const astro = manager.recruit();
+      status.textContent = `Status: Recruited ${astro.name} (skill ${astro.skills}, health ${astro.health}).`;
+    });
+
+    trainBtn.addEventListener('click', () => {
+      manager.train();
+      status.textContent = 'Status: Training pipeline advanced: candidates -> trained.';
+    });
+
+    assignBtn.addEventListener('click', () => {
+      if (!missionQueue.length) {
+        status.textContent = 'Status: No planned mission available for assignment.';
+        return;
+      }
+      const mission = missionQueue[0];
+      const def = missionDefinitions[mission.type];
+      const crew = manager.assign(mission, def.crewSize);
+      status.textContent = crew.length
+        ? `Status: Assigned ${crew.length} crew to ${mission.id}.`
+        : 'Status: Assignment failed (no available astronauts).';
+    });
+
+    retireBtn.addEventListener('click', () => {
+      const retired = manager.retire();
+      status.textContent = retired
+        ? `Status: ${retired.name} retired from active service.`
+        : 'Status: No astronaut available to retire.';
+    });
+
+    planMissionBtn.addEventListener('click', () => {
+      const mission = planMission(missionType.value);
+      const def = missionDefinitions[mission.type];
+      status.textContent = `Status: Planned ${def.label} (${mission.id}), destination ${mission.destination}.`;
+    });
+
+    launchMissionBtn.addEventListener('click', () => {
+      if (!launchNextMission()) {
+        status.textContent = missionQueue.length
+          ? status.textContent
+          : 'Status: Mission queue empty. Plan a mission first.';
+      }
+    });
+
+    function trackerRow(label, value) {
+      return `<div><strong>${label}:</strong> ${value}</div>`;
     }
 
-    thermalSlider.addEventListener('input', () => {
-      thermal = parseInt(thermalSlider.value);
-      updateUI();
-      updateParticles();
-    });
+    function renderUI() {
+      progressTracker.innerHTML = [
+        trackerRow('% Solar System Mapped', `${civ.mappedPercent.toFixed(1)}%`),
+        trackerRow('Active Missions', civ.activeMissions),
+        trackerRow('Crew In Space', civ.crewInSpace)
+      ].join('');
 
-    pressureSlider.addEventListener('input', () => {
-      pressure = parseInt(pressureSlider.value);
-      updateUI();
-      updateParticles();
-    });
+      civTracker.innerHTML = [
+        trackerRow('Science', civ.science.toFixed(1)),
+        trackerRow('Technology', civ.tech.toFixed(1)),
+        trackerRow('Resources', civ.resources.toFixed(1)),
+        trackerRow('Population Confidence', civ.confidence.toFixed(1))
+      ].join('');
 
-    function updateParticles() {
-      if (!particles) return;
-      const pos = particles.geometry.attributes.position.array;
-      const col = particles.geometry.attributes.color.array;
+      const roster = manager.astronauts.slice(0, 12).map((a) =>
+        `<div><span class="pill">${a.name}</span> skill ${a.skills.toFixed(0)} | health ${a.health.toFixed(0)} | ${a.status}${a.assignedMissionId ? ` -> ${a.assignedMissionId}` : ''}</div>`
+      );
+      crewList.innerHTML = roster.length ? roster.join('') : '<div>No crew recruited yet.</div>';
 
-      const turbulence = thermal / 30;
-      const compression = pressure / 120;
-
-      for (let i = 0; i < particleCount * 3; i += 3) {
-        // Compress toward center when pressure rises
-        pos[i]     *= (1 - compression * 0.015);
-        pos[i + 1] *= (1 - compression * 0.015);
-        pos[i + 2] *= (1 - compression * 0.015);
-
-        // Add turbulence
-        pos[i]     += (Math.random() - 0.5) * turbulence * 0.08;
-        pos[i + 1] += (Math.random() - 0.5) * turbulence * 0.08;
-        pos[i + 2] += (Math.random() - 0.5) * turbulence * 0.08;
-
-        // Brightness & color shift with energy
-        const brightness = 0.3 + thermal / 120;
-        col[i]     = 0.4 * brightness;
-        col[i + 1] = 0.7 * brightness;
-        col[i + 2] = 1.0 * brightness;
-      }
-      particles.geometry.attributes.position.needsUpdate = true;
-      particles.geometry.attributes.color.needsUpdate = true;
+      const queueRows = missionQueue.slice(0, 8).map((m) => {
+        const crewSkill = m.crew.length ? m.crew.reduce((s, a) => s + a.skills, 0) / m.crew.length : 0;
+        const p = computeMissionSuccessProbability(civ.tech, crewSkill || 30, reliability, m.risk);
+        return `<div><span class="pill">${m.id}</span> ${missionDefinitions[m.type].label}<br>dest ${m.destination} | duration ${m.durationDays}d | risk ${(m.risk*100).toFixed(0)}% | payload ${m.payloadKg}kg | P(success) ${(p*100).toFixed(1)}%</div>`;
+      });
+      missionList.innerHTML = queueRows.length ? queueRows.join('') : '<div>No missions planned.</div>';
     }
 
-    // Trigger Genesis Cascade
-    triggerBtn.addEventListener('click', () => {
-      if (phase !== 'null') return;
-      phase = 'inflation';
-      status.textContent = 'Phase: INFLATION';
-      status.style.color = '#ff0';
+    // Seed initial team and mission queue
+    for (let i = 0; i < 6; i++) manager.recruit();
+    manager.train();
+    planMission('orbital_station');
+    planMission('lunar_flyby_base');
 
-      // Shatter containment
-      if (containment) {
-        containment.material.opacity = 0.1;
-        setTimeout(() => { if (containment) scene.remove(containment); }, 800);
-      }
-
-      // Violent explosion
-      const pos = particles.geometry.attributes.position.array;
-      for (let i = 0; i < particleCount * 3; i += 3) {
-        const speed = 0.8 + Math.random() * 1.2;
-        particleVelocities[i]     = pos[i] * speed / 25;
-        particleVelocities[i + 1] = pos[i + 1] * speed / 25;
-        particleVelocities[i + 2] = pos[i + 2] * speed / 25;
-      }
-
-      setTimeout(() => {
-        phase = 'plasma';
-        status.textContent = 'Phase: Primordial Plasma';
-        status.style.color = '#f80';
-      }, 1200);
-
-      setTimeout(() => {
-        phase = 'cooling';
-        status.textContent = 'Phase: Nucleosynthesis';
-        status.style.color = '#0f0';
-      }, 3500);
-    });
-
-    resetBtn.addEventListener('click', () => {
-      location.reload(); // Simple full reset
-    });
-
-    // Animation loop
-    let time = 0;
+    // ---------- Animation ----------
     function animate() {
       requestAnimationFrame(animate);
-      time += 0.016;
 
-      if (particles) {
-        const pos = particles.geometry.attributes.position.array;
+      // Planet motion
+      Object.values(bodies).forEach((b) => {
+        b.angle += b.speed;
+        const p = bodyPosition(b);
+        b.mesh.position.copy(p);
+      });
 
-        if (phase === 'inflation' || phase === 'plasma' || phase === 'cooling') {
-          for (let i = 0; i < particleCount * 3; i += 3) {
-            pos[i]     += particleVelocities[i];
-            pos[i + 1] += particleVelocities[i + 1];
-            pos[i + 2] += particleVelocities[i + 2];
+      // Animated transfer arcs and mission resolution
+      for (let i = activeMissionVisuals.length - 1; i >= 0; i--) {
+        const item = activeMissionVisuals[i];
+        item.visual.t += 0.0025 + item.mission.risk * 0.0018;
 
-            // Slow down in cooling phase
-            if (phase === 'cooling') {
-              particleVelocities[i]     *= 0.985;
-              particleVelocities[i + 1] *= 0.985;
-              particleVelocities[i + 2] *= 0.985;
-            }
-          }
-          particles.geometry.attributes.position.needsUpdate = true;
-        } else {
-          // Gentle undulation in confinement
-          for (let i = 0; i < particleCount * 3; i += 3) {
-            pos[i + 1] += Math.sin(time * 2 + i) * 0.008;
-          }
-          particles.geometry.attributes.position.needsUpdate = true;
+        const t = Math.min(1, item.visual.t);
+        const point = item.visual.curve.getPoint(t);
+        item.visual.craft.position.copy(point);
+
+        if (t >= 1) {
+          const result = evaluateMission(item.mission);
+          civ.activeMissions = Math.max(0, civ.activeMissions - 1);
+          civ.crewInSpace = manager.activeCrew();
+
+          const label = missionDefinitions[item.mission.type].label;
+          status.textContent = result.success
+            ? `Outcome: ${label} (${item.mission.id}) succeeded. +Science/+Tech boost delivered.`
+            : `Outcome: ${label} (${item.mission.id}) failed. Confidence/resources impacted.`;
+
+          item.mission.status = result.success ? 'success' : 'failure';
+          scene.remove(item.visual.line);
+          scene.remove(item.visual.craft);
+          activeMissionVisuals.splice(i, 1);
         }
       }
 
-      // Slow rotation
-      if (containment) containment.rotation.y = time * 0.1;
-
+      orbitGroup.rotation.y += 0.0012;
+      renderUI();
       renderer.render(scene, camera);
     }
     animate();
 
-    // Resize handler
     window.addEventListener('resize', () => {
       camera.aspect = window.innerWidth / window.innerHeight;
       camera.updateProjectionMatrix();
