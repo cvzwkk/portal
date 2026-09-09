@@ -672,7 +672,8 @@
   - [Ultra-Terrestrials](/assets/docs/knowledges/theories/UltraTerrestrials/readme.md)
   - [ChaosLess-Vacuum](/assets/docs/knowledges/theories/LessChaosVacuum/readme.md)
   - [Mirror Singularity - Multiverses,Big Bounces](/assets/docs/knowledges/theories/MirrorSingularity/readme.md)
-  - [Gravifluids](/assets/docs/knowledges/theories/Gravifluid/readme.md)  
+  - [Gravifluids](/assets/docs/knowledges/theories/Gravifluid/readme.md)
+  - [Destined Entropy](/assets/docs/knowledges/theories/destined-entropy/readme.md)
 
   - My Stuff Of Thought's:
     - [Non-Quantum States as "Eternal" Information Storage](/assets/docs/knowledges/theories/my-Stuff/non-quantum-as-storage/readme.md)     
@@ -681,7 +682,8 @@
     - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
     - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)
     - [New Internet, From Proximity to Planetary Scales](/assets/docs/knowledges/theories/my-Stuff/NewInternet/readme.md)
-    - [Earth Wipe - 0101](/assets/docs/knowledges/theories/my-Stuff/earth-wipe/1.md)    
+    - [Earth Wipe - 0101](/assets/docs/knowledges/theories/my-Stuff/earth-wipe/1.md)
+    - [Destined Entropy](/assets/docs/artificial-inteligence/AGI/part1/readme.md)
    
     - My books:   
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
