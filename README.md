@@ -595,7 +595,10 @@
     - [Anti Vacuum](/assets/docs/universe/space/knowledges/vacuum/theory/anti-vacuum/readme.md)   
      
   - Equations:    
-    - [Cauchy Shwarz - Inequality](/assets/docs/knowledges/fields/equations/CauchySchwarz/readme.md)   
+    - [Cauchy Shwarz - Inequality](/assets/docs/knowledges/fields/equations/CauchySchwarz/readme.md)     
+
+  - Technology:
+    - Computer: [Agent Coding](/assets/docs/knowledges/Computer/agent/skill1/readme.md) 
     
 ---
   
