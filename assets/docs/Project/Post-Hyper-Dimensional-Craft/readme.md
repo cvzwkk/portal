@@ -80,4 +80,10 @@ Materials Of Study:
 
 - Also are required all contents included in our portal but the themes described above are the primordial synthesis of blueprint and structure
   - [Portal](/README.md)   
-  
+
+----
+
+To the ultimate goal is required step by step, starting from biological,post-biological, synthetic, post-synthetic, cybernetic, post-cybernetic.
+
+The Environment is physical and environmentaly madded by matter/energy  
+but host organic life, and to the travel comfort the consciousness travel is needed also, like you dream hour to make the time travel until desired target of next stage mission.
