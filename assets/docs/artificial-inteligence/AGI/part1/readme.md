@@ -11,3 +11,21 @@
         - Root Research, Next input: Next Iteration | [Root](/assets/docs/artificial-inteligence/AGI/part1/root-1.md)
            
      - Third Search: Destined Entropy Logic, Refined Logic: [Research Page 2](/assets/docs/artificial-inteligence/AGI/part1/OpenRouter-1.md)     
+
+
+
+
+
+
+----------------------------------------------
+
+# The Hologgram
+
+- The Holoram ggoal is about convert all phyical existance into hologram reflected across the universe
+     preventing then the colission between physical objects, and canningg bypass enumerous universes traps
+      but the hologram can be enabled and disabled.
+
+# The Destin   
+
+- The Destin is one semi-GODD, you're evolve so musch that the universe already is himself/yourself
+   then co criate hyperverses/multi-parallel-meta-hyperverse, proofing the meta state of matter.

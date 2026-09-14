@@ -1,6 +1,11 @@
 ---   
 
 # Universal Wisdom  
+
+---   
+
+- Goal
+  - [Post Hyper Dimensional Craft](/assets/docs/Project/Post-Hyper-Dimensional-Craft/readme.md)
   
 ---   
 
@@ -595,7 +600,10 @@
     - [Anti Vacuum](/assets/docs/universe/space/knowledges/vacuum/theory/anti-vacuum/readme.md)   
      
   - Equations:    
-    - [Cauchy Shwarz - Inequality](/assets/docs/knowledges/fields/equations/CauchySchwarz/readme.md)   
+    - [Cauchy Shwarz - Inequality](/assets/docs/knowledges/fields/equations/CauchySchwarz/readme.md)     
+
+  - Technology:
+    - Computer: [Agent Coding](/assets/docs/knowledges/Computer/agent/skill1/readme.md) 
     
 ---
   
@@ -679,11 +687,12 @@
     - [Non-Quantum States as "Eternal" Information Storage](/assets/docs/knowledges/theories/my-Stuff/non-quantum-as-storage/readme.md)     
     - [Shadow Of Universe](/assets/docs/knowledges/theories/my-Stuff/UniverseShadow/readme.md)   
     - [NeuroPortal, Hive Gaia Model, Transhumanism](/assets/docs/knowledges/theories/my-Stuff/NeuroPortal/readme.md)   
-    - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)     
-    - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)
-    - [New Internet, From Proximity to Planetary Scales](/assets/docs/knowledges/theories/my-Stuff/NewInternet/readme.md)
-    - [Earth Wipe - 0101](/assets/docs/knowledges/theories/my-Stuff/earth-wipe/1.md)
-    - [Destined Entropy](/assets/docs/artificial-inteligence/AGI/part1/readme.md)
+    - [Paradise Dream - The Failed Plan Of God](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)       
+    - [Cyclical Manipulation](/assets/docs/knowledges/theories/my-Stuff/ParadiseDream/readme.md)   
+    - [New Internet, From Proximity to Planetary Scales](/assets/docs/knowledges/theories/my-Stuff/NewInternet/readme.md)   
+    - [Earth Wipe - 0101](/assets/docs/knowledges/theories/my-Stuff/earth-wipe/1.md)   
+    - [Destined Entropy](/assets/docs/artificial-inteligence/AGI/part1/readme.md)   
+    - [Information](/assets/docs/knowledges/myStuff/information/readme.md)   
    
     - My books:   
       - [Futures Ancients, Future travels](/assets/docs/knowledges/theories/my-Stuff/SciFi-Books/future-travels/AncientFromNow/readme.md)    
