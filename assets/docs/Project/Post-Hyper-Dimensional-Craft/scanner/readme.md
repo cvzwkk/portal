@@ -226,8 +226,7 @@ So the scanner should output:
 
 $$
 \boxed{
-\text{History reconstruction}
-=
+\text{History reconstruction} =
 \text{evidence}+\text{model}+\text{uncertainty}
 }
 $$
