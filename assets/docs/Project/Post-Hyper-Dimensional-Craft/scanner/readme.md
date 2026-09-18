@@ -108,9 +108,9 @@ $$
 S_{\text{out}} = \mathcal{F}_{X}(S_{\text{in}})
 $$
 
-where \(\mathcal{F}_{X}\) represents the physical transformation produced by whatever the scanner encounters.
+where $$\(\mathcal{F}_{X}\)$$ represents the physical transformation produced by whatever the scanner encounters.
 
-The craft measures \(S_{\text{out}}\) and performs **inverse reconstruction**.
+The craft measures $$\(S_{\text{out}}\)$$ and performs **inverse reconstruction**.
 
 ---
 
@@ -134,9 +134,9 @@ $$
 
 where:
 
-* \(X\) = hypothesized state of the object
-* \(\mathcal{D}\) = collected observations
-* \(P(X|\mathcal{D})\) = probability that \(X\) explains the observations
+* $$\(X\)$$ = hypothesized state of the object
+* $$\(\mathcal{D}\)$$ = collected observations
+* $$\(P(X|\mathcal{D})\)$$ = probability that $$\(X\)$$ explains the observations
 
 The scanner therefore becomes an enormous **inverse-problem solver**.
 
@@ -295,7 +295,7 @@ $$
 \hat X \approx X
 $$
 
-where \(\hat X\) is the reconstructed model.
+where $$\(\hat X\)$$ is the reconstructed model.
 
 But there are several levels:
 
@@ -339,7 +339,7 @@ $$
 \boxed{\text{information cannot arrive faster than the causal propagation limit}}
 $$
 
-So if the craft is \(100\) AU from something, it cannot instantly know its current state through ordinary signals.
+So if the craft is $$\(100\)$$ AU from something, it cannot instantly know its current state through ordinary signals.
 
 It receives information from the object's **past light cone**.
 
@@ -436,11 +436,11 @@ $$
 
 where:
 
-* \(\mathcal{V}\) = surrounding volume
-* \(\mathcal{D}\) = measured data
-* \(\mathcal{R}\) = reconstructed present state
-* \(\mathcal{H}\) = constrained historical reconstruction
-* \(\mathcal{F}\) = future reachable-state manifold
+* $$\(\mathcal{V}\)$$ = surrounding volume
+* $$\(\mathcal{D}\)$$ = measured data
+* $$\(\mathcal{R}\)$$ = reconstructed present state
+* $$\(\mathcal{H}\)$$ = constrained historical reconstruction
+* $$\(\mathcal{F}\)$$ = future reachable-state manifold
 
 And the ultimate output for every detected entity would be something like:
 
