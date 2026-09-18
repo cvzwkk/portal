@@ -372,23 +372,15 @@ Your last requirement — detecting something **non-atomic but existent** — ca
 Define an observation space:
 
 $$
-\mathcal{O}
-=
-\{
-E,B,\rho,J,\psi,\Phi,\ldots
-\}
+\mathcal{O} =
+\{E,B,\rho,J,\psi,\Phi,\ldots\}
 $$
 
 where the scanner searches for deviations that cannot be explained by known models.
 
 Then:
 
-$$
-\Delta =
-D_{\text{observed}}
--
-D_{\text{standard model}}
-$$
+$$\Delta = D_{\text{observed}} - D_{\text{standard model}}$$
 
 If
 
