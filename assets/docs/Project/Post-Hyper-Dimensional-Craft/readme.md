@@ -93,4 +93,5 @@ but host organic life, and to the travel comfort the consciousness travel is nee
 Elements:   
  - [OmniDirectional Information Scanner](/assets/docs/Project/Post-Hyper-Dimensional-Craft/scanner/readme.md)
    - The Function is scan the matter/existance data to possible reconstruct it in one future or further event, canning develop one entire universe
-   - [Mining Unknown](/assets/docs/Project/Post-Hyper-Dimensional-Craft/scanner/UnknownMining/readme.md)     
+   - [Mining Unknown](/assets/docs/Project/Post-Hyper-Dimensional-Craft/scanner/UnknownMining/readme.md)
+ - [Navigation, Gravitational Attraction, Informational Directional](/assets/docs/Project/Post-Hyper-Dimensional-Craft/navigation/gravity/scenaries/1/readme.md)    
