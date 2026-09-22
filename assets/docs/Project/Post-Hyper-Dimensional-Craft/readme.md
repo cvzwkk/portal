@@ -82,15 +82,16 @@ Materials Of Study:
 
 
 -----   
-
-- Principles:
+  
+- Principles:  
    - Reality:   
       - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md)   
    - Informational:   
       - [Informational Filter](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/information-filter/readme.md)   
-   - Unknowned State:
+      - [Informational Balance,Measure (Weight/Value)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/informational-balance/readme.md)   
+   - Unknowned State:   
       - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)   
-
+   
 ----- 
 
 - Also are required all contents included in our portal but the themes described above are the primordial synthesis of blueprint and structure
