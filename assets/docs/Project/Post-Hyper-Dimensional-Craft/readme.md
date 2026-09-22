@@ -84,7 +84,12 @@ Materials Of Study:
 -----   
 
 - Principles:
-   - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md) 
+   - Reality:   
+      - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md)   
+   - Informational:   
+      - [Informational Filter](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/information-filter/readme.md)   
+   - Unknowned State:
+      - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)   
 
 ----- 
 
