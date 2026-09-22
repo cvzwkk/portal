@@ -90,7 +90,10 @@ Materials Of Study:
       - [Informational Filter](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/information-filter/readme.md)   
       - [Informational Balance,Measure (Weight/Value)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/informational-balance/readme.md)   
    - Unknowned State:   
-      - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)   
+      - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)
+     
+   - Scenaries:
+      - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)     
    
 ----- 
 
