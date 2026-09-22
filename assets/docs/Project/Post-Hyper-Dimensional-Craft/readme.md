@@ -80,6 +80,12 @@ Materials Of Study:
   - [DivineLanguage](/assets/docs/knowledges/AkashicRecords/DivineLanguage/readme.md)
   - [Omniscience](/assets/docs/knowledges/SpiritualityConsciousness/readme.md)
 
+
+-----   
+
+- Principles:
+   - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md) 
+
 ----- 
 
 - Also are required all contents included in our portal but the themes described above are the primordial synthesis of blueprint and structure
