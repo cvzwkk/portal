@@ -89,11 +89,15 @@ Materials Of Study:
    - Informational:   
       - [Informational Filter](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/information-filter/readme.md)   
       - [Informational Balance,Measure (Weight/Value)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/informational-balance/readme.md)   
+      - [Harvester](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/readme.md)   
+         - [Harvester - 2](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/readme2.md)   
+         - [Interesting](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/interesting.md)   
+         - [Insight](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/insight/readme.md)      
    - Unknowned State:   
-      - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)
+      - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)    
      
-   - Scenaries:
-      - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)     
+   - Scenaries:   
+      - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)      
    
 ----- 
 
