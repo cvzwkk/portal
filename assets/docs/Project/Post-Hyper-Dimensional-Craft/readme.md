@@ -92,7 +92,13 @@ Materials Of Study:
       - [Harvester](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/readme.md)   
          - [Harvester - 2](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/readme2.md)   
          - [Interesting](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/interesting.md)   
-         - [Insight](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/insight/readme.md)      
+         - [Insight](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/Informational/harvester/insight/readme.md)
+       
+   - [Invisible Synthetic](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/synthetic/Invisible-Synthetic/readme.md)
+      *   [**The Mathematics of the Knot** (How do we make the "Soul" stable?)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/synthetic/Invisible-Synthetic/Mathematics-Of-Knots/readme.md)    
+      *   [**The Physics of the Cavity** (How do we build the "Womb"?)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/synthetic/Invisible-Synthetic/Physics-Of-The-Cavity/readme.md)   
+      *   [**The Interaction Protocol** (How does it "touch" the physical world?)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Principles/synthetic/Invisible-Synthetic/Interaction-Protocol/readme.md)   
+   
    - Unknowned State:   
       - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)    
      
