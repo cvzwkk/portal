@@ -106,7 +106,7 @@ Materials Of Study:
       - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)
     
    - History:
-      - [The New Gensis](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Histories/HumanSeed/readme.md)
+      - [The New Genesis](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Histories/HumanSeed/readme.md)
     
    - BluePrints   
       - Genesis Printer:   
