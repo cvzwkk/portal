@@ -103,7 +103,10 @@ Materials Of Study:
       - [Unknowned State](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/unknown-state/post-meta-state/readme.md)    
      
    - Scenaries:   
-      - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)      
+      - [Colision / Navigation Scheme](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/Scenaries/Navigation/1/readme.md)
+    
+   - History:
+      - [The New Gensis](/assets/docs/Project/Post-Hyper-Dimensional-Craft/Histories/HumanSeed/readme.md)       
    
 ----- 
 
