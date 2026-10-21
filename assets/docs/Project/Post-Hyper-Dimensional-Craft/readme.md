@@ -82,10 +82,15 @@ Materials Of Study:
 
 
 -----   
+
+- Machine:
+   - [Synthetic Qubits](/assets/docs/Project/Post-Hyper-Dimensional-Craft/machines/synthetic-qubits/readme.md)     
   
 - Principles:  
    - Reality:   
-      - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md)   
+      - [Bypassing the Destruction of Reality](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/bypass/destructive/readme.md)
+   - [Continuity:](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/continuity/readme.md)
+     
    - Informational:   
       - [Informational Filter](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/information-filter/readme.md)   
       - [Informational Balance,Measure (Weight/Value)](/assets/docs/Project/Post-Hyper-Dimensional-Craft/principles/informational/informational-balance/readme.md)   
