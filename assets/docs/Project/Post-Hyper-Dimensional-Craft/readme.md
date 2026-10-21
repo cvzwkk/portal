@@ -82,6 +82,9 @@ Materials Of Study:
 
 
 -----   
+
+- Machine:
+   - [Synthetic Qubits](/assets/docs/Project/Post-Hyper-Dimensional-Craft/machines/synthetic-qubits/readme.md)     
   
 - Principles:  
    - Reality:   
