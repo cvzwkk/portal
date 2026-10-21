@@ -4,18 +4,21 @@
 
 # The Continuity Principle   
 
-- The Continuity principle, is the primordial principle to the immortality recipe, and the ultimato of humanity creation.
-  the infinity of reality persistance, where the humanity create many existential types of realities, being all encoded in the most different many types of existential sources.
-    the biological principle, create the biological nature that grounded the humanity root, and the humanity create the digital principle of digital reality, persisting the data and information in the digital encoding system
+- The Continuity principle, is the primordial principle to the immortality recipe, and the ultimato of humanity creation.   
+  the infinity of reality persistance, where the humanity create many existential types of realities, being all encoded in the most different many types of existential sources.   
+    the biological principle, create the biological nature that grounded the humanity root, and the humanity create the digital principle of digital reality, persisting the data and information in the digital encoding system    
     the digital encoding system, became originator of many possibilities to store data and create new realities and compact,merge in many types of existential forms possibles
+         
     1 - Digital Middle - The Chips/Datasets/harddrives/machines/computers that persist digital reality across, hardwares,softwares,firmwares and distributed networks.
-    2 - Frequential Middle - The Frequential field that transmit/receive/persist/store/share/encode, realities and datas that are shared,spreaded across the frequential matriz of global electromagnetic field, such as satellites that distribute internet and provide information and reality structure
-      2.1 - The Frequential Middle is the next generation mean of persist the natural reality across many divergences and occurrences above earth surface;
-        e.g: we make one giant backup of humanity and datas referent the natural reality of humanity, and persist it across the frequential transmission of satellites network and more frequential generators,sources persisting all humanity data and natural reality
+       
+    2 - Frequential Middle - The Frequential field that transmit/receive/persist/store/share/encode, realities and datas that are shared,spreaded across the frequential matriz of global electromagnetic field, such as satellites that distribute internet and provide information and reality structure   
+      2.1 - The Frequential Middle is the next generation mean of persist the natural reality across many divergences and occurrences above earth surface;   
+        e.g: we make one giant backup of humanity and datas referent the natural reality of humanity, and persist it across the frequential transmission of satellites network and more frequential generators,sources persisting all humanity data and natural reality    
               it lead the matrix foundation, that we can use our perception/cognition/self-awareness to experenciate the physical world through "digital mean" exploring all human senses, of touch,sense,emotion,delight,reasoning,decision-making,etc...
-    3 - Wave form middle - The wave form middle operate like the frequential middle but here the reality and data referent the reality is persisted across the wave forms and types, encoded in wave packets across the universe as one humanity echo persisting the continuity of existance and reality
-      3.1 - It will create the continuity of reality preventing that all destructive interferences of natural cycle of existance destruct the reality encoded in the environment, while exist the gravitational wave,vibrational wave,frequential wave, and more wave types and patterns the encoded reality will persist.
-
+        
+    3 - Wave form middle - The wave form middle operate like the frequential middle but here the reality and data referent the reality is persisted across the wave forms and types, encoded in wave packets across the universe as one humanity echo persisting the continuity of existance and reality   
+      3.1 - It will create the continuity of reality preventing that all destructive interferences of natural cycle of existance destruct the reality encoded in the environment, while exist the gravitational wave,vibrational wave,frequential wave, and more wave types and patterns the encoded reality will persist.   
+     
 ---   
 
 - ChatGPT Research:
